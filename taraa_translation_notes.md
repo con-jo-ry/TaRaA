@@ -18,11 +18,11 @@ Here, by saying that he is one 'whose nature incomparable bliss', his perfection
 Employing seven divisions thronging with the teachings of various [teachers], I undertake the present effort to bring about clear understanding to those who indeed do not know the nature, devoid of [expression through] clear words, of the beautiful fourth consecration belonging to the glorious Way of Mantra.
 
 ## Commentary
-The words 'glorious Way of Mantra', although they can express the common *yogatantra*s, [here] refer to the glorious *[Guhya]samāja*, since the meaning/content of the fourth [initiation] does not appear elsewhere. The rest one can easily understand. \[I undertake the present effort] by employing seven divisions (*bheda* = *prakāra*) thronging (*saṃkula* = *vyākula*) with many (*gaṇa*) teachings of various teachers—i.e., they bring together a collection (*rāśi*) of teachings by teachers of the past, present, and future. \[I do so] `to bring about clear understanding', i.e. for the sake of easily (*sukhena*) comprehending clearly.
+The words 'glorious Way of Mantra', although they can express the *yogatantra*s in general, [here] refer to the glorious *[Guhya]samāja*, since the meaning/content of the fourth [initiation] does not appear elsewhere. The rest one can easily understand. \[I undertake the present effort] by employing seven divisions (*bheda* = *prakāra*) full of/thronging/crowded with (*saṃkula* = *vyākula*) with many (*gaṇa*) teachings of various teachers—i.e., they bring together (*saṃgrāhaka*) a collection (*rāśi*) of teachings (*upadeśa*) understood (*gata*) by teachers of the past, present, and future. \[I do so] `to bring about clear understanding', i.e. for the sake of easily (*sukhena*) comprehending clearly.
 
 # Verse 3
 ## Mūla
-All (*nikhila*) non-Buddhist philosophers (*tīrthya*) have completely mistaken (*sambhrānta*) ideas (*bodha*) regarding the realisation of the nature (*rūpa*) of reality and the goal. People say that say that the best among them are the Vedāntins, supposedly (*kila*) knowers of reality.
+All (*nikhila*) non-Buddhist philosophers (*tīrthya*) indeed (*hi*) have completely mistaken (*sambhrānta*) ideas (*bodha*) regarding the realisation of the nature (*rūpa*) of reality and the goal. People say that say that the best among them are the Vedāntins, supposedly (*kila*) knowers of reality.
 
 ## Commentary
 Non-Buddhist philosophers are [here] called those whose ideas (*bodha*), i.e. particular insights, are completely mistaken (*sambhrānta* = *vibhrānta*).
