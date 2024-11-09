@@ -33,7 +33,7 @@ The remainder is easy to understand.
 \[Objection:] But insofar as reality and the goal are both to be adopted (*upādeya*), reality and the goal have the same nature.
 So how are they taught (*nirdeśa*) separately (*bhedena*)?
 This is not true.
-For, even though it is to be adopted, reality pervades of the entirety (saṃdoha) of all appearances, be they pleasant, painful, neutral, or otherwise. 
+For, even though it is to be adopted, reality pervades of the entirety (saṃdoha) of all appearances, be they pleasant, painful, neutral, or otherwise.
 And the goal, is the fruit, characterised by one's wish, by casting off what is not desired. 
 Even though it is to be adopted, it is surely by means of exclusion of what is not the goal that it is desired as to be accomplished by all sentient beings.
 Thus there is no fault.
