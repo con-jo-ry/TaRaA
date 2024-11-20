@@ -4,6 +4,7 @@
 \usepackage{microtype}
 \usepackage[pdfusetitle,hidelinks]{hyperref}
 \usepackage{setspace}
+\usepackage{embrac}
 
 \setlength\parindent{0pt}
 
@@ -37,6 +38,10 @@
 \XeTeXcharclass `\; = \noextraclass
 \XeTeXcharclass `\: = \noextraclass
 
+% Do not italicise / and |
+\AddOpEmph{|}
+\AddOpEmph{/}
+
 % Remove the extra space between Sanskrit text and ? or !
 \XeTeXinterchartoks 0 \noextraclass = {\nobreak}
 \XeTeXinterchartoks \noextraclass 0 = {\nobreak}
@@ -60,7 +65,6 @@
 \newcommand{\corr} {\emph{corr.}}
 \newcommand{\diag} {\emph{diag.\ conj.}}
 \newcommand{\possibleemd} {\emph{possible em.}}
-\newcommand{\possibleconj} {\emph{possible conj.}}
 
 \section{Sigla and Abbreviations}
 \noindent TaRaA = Tattvaratnāvaloka\\
@@ -89,7 +93,7 @@
 		Scribal homage
 	}
 	
-	[\TM\ fol.\ 203r] / /rgya gar skad du/ tattv'a ratna a'a lo ka/ bod skad du/ de kho na nyid rin po che snang ba/ bcom ldan 'das 'jam pa'i rdo rje la phyag 'tshal lo/ /
+	[\TM\ fol.\ 203r]  || rgya gar skad du | tattv'a ratna a'a lo ka | bod skad du | de kho na nyid rin po che snang ba | bcom ldan 'das 'jam pa'i rdo rje la phyag 'tshal lo || 
 
 	anupamasukharūpī śrīnivāso 'nivāso \\
 	nirupamadaśadevīrūpavidyaḥ\footnoteB{
@@ -103,10 +107,10 @@
 	
 	So long as there are opportunities for hopes/spaces, the Lotus Hand reigns supreme\emdash he whose nature incomparable bliss, who is an abode of riches, who is without any abode, whose consorts are the incomparable ten goddesses, who is accompanied by his consort, who brings about the attainment of bliss that has benefit for the three worlds, and who is without degeneration.
 	
-	dpe med bde ba'i ngo bo dpal gyi gnas gyur gnas 'dren pa/ /\\
-	dpe med lha mo bcu yi ngo bo rig dang rig par bcas/ /\\
-	srid pa gsum phan bde ba thob mdzad 'gyur min 'gyur ba med/ /\\
-	ji srid re ba snang bar phyag na padma rgyal gyur cig /
+	dpe med bde ba'i ngo bo dpal gyi gnas gyur gnas 'dren pa || \\
+	dpe med lha mo bcu yi ngo bo rig dang rig par bcas || \\
+	srid pa gsum phan bde ba thob mdzad 'gyur min 'gyur ba med || \\
+	ji srid re ba snang bar phyag na padma rgyal gyur cig  |
 \end{quote}
 
 \subsubsection{Commentary}
@@ -115,10 +119,10 @@
 }\\
 
 \textbf{\TVA}\\
-{[}\TVA\ fol.\ 204r{]}/ /rgya gar skad du/ tattv'a ratna a'a lo ka by'a khy'a na/ bod skad du/ de kho na nyid rin po che snang ba'i rnam par bshad pa/ bcom ldan 'das gsung gi dbang phyug la phyag 'tshal lo/ /'od dpag med pa rin chen gyis/ /'od kyis spyi gtsug mdzes pa yi/ /'jig rten dbang la phyag 'tshal lo/ /bzhi pa'i snang bar rab bshad bya/ /\\
+{[}\TVA\ fol.\ 204r{]} || rgya gar skad du | tattv'a ratna a'a lo ka by'a khy'a na | bod skad du | de kho na nyid rin po che snang ba'i rnam par bshad pa | bcom ldan 'das gsung gi dbang phyug la phyag 'tshal lo || 'od dpag med pa rin chen gyis || 'od kyis spyi gtsug mdzes pa yi || 'jig rten dbang la phyag 'tshal lo || bzhi pa'i snang bar rab bshad bya || \\
 
 \textbf{\TVB}\\
-{[}\TVB\ fol.\ 70v{]} rgya gar skad du/ tad ta rad na ā lo ka bya khya na/ bod skad du/ de kho na nyid rin po che snang ba'i rnam par bshad pa/ bcom ldan 'das gsung gi dbang phyug la phyag 'tshal lo/\\
+{[}\TVB\ fol.\ 70v{]} rgya gar skad du | tad ta rad na ā lo ka bya khya na | bod skad du | de kho na nyid rin po che snang ba'i rnam par bshad pa | bcom ldan 'das gsung gi dbang phyug la phyag 'tshal lo |\\
 
 anupametyādi.
 kamalaṃ padmaṃ pāṇau yasya sa kamalapāṇir avalokiteśvaro bhagavāñ jayatīti sambandhaḥ.
@@ -136,10 +140,10 @@ dharmakāyarūpitvena\footnoteB{
 } sarvagatatvāt [\EDD\ p.\ 132] pratiniyatanivāsābhāvād anivāsaḥ.\\
 
 \textbf{\TVA}\\
-dpe med ces bya ba la sogs pa la gang gi phyag na padma bsnams pa de ni phyag na padma ste/ bcom ldan 'das spyan ras gzigs dbang phyug yin la/ de rgyal bar gyur cig ces bya bar sbyar ro/ /khyad par ji lta bu zhig dang ldan zhe na/ dpe med ces bya ba la sogs pa smos te/ dpe med pa ni shin tu gya nom ba nyid dang/ rgya che ba nyid dang/ 'khor ba'i mtha'i [\TVA\ fol.\ 204v] bar du gnas pa'i mtshan nyid kyi chos dang ldan pa ste/ gzhan dag la de med pa'i phyir ro/ /gang gis rang bzhin bde ba nyid kyi ngo bo dpe dang bral bar gyur pa de la de skad ces bya'o/ /gzhan yang khyad par ji lta bu zhig dang ldan zhe na/ dpal de bsod nams dang ye shes kyi tshogs kyi mtshan nyid yin la/ de'i gnas ni gzhir gyur pa gang yin pa de la de skad ces bya'o/ /chos kyi sku'i ngo bo nyid kyis kun du 'gro ba nyid yin pa'i phyir/ so sor nges pa'i gnas med pas na gnas med pa'o/ /\\
+dpe med ces bya ba la sogs pa la gang gi phyag na padma bsnams pa de ni phyag na padma ste | bcom ldan 'das spyan ras gzigs dbang phyug yin la | de rgyal bar gyur cig ces bya bar sbyar ro || khyad par ji lta bu zhig dang ldan zhe na | dpe med ces bya ba la sogs pa smos te | dpe med pa ni shin tu gya nom ba nyid dang | rgya che ba nyid dang | 'khor ba'i mtha'i [\TVA\ fol.\ 204v] bar du gnas pa'i mtshan nyid kyi chos dang ldan pa ste | gzhan dag la de med pa'i phyir ro || gang gis rang bzhin bde ba nyid kyi ngo bo dpe dang bral bar gyur pa de la de skad ces bya'o || gzhan yang khyad par ji lta bu zhig dang ldan zhe na | dpal de bsod nams dang ye shes kyi tshogs kyi mtshan nyid yin la | de'i gnas ni gzhir gyur pa gang yin pa de la de skad ces bya'o || chos kyi sku'i ngo bo nyid kyis kun du 'gro ba nyid yin pa'i phyir | so sor nges pa'i gnas med pas na gnas med pa'o || \\
 
 \textbf{\TVB}\\
-dpe med ces bya ba la sogs pa la/ phyag na pad ma bsnams pa de ni/ phyag na pad ma ste bcom ldan 'das spyan ras gzigs dbang phyug ste/ de rgyal gyur cig ces bya bar sbyar ro/ /khyad par ci lta bu zhig dang ldan pa ce na/ dpe med ces bya ba la sogs pa smos te/ dpe med pa dang shin tu <bdag don gyi> gya nom pa nyid dang/ <'dar ma ka ya> che ba nyid dang/ <gzhan gyi don tu ba pa ka ya> 'khor ba'i mtha'i bar du gnas pa'i mtshan nyid kyi chos dang ldan pa ste/ gzhan dag la med pa'i phyir ro/ /gang gi rang bzhin bde ba nyid kyi ngo bo dpe dang bral bar gyur pa de la de skad ces bya'o/ /gzhan yang khyad par ji lta bu zhig dang ldan zhe na/ dpal ste bsod nams dang ye shes kyi tshogs kyi mtshan nyid yin la/ de'i gnas ni gang gi gzhir gyur pa de la de skad ces bya'o/ /chos kyi sku'i ngo bo nyid kyis kun tu 'gro ba nyid yin pa'i phyir so sor nges pa'i gnas med pas na gnas med pa'o/ /\\
+dpe med ces bya ba la sogs pa la | phyag na pad ma bsnams pa de ni | phyag na pad ma ste bcom ldan 'das spyan ras gzigs dbang phyug ste | de rgyal gyur cig ces bya bar sbyar ro || khyad par ci lta bu zhig dang ldan pa ce na | dpe med ces bya ba la sogs pa smos te | dpe med pa dang shin tu <bdag don gyi> gya nom pa nyid dang | <'dar ma ka ya> che ba nyid dang | <gzhan gyi don tu ba pa ka ya> 'khor ba'i mtha'i bar du gnas pa'i mtshan nyid kyi chos dang ldan pa ste | gzhan dag la med pa'i phyir ro || gang gi rang bzhin bde ba nyid kyi ngo bo dpe dang bral bar gyur pa de la de skad ces bya'o || gzhan yang khyad par ji lta bu zhig dang ldan zhe na | dpal ste bsod nams dang ye shes kyi tshogs kyi mtshan nyid yin la | de'i gnas ni gang gi gzhir gyur pa de la de skad ces bya'o || chos kyi sku'i ngo bo nyid kyis kun tu 'gro ba nyid yin pa'i phyir so sor nges pa'i gnas med pas na gnas med pa'o || \\
 
 punaḥ kīdṛśaḥ?
 nirupamāḥ paramarūpayauvanaśṛṅgārādirasamahākaruṇādiyuktatvenopamātikrāntā\footnoteB{
@@ -163,10 +167,10 @@ aparinirvāṇadharmakatvenāpratiṣṭhitanirvāṇarūpatvenā\footnoteB{
 evaṃviśiṣṭo bhagavāñ jayati.\\
 
 \textbf{\TVA}\\
-yang khyad par ci 'dra zhe na/ dpe med rnams te/ gzugs mchog tu gyur pa dang/ na tshod dang/ sgeg pa la sogs pa'i nyams dang snying rje chen po la sogs pa dang ldan pa nyid kyis na dpe med pa ste/ dpe las 'das pa'i gzugs rdo rje la sogs pa nas/ sgrol ma'i mthar thug pa'i lha mo bcu'i ngo bo rig ma'i 'khor gyis bskor ba gang la yod pa de la de skad ces bya'o/ /de nyid ni rang gi 'od kyis rig pa ste/ shes rab dang lhan cig 'jug pa'i phyir rig pa dang bcas pa'o/ /srid pa gsum ni 'jig rten gsum na gnas pa'i skye bo'o/ /gang la phan pa ni ma 'ongs pa'i phan pa ste/ sangs rgyas nyid la sogs pa'o/ /de la bde ba ni 'phral gyi phan pa ste/ 'khor los sgyur ba nyid la sogs pa'o/ /de thob pa ni rnyed pa ste mngon du byas pa'o/ /de dag sgrub par mdzad po gang yin pa de la de skad ces bya'o/ /yongs su myang ngan las mi 'da' ba'i chos nyid kyis mi gnas pa'i myang na las 'das pa'i ngo bo rnyed pas rnam pa gzhan du mi 'gyur ba'i phyir 'gyur ba med pa yin te de lta bu'i khyad par can gyi bcom ldan 'das rgyal bar gyur cig ces bya ba'o/ /\\
+yang khyad par ci 'dra zhe na | dpe med rnams te | gzugs mchog tu gyur pa dang | na tshod dang | sgeg pa la sogs pa'i nyams dang snying rje chen po la sogs pa dang ldan pa nyid kyis na dpe med pa ste | dpe las 'das pa'i gzugs rdo rje la sogs pa nas | sgrol ma'i mthar thug pa'i lha mo bcu'i ngo bo rig ma'i 'khor gyis bskor ba gang la yod pa de la de skad ces bya'o || de nyid ni rang gi 'od kyis rig pa ste | shes rab dang lhan cig 'jug pa'i phyir rig pa dang bcas pa'o || srid pa gsum ni 'jig rten gsum na gnas pa'i skye bo'o || gang la phan pa ni ma 'ongs pa'i phan pa ste | sangs rgyas nyid la sogs pa'o || de la bde ba ni 'phral gyi phan pa ste | 'khor los sgyur ba nyid la sogs pa'o || de thob pa ni rnyed pa ste mngon du byas pa'o || de dag sgrub par mdzad po gang yin pa de la de skad ces bya'o || yongs su myang ngan las mi 'da' ba'i chos nyid kyis mi gnas pa'i myang na las 'das pa'i ngo bo rnyed pas rnam pa gzhan du mi 'gyur ba'i phyir 'gyur ba med pa yin te de lta bu'i khyad par can gyi bcom ldan 'das rgyal bar gyur cig ces bya ba'o || \\
 
 \textbf{\TVB}\\
-yang khyad par ci lta bu zhig dang ldan ce na/ dpe med te gzugs mchog tu gyur pa dang na tshod dang/ sgeg pa la sogs pa'i rang bzhin dang/ snying rje chen po la sogs pa dang ldan pa nyid kyis na dpe las 'das [\TVB\ fol.\ 71r] pa'o/ /gzugs rdo rje la sogs pa nas sgrol ma'i mthar thug pa lha mo bcu'i ngo bo rig ma'i 'khor gyis bskor ba gang la yod pa de la de skad ces bya'o/ /rang snang ba'i ngo bo rig pa ste shes rab dang lhan cig 'jug pa'i phyir rig pa dang bcas pa'o/ /srid pa gsum ni srid pa gsum na gnas pa'i skye bo'o/ /gang la phan pa ni ma 'ongs pa'i phan pa ste/ rgyas nyid la sogs pa dang/ de la bde ba ni bde ba ste/ 'khor lo bsgyur ba nyid la sogs pa'o/ /de thob pa ni rnyed pa ste/ mngon sum du byas pa'o/ /de dag gi rgyu mdzad pa gang yin pa de la de skad ces bya'o/ /yongs su mya ngan las mi 'da' ba'i chos nyid kyi mi gnas pa'i mya ngan las 'das pa'i ngo bo nyid brnyes pas rnam pa gzhan du 'gyur ba med pa'i phyir 'gyur ba med pa yin te/ de lta bu'i khyad par can gyi bcom ldan 'das rgyal bar gyur cig ces pa'o/\\
+yang khyad par ci lta bu zhig dang ldan ce na | dpe med te gzugs mchog tu gyur pa dang na tshod dang | sgeg pa la sogs pa'i rang bzhin dang | snying rje chen po la sogs pa dang ldan pa nyid kyis na dpe las 'das [\TVB\ fol.\ 71r] pa'o || gzugs rdo rje la sogs pa nas sgrol ma'i mthar thug pa lha mo bcu'i ngo bo rig ma'i 'khor gyis bskor ba gang la yod pa de la de skad ces bya'o || rang snang ba'i ngo bo rig pa ste shes rab dang lhan cig 'jug pa'i phyir rig pa dang bcas pa'o || srid pa gsum ni srid pa gsum na gnas pa'i skye bo'o || gang la phan pa ni ma 'ongs pa'i phan pa ste | rgyas nyid la sogs pa dang | de la bde ba ni bde ba ste | 'khor lo bsgyur ba nyid la sogs pa'o || de thob pa ni rnyed pa ste | mngon sum du byas pa'o || de dag gi rgyu mdzad pa gang yin pa de la de skad ces bya'o || yongs su mya ngan las mi 'da' ba'i chos nyid kyi mi gnas pa'i mya ngan las 'das pa'i ngo bo nyid brnyes pas rnam pa gzhan du 'gyur ba med pa'i phyir 'gyur ba med pa yin te | de lta bu'i khyad par can gyi bcom ldan 'das rgyal bar gyur cig ces pa'o |\\
 
 kiyantaṃ kālam ity āha\emdash yāvad āśāvikāśāḥ.\footnoteB{
 	āśāvikāsāḥ] \corr ; āśāvikāśāḥ \EDD\ \MS
@@ -181,10 +185,10 @@ te yāvat\footnoteB{
 sarvahariharahiraṇyagarbhādibhyaḥ prakṛṣṭo bhavatīty arthaḥ.\\
 
 \textbf{\TVA}\\
-dus ji srid du zhe na/ ji srid re ba snang bar zhes bya ba smos te/ re ba'i ngo bo'i sgras ni phyogs bcu nam mkha'i rang bzhin pa'am/ yang na re ba ste/ sems can thams cad srid pa'i longs spyod la sreg pa'o/ /re ba de snang ba ni gsal ba dang/ rab tu 'jug pa dang/ rab tu skye ba'i bar du ste/ de srid du bcom ldan 'das rgyal bar gyur pa ni khyab 'jug dang/ lha chen po dang/ tshangs pa la sogs pa thams cad las khyad par du 'phags par gyur [\TVA\ fol.\ 205r]/ /cig ces bya ba'i don to/ /\\
+dus ji srid du zhe na | ji srid re ba snang bar zhes bya ba smos te | re ba'i ngo bo'i sgras ni phyogs bcu nam mkha'i rang bzhin pa'am | yang na re ba ste | sems can thams cad srid pa'i longs spyod la sreg pa'o || re ba de snang ba ni gsal ba dang | rab tu 'jug pa dang | rab tu skye ba'i bar du ste | de srid du bcom ldan 'das rgyal bar gyur pa ni khyab 'jug dang | lha chen po dang | tshangs pa la sogs pa thams cad las khyad par du 'phags par gyur [\TVA\ fol.\ 205r] || cig ces bya ba'i don to || \\
 
 \textbf{\TVB}\\
-dus ji srid du ce na/ ci srid re bar snang ba zhes bya ba smos te/ <ka pa> re ba'i ngo bo'i sgra ni phyogs bcu'i nam mkha'i <a ka pa> rang gi ngo bo'am/ yang na re ba ste sems can thams cad srid pa'i longs spyod la sred pa'o/ /re ba snang ba ni gsal ba ste/ rab tu 'jug pa/ rab tu skye ba'i bar du'o/ /de srid bcom ldan 'das rgyal bar gyur pa ste/ khyab <ta ri ha ra> 'jug dang lha chen po dang/ tshangs pa la sogs pa thams cad las khyad par du 'phags par [\TVB\ fol.\ 71v] gyur pa zhes bya ba'i don to/ /\\
+dus ji srid du ce na | ci srid re bar snang ba zhes bya ba smos te | <ka pa> re ba'i ngo bo'i sgra ni phyogs bcu'i nam mkha'i <a ka pa> rang gi ngo bo'am | yang na re ba ste sems can thams cad srid pa'i longs spyod la sred pa'o || re ba snang ba ni gsal ba ste | rab tu 'jug pa | rab tu skye ba'i bar du'o || de srid bcom ldan 'das rgyal bar gyur pa ste | khyab <ta ri ha ra> 'jug dang lha chen po dang | tshangs pa la sogs pa thams cad las khyad par du 'phags par [\TVB\ fol.\ 71v] gyur pa zhes bya ba'i don to || \\
 
 atrānupamasukharūpīty anena svārthasaṃpattiḥ kathitā.
 śrīnivāsa ity anena tadupāyaḥ, puṇyajñānasambhārayoḥ śrīśabenābhihitatvāt.
@@ -196,10 +200,10 @@ nirupamadaśadevīrūpavidyaḥ savidya ity anena tadupāyaḥ, tathābhūta\foo
 } sarvākāraparārthasaṃpatteḥ kartum aśakyatvād iti.\\
 
 \textbf{\TVA}\\
-de la dpe med bde ba'i ngo bo zhes bya ba 'dis ni rnag gi don phun sum tshogs pa bstan to/ /dpal gyi gnas 'gyur zhes bya ba ni de'i thabs yin te bsong nams dang ye shes kyi tshogs dag ni dpal gyi sgras mngon par brjod pa'i phyir ro/ srid pa gsum na phan dang bde ba thob par mdzad/ /ces bya ba 'dis ni gzhan gyi don phun sum tshogs pa bstan to/ /dpe med lha mo bcu yi ngo bo yi ngo bo rig dang rig mar bcas/ /zhes bya ba 'dis ni de'i thabs yin te/ lha mo bcu dang dam pa'i sku mtshan sum cu rtsa gnyis dang/ dpe byad bzang po brgyad cu'i rnam pas stong na/ gzhan gyi don phun sum tshogs pa rnam pa thams cad du mdzad pa'i mthu mam mnga' ba'i phyir ro/ /\\
+de la dpe med bde ba'i ngo bo zhes bya ba 'dis ni rnag gi don phun sum tshogs pa bstan to || dpal gyi gnas 'gyur zhes bya ba ni de'i thabs yin te bsong nams dang ye shes kyi tshogs dag ni dpal gyi sgras mngon par brjod pa'i phyir ro | srid pa gsum na phan dang bde ba thob par mdzad || ces bya ba 'dis ni gzhan gyi don phun sum tshogs pa bstan to || dpe med lha mo bcu yi ngo bo yi ngo bo rig dang rig mar bcas || zhes bya ba 'dis ni de'i thabs yin te | lha mo bcu dang dam pa'i sku mtshan sum cu rtsa gnyis dang | dpe byad bzang po brgyad cu'i rnam pas stong na | gzhan gyi don phun sum tshogs pa rnam pa thams cad du mdzad pa'i mthu mam mnga' ba'i phyir ro || \\
 
 \textbf{\TVB}\\
-de la dpe med bde ba'i ngo bo zhes bya ba 'dis ni rang gi don phun sum tshogs pa bstan to/ /dpal gyi gnas gyur ces bya ba 'dis ni/ de'i thabs yin te/ bsod nams dang ye shes kyi tshogs dag ni dpal gyi sgras mngon par brjod pa'i phyir ro/ /srid pa gsum la phan pa dang bde ba thob mdzad ces bya ba 'dis ni gzhan gyi don phun sum tshogs pa bstan to/ /dpe med lha mo bcu'i ngo bo'i rig ma dag dang rig par bcas zhes bya ba 'dis ni de'i thabs yin te/ de lta bu'i lha mo bcu dang dam pa'i sku mtshan sum cu rtsa gnyis dang/ dpe byad bzang po brgyad cu'i rnam pas stong na/ gzhan gyi don phun sum tshogs pa rnam pa thams cad du mdzad pa'i mthu mi mnga' ba'i phyir ro/ /
+de la dpe med bde ba'i ngo bo zhes bya ba 'dis ni rang gi don phun sum tshogs pa bstan to || dpal gyi gnas gyur ces bya ba 'dis ni | de'i thabs yin te | bsod nams dang ye shes kyi tshogs dag ni dpal gyi sgras mngon par brjod pa'i phyir ro || srid pa gsum la phan pa dang bde ba thob mdzad ces bya ba 'dis ni gzhan gyi don phun sum tshogs pa bstan to || dpe med lha mo bcu'i ngo bo'i rig ma dag dang rig par bcas zhes bya ba 'dis ni de'i thabs yin te | de lta bu'i lha mo bcu dang dam pa'i sku mtshan sum cu rtsa gnyis dang | dpe byad bzang po brgyad cu'i rnam pas stong na | gzhan gyi don phun sum tshogs pa rnam pa thams cad du mdzad pa'i mthu mi mnga' ba'i phyir ro || 
 
 \subsection{Verse 2}
 \subsubsection{Root Text}
@@ -212,10 +216,10 @@ de la dpe med bde ba'i ngo bo zhes bya ba 'dis ni rang gi don phun sum tshogs pa
 
 	Employing seven divisions thronging with the teachings of various [teachers], I undertake the present effort to bring about clear understanding to those who indeed do not know the nature, devoid of [expression through] clear words, of the beautiful fourth consecration belonging to the glorious Way of Mantra.
 
-	sngags kyi gzhung lugs mdzes pa'i dbang bzhi'i ngo bo dag~/\\
-	rab tu gsal ba'i sgras stong gyur pas gang gis mi shes shing/~/\\
-	du ma'i man ngag bdun gyi dbye ba'i tshogs kyis yongs 'khrugs pa/~/\\
-	de dag rnams kyi gsal bar rtogs par bya phyir 'bad pas bya/~/
+	sngags kyi gzhung lugs mdzes pa'i dbang bzhi'i ngo bo dag |\\
+	rab tu gsal ba'i sgras stong gyur pas gang gis mi shes shing || \\
+	du ma'i man ngag bdun gyi dbye ba'i tshogs kyis yongs 'khrugs pa || \\
+	de dag rnams kyi gsal bar rtogs par bya phyir 'bad pas bya ||
 \end{quote}
 
 \subsubsection{Commentary}
@@ -228,10 +232,10 @@ nānācāryopadeśagaṇasaṃkulai\hspace{0em}[\EDD\ p.\ 133]\hspace{0em}r vyā
 sphuṭāvagataye sukhena sphuṭapratītyartham iti.\\
 
 \textbf{\TVA}\\
-dpal ldan sngags kyi gzhung lugs shes/ /zhes bya ba la sogs pa la/ sngags kyi gzhung lugs zhes bya ba'i sgras ni/ rnal 'byor gyi rgyud spyir rjod par byed pa yin du zin kyang shugs kyis dpal gsang ba 'dus pa yongs su gzung bar bya ste/ gzhan dag la bzhi pa'i don mi srid pa'i phyir ro/ /lhag ma ni go sla'o/ /du ma'i man ngag ces bya ba la sogs pa la/ 'das pa dang ma 'ongs pa dang/ da ltar gyi slob dpon du ma'i man ngag gi tshogs yang dag par bsdus pa'i mdun gyi dbye bas yongs su dkrugs pa ni/ rnam par dkrugs pas rnam pa thams cad la rnam par khyab pa ste/ des bsgrub par bya ba dkrugs pa'o/ /gsal bar rtogs par bya ba'i phyir/ /zhes bya ba ni bde bar gnas par khong du chud par bya ba'i phyir zhes bya ba'i thi tshig go/ /\\
+dpal ldan sngags kyi gzhung lugs shes || zhes bya ba la sogs pa la | sngags kyi gzhung lugs zhes bya ba'i sgras ni | rnal 'byor gyi rgyud spyir rjod par byed pa yin du zin kyang shugs kyis dpal gsang ba 'dus pa yongs su gzung bar bya ste | gzhan dag la bzhi pa'i don mi srid pa'i phyir ro || lhag ma ni go sla'o || du ma'i man ngag ces bya ba la sogs pa la | 'das pa dang ma 'ongs pa dang | da ltar gyi slob dpon du ma'i man ngag gi tshogs yang dag par bsdus pa'i mdun gyi dbye bas yongs su dkrugs pa ni | rnam par dkrugs pas rnam pa thams cad la rnam par khyab pa ste | des bsgrub par bya ba dkrugs pa'o || gsal bar rtogs par bya ba'i phyir || zhes bya ba ni bde bar gnas par khong du chud par bya ba'i phyir zhes bya ba'i thi tshig go || \\
 
 \textbf{\TVB}\\
-dpal ldan sngags kyi gzhung lugs zhes bya ba'i sgras/ rnal 'byor rgyud shugs kyis dpal gsang ba 'dus spyir brjod par byed pa yin du zin kyang/ pa yongs su gzung bar bya ste/ gzhan dag la don bzhi pa mi srid pa'i phyir ro/ /lhag ma ni go sla'o/ /slob dpon du ma'i man ngag gis yongs su dkrugs pa'i rnam par 'khrugs pa rnam par bkab pa ste bdun gyi dbye bas zhes bya ba ni 'das pa dang/ ma 'ongs pa dang/ da ltar gyi slob dpon du gtogs pa'i man ngag gi tshogs yang dag par bsdus pas so/ /gsal bar rtogs par bya ba'i phyir/ zhes bya ba ni bde bar gsal bar khong du chud par bya'o/ /[\TVB\ fol.\ 72r] zhes bya ba'i tha tshig go/ /
+dpal ldan sngags kyi gzhung lugs zhes bya ba'i sgras | rnal 'byor rgyud shugs kyis dpal gsang ba 'dus spyir brjod par byed pa yin du zin kyang | pa yongs su gzung bar bya ste | gzhan dag la don bzhi pa mi srid pa'i phyir ro || lhag ma ni go sla'o || slob dpon du ma'i man ngag gis yongs su dkrugs pa'i rnam par 'khrugs pa rnam par bkab pa ste bdun gyi dbye bas zhes bya ba ni 'das pa dang | ma 'ongs pa dang | da ltar gyi slob dpon du gtogs pa'i man ngag gi tshogs yang dag par bsdus pas so || gsal bar rtogs par bya ba'i phyir | zhes bya ba ni bde bar gsal bar khong du chud par bya'o || [\TVB\ fol.\ 72r] zhes bya ba'i tha tshig go || 
 
 \subsection{Verse 3}
 \subsubsection{Root text}
@@ -245,10 +249,10 @@ dpal ldan sngags kyi gzhung lugs zhes bya ba'i sgras/ rnal 'byor rgyud shugs kyi
 	All non-Buddhist philosophers (\emph{tīrthya}) indeed (\emph{hi}) have completely mistaken ideas regarding the realisation of the nature of reality and the goal.
 	People say that say that the best among them are the Vedāntins, supposedly knowers of reality.
 
-	dpal ldan de nyid bsgrub bya'i ngo bor rig pa la/ /\\
-	mu stegs ma lus blo rnams rnam par 'khrul/ /\\
-	de las rig byed mthar ni smra ba yi/ /\\
-	skye bo rnams ni de nyid mchog ces smra/ /
+	dpal ldan de nyid bsgrub bya'i ngo bor rig pa la || \\
+	mu stegs ma lus blo rnams rnam par 'khrul || \\
+	de las rig byed mthar ni smra ba yi || \\
+	skye bo rnams ni de nyid mchog ces smra || 
 \end{quote}
 
 \subsubsection{Commentary}
@@ -265,10 +269,10 @@ tattvam idam iti sādhyam idam\footnoteB{
 śeṣaṃ subodham.\\
 
 \textbf{\TVA}\\
-de nyid bsgrub bya'i zhes bya ba la sogs pa la/ mu stegs can gang la kun nas 'khrul pa ste/ rnam par 'khrul pa'i blo shes rab kyi bye brag yong pa de la de skad ces bya'o/ /mu stegs can de dag thams cad bdag dang bdag gir 'dzin pa'i ling tog gis blo'i mig khebs par gyur pas/ de kho na nyid 'di zhes sam/ bsgrub par bya ba ni 'di zhes de kho na nyid dang/ bsgrub par bya ba de'i rang gi ngo bo gang yin pa rig cing khong du chud par bya ba de dag la 'khrul pa'o/ /lhag ma ni go sla'o/ /\\
+de nyid bsgrub bya'i zhes bya ba la sogs pa la | mu stegs can gang la kun nas 'khrul pa ste | rnam par 'khrul pa'i blo shes rab kyi bye brag yong pa de la de skad ces bya'o || mu stegs can de dag thams cad bdag dang bdag gir 'dzin pa'i ling tog gis blo'i mig khebs par gyur pas | de kho na nyid 'di zhes sam | bsgrub par bya ba ni 'di zhes de kho na nyid dang | bsgrub par bya ba de'i rang gi ngo bo gang yin pa rig cing khong du chud par bya ba de dag la 'khrul pa'o || lhag ma ni go sla'o || \\
 
 \textbf{\TVB}\\
-de nyid zhes bya ba la sogs pa la/ mu stegs can gang la kun nas 'khrul pa ste/ rnam par 'khrul pa'i blo shes rab kyi bye brag yod pa de la de skad ces bya'o/ /mu stegs can de dag thams cad bdag dang bdag gir 'dzin pa'i ling tog gis blo yi dmig khebs par gyur pas/ de kho na nyid ni 'di'am/ bsgrub par bya ba ni 'di'o zhes de kho na nyid dang bsgrub par bya ba de'i rang gi ngo bo gang yin pa rig cing khong du chud pa la de dag 'khrul pa'o/ /lhag ma ni go sla'o/ /\\
+de nyid zhes bya ba la sogs pa la | mu stegs can gang la kun nas 'khrul pa ste | rnam par 'khrul pa'i blo shes rab kyi bye brag yod pa de la de skad ces bya'o || mu stegs can de dag thams cad bdag dang bdag gir 'dzin pa'i ling tog gis blo yi dmig khebs par gyur pas | de kho na nyid ni 'di'am | bsgrub par bya ba ni 'di'o zhes de kho na nyid dang bsgrub par bya ba de'i rang gi ngo bo gang yin pa rig cing khong du chud pa la de dag 'khrul pa'o || lhag ma ni go sla'o || \\
 
 nanu tattvasādhyayor upādeyatvenaikarūpatvāt tattvasya sādhyasya ceti kathaṃ\footnoteB{
 	tattvasya sādhyasya ceti kathaṃ] \EDD\ (\emd); tat kathaṃ tatvasya sādhyasya ceti \MS
@@ -278,10 +282,10 @@ tattvaṃ hy upādeyatvenāpi sukhaduḥkhopekṣādisakalapratibhāsasaṃdohav
 sādhyaṃ cānabhimataparihāreṇecchālakṣaṇaṃ phalam upādeyatve 'pi sakalaprāṇibhir avaśyam evāsādhyavyāvṛttyā sādhayitavyatvenābhimatam ity adoṣaḥ.\\
 
 \textbf{\TVA}\\
-de kho na nyid [\TVA\ fol.\ 205v] dang bsgrub par bya ba dag ni blang bar bya ba nyid du ngo bo gcig pa ma yin nam/ ci'i phyir de kho na nyid dang/ bsgrub par bya ba zhes dbye ba bstan zhe na/ de ni bden pa ma yin te/ de kho na nyid ni blang bar bya ba nyid yin yang bde ba dang sdug bsngal dang/ btang snyoms la sogs pa so sor snang ba'i tshogs ma lus pa la shes bya tsam du khyab par byed pa yin la/ bsgrub par bya ba yang mngon par 'dod par bya ba ma yin pa las bzlog par 'dod pa'i mtshan nyid kyis blang bar bya ba nyid yin kyang/ srog chags thams cad kyis gdon mi za bar bsgrub par bya ba ma yin pa las bzlog pa/ /bsgrub par bya ba'i 'bras bu nyid du mngon par 'dod pa'i phyir nyes pa med do/ /\\
+de kho na nyid [\TVA\ fol.\ 205v] dang bsgrub par bya ba dag ni blang bar bya ba nyid du ngo bo gcig pa ma yin nam | ci'i phyir de kho na nyid dang | bsgrub par bya ba zhes dbye ba bstan zhe na | de ni bden pa ma yin te | de kho na nyid ni blang bar bya ba nyid yin yang bde ba dang sdug bsngal dang | btang snyoms la sogs pa so sor snang ba'i tshogs ma lus pa la shes bya tsam du khyab par byed pa yin la | bsgrub par bya ba yang mngon par 'dod par bya ba ma yin pa las bzlog par 'dod pa'i mtshan nyid kyis blang bar bya ba nyid yin kyang | srog chags thams cad kyis gdon mi za bar bsgrub par bya ba ma yin pa las bzlog pa || bsgrub par bya ba'i 'bras bu nyid du mngon par 'dod pa'i phyir nyes pa med do || \\
 
 \textbf{\TVB}\\
-gal te de kho na nyid dang bsgrub par bya ba dag la ni blang bar bya ba nyid du ngo bo nyid gcig pa ma yin nam/ ci'i phyir de kho na nyid dang bsgrub par bya ba dbye ba bstan ce na/ de ni bden pa ma yin te/ de kho na nyid blang bar bya ba nyid yin yang bde ba dang sdug bsngal dang btang snyoms la sogs pa so sor snang ba'i tshogs ma lus pa la khyab par byed pa yin la/ bsgrub par bya ba yang mngon par 'dod pa ma yin pa las bzlog par 'dod pa'i mtshan nyid kyis 'bras bu blang bar bya ba nyid yin yang srog chags thams cad kyis gdon mi za bar bsgrub bya ba ma yin pa las bzlog pa bsgrub par bya ba nyid du mngon par 'dod pa'i phyir nyes pa med do/ /
+gal te de kho na nyid dang bsgrub par bya ba dag la ni blang bar bya ba nyid du ngo bo nyid gcig pa ma yin nam | ci'i phyir de kho na nyid dang bsgrub par bya ba dbye ba bstan ce na | de ni bden pa ma yin te | de kho na nyid blang bar bya ba nyid yin yang bde ba dang sdug bsngal dang btang snyoms la sogs pa so sor snang ba'i tshogs ma lus pa la khyab par byed pa yin la | bsgrub par bya ba yang mngon par 'dod pa ma yin pa las bzlog par 'dod pa'i mtshan nyid kyis 'bras bu blang bar bya ba nyid yin yang srog chags thams cad kyis gdon mi za bar bsgrub bya ba ma yin pa las bzlog pa bsgrub par bya ba nyid du mngon par 'dod pa'i phyir nyes pa med do || 
 
 \subsection{Verse 4}
 \subsubsection{Root text}
@@ -297,10 +301,10 @@ gal te de kho na nyid dang bsgrub par bya ba dag la ni blang bar bya ba nyid du 
 
 	The Vedāntin long for (√\emph{vaś}) a goal that is self awareness (\emph{svavit})\emdash bliss by nature, unmovable, and at peace. And the rhinoceros-jinas, as well as \emph{śrāvaka}s, desire as a goal the cessation (\emph{virāma}) of the substrates (\emph{upadhi}) of material form (\emph{rūpa}) and so forth.
 
-	dga' ba'i ngo bo rang rig mi g-yo zhing/ \\
-	bsgrub byar 'dod pa rig byed mtha' can pa'o/ /\\
-	nyan thos rang rgyal bcas pa gzugs la sogs/ /\\
-	phung po dag dang bral ba bsgrub byar 'dod/ /
+	dga' ba'i ngo bo rang rig mi g-yo zhing | \\
+	bsgrub byar 'dod pa rig byed mtha' can pa'o || \\
+	nyan thos rang rgyal bcas pa gzugs la sogs || \\
+	phung po dag dang bral ba bsgrub byar 'dod || 
 \end{quote}
 
 \subsubsection{Commentary}
@@ -322,10 +326,10 @@ aprakampyam iti nityatayā\footnoteB{
 evaṃvidhaṃ sādhyam uṣanti kāmayante.\\
 
 \textbf{\TVA}\\
-de la re zhig rig byed kyi mthar smra ba'i mngon par 'dod pa'i bsgrub par bya ba ni dga' ba'i ngo bo zhes bya ba la sogs pa smos te dga' ba'i ngo bo ni rtag tu bde ba'i rang bzhin nyid yin pa'i phyir ro/ /rnag rig pa ni gsal ba'i ngo bo nyid yin gyis bdag nyid rab tu snang ba nyid kyi phyir ro/ /mi g-yo ba zhes bya ba ni mi rtag pa nyid kyis bskyod par mi nus pa'i phyir ro/ /zhi ba ni nyon mongs pa dang/ nye ba'i nyon mongs pas stong pa nyid du yongs su brtags pa'i phyir ro/ /rnam pa de lta bu bsgrub par bya ba la bdun pa (sic for 'dun pa) la ni 'dod par gyur pa'o/ /\\
+de la re zhig rig byed kyi mthar smra ba'i mngon par 'dod pa'i bsgrub par bya ba ni dga' ba'i ngo bo zhes bya ba la sogs pa smos te dga' ba'i ngo bo ni rtag tu bde ba'i rang bzhin nyid yin pa'i phyir ro || rnag rig pa ni gsal ba'i ngo bo nyid yin gyis bdag nyid rab tu snang ba nyid kyi phyir ro || mi g-yo ba zhes bya ba ni mi rtag pa nyid kyis bskyod par mi nus pa'i phyir ro || zhi ba ni nyon mongs pa dang | nye ba'i nyon mongs pas stong pa nyid du yongs su brtags pa'i phyir ro || rnam pa de lta bu bsgrub par bya ba la bdun pa (sic for 'dun pa) la ni 'dod par gyur pa'o || \\
 
 \textbf{\TVB}\\
-de la rig byed kyi mthar smra ba'i mngon par 'dod pa'i sgrub par bya ba ni/ dga' ba'i ngo bo zhes bya ba la sogs pa smos te/ dga' ba'i ngo bo nyid ni rtag [\TVB\ fol.\ 72v] tu bde ba'i rang bzhin nyid yin pa'i phyir ro/ /rang rig pa ni gsal ba'i ngo bo nyid kyis bdag nyid rab tu snang ba nyid kyi phyir ro/ /mi g.yo ba zhes bya ba ni/ mi rtag pa nyid kyis bskyod par mi nus pa'i phyir ro/ /zhi ba ni nyon mongs pa dang nye ba'i nyon mongs pas stong pa nyid du yongs su brtags pa'i phyir ro/ /rnam pa de lta bu bsgrub par bya ba la 'dun pa ni 'dod pa'o/ /\\
+de la rig byed kyi mthar smra ba'i mngon par 'dod pa'i sgrub par bya ba ni | dga' ba'i ngo bo zhes bya ba la sogs pa smos te | dga' ba'i ngo bo nyid ni rtag [\TVB\ fol.\ 72v] tu bde ba'i rang bzhin nyid yin pa'i phyir ro || rang rig pa ni gsal ba'i ngo bo nyid kyis bdag nyid rab tu snang ba nyid kyi phyir ro || mi g.yo ba zhes bya ba ni | mi rtag pa nyid kyis bskyod par mi nus pa'i phyir ro || zhi ba ni nyon mongs pa dang nye ba'i nyon mongs pas stong pa nyid du yongs su brtags pa'i phyir ro || rnam pa de lta bu bsgrub par bya ba la 'dun pa ni 'dod pa'o || \\
 
 saha śrāvakair vartante ye khaḍgajināḥ khaḍgaviṣāṇakalpā ekacāriṇo vargacāriṇaś\footnoteB{
 	vargacāriṇaś] \MS\ (\emph{cf.\ Abhidharmakośabhāṣya}); vanacāriṇaś \EDD 
@@ -337,12 +341,12 @@ rūpādyupadher virāmaṃ rūpavedanāsaṃjñāsaṃskāravijñānalakṣaṇ�
 } nirupadhiśeṣam eva nirvāṇaṃ sā[\MS\ fol.\ 3v]kṣātkartavyatvena sādhyaṃ pratipannāḥ.\\
 
 \textbf{\TVA}\\
-gang nyan thos dang bcas pa 'jug pa'i rang rgyal ba ni bse ru lta bu ste/ gcig pu rgyu ba dang/ tshogs kyis spyod pa'i rang sangs rgyas dag bsgrub byar 'dod do/ /ci 'dra ba zhig ce na/ gzugs la sogs pa'i phung po dang bral ba'o/ /gzugs dang/ tshor ba dang/ 'du shes dang/ 'du byed dang/ rnam par shes pa'i mtshan nyid dag gi phung po rnams ni spungs pa ste bral ba dang rnam chad pa dang 'gags par gyur pa zhes bya ba'i bar du'o/ /'di skad bstan par 'gyur te/ nyan thos dang rang sangs rgyas thams cad ni phung po lhag ma dang bcas pa dang/ phung po lhag ma med pa'i dbye bas mya ngan las 'das pa tha dad kyang phung po lhag ma med pa'i mya ngan las 'das pa kho na mngon sum du bya ba'i phyir bsgrub par bya bar zhugs pa yin no/ /\\
+gang nyan thos dang bcas pa 'jug pa'i rang rgyal ba ni bse ru lta bu ste | gcig pu rgyu ba dang | tshogs kyis spyod pa'i rang sangs rgyas dag bsgrub byar 'dod do || ci 'dra ba zhig ce na | gzugs la sogs pa'i phung po dang bral ba'o || gzugs dang | tshor ba dang | 'du shes dang | 'du byed dang | rnam par shes pa'i mtshan nyid dag gi phung po rnams ni spungs pa ste bral ba dang rnam chad pa dang 'gags par gyur pa zhes bya ba'i bar du'o || 'di skad bstan par 'gyur te | nyan thos dang rang sangs rgyas thams cad ni phung po lhag ma dang bcas pa dang | phung po lhag ma med pa'i dbye bas mya ngan las 'das pa tha dad kyang phung po lhag ma med pa'i mya ngan las 'das pa kho na mngon sum du bya ba'i phyir bsgrub par bya bar zhugs pa yin no || \\
 
 \textbf{\TVB}\\
-gang nyan thos dang bcas pa'i 'jug pa'i rang rgyal ba ni bse ru lta bu ste/ gcig pu rgyu ba dang/ tshogs kyi spyod pa'i rang sangs rgyas dag bsgrub byar 'dod do/ /ci 'dra ba zhig ce na/ gzugs la sogs pa'i phung po dang bral ba'o/ /gzugs dang tshor ba dang 'du shes dang/ 'du byed rnams dang/ rnam par shes pa'i mtshan nyid dag gi phung po rnams ni spung ba ste/ bral ba dang/ rnam par chad pa dang/ 'gag par gyur pa zhes bya ba'i bar du'o/ /'di skad du bstan par 'gyur te/ nyan thos dang rang sangs rgyas thams cad ni phung po lhag ma dang bcas pa dang/ phung po lhag ma med pa'i dbye bas mya ngan las 'das pa tha dad kyang/ phung po lhag ma med pa'i mya ngan las 'das pa kho na mngon sum du bya ba'i phyir bsgrub par byed par zhugs pa yin no/ /
+gang nyan thos dang bcas pa'i 'jug pa'i rang rgyal ba ni bse ru lta bu ste | gcig pu rgyu ba dang | tshogs kyi spyod pa'i rang sangs rgyas dag bsgrub byar 'dod do || ci 'dra ba zhig ce na | gzugs la sogs pa'i phung po dang bral ba'o || gzugs dang tshor ba dang 'du shes dang | 'du byed rnams dang | rnam par shes pa'i mtshan nyid dag gi phung po rnams ni spung ba ste | bral ba dang | rnam par chad pa dang | 'gag par gyur pa zhes bya ba'i bar du'o || 'di skad du bstan par 'gyur te | nyan thos dang rang sangs rgyas thams cad ni phung po lhag ma dang bcas pa dang | phung po lhag ma med pa'i dbye bas mya ngan las 'das pa tha dad kyang | phung po lhag ma med pa'i mya ngan las 'das pa kho na mngon sum du bya ba'i phyir bsgrub par byed par zhugs pa yin no || 
 
-\subsection{Verse 5}
+\subsection{Verse 5 — pāramitānayavādināṃ caturvidhaṃ sādhyam}
 \subsubsection{Root text}
 \begin{quote}
 	ākāraśūnyaṃ gaganendurūpaṃ \\
@@ -356,10 +360,10 @@ gang nyan thos dang bcas pa'i 'jug pa'i rang rgyal ba ni bse ru lta bu ste/ gcig
 	It is empty of forms, has the nature of the sky and the moon, is to be realised by oneself, and has compassion as its flavour.
 	Adorned with all excellent characteristics, it accomplishes aims, it is the outflow of giving and so forth, and is free of bliss.
 
-	rnam pas stong pa nam mkha' zla ba'i ngo bo nyid/ /\\
-	so sor rang rig snying rje'i rang bzhin ca/ /\\
-	mdzes pa'i mtshan rnams kyis brgyan don mdzad pa/ /\\
-	sbyin la sogs pa'i rgyu mthun bde bral ba/ /
+	rnam pas stong pa nam mkha' zla ba'i ngo bo nyid || \\
+	so sor rang rig snying rje'i rang bzhin ca || \\
+	mdzes pa'i mtshan rnams kyis brgyan don mdzad pa || \\
+	sbyin la sogs pa'i rgyu mthun bde bral ba || 
 \end{quote}
 
 \subsubsection{Commentary}
@@ -390,24 +394,26 @@ etad uktaṃ bhavati\emdash nīlapītādicitrākāraśūnyaṃ nirābhāsaṃ\fo
 } mahākaruṇāyuktaṃ pratyātmavedyaṃ pāramitopadeśaśabdābhidheyaṃ sādhyam iti pāramitānaye prathamaṃ sādhyam.\\
 
 \textbf{\TVA}\\
-da ni pha rol tu phyin pa'i tshul du smra ba dag la mngon par 'dod pa'i bsgrub par bya ba rnam pa bzhi bstan pa'i phyir/ rnam pa stong pa zhes bya ba [\TVA\ fol.\ 206r]/ /la sogs pa smos te/ rnam pa ni sngon po dang/ ser po dang/ bde ba dang sdug bsngal la sogs pa sna chags pa'i rnam pa'o/ /des stong pa ste rnam pa med pa'o/ /rnam pa med pa de nyid kyi phyir nam mkha' lta bu'o/ /gang gi rang bzhin zla ba dang 'dra bar 'od gsal ba'i ngo bo yin pa de la de skad ces bya'o/ /so sor rang rig pa gcig pu'i ngo bo rig pa'o/ /'dir sdug bsngal dang sdug bsngal gyi rgyu dag las 'gro ba ma lus pa gdon par 'dod pa'i snying rje'i rang bzhin gang yin pa de la de skad ces bya'o/ /'di skad du bshad par 'gyur te/ pha rol tu phyin pa nye bar ston pa'i sgras brjod par bya/ sngon po dang/ ser po la sogs pa'i rnam pa sna tshogs pas stong zhing snang ba med la/ dri ma med pa nam mkha' lta bur dag pa 'gro ba ma lus pa'i don byed pa'i snying rje chen po dang ldan pa so sor rang gis rig pa'i bsgrub par bya ba yin te/ pha rol tu phyin pa'i tshul gyis bsgrub par bya ba dang po'o/ /\\
+da ni pha rol tu phyin pa'i tshul du smra ba dag la mngon par 'dod pa'i bsgrub par bya ba rnam pa bzhi bstan pa'i phyir | rnam pa stong pa zhes bya ba [\TVA\ fol.\ 206r] || la sogs pa smos te | rnam pa ni sngon po dang | ser po dang | bde ba dang sdug bsngal la sogs pa sna chags pa'i rnam pa'o || des stong pa ste rnam pa med pa'o || rnam pa med pa de nyid kyi phyir nam mkha' lta bu'o || gang gi rang bzhin zla ba dang 'dra bar 'od gsal ba'i ngo bo yin pa de la de skad ces bya'o || so sor rang rig pa gcig pu'i ngo bo rig pa'o || 'dir sdug bsngal dang sdug bsngal gyi rgyu dag las 'gro ba ma lus pa gdon par 'dod pa'i snying rje'i rang bzhin gang yin pa de la de skad ces bya'o || 'di skad du bshad par 'gyur te | pha rol tu phyin pa nye bar ston pa'i sgras brjod par bya | sngon po dang | ser po la sogs pa'i rnam pa sna tshogs pas stong zhing snang ba med la | dri ma med pa nam mkha' lta bur dag pa 'gro ba ma lus pa'i don byed pa'i snying rje chen po dang ldan pa so sor rang gis rig pa'i bsgrub par bya ba yin te | pha rol tu phyin pa'i tshul gyis bsgrub par bya ba dang po'o || \\
 
 \textbf{\TVB}\\
-da ni pha rol tu phyin pa'i tshul du smra ba dag mngon par 'dod pa'i bsgrub par bya ba rnam pa bzhi bstan pa'i phyir/ zhes bya ba la sogs pa smos te/ rnam pa ni [\TVB\ fol.\ 73r] sngon po dang/ ser po dang/ bde ba dang/ sdug bsngal la sogs sna tshogs pa'i ngo bo'o/ /des stong pa ste <rnam pa rdzun pa'i gzhung> rnam pa brdzun pa'o/ /rnam pa med pa de nyid kyi phyir na nam mkha' lta bu'o/ /gang gi rang bzhin zla ba dang 'dra bar 'od gsal ba'i ngo bo nyid yin pa de la de skad ces bya'o/ /so so rang rig ces bya ba ni rang rig pa gcig pu'i ngo bo rig pa'o/ /'dir <phung po> sdug bsngal dang sdug bsngal gyi rgyu <mi dge bcu las dang nyon mongs> dag las 'gro ba ma lus par 'don par 'dod pa'i snying rje'i rang bzhin gang yin pa de la de skad ces bya'o/ /'di skad du bshad par 'gyur te/ /pha rol tu phyin pa nye bar ston pa'i sgras brjod par bya ba sngon po dang/ ser po la sogs pa'i rnam pa sna tshogs pas stong zhing snang ba med la/ dri ma med pa nam mkha' lta bur dag pa 'gro ba ma lus pa'i don byed pa'i snying rje chen po dang ldan pa so so rang gis rig pa ni bsgrub par bya ba yin te/ pha rol tu phyin pa'i tshul gyi bsgrub par bya ba dang po'o/\\
+da ni pha rol tu phyin pa'i tshul du smra ba dag mngon par 'dod pa'i bsgrub par bya ba rnam pa bzhi bstan pa'i phyir | zhes bya ba la sogs pa smos te | rnam pa ni [\TVB\ fol.\ 73r] sngon po dang | ser po dang | bde ba dang | sdug bsngal la sogs sna tshogs pa'i ngo bo'o || des stong pa ste <rnam pa rdzun pa'i gzhung> rnam pa brdzun pa'o || rnam pa med pa de nyid kyi phyir na nam mkha' lta bu'o || gang gi rang bzhin zla ba dang 'dra bar 'od gsal ba'i ngo bo nyid yin pa de la de skad ces bya'o || so so rang rig ces bya ba ni rang rig pa gcig pu'i ngo bo rig pa'o || 'dir <phung po> sdug bsngal dang sdug bsngal gyi rgyu <mi dge bcu las dang nyon mongs> dag las 'gro ba ma lus par 'don par 'dod pa'i snying rje'i rang bzhin gang yin pa de la de skad ces bya'o || 'di skad du bshad par 'gyur te || pha rol tu phyin pa nye bar ston pa'i sgras brjod par bya ba sngon po dang | ser po la sogs pa'i rnam pa sna tshogs pas stong zhing snang ba med la | dri ma med pa nam mkha' lta bur dag pa 'gro ba ma lus pa'i don byed pa'i snying rje chen po dang ldan pa so so rang gis rig pa ni bsgrub par bya ba yin te | pha rol tu phyin pa'i tshul gyi bsgrub par bya ba dang po'o |\\
 
 śobhanāni ca tāni lakṣaṇāni ca dvātriṃśallakṣaṇasaṃjñakānīti.\footnoteB{
-	saṃjñakānīti] \conj ; saṃjñakāni ceti \MS\ \EDD
+	saṃjñakānīti] \conj ; saṃjñakāni ceti \MS\ \EDD ; mdzes pa'i mtshan sum cu rtsa gnyis zhes bya ste \TIB
 }
 tair bhūṣitam.
-arthaṃ janānāṃ prayojanaṃ kartuṃ śīlaṃ svabhāvo yasya tad arthakāri.
+arthaṃ janānāṃ prayojanaṃ kartuṃ śīlaṃ svabhāvo yasya tad tadarthakāri.\footnoteB{
+	tad tadarthakāri] \conj\ (\TIB : de ni de'i don mdzad pa'o); tad arthakāri \MS\ \EDD
+}
 dānādīnāṃ daśapāramitānāṃ niṣyandaṃ tatprakarṣaprabhavatvena sadṛśaṃ phalam.
-duḥkhasya pūrvam eva prahīṇatvāt, sākṣātkaraṇāvasthāyāṃ\footnoteB{
+duḥkhasya pūrvam eva prahīṇatvāt sākṣātkaraṇāvasthāyāṃ\footnoteB{
 	sākṣātkaraṇāvasthāyāṃ] \conj\ (\textsc{Isaacson}); sākṣātkṛtāvasthāyāṃ \EDD ; sākṣātkṛtāvatāsthāyāṃ \MS
-}\footnoteB{
+}\footnoteA{
 	\textsc{Isaacson} (personal communication) proposes \emph{sākṣātkaraṇāvasthāyāṃ} or \emph{sākṣātkṛtyāvasthāyāṃ} as potentially supperior readings.
 
-	In support of the former, see \emph{Saṃkṣipābhiṣekavidhi}: \emph{tadanantaram ekatathatāmatena tayaiva bhinnamate tv ānayā svasaṃviditajñānasākṣātkaraṇāvasthāyāṃ pūrvoktagāthayā adhyeṣitavate śiṣyāya tatpāṇau tasyāḥ pāṇiṃ pratisthāpya |}
-} saukhyasyāpy abhāvāt,\footnoteB{
+	\hspace*{1em} In support of the former, see \emph{Saṃkṣipābhiṣekavidhi}: \emph{tadanantaram ekatathatāmatena tayaiva bhinnamate tv ānayā svasaṃviditajñānasākṣātkaraṇāvasthāyāṃ pūrvoktagāthayā adhyeṣitavate śiṣyāya tatpāṇau tasyāḥ pāṇiṃ pratisthāpya |}
+} saukhyasyāpy abhāvād\footnoteB{
 	abhāvāt] \emd\ (\textsc{Isaacson}); abhāvatvāt \MS\ \EDD
 } upekṣārūpatvenāpetasaukhyam apagatasaukhyam.
 etad uktaṃ bhavati\emdash dvātriṃśallakṣaṇadharāśītyanuvyañjanavirājitaśarīraṃ sakalajagadarthakāri dānādipāramitābhyāsa\crux balenātmānaṃ\footnoteB{
@@ -415,10 +421,10 @@ etad uktaṃ bhavati\emdash dvātriṃśallakṣaṇadharāśītyanuvyañjanavir
 }\crux samyaksaṃbuddharūpaṃ sukhaduḥkharahitatvenopekṣārūpaṃ dvitīyaṃ sādhyam.\\
 
 \textbf{\TVA}\\
-mdzes pa yang de nyid yin la/ mtshan yang de nyid yin pas na mdzes pa'i mtshan sum cu rtsa gnyis zhes bya ste/ des brgyan pa'o/ /don ni skye bo rnams kyis dgongs pa ste/ de mdzad pa'i ngang tshul can gyi rang bzhin gang la yod pa de ni don mdzad pa'o/ / sbyin pa la sogs pa pha rol tu phyin pa bcu'i rgyu mthun pa de ni/ rang gi mtha'i stobs kyis 'dra ba'i 'bras bu'o/ /sdug bsngal sngar spangs pa nyid kyi phyir ro/ /bde ba yang sngon du byas pa'i gnas skabs na med pa'i phyir btang snyoms kyi ngo bo nyid kyi bde ba nyid med pa ni bde bral ba'o/ /'di skad du bstan par 'gyur te/ mtshan sum cu rtsa gnyis 'dzin cing dpe byad bzang po brgyad cus rnam par spras pa'i skus/ 'gro ba ma lus pa'i don mdzad pa/ sbyin pa la sogs pa pha rol tu phyin pa goms par mdzad pa'i stobs kyis bdag nyid yang dag par rdzogs pa'i sangs rgyas kyi ngo bo nyid bde ba dang/ sdug bsngal spangs pa'i btang snyoms kyi ngo bo nyid ni bsgrub par bya ba gnyis pa yin no/ /\\
+mdzes pa yang de nyid yin la | mtshan yang de nyid yin pas na mdzes pa'i mtshan sum cu rtsa gnyis zhes bya ste | des brgyan pa'o || don ni skye bo rnams kyis dgongs pa ste | de mdzad pa'i ngang tshul can gyi rang bzhin gang la yod pa de ni don mdzad pa'o ||  sbyin pa la sogs pa pha rol tu phyin pa bcu'i rgyu mthun pa de ni | rang gi mtha'i stobs kyis 'dra ba'i 'bras bu'o || sdug bsngal sngar spangs pa nyid kyi phyir ro || bde ba yang sngon du byas pa'i gnas skabs na med pa'i phyir btang snyoms kyi ngo bo nyid kyi bde ba nyid med pa ni bde bral ba'o || 'di skad du bstan par 'gyur te | mtshan sum cu rtsa gnyis 'dzin cing dpe byad bzang po brgyad cus rnam par spras pa'i skus | 'gro ba ma lus pa'i don mdzad pa | sbyin pa la sogs pa pha rol tu phyin pa goms par mdzad pa'i stobs kyis bdag nyid yang dag par rdzogs pa'i sangs rgyas kyi ngo bo nyid bde ba dang | sdug bsngal spangs pa'i btang snyoms kyi ngo bo nyid ni bsgrub par bya ba gnyis pa yin no || \\
 
 \textbf{\TVB}\\
-mdzes pa <rnam pa dang bcas pa> yang de nyid yin la mtshan yang de nyid yin pas na/ /mdzes pa <rnam pa dang bcas pa> yang de nyid yin la mtshan yang de nyid yin pas na/ mdzad pa'i mtshan sum cu rtsa gnyis zhes bya sde/ des brgyan pa'o/ /don te skye bo rnams kyis dgos pa mdzad pa'i ngang tshul can gyi rang bzhin gang la yod pa de ni de'i don mdzad pa'o/ /sbyin pa la sogs pa pha rol tu phyin pa [\TVB\ 73v] bcu'i rgyu mthun pa de ni rab kyi mtha'i stobs nyid kyis 'dra ba'i 'bras bu'o/ /sdug bsngal sngar spangs pa nyid kyi phyir dang/ bde ba yang mngon sum du byas pa'i sa nas skabs na med pa'i phyir/ btang snyoms kyi ngo bo nyid kyis bde ba nyid med pa'i ni bde bral ba'o/ /'di skad du bstan par 'gyur te/ mtshan sum cu rtsa gnyis 'dzin cing/dpe byad bzang po brgyad cus rnam par spras pa'i sku 'gro ba ma lus pa'i don mdzad pa/ sbyin pa la sogs pa'i pha rol tu phyin pa goms par mdzad pa'i stobs kyis byung ba yang dag par rdzogs pa'i sangs rgyas kyi ngo bo nyid bde ba dang/ sdug bsngal spangs pa'i btang snyoms kyi ngo bo nyid bsgrub par bya ba gnyis pa yin no/ /
+mdzes pa <rnam pa dang bcas pa> yang de nyid yin la mtshan yang de nyid yin pas na || mdzes pa <rnam pa dang bcas pa> yang de nyid yin la mtshan yang de nyid yin pas na | mdzad pa'i mtshan sum cu rtsa gnyis zhes bya sde | des brgyan pa'o || don te skye bo rnams kyis dgos pa mdzad pa'i ngang tshul can gyi rang bzhin gang la yod pa de ni de'i don mdzad pa'o || sbyin pa la sogs pa pha rol tu phyin pa [\TVB\ 73v] bcu'i rgyu mthun pa de ni rab kyi mtha'i stobs nyid kyis 'dra ba'i 'bras bu'o || sdug bsngal sngar spangs pa nyid kyi phyir dang | bde ba yang mngon sum du byas pa'i gnas skabs na med pa'i phyir | btang snyoms kyi ngo bo nyid kyis bde ba nyid med pa'i ni bde bral ba'o || 'di skad du bstan par 'gyur te | mtshan sum cu rtsa gnyis 'dzin cing |dpe byad bzang po brgyad cus rnam par spras pa'i sku 'gro ba ma lus pa'i don mdzad pa | sbyin pa la sogs pa'i pha rol tu phyin pa goms par mdzad pa'i stobs kyis byung ba yang dag par rdzogs pa'i sangs rgyas kyi ngo bo nyid bde ba dang | sdug bsngal spangs pa'i btang snyoms kyi ngo bo nyid bsgrub par bya ba gnyis pa yin no || 
 
 \subsection{Verse 6}
 \subsubsection{Root text}
@@ -431,19 +437,19 @@ mdzes pa <rnam pa dang bcas pa> yang de nyid yin la mtshan yang de nyid yin pas 
 
 	Followers of the Way of the Six Perfections—namely, giving and the others—teach that the goal is the body adorned with the blissful excellent qualities, enjoyed by the lords of the tenth stage and accomplishing the aims of sentient beings.
 
-	sbyin sogs pha rol [\TM\ fol.\ 203v] phyin drug tshul gnas pa/ /\\
-	dka' bcas sku ni mdzes pa'i mtshan gyis brgyan/ /\\
-	sa bcur bzhugs pas yang dag longs spyod pa/ /\\
-	'gro don mdzad pa bsgrub byar rab tu smra/ /
+	sbyin sogs pha rol [\TM\ fol.\ 203v] phyin drug tshul gnas pa || \\
+	dka' bcas sku ni mdzes pa'i mtshan gyis brgyan || \\
+	sa bcur bzhugs pas yang dag longs spyod pa || \\
+	'gro don mdzad pa bsgrub byar rab tu smra || 
 \end{quote}
 
 \subsubsection{Commentary}
 [\EDD\ p.\ 135] sānandetyādi.
 sahānandena vartata iti sā[\MS\ fol.\ 4r]nandam.
-sānandaṃ ca tat sallakṣaṇamaṇḍitāṅgaṃ sambhujyamānaṃ ca\footnoteB{
-	sambhujyamānañ ca] \emph{em.} (\textsc{Isaacson}); sambhujyamānaṃ \MS\ \EDD
-} dharmadeśanādvāreṇopajīvyamānam.\footnoteB{
-	°opajīvyamānam] \MS\ \EDD; °opabhujyamānam \possibleemd\ (\emph{cf.} \TVA\ and \TVB: nye bar longs spyod par gyur pa'o)
+sānandaṃ ca tat sallakṣaṇamaṇḍitāṅgaṃ ca\footnoteB{
+	sallakṣaṇamaṇḍitāṅgaṃ ca] \emph{em.} (\textsc{Isaacson}); sallakṣaṇamaṇḍitāṅgaṃ \MS\ \EDD
+} sambhujyamānaṃ dharmadeśanādvāreṇopajīvyamānam.\footnoteB{
+	°opajīvyamānam] \MS\ \EDD; nye bar longs spyod par gyur pa'o \TIB\ (°opabhujyamānam)
 }
 kaiḥ?
 daśabhūmīśvaraiḥ, pariśiṣṭabhūmisthitānām\footnoteB{
@@ -454,13 +460,15 @@ etad uktaṃ bhavati\emdash śuddhāvāsopari ghanavyūhasaṃjñake\footnoteB{
 	°saṃjñake] \emd; °saṃjñako \MS; °saṃjñakaḥ \EDD\ (\emd)
 } samyaksaṃbuddhabhuvane yathā bhagavān ānandarūpaḥ sambhogakāyātmā nirmāṇadvāreṇa sakalajagadarthasampādakaḥ śrāvakapratyekabuddhanavabhūmīśvarair apy adṛśyaśarīro daśabhūmīśvarair eva paramabodhisattvair\footnoteB{
 	paramabodhisattvair] \conj\ (\emph{cf.}\ \TVA\ and \TVB: mchog tu gyur pa'i byang chub sems dpa'); paraṃ bodhisatvair \MS\ \EDD\ (°sattvair)
-} dharmaśravaṇadvāreṇopabhujyamānam āsaṃsāraṃ cakāsti tathaiva tat sādhyam iti tṛtīyam.\\
+} dharmaśravaṇadvāreṇopabhujyamāna\footnoteB{
+	bhujyamāna] \emd ; bhujyamānam \MS\ \EDD
+} āsaṃsāraṃ cakāsti tathaiva tat sādhyam iti tṛtīyam.\\
 
 \textbf{\TVA}\\
-dga' bcas zhes bya ba la sogs pa la/ dga' ba dang lhan cig 'jug pa'i phyir de dag dga' ba dang bcas pa yin la/ mdzes pa'i mtshan rnams kyis brgyan pa'i sku yang yin pas so/ /yang dag longs spyod pa [\TVA\ fol.\ 206v]ni/ chos bstan pa'i sgo nas nye bar longs spyod par gyur pa'o/ /su zhig gis she na/ sa bcu'i dbang phyug rnams kyis te/ sa lhag ma rnams na gnas pa'i spyod yul ma yin pa nyid kyi phyir/ sa bcu brnyes pa spyan ras gzigs dang 'jam dpal la sogs pa rnams kyis longs spyod par bya ba ma yin no zhes bya ba'i bar du'o/ /lhag ma ni go sla'o/ /'di skad du bshad par 'gyur te/ gnas gtsang ma'i steng na yang dag par rdzogs pa'i sangs rgyas kyi pho brang stug po bkod pa zhes bya ba ni ji ltar bcom ldan 'das dga' ba'i ngo bo longs skyod rdzogs pa'i sku'i bdag nyid can/ sprul pa'i sku'i sgo nas 'gro ba ma lus pa'i don yang dag par sgrub par mdzad pa nyan thos dang rang sangs rgyas dang/ sa dgu'i dbang phyug rnams kyis kyang mi mthong ba'i sku can/ sa bcu'i dbang phyug mchog tu gyur pa'i byang chub sems dpa' kho nas chos gsan pa'i sgo nas nye bar longs spyad par bya ba 'khor ba ji srid nas bzhugs te/ de lta bu'i bsgrub par bya ba gsum pa yin no/ /\\
+dga' bcas zhes bya ba la sogs pa la | dga' ba dang lhan cig 'jug pa'i phyir de dag dga' ba dang bcas pa yin la | mdzes pa'i mtshan rnams kyis brgyan pa'i sku yang yin pas so || yang dag longs spyod pa [\TVA\ fol.\ 206v]ni | chos bstan pa'i sgo nas nye bar longs spyod par gyur pa'o || su zhig gis she na | sa bcu'i dbang phyug rnams kyis te | sa lhag ma rnams na gnas pa'i spyod yul ma yin pa nyid kyi phyir | sa bcu brnyes pa spyan ras gzigs dang 'jam dpal la sogs pa rnams kyis longs spyod par bya ba ma yin no zhes bya ba'i bar du'o || lhag ma ni go sla'o || 'di skad du bshad par 'gyur te | gnas gtsang ma'i steng na yang dag par rdzogs pa'i sangs rgyas kyi pho brang stug po bkod pa zhes bya ba ni ji ltar bcom ldan 'das dga' ba'i ngo bo longs skyod rdzogs pa'i sku'i bdag nyid can | sprul pa'i sku'i sgo nas 'gro ba ma lus pa'i don yang dag par sgrub par mdzad pa nyan thos dang rang sangs rgyas dang | sa dgu'i dbang phyug rnams kyis kyang mi mthong ba'i sku can | sa bcu'i dbang phyug mchog tu gyur pa'i byang chub sems dpa' kho nas chos gsan pa'i sgo nas nye bar longs spyad par bya ba 'khor ba ji srid nas bzhugs te | de lta bu'i bsgrub par bya ba gsum pa yin no || \\
 
 \textbf{\TVB}\\
-dga' bcas <rnam bcas kyi gzhung> zhes bya ba la sogs pa la/ dga' ba dang lhan cig 'jig pa'i phyir de dga' ba dang bcas pa yang yin la/ mdzes pa'i mtshan gyis brgyan pa'i sku yang yin pas so/ /yang dag longs spyod pa ni chos ston pa'i sgo nas nye bar longs spyod par gyur pa'o/ /su zhig gis zhe na/ /sa bcu'i dbang phyug rnams kyis te/ sa lhag ma rnams na gnas pa'i spyod yul ma yin pa nyid kyi phyir/ sa bcu pa brnyes pa spyan ras gzigs dbang phyug dang/ 'jam dpal la sogs pa rnams kyis longs spyod par bya ba yin no/ /zhes bya ba'i bar du'o/ /lhag ma ni go sla'o/ /'di skad du bshad par 'gyur te/ gnas [\TVB\ fol.\ 74r] gtsang ma'i steng na yang dag par rdzogs pa'i sangs rgyas kyi pho brang stug po bkod pa zhes bya ba na/ ji ltar bcom ldan 'das dga' ba'i ngo bo longs spyod rdzogs pa'i sku'i bdag nyid can/ sprul pa'i sku'i sgo nas 'gro ba ma lus pa'i don yang dag par sgrub par mdzad pa/ nyan thos dang rang sangs rgyas dang sa dgu'i dbang phyug rnams kyis kyang ma mthong ba'i sku can/ sa bcu'i dbang phyug mchog tu gyur pa'i byang chub sems dpa' kho nas chos gsan pa'i sgo nas nye bar longs spyod par bya ba 'khor ba ji srid du bzhugs te/ de lta bu ni bsgrub par bya ba gsum pa yin no/ /
+dga' bcas <rnam bcas kyi gzhung> zhes bya ba la sogs pa la | dga' ba dang lhan cig 'jig pa'i phyir de dga' ba dang bcas pa yang yin la | mdzes pa'i mtshan gyis brgyan pa'i sku yang yin pas so || yang dag longs spyod pa ni chos ston pa'i sgo nas nye bar longs spyod par gyur pa'o || su zhig gis zhe na || sa bcu'i dbang phyug rnams kyis te | sa lhag ma rnams na gnas pa'i spyod yul ma yin pa nyid kyi phyir | sa bcu pa brnyes pa spyan ras gzigs dbang phyug dang | 'jam dpal la sogs pa rnams kyis longs spyod par bya ba yin no || zhes bya ba'i bar du'o || lhag ma ni go sla'o || 'di skad du bshad par 'gyur te | gnas [\TVB\ fol.\ 74r] gtsang ma'i steng na yang dag par rdzogs pa'i sangs rgyas kyi pho brang stug po bkod pa zhes bya ba na | ji ltar bcom ldan 'das dga' ba'i ngo bo longs spyod rdzogs pa'i sku'i bdag nyid can | sprul pa'i sku'i sgo nas 'gro ba ma lus pa'i don yang dag par sgrub par mdzad pa | nyan thos dang rang sangs rgyas dang sa dgu'i dbang phyug rnams kyis kyang ma mthong ba'i sku can | sa bcu'i dbang phyug mchog tu gyur pa'i byang chub sems dpa' kho nas chos gsan pa'i sgo nas nye bar longs spyod par bya ba 'khor ba ji srid du bzhugs te | de lta bu ni bsgrub par bya ba gsum pa yin no || 
 
 \subsection{Verse 7}
 \subsubsection{Root Text}
@@ -475,10 +483,10 @@ dga' bcas <rnam bcas kyi gzhung> zhes bya ba la sogs pa la/ dga' ba dang lhan ci
 
 	After making replete all the qualities of giving and so forth, and after completing all the tasks of a perfect buddha, there is also a goal, taking the form of cessation, that is the direct perception of the limit of reality.
 
-	sbyin sogs yon tan ma lus yongs rdzogs pa/ /\\
-	rdzogs sangs mdzad pa ma lus mdzad nas ni/ /\\
-	gang zhig yang dag mtha' ni mngon mdzad pa/ /\\
-	'gog pa'i ngo bo bsgrub bya yang dag yod/ /
+	sbyin sogs yon tan ma lus yongs rdzogs pa || \\
+	rdzogs sangs mdzad pa ma lus mdzad nas ni || \\
+	gang zhig yang dag mtha' ni mngon mdzad pa || \\
+	'gog pa'i ngo bo bsgrub bya yang dag yod || 
 \end{quote}
 
 \subsubsection{Commentary}
@@ -495,10 +503,10 @@ tān saṃpūrya paripūrṇān\footnoteB{
 } yat sākṣātkaraṇaṃ tad api sādhyam astīti pāramitānayasthā evaṃ bruvate caturthaṃ sādhyam iti.\\
 
 \textbf{\TVA}\\
-sbyin sogs zhes bya ba la sogs pa la yon tan 'du byed goms par byed pa'i phyir/ spyan pa la sogs pa'i pha rol tu phyin pa nyid yon tan yin la de dag yang dag par rdzogs pa ste/ yongs su rdzogs par byas nas/ gang rdzogs pa'i sangs rgyas rnams kyis nges par mdzad par bya ba ma lus pa de yang mdzad nas/ yang dag pa'i mtha' ste gang sems dang sems las byung ba 'gog ba'i bdag nyid stong pa'i mtshan nyid mngon sum du mdzad pa'o/ /de yang bsgrub byar yod pa yin no zhes pha rol tu phyin pa'i tshul la gnas pa dag de skad smra ba bsgrub par bya ba bzhi pa yin no/ /\\
+sbyin sogs zhes bya ba la sogs pa la yon tan 'du byed goms par byed pa'i phyir | spyan pa la sogs pa'i pha rol tu phyin pa nyid yon tan yin la de dag yang dag par rdzogs pa ste | yongs su rdzogs par byas nas | gang rdzogs pa'i sangs rgyas rnams kyis nges par mdzad par bya ba ma lus pa de yang mdzad nas | yang dag pa'i mtha' ste gang sems dang sems las byung ba 'gog ba'i bdag nyid stong pa'i mtshan nyid mngon sum du mdzad pa'o || de yang bsgrub byar yod pa yin no zhes pha rol tu phyin pa'i tshul la gnas pa dag de skad smra ba bsgrub par bya ba bzhi pa yin no || \\
 
 \textbf{\TVB}\\
-<dbu ma pa'i gzhung> sbyin sogs zhes bya ba la sogs pa la/ yongs su yon tan du byed goms par byed pa'i phyir sbyin pa la sogs pa'i pha rol tu phyin pa nyid yon tan yin la/ de dag yang dag par rdzogs pa ste/ rdzogs par byas nas/ gang rdzogs pa'i sangs rgyas rnams kyis nges par mdzad par bya ba ma lus pa de yang mdzad nas/ yang dag mtha' ste/ gang sems dang sems las byung ba 'gog pa'i bdag nyid kyi stong pa'i mtshan nyid mngon sum du mdzad pa'o/ /de yang bsgrub byar yod pa yin no zhes pha rol tu phyin pa'i tshul la gnas pa de dag skad du smra ba bsgrub par bya ba bzhi pa'o/ /
+<dbu ma pa'i gzhung> sbyin sogs zhes bya ba la sogs pa la | yongs su yon tan du byed goms par byed pa'i phyir sbyin pa la sogs pa'i pha rol tu phyin pa nyid yon tan yin la | de dag yang dag par rdzogs pa ste | rdzogs par byas nas | gang rdzogs pa'i sangs rgyas rnams kyis nges par mdzad par bya ba ma lus pa de yang mdzad nas | yang dag mtha' ste | gang sems dang sems las byung ba 'gog pa'i bdag nyid kyi stong pa'i mtshan nyid mngon sum du mdzad pa'o || de yang bsgrub byar yod pa yin no zhes pha rol tu phyin pa'i tshul la gnas pa de dag skad du smra ba bsgrub par bya ba bzhi pa'o || 
 
 \subsection{Verse 8}
 \subsubsection{Root Text}
@@ -516,10 +524,10 @@ sbyin sogs zhes bya ba la sogs pa la yon tan 'du byed goms par byed pa'i phyir/ 
 	
 	They declare that the goal is the body adorned with the eighty minor marks that, while embracing the woman who is one's personal consort and acting for the sake of people, is by nature free of pleasure and pain and devoid of conceptualisation.
 
-	nyid mtshungs lha mos 'khyud cing 'gro ba yi/ /\\
-	don mdzad bde sdug nyid bral ngo bo nyid/ /\\
-	sku ni dpe byang bzang po brgyad cus brgyan/ /\\
-	rtog pa dang bral bsgrub byar rab tu 'chad/ /
+	nyid mtshungs lha mos 'khyud cing 'gro ba yi || \\
+	don mdzad bde sdug nyid bral ngo bo nyid || \\
+	sku ni dpe byang bzang po brgyad cus brgyan || \\
+	rtog pa dang bral bsgrub byar rab tu 'chad || 
 \end{quote}
 
 \subsubsection{Commentary}
@@ -534,7 +542,7 @@ svābhāṅganām\footnoteB{
 [\EDD\ p.\ 136] apetakalpaṃ vyapagatakalpam, kalpanārahitam iti yāvat.
 anyat subodham.
 ayam arthaḥ\emdash samāliṅgitasvābhāṅganāśleṣi jagadarthakāri\footnoteB{
-	°svābhāṅganāśleṣi jagadarthakāri] \conj\ (\TVB : nyid dang mtshungs pa'i lha mos 'khyud pa can 'gro ba'i don mdzad pa); °svābhāṅganāśleṣajagadarthakāri \MS\ \EDD; nyid dang mtshungs pa'i lha mos 'khyud pa can/ 'gro ba ma lus pa'i don mdzad pa \TVA\ (°svābhāṅganāśleṣy aśeṣajagadarthakāri)
+	°svābhāṅganāśleṣi jagadarthakāri] \conj\ (\TVB : nyid dang mtshungs pa'i lha mos 'khyud pa can 'gro ba'i don mdzad pa); °svābhāṅganāśleṣajagadarthakāri \MS\ \EDD; nyid dang mtshungs pa'i lha mos 'khyud pa can | 'gro ba ma lus pa'i don mdzad pa \TVA\ (°svābhāṅganāśleṣy aśeṣajagadarthakāri)
 }\footnoteA{
 	The compound \emph{°svābhāṅganāśleṣajagadarthakāri} is strinckly speaking not impossible, and could be read as a kind of instrumental \emph{tatpuruṣa}, for example; however, given that this is a prose explanation of the verse, there is no need for the author to use such a compound and it seems mostly likely that the scribe left off the \emph{ikāra}.
 } dvātriṃśallakṣaṇavibhūṣitaśarīram\footnoteB{
@@ -544,10 +552,10 @@ ayam arthaḥ\emdash samāliṅgitasvābhāṅganāśleṣi jagadarthakāri\foot
 } prathamaṃ sādhyam.\\
 
 \textbf{\TVA}\\
-da ni sngags kyi tshul du bshad pa'i bsgrub par bya ba rnam pa bdun bstan pa'i phyir/ nyid mtshungs lha mos zhes bya ba la sogs pa smos te/ nyid dang mtshungs pa'i lha mos 'khyud pa'i ngang tshul can gyi rang bzhin gang la mnga' ba de ni/ nyid mtshungs lha mos 'khyud pa can no/ /rtog pa dang bral ba ni rtog pa med cing spangs pa ste/ rnam par mi rtog pa zhes bya ba'i bar du'o/ /gzhan ni go sla'o/ /'di'i don ni 'di yin te/ yang dag par 'khyud pa ste/ nyid dang mtshungs pa'i lha mos 'khyud pa can/ 'gro ba ma lus pa'i [\TVA\ fol.\ 207r]/ /don mdzad pa'i sku mtshan sum cu rtsa gnyis la sogs pas rnam par brgyan pa btang snyoms kyi ngo bo nyid du 'khor ba ji srid du bzhugs pa mngon du bya ba yin no zhes bya ba bsgrub par bya ba dang po'o/ /\\
+da ni sngags kyi tshul du bshad pa'i bsgrub par bya ba rnam pa bdun bstan pa'i phyir | nyid mtshungs lha mos zhes bya ba la sogs pa smos te | nyid dang mtshungs pa'i lha mos 'khyud pa'i ngang tshul can gyi rang bzhin gang la mnga' ba de ni | nyid mtshungs lha mos 'khyud pa can no || rtog pa dang bral ba ni rtog pa med cing spangs pa ste | rnam par mi rtog pa zhes bya ba'i bar du'o || gzhan ni go sla'o || 'di'i don ni 'di yin te | yang dag par 'khyud pa ste | nyid dang mtshungs pa'i lha mos 'khyud pa can | 'gro ba ma lus pa'i [\TVA\ fol.\ 207r] || don mdzad pa'i sku mtshan sum cu rtsa gnyis la sogs pas rnam par brgyan pa btang snyoms kyi ngo bo nyid du 'khor ba ji srid du bzhugs pa mngon du bya ba yin no zhes bya ba bsgrub par bya ba dang po'o || \\
 
 \textbf{\TVB}\\
-da ni sngags kyi tshul du bshad pa'i bsgrub par bya ba rnam pa bdun bstan par bya ba'i phyir/ nyid mtshungs <a na ga badz+ra> lha mo zhes bya ba la sogs pa smos te/ nyid [\TVB\ fol.\ 74v] dang mtshungs pa'i lha mos 'khyud pa'i ngang tshul can gyi rang bzhin gang la mnga' ba de ni nyid mtshungs lha mos 'khyud pa can no/ /rtog pa dang bral ba ni rnam par rtog pa med cing rnam par rtog pa spangs pa zhes bya ba'i bar du'o/ /gzhan ni go sla'o/ /don ni 'di yin te/ yang dag par 'khyud pa ste/ nyid dang mtshungs pa'i lha <kha> mos 'khyud pa can 'gro <ga> ba'i don mdzad pa'i sku <k> mtshan sum cu rtsa gnyis la sogs pas rnam par brgyan pa btang snyoms kyi ngo bo nyid du 'khor ba ji bzhugs pa mngon sum du bya ba yin zhes bya ba ni bsgrub bya dang po'o/ /
+da ni sngags kyi tshul du bshad pa'i bsgrub par bya ba rnam pa bdun bstan par bya ba'i phyir | nyid mtshungs <a na ga badz+ra> lha mo zhes bya ba la sogs pa smos te | nyid [\TVB\ fol.\ 74v] dang mtshungs pa'i lha mos 'khyud pa'i ngang tshul can gyi rang bzhin gang la mnga' ba de ni nyid mtshungs lha mos 'khyud pa can no || rtog pa dang bral ba ni rnam par rtog pa med cing rnam par rtog pa spangs pa zhes bya ba'i bar du'o || gzhan ni go sla'o || don ni 'di yin te | yang dag par 'khyud pa ste | nyid dang mtshungs pa'i lha <kha> mos 'khyud pa can 'gro <ga> ba'i don mdzad pa'i sku <k> mtshan sum cu rtsa gnyis la sogs pas rnam par brgyan pa btang snyoms kyi ngo bo nyid du 'khor ba ji bzhugs pa mngon sum du bya ba yin zhes bya ba ni bsgrub bya dang po'o || 
 
 \subsection{Verse 9}
 \subsubsection{Root Text}
@@ -562,10 +570,10 @@ da ni sngags kyi tshul du bshad pa'i bsgrub par bya ba rnam pa bdun bstan par by
 
 	A certain [authority] says that [the goal is] bliss devoid of the qualifier of the form of a personal deity. It is meditated on from the very beginning, and when it becomes vivid, it is called Great Bliss, which accomplishes the aim of beings like a wish-fulfilling jewel.
 
-	dang po nyid nas lha yi rnam pa dag /\\
-	khyad par gyis stong bde ba yang dag bsgom/ /\\
-	gsal 'gyur bde chen 'gro ba'i don mdzad pa/ /\\
-	yid bzhin nor bur grags pa kha cig smra/ /
+	dang po nyid nas lha yi rnam pa dag  |\\
+	khyad par gyis stong bde ba yang dag bsgom || \\
+	gsal 'gyur bde chen 'gro ba'i don mdzad pa || \\
+	yid bzhin nor bur grags pa kha cig smra || 
 \end{quote}
 
 \subsubsection{Commentary}
@@ -585,14 +593,14 @@ prāg eva prathamataram\footnoteB{
 } sphu[\MS\ fol.\ 4v]\hspace{0em}ṭīkṛtaṃ san mahāsukhasaṃjñakaṃ bhavati.
 tac ca jagadarthakāri cintāmaṇisamānarūpam.
 etad uktaṃ bhavati\emdash upadeśānantaram eva mantramudrādevatākārarahitaṃ\footnoteB{
-	°rahitaṃ] \sigmareading{\TVA}; spangs te/ bde ba 'ba' zhig tsam \TVA\ (°rahitaṃ sukhamātraṃ)
+	°rahitaṃ] \sigmareading{\TVA}; spangs te | bde ba 'ba' zhig tsam \TVA\ (°rahitaṃ sukhamātraṃ)
 } bhāvanayā sphuṭīkṛtaṃ mahāsukhasaṃjñakaṃ cintāmaṇivaj jagadarthakāri māyopamam āsaṃsārasthāyi dvitīyaṃ sādhyam.\\
 
 \textbf{\TVA}\\
-dang po nyid nas zhes bya ba la sogs pa la lha'i rnam pa'i khyad par te/ bdag nyid kyis 'dod pa'i lha'i rnam pas stong pa dang/ rnam pa med pa zhes bya ba'i bar du'o/ /dang po nyid nas zhes bya ba ni/ thog ma nyid nas bshad ma thag pa'i lha'i rnam pa nyid la ltos pa med par bde ba yang dag par bsgom par bya ba rnam par bsgoms pas mngon sum du bya ba gsal ba ma yin pa gsal bar byas par gyur ba'i bde ba chen po zhes bya bar 'gyur ro/ /de yang 'gro don mdzad pa ni yid bzhin gyi nor bu dang mtshungs pa'i tshul du'o/ /'di skad bshad par 'gyur te/ bshad ma thag pa nyid kyi sngags dang phyag rgya dang lha'i rnam pa nyid spangs te/ bde ba 'ba' zhig tsam bsgoms pas gsal bar byas la bde ba chen po zhes bya/ yid bzhin gyi nor bu bzhin du 'gro ba ma lus pa'i don mdzad pa sgyu ma lta bu'i 'khor ba ji srid par bzhugs pa ni bsgrub par bya ba gnyis pa'o/ /\\
+dang po nyid nas zhes bya ba la sogs pa la lha'i rnam pa'i khyad par te | bdag nyid kyis 'dod pa'i lha'i rnam pas stong pa dang | rnam pa med pa zhes bya ba'i bar du'o || dang po nyid nas zhes bya ba ni | thog ma nyid nas bshad ma thag pa'i lha'i rnam pa nyid la ltos pa med par bde ba yang dag par bsgom par bya ba rnam par bsgoms pas mngon sum du bya ba gsal ba ma yin pa gsal bar byas par gyur ba'i bde ba chen po zhes bya bar 'gyur ro || de yang 'gro don mdzad pa ni yid bzhin gyi nor bu dang mtshungs pa'i tshul du'o || 'di skad bshad par 'gyur te | bshad ma thag pa nyid kyi sngags dang phyag rgya dang lha'i rnam pa nyid spangs te | bde ba 'ba' zhig tsam bsgoms pas gsal bar byas la bde ba chen po zhes bya | yid bzhin gyi nor bu bzhin du 'gro ba ma lus pa'i don mdzad pa sgyu ma lta bu'i 'khor ba ji srid par bzhugs pa ni bsgrub par bya ba gnyis pa'o || \\
 
 \textbf{\TVB}\\
-dang po nyid nas zhes bya ba la sogs pa la/ rang lha'i rnam pa'i khyad par te/ bdag nyid kyi 'dod pa'i lha rnams pas stong pa dang/ rnam pa med pa zhes bya ba'i bar du'o/ /dang po nyid nas zhes bya ba ni thog ma nyid nas bshad ma thag pa'i lha'i rnam pa nyid la bltos pa med <shar ba> par bde ba yang dag par bsgom par bya ba bsgom pas/ mngon du bya ba gsal ba ma yin pa gsal bar byas par gyur pa ni bde ba chen po zhes bya bar 'gyur ro/ /de yang 'gro don mdzad pa ni yid bzhin gyi nor bu dang mtshungs pa'i tshul du'o/ /'di skad du bshad par 'gyur te/ bshad ma thag pa'i nyid kyi sngags <sa bon las/ lha'i sku> dang phyag rgya dang lha'i rnam pa nyid spangs ste/ bsgoms pas gsal por [\TVB\ fol.\ 75r] byas pa bde <ga> ba chen po zhes bya ba yid bzhin gyi nor <ga> bu bzhin du 'gro ba'i don mdzad pa/ sgyu ma lta bu 'khor ba ji srid <ga> par bzhugs pa ni bsgrub par bya ba gnyis pa'o/ /
+dang po nyid nas zhes bya ba la sogs pa la | rang lha'i rnam pa'i khyad par te | bdag nyid kyi 'dod pa'i lha rnams pas stong pa dang | rnam pa med pa zhes bya ba'i bar du'o || dang po nyid nas zhes bya ba ni thog ma nyid nas bshad ma thag pa'i lha'i rnam pa nyid la bltos pa med <shar ba> par bde ba yang dag par bsgom par bya ba bsgom pas | mngon du bya ba gsal ba ma yin pa gsal bar byas par gyur pa ni bde ba chen po zhes bya bar 'gyur ro || de yang 'gro don mdzad pa ni yid bzhin gyi nor bu dang mtshungs pa'i tshul du'o || 'di skad du bshad par 'gyur te | bshad ma thag pa'i nyid kyi sngags <sa bon las | lha'i sku> dang phyag rgya dang lha'i rnam pa nyid spangs ste | bsgoms pas gsal por [\TVB\ fol.\ 75r] byas pa bde <ga> ba chen po zhes bya ba yid bzhin gyi nor <ga> bu bzhin du 'gro ba'i don mdzad pa | sgyu ma lta bu 'khor ba ji srid <ga> par bzhugs pa ni bsgrub par bya ba gnyis pa'o || 
 
 \subsection{Verse 10}
 \subsubsection{Root Text}
@@ -610,10 +618,10 @@ dang po nyid nas zhes bya ba la sogs pa la/ rang lha'i rnam pa'i khyad par te/ b
 	After directly perceiving one's lord with the nature of bliss, one then abandons it for a fruit that is mere bliss.
 	The pure cannot be directly perceived; therefore, the form of one's lord is to be meditated on.
 
-	rang bdag bde ba'i ngo bo mngon byas nas/ /\\
-	phyes btang bde btsam zhig 'bras 'gyur ba'o/ /\\
-	dag pa mngon sum byed par nus med nas/ /\\
-	de phyir bdag po'i rnam pa bsgom pa yin/ /
+	rang bdag bde ba'i ngo bo mngon byas nas || \\
+	phyes btang bde btsam zhig 'bras 'gyur ba'o || \\
+	dag pa mngon sum byed par nus med nas || \\
+	de phyir bdag po'i rnam pa bsgom pa yin || 
 \end{quote}
 
 \subsubsection{Commentary}
@@ -638,10 +646,10 @@ ayam arthaḥ\footnoteB{
 }\emdash devatākārasaṃvalitam eva sukhaṃ vibhāvya sākṣādbhūte devatākāraṃ tyaktvā sukhamātram eva sādhyam uktaguṇam.\\
 
 \textbf{\TVA}\\
-rang bdag ces bya ba la sogs pa smos pa la rang gi bdag po ni rang gi 'dod pa'i lha nyid do/ /bde ba'i ngo bo nyid ni bde ba gcig pu'i rang bzhin no/ /mngon byas pa ni kun nas mngon sum du byas pa yin no/ /phyis lha'i rnam pa nyid yongs su btang nas sgrub pa'i 'bras bu bde ba tsam la gnas par gyur pa'o/ /gal te mngon sum du byas nas kyang lha'i rnam pa'i ngo bo nyid gtang bar bya ba yin pa de lta na ni/ dang po nyid ci'i phyir rnam par sgom par byed de/ bsgrub par bya ba gnyis pa bzhin du bde ba tsam nyid ci ste bsgom par bya ba ma yin nam ngal ba don med pas ci zhig bya zhe na/ dag pa zhes bya ba la sogs pa smos te/ dag pa 'ba' zhig lha'i rnam pa dang/ rnam par bral ba'i bde ba tsam kho na mngon sum du byed mi nus te/ rnam pa dang bral ba'i bde ba 'ba' zhig mi dmigs pa'i phyir ro/ /rgyu de'i phyir rang gi bdag po'i rnam pa sgom par byed pa ste/ bsgrub par bya ba gsum pa yin no/ /de'i don ni 'di yin te/ lha nyid kyi rnam pa dang ldan pa'i bde ba kho na rnam par bsgom par bya ba mngon sum du byas nas lha'i rnam pa nyid [\TVA\ fol.\ 207v] btang ste/ bde ba tsam kho na bsgrub par bya ba yon tan du 'chad do/ /\\
+rang bdag ces bya ba la sogs pa smos pa la rang gi bdag po ni rang gi 'dod pa'i lha nyid do || bde ba'i ngo bo nyid ni bde ba gcig pu'i rang bzhin no || mngon byas pa ni kun nas mngon sum du byas pa yin no || phyis lha'i rnam pa nyid yongs su btang nas sgrub pa'i 'bras bu bde ba tsam la gnas par gyur pa'o || gal te mngon sum du byas nas kyang lha'i rnam pa'i ngo bo nyid gtang bar bya ba yin pa de lta na ni | dang po nyid ci'i phyir rnam par sgom par byed de | bsgrub par bya ba gnyis pa bzhin du bde ba tsam nyid ci ste bsgom par bya ba ma yin nam ngal ba don med pas ci zhig bya zhe na | dag pa zhes bya ba la sogs pa smos te | dag pa 'ba' zhig lha'i rnam pa dang | rnam par bral ba'i bde ba tsam kho na mngon sum du byed mi nus te | rnam pa dang bral ba'i bde ba 'ba' zhig mi dmigs pa'i phyir ro || rgyu de'i phyir rang gi bdag po'i rnam pa sgom par byed pa ste | bsgrub par bya ba gsum pa yin no || de'i don ni 'di yin te | lha nyid kyi rnam pa dang ldan pa'i bde ba kho na rnam par bsgom par bya ba mngon sum du byas nas lha'i rnam pa nyid [\TVA\ fol.\ 207v] btang ste | bde ba tsam kho na bsgrub par bya ba yon tan du 'chad do || \\
 
 \textbf{\TVB}\\
-rang bdag <rad na a kar shan ti> ces bya ba la sogs pa smos pa la/ rang gi bdag po ste/ rang gi 'dod pa'i lha nyid dang/ bde ba'i ngo bo ni bde ba gcig pu'i rang bzhin no/ /mngon byas pa ni kun nas mngon sum du byas pa yin no/ /phyis lha'i rnam pa nyid yongs su btang nas bsgrub par bya ba'i 'bras bu bde ba tsam la rnam par gnas par 'gyur ro/ /mngon sum du byas nas kyang lha'i rnam pa ngo bo nyid btang bar bya ba yin pa de lta na ni/ dang po nyid ci'i phyir rnam pa bsgom par byed de/ bsgrub par bya ba gnyis pa bzhin du bde ba tsam nyid ci ste bsgom par mi byed ma yin nam/ ngal ba don med pas ci zhig bya zhe na/ dag pa zhes bya ba la sogs pa smos te/ dag pa <bde ba> 'ba' shig lha'i rnam pa dang rnam par bra'i ba'i bde ba tsam kho nas mngon sum du byed mi nus te/ rnam pa dang bral ba'i bde ba mi dmigs <bde ba'i ngo bo> pa'i phyir ro/ /rgyu de'i phyir rang gi bdag po rnam par bsgom par byed pa zhes bya ba gsum pa yin no/ /don ni 'di yin te/ lha nyid kyi rnam par dang ldan pa'i bde ba kho na rnam par bsgom par bya ba mngon sum du byas nas lha'i rnam pa nyid btang ste/ bde ba <kha> tsam kho na sbgrub par bya ba [\TVB\ fol.\ 75v] yon tan can du 'chad do/ 
+rang bdag <rad na a kar shan ti> ces bya ba la sogs pa smos pa la | rang gi bdag po ste | rang gi 'dod pa'i lha nyid dang | bde ba'i ngo bo ni bde ba gcig pu'i rang bzhin no || mngon byas pa ni kun nas mngon sum du byas pa yin no || phyis lha'i rnam pa nyid yongs su btang nas bsgrub par bya ba'i 'bras bu bde ba tsam la rnam par gnas par 'gyur ro || mngon sum du byas nas kyang lha'i rnam pa ngo bo nyid btang bar bya ba yin pa de lta na ni | dang po nyid ci'i phyir rnam pa bsgom par byed de | bsgrub par bya ba gnyis pa bzhin du bde ba tsam nyid ci ste bsgom par mi byed ma yin nam | ngal ba don med pas ci zhig bya zhe na | dag pa zhes bya ba la sogs pa smos te | dag pa <bde ba> 'ba' shig lha'i rnam pa dang rnam par bra'i ba'i bde ba tsam kho nas mngon sum du byed mi nus te | rnam pa dang bral ba'i bde ba mi dmigs <bde ba'i ngo bo> pa'i phyir ro || rgyu de'i phyir rang gi bdag po rnam par bsgom par byed pa zhes bya ba gsum pa yin no || don ni 'di yin te | lha nyid kyi rnam par dang ldan pa'i bde ba kho na rnam par bsgom par bya ba mngon sum du byas nas lha'i rnam pa nyid btang ste | bde ba <kha> tsam kho na sbgrub par bya ba [\TVB\ fol.\ 75v] yon tan can du 'chad do | 
 
 \subsection{Verse 11}
 \subsubsection{Root Text}
@@ -658,10 +666,10 @@ rang bdag <rad na a kar shan ti> ces bya ba la sogs pa smos pa la/ rang gi bdag 
 
 	Another says that the goal has a body equal to space, a body adorned with the marks, filled with incomparable bliss, joined with his person consort, accomplishing the aims of all beings with limitless Buddha-sages who shoot forth, free of eradication.
 
-	sku ni nam mkha' dang mtshungs yan lag mtshan gyis brgyan/ /\\
-	dpe med bde bas gang ba nyid dang mtshungs par 'dus pa dang/ \\
-	thub pa'i dbang po 'phro bas bsams can rnams kyi don mdzad pa/ /\\
-	chad pas stong pa bsgrub bya nyid du gzhan dag rab tu smra/ /
+	sku ni nam mkha' dang mtshungs yan lag mtshan gyis brgyan || \\
+	dpe med bde bas gang ba nyid dang mtshungs par 'dus pa dang | \\
+	thub pa'i dbang po 'phro bas bsams can rnams kyi don mdzad pa || \\
+	chad pas stong pa bsgrub bya nyid du gzhan dag rab tu smra || 
 \end{quote}
 
 \subsubsection{Commentary}
@@ -671,30 +679,30 @@ gagaṇasamaṃ māyopamaṃ vicārāsahaṃ\footnoteB{
 } śarīraṃ yasya.
 lakṣaṇair dvātriṃśadbhir aśītibhiś cānuvyañjanair maṇḍitāny aṅgāni yasya.
 nirupamaiḥ sthaulya\footnoteB{
-	sthaulya°] \MS\ \EDD ; rgya nam pa nyid dang/ rgya che ba nyid dang \TVA\ (praṇītatvasthaulya°); lhun che ba nyid dang/ \TVB\ (sthaulya ?)
+	sthaulya°] \MS\ \EDD ; rgya nam pa nyid dang | rgya che ba nyid dang \TVA\ (praṇītatvasthaulya°); lhun che ba nyid dang | \TVB\ (sthaulya ?)
 }nairantaryā\footnoteB{
 	°nairantaryā°] \EDD\ (\emd); °nairuttaryā° \MS
 }saṃsāra\footnoteB{
 	°āsaṃsāra°] \emd ; °āsaṃsāraṃ \EDD
 }pravāhitvanirāsravatvādibhir upamābhāvād upamātikrāntaiḥ sukhaiḥ pūrṇaṃ romāgraparyantaṃ\footnoteB{
-	\conj\ (\TIB : gang ba ni/ ba spu rtse mo'i mthar thug pa) ; pūrṇṇaṃ masimāgrapayantaṃ \MS ; pūrṇatāṃ samāśrayantaṃ \EDD ;  \TVA\ (pūrṇaṃ romāgraparyantaṃ)
+	\conj\ (\TIB : gang ba ni | ba spu rtse mo'i mthar thug pa) ; pūrṇṇaṃ masimāgrapayantaṃ \MS ; pūrṇatāṃ samāśrayantaṃ \EDD ;  \TVA\ (pūrṇaṃ romāgraparyantaṃ)
 } saṃpūrṇam.
 svābhayā ca tathābhūtayā saṃgataṃ samāliṅgitam.
 sphuradbhir anantanirmitair munīndrais tathābhūtair eva sarvasattvārthakāri.\footnoteB{
 	sarvasattvārtha°] \MS\ \EDD\ (\TVB : sems can thams cad kyi don); sems can gyi don \TVA\ (sattvārtha°)
 }
 ucchedeneti nirodhena śūnyam tucchaṃ riktam.\footnoteB{
-	tucchaṃ riktaṃ \MS ; bhūsthaṃ riktam \EDD ; spangs pa’o \TIB\ (tucchaṃ / riktaṃ)
+	tucchaṃ riktaṃ \MS ; bhūsthaṃ riktam \EDD ; spangs pa’o \TIB\ (tucchaṃ  | riktaṃ)
 }\\
 
 \textbf{\TVA}\\
-sku ni bya ba la sogs pa la gang gi sku nam mkha' dang mtshungs pa'i sgyu ma dang 'dra bar dpyad mi bzod pa'o/ /gang gis yan lag mtshan gyi ste/ mtshan sum cu rtsa gnyis dang/ dpe byang chub bzang po brgyad cus spras par gyur pa'o/ /dpe med ces bya ba ni gya nom pa nyid dang/ rgya che ba nyid dang/ bar med pa nyid dang/ 'khor ba ji srid par rab tu 'jug pa nyid dang zag pa med pa nyid la sogs pa rnams kyis dpe med pa'i phyir ro/ /dpe las 'das pa'i bde bas gang ba ni/ ba spu'i rtse mo'i mthar thug par gyur pa'o/ / nyid dang mtshungs pa yang de lta bur gyur pas 'dus pa ste/ kun nas 'khyud par gyur pa'o/ /thub pa'i dbang po'i dpag tu med pa 'phro bar gyur pa de yang de lta bu kho nas sems can gyi don mdzad pa'o/ /chad pas zhes bya ba ni/ 'gog pa stong pa ste spangs pa'o/ /\\
+sku ni bya ba la sogs pa la gang gi sku nam mkha' dang mtshungs pa'i sgyu ma dang 'dra bar dpyad mi bzod pa'o || gang gis yan lag mtshan gyi ste | mtshan sum cu rtsa gnyis dang | dpe byang chub bzang po brgyad cus spras par gyur pa'o || dpe med ces bya ba ni gya nom pa nyid dang | rgya che ba nyid dang | bar med pa nyid dang | 'khor ba ji srid par rab tu 'jug pa nyid dang zag pa med pa nyid la sogs pa rnams kyis dpe med pa'i phyir ro || dpe las 'das pa'i bde bas gang ba ni | ba spu'i rtse mo'i mthar thug par gyur pa'o ||  nyid dang mtshungs pa yang de lta bur gyur pas 'dus pa ste | kun nas 'khyud par gyur pa'o || thub pa'i dbang po'i dpag tu med pa 'phro bar gyur pa de yang de lta bu kho nas sems can gyi don mdzad pa'o || chad pas zhes bya ba ni | 'gog pa stong pa ste spangs pa'o || \\
 
 \textbf{\TVB}\\
-sku ni zhes bya ba la sogs pa la/ <rang gi 'dod pa> gang gi sku nam mkha' dang mtshungs pa ni <'ja' tshon lta bur> sgyu ma dang 'dra bar dpyad mi bzod pa'o/ /gang gi yan lan mtshan gyis te/ mtshan sum cu rtsa gnyid dang dpe byad bzang po brgyad cus spras par gyur pa'o/ dpe med ces bya ba ni lhun che ba nyid dang/ bar med pa nyid dang/ 'khor ba ci srid par rab tu 'jug pa nyid dang/ zag pa med pa nyid la sogs pa rnams kyis dpe med pa'i phyir/ dpe las 'das pa'i bde bas gang ba ni/ ba spu'i rtse mo'i mthar thug par yang dag par gang bar gyur pa'o/ /nyid dang mtshungs pa yang de lta bur gyur pas 'dus pa ste kun nas 'khyud par 'gyur pa'o/ /thub pa'i dbang po dpag tu med pa 'phro ba yang de lta bur gyur pa kho nas sems can thams cad kyi don mdzad pa'o/ /chad pas zhes bya ba ni 'gog pas sgong pa ste spangs pa'o/ /\\
+sku ni zhes bya ba la sogs pa la | <rang gi 'dod pa> gang gi sku nam mkha' dang mtshungs pa ni <'ja' tshon lta bur> sgyu ma dang 'dra bar dpyad mi bzod pa'o || gang gi yan lan mtshan gyis te | mtshan sum cu rtsa gnyid dang dpe byad bzang po brgyad cus spras par gyur pa'o | dpe med ces bya ba ni lhun che ba nyid dang | bar med pa nyid dang | 'khor ba ci srid par rab tu 'jug pa nyid dang | zag pa med pa nyid la sogs pa rnams kyis dpe med pa'i phyir | dpe las 'das pa'i bde bas gang ba ni | ba spu'i rtse mo'i mthar thug par yang dag par gang bar gyur pa'o || nyid dang mtshungs pa yang de lta bur gyur pas 'dus pa ste kun nas 'khyud par 'gyur pa'o || thub pa'i dbang po dpag tu med pa 'phro ba yang de lta bur gyur pa kho nas sems can thams cad kyi don mdzad pa'o || chad pas zhes bya ba ni 'gog pas sgong pa ste spangs pa'o || \\
 
 etad uktaṃ bhavati\emdash gaganamāyāmarīci\footnoteB{
-	māyāmarīci] \MS\ \EDD\ (\TVB : sgyu ma dang/ smig rgyu dang/) ; sgyu ma dang/ smig rgyu dang/ smig rgyu dang/ \TVA\ (māyāmarīcīndrajāla / māyendrajālamarīci)
+	māyāmarīci] \MS\ \EDD\ (\TVB : sgyu ma dang | smig rgyu dang |) ; sgyu ma dang | smig rgyu dang | smig rgyu dang | \TVA\ (māyāmarīcīndrajāla  | māyendrajālamarīci)
 }\hspace{0em}gandharvanagarodakacandrapratibimbasvapnopamam\footnoteB{
 	°svapnopayam] \EDD ; svapnāpayaṃ \MS
 } [\MS\ fol.\ 5r] ekānekabhāvābhāvagrāhyagrāhakasvabhāvarahitam anādyantam aśeṣavastusaṃdohasvabhāvam\footnoteB{
@@ -717,10 +725,10 @@ anekavidhaprātihāryadvāreṇa\footnoteB{
 } sādhyam.\\
 
 \textbf{\TVA}\\
-'di skad bshad par 'gyur te/ nam mkha' dang/ sgyu ma dang/ mig 'phrul dang/ smig rgyu dang/ dri za'i grong khyer dang/ chu zla dang/ gzugs brnyan dang/ rmi lam dang 'dra bas gcig dang/ du ma dang/ dngos po dang/ dngos po med pa dang/ gzung ba dang 'dzin pa'i rang bzhin dang bral la/ thog ma dang tha ma med pa'i dngos po ma lus pa'i rang bzhin snang ba med pas/ dri ma med pa dpe thams cad las shin tu 'das pa/ mchog tu phra zhing shin tu zab pa/ shes rab kyi ngo bo nyid kyis chos kyi sku'i rang bzhin yin pa dang/ sku mtshan sum cu rtsa gnyis kyis brgyan zhing/ dpe byad bzang po brgyad cus rnam par sbas pa/ shin tu sgeg cing na tshod la sogs pa dang ldan pa nyid dang/ nyid dang mtshungs pa'i lha mos sku la 'khyud cing/ gzugs rdo rje la sogs pa nas/ sgrol ma'i mthar thug pa'i lha mo'i tshogs kyis mtshan ma med pa'i dga' ba'i rang gi ngo bo'i rab tu dbye ba dpag tu med pas mchog tu dga' ba la nye bar longs skyod pa'i sgo nas/ gzugs brnyan dang 'dra bas yang dag par longs spyod pa ni snying rje'i rang bzhin rgya che ba nyid kyis longs spyod rdzogs pa'i sku'i ngo bo nyid dang/ gdul bya'i skye bo mos pa sna tshogs pa yongs su smin par bya ba'i don du/ rdzu 'phrul dang cho 'phrul rnam [\TVA\ fol.\ 208r]/ /pa du ma'i sgo nas rigs kyi nang du chud pa'i rdzogs pa'i sangs rgyas dang/ byang chub sems dpa' la sogs pa'i sprul pa dpag tu med pa spro ba dang/ bsdu ba mdzad pa nyid kyis ni sprul pa'i sku'i mtshan nyid dang/ stong pa nyid dang/ snying rje tha mi dad pa'i byang chub sems kyi rang bzhin dri ma med pa shes rab dang thabs kyi ting nge 'dzin las yang dag par 'byung ba'i bde ba dam pas gang ba/ 'khor ba ji srid par bzhugs pa'i chos can mi gnas pa'i mya ngan las 'das pa'i ngo bo mar me rlung gis ma bskyod pa'i rtse mo bzhin du dri ma med pa'i rgyun gyi rtag pa nyid kyis 'gog pas stong pa ni bsgrub par bya ba bzhin pa'o/ /\\
+'di skad bshad par 'gyur te | nam mkha' dang | sgyu ma dang | mig 'phrul dang | smig rgyu dang | dri za'i grong khyer dang | chu zla dang | gzugs brnyan dang | rmi lam dang 'dra bas gcig dang | du ma dang | dngos po dang | dngos po med pa dang | gzung ba dang 'dzin pa'i rang bzhin dang bral la | thog ma dang tha ma med pa'i dngos po ma lus pa'i rang bzhin snang ba med pas | dri ma med pa dpe thams cad las shin tu 'das pa | mchog tu phra zhing shin tu zab pa | shes rab kyi ngo bo nyid kyis chos kyi sku'i rang bzhin yin pa dang | sku mtshan sum cu rtsa gnyis kyis brgyan zhing | dpe byad bzang po brgyad cus rnam par sbas pa | shin tu sgeg cing na tshod la sogs pa dang ldan pa nyid dang | nyid dang mtshungs pa'i lha mos sku la 'khyud cing | gzugs rdo rje la sogs pa nas | sgrol ma'i mthar thug pa'i lha mo'i tshogs kyis mtshan ma med pa'i dga' ba'i rang gi ngo bo'i rab tu dbye ba dpag tu med pas mchog tu dga' ba la nye bar longs skyod pa'i sgo nas | gzugs brnyan dang 'dra bas yang dag par longs spyod pa ni snying rje'i rang bzhin rgya che ba nyid kyis longs spyod rdzogs pa'i sku'i ngo bo nyid dang | gdul bya'i skye bo mos pa sna tshogs pa yongs su smin par bya ba'i don du | rdzu 'phrul dang cho 'phrul rnam [\TVA\ fol.\ 208r] || pa du ma'i sgo nas rigs kyi nang du chud pa'i rdzogs pa'i sangs rgyas dang | byang chub sems dpa' la sogs pa'i sprul pa dpag tu med pa spro ba dang | bsdu ba mdzad pa nyid kyis ni sprul pa'i sku'i mtshan nyid dang | stong pa nyid dang | snying rje tha mi dad pa'i byang chub sems kyi rang bzhin dri ma med pa shes rab dang thabs kyi ting nge 'dzin las yang dag par 'byung ba'i bde ba dam pas gang ba | 'khor ba ji srid par bzhugs pa'i chos can mi gnas pa'i mya ngan las 'das pa'i ngo bo mar me rlung gis ma bskyod pa'i rtse mo bzhin du dri ma med pa'i rgyun gyi rtag pa nyid kyis 'gog pas stong pa ni bsgrub par bya ba bzhin pa'o || \\
 
 \textbf{\TVB}\\
-'di skad du bshad par 'gyur te/ nam mkha' dang sgyu ma dang/ smig rgyu dang/ dri za'i khrong khyer dang/ chu zla dang gzugs brnyad dang/ rmi lam dang 'dra bar gcig dang/ du ma dang/ dngos po dang/ dngos po med pa dang/ gzung ba dang/ 'dzin pa'i rang bzhin bral ba/ thog ma dang tha ma med pa'i dngos po ma lus pa'i rang bzhin snang ba med pa dri ma med pa dpe thams cad las shin tu 'das pa/ mchog tu phra zhing shin [\TVB\ fol.\ 76r] tu zab pa shes rab kyi ngo bo nyid kyis chos kyi sku'i rang bzhin yin pa dang/ sku <ka> mtshan sum cu rtsa gnyis kyis brgyan cing dpe byad bzang po brgyad cus rnam par spras pa mchog tu sgeg cing na tshod la sogs pa dang ldan pa dang/ sku nyid dang mtshungs pa'i lha <kha> mos 'khyud cing/ gzugs rdo rje la sogs pa nas sgrol ma'i mthar thug pa'i lha mo'i tshogs kyis mtshan ma med pa'i rang gi ngo bo'i rab tu dpag tu med pas mchog tu dga' ba la nye bar longs spyod pa'i sgo nas gzugs brnyan dang 'dra bas yang dag par longs spyod pa ni snying rje'i rang bzhin rgya che ba nyid kyis longs spyod rdzogs pa'i ngo bo nyid dang/ gdul bya'i skye bo mos pa sna tshogs pa yongs su smin par bya ba'i don du rdzu 'phrul dang cho 'phrul rnam pa du ma'i sgo nas rigs kyi nang du chud pa'i rdzogs pa'i sangs rgyas dang byang chub sems dpa'i sprul pa dpag tu med pa spro ba dang/ bsdu ba mdzad pa nyid kyis na sprul pa'i sku'i bdag nyid dang/ stong pa nyid dang snying rje dang tha mi dad pa'i byang chub kyi sems kyi rang bzhin dri ma med pa shes rab dang thabs kyi ting nge 'dzin las yang dag par byung ba'i bde <ga> ba dam pas gang 'khor ba ji srid <ja> par bzhugs pa'i chos can/ mi gnas pa'i mya ngan las 'das pa'i ngo bo dang/ mar me rlung gis ma bskyod pa'i rtse mo bzhin du dri ma [N-D fol.\ 76v] med pa'i rgyun gyis rtag pa nyid kyi <cha> 'gog pas stong pa ni bsgrub par bya ba bzhi pa'o/ /
+'di skad du bshad par 'gyur te | nam mkha' dang sgyu ma dang | smig rgyu dang | dri za'i khrong khyer dang | chu zla dang gzugs brnyad dang | rmi lam dang 'dra bar gcig dang | du ma dang | dngos po dang | dngos po med pa dang | gzung ba dang | 'dzin pa'i rang bzhin bral ba | thog ma dang tha ma med pa'i dngos po ma lus pa'i rang bzhin snang ba med pa dri ma med pa dpe thams cad las shin tu 'das pa | mchog tu phra zhing shin [\TVB\ fol.\ 76r] tu zab pa shes rab kyi ngo bo nyid kyis chos kyi sku'i rang bzhin yin pa dang | sku <ka> mtshan sum cu rtsa gnyis kyis brgyan cing dpe byad bzang po brgyad cus rnam par spras pa mchog tu sgeg cing na tshod la sogs pa dang ldan pa dang | sku nyid dang mtshungs pa'i lha <kha> mos 'khyud cing | gzugs rdo rje la sogs pa nas sgrol ma'i mthar thug pa'i lha mo'i tshogs kyis mtshan ma med pa'i rang gi ngo bo'i rab tu dpag tu med pas mchog tu dga' ba la nye bar longs spyod pa'i sgo nas gzugs brnyan dang 'dra bas yang dag par longs spyod pa ni snying rje'i rang bzhin rgya che ba nyid kyis longs spyod rdzogs pa'i ngo bo nyid dang | gdul bya'i skye bo mos pa sna tshogs pa yongs su smin par bya ba'i don du rdzu 'phrul dang cho 'phrul rnam pa du ma'i sgo nas rigs kyi nang du chud pa'i rdzogs pa'i sangs rgyas dang byang chub sems dpa'i sprul pa dpag tu med pa spro ba dang | bsdu ba mdzad pa nyid kyis na sprul pa'i sku'i bdag nyid dang | stong pa nyid dang snying rje dang tha mi dad pa'i byang chub kyi sems kyi rang bzhin dri ma med pa shes rab dang thabs kyi ting nge 'dzin las yang dag par byung ba'i bde <ga> ba dam pas gang 'khor ba ji srid <ja> par bzhugs pa'i chos can | mi gnas pa'i mya ngan las 'das pa'i ngo bo dang | mar me rlung gis ma bskyod pa'i rtse mo bzhin du dri ma [N-D fol.\ 76v] med pa'i rgyun gyis rtag pa nyid kyi <cha> 'gog pas stong pa ni bsgrub par bya ba bzhi pa'o || 
 
 \subsection{Verse 12}
 \subsubsection{Root Text}
@@ -740,10 +748,10 @@ anekavidhaprātihāryadvāreṇa\footnoteB{
 	It remains as long as there is \emph{saṃsāra} and accomplishes the aims of beings.
 	Known as the wish-fulfilling jewel, it is entirely at peace.
 
-	rang bdag bde ba'i ngo bo mngon byas nas/ /\\
-	btang snyoms ngo bo ye shes tsam 'bras bu/ /\\
-	'khor ba srid zhugs sems can don mdzad pa/ /\\
-	yid bzhin nor grags gcig tu zhi gyur pa'o/ /
+	rang bdag bde ba'i ngo bo mngon byas nas || \\
+	btang snyoms ngo bo ye shes tsam 'bras bu || \\
+	'khor ba srid zhugs sems can don mdzad pa || \\
+	yid bzhin nor grags gcig tu zhi gyur pa'o || 
 \end{quote}
 
 \subsubsection{Commentary}
@@ -757,10 +765,10 @@ anyat sugamam.\footnoteB{
 etad uktaṃ bhavati\emdash maṇḍalacakrarūpaṃ sākṣāt kṛtvā, paścāt tan nirodhya, upekṣājñānamātraṃ sādhyaṃ syāt pañcamam.\\
 
 \textbf{\TVA}\\
-rang bdag ces bya ba la sogs pa la rang gi bdag po mngon sum du byas nas phyis bstan ste/ btang snyoms kyi ngo bo gang yin pa'i ye shes de tsam zhig bsgrub byar 'gyur ro/ /gzhan ni rtogs par sla'o/ /'di skad bshad par 'gyur te/ dkyil 'khor gyi 'khor lo'i ngo bo mngon sum du byas nas/ phyis de bkag cing btang snyoms kyi ye shes tsam du gyur pa ni bsgrub par bya ba lnga pa'o/ /\\
+rang bdag ces bya ba la sogs pa la rang gi bdag po mngon sum du byas nas phyis bstan ste | btang snyoms kyi ngo bo gang yin pa'i ye shes de tsam zhig bsgrub byar 'gyur ro || gzhan ni rtogs par sla'o || 'di skad bshad par 'gyur te | dkyil 'khor gyi 'khor lo'i ngo bo mngon sum du byas nas | phyis de bkag cing btang snyoms kyi ye shes tsam du gyur pa ni bsgrub par bya ba lnga pa'o || \\
 
 \textbf{\TVB}\\
-rang bdag ces bya ba la <zla grags> kyi gzhung sogs pa la/ rang gi bdag po mngon sum du byas nas phyis btang ste/ btang snyoms kyi ngo bo gang yin pa'i ye shes de tsam zhig bsgrub byar 'gyur ro/ /gzhan ni rtogs par sla'o/ /'di skad du bshad par 'gyur te/ dkyil 'khor gyi 'khor lo'i ngo bo mngon sum du byas nas phyis de bkag cing btang snyoms kyi ye shes tsam du 'gyur ba ni bsgrub par bya ba lnga pa'o/ /
+rang bdag ces bya ba la <zla grags> kyi gzhung sogs pa la | rang gi bdag po mngon sum du byas nas phyis btang ste | btang snyoms kyi ngo bo gang yin pa'i ye shes de tsam zhig bsgrub byar 'gyur ro || gzhan ni rtogs par sla'o || 'di skad du bshad par 'gyur te | dkyil 'khor gyi 'khor lo'i ngo bo mngon sum du byas nas phyis de bkag cing btang snyoms kyi ye shes tsam du 'gyur ba ni bsgrub par bya ba lnga pa'o || 
 
 \subsection{Verse 13}
 \subsubsection{Root Text}
@@ -778,10 +786,10 @@ rang bdag ces bya ba la <zla grags> kyi gzhung sogs pa la/ rang gi bdag po mngon
 	After directly perceiving the \emph{maṇḍala} whose nature is pleasure, there is later its cessation based on one's desire.
 	Neither is there here an absence of [accomplishing] the aims of beings, since from cessation there is manifestation.
 
-	dkyil 'khor bde gang mngon sum byas nas ni/ /\\
-	phyis ni de rang 'dod pas nges ldog pa/ /\\
-	sems can don yang yod de 'dir med min/ /\\
-	gang phyir nges par ldog pas rab tu byung/ /
+	dkyil 'khor bde gang mngon sum byas nas ni || \\
+	phyis ni de rang 'dod pas nges ldog pa || \\
+	sems can don yang yod de 'dir med min || \\
+	gang phyir nges par ldog pas rab tu byung || 
 \end{quote}
 
 \subsubsection{Commentary}
@@ -801,10 +809,10 @@ asmin pakṣe sattvārthābhāvo nāsti, yasmān nirvṛtāc cakrāt karuṇāsa
 }\\
 
 \textbf{\TVA}\\
-dkyil 'khor zhes bya ba la sogs pa la/ dkyil 'khor bde ba'i rang bzhin can mngon du byas nas/ de'i rang gi 'dod pa nges par ldog pa ni 'gog pa'o/ /gal te mngon sum du byas nas kyang/ phyis rang gi 'dod pas 'gog par bya ba yin na ni de'i tshe yun ring por goms par byas pa'i snying rje med par 'gyur ba ma yin nam/ de yang med pa'i phyir sems can gyi don med par 'gyur ro zhes dogs pa la/ sems can don yang yod de 'dir med min/ /zhes bya ba smos te/ phyogs 'di la sems can gyi don byed pa med pa ma yin te/ gang gi phyir 'gog pa'i 'khor lo las snying rje'i rang bzhin can sems can gyi don rab tu 'byung ba yod pa yin no/ /\\
+dkyil 'khor zhes bya ba la sogs pa la | dkyil 'khor bde ba'i rang bzhin can mngon du byas nas | de'i rang gi 'dod pa nges par ldog pa ni 'gog pa'o || gal te mngon sum du byas nas kyang | phyis rang gi 'dod pas 'gog par bya ba yin na ni de'i tshe yun ring por goms par byas pa'i snying rje med par 'gyur ba ma yin nam | de yang med pa'i phyir sems can gyi don med par 'gyur ro zhes dogs pa la | sems can don yang yod de 'dir med min || zhes bya ba smos te | phyogs 'di la sems can gyi don byed pa med pa ma yin te | gang gi phyir 'gog pa'i 'khor lo las snying rje'i rang bzhin can sems can gyi don rab tu 'byung ba yod pa yin no || \\
 
 \textbf{\TVB}\\
-dkyil 'khor zhes bya ba la sogs pa la/ dkyil 'khor bde ba'i rang bzhin can mngon sum du byas nas/ de rang gi 'dod pa las nges par ldog pa ni 'gog pa'o/ gal te mgun sum du byas nas kyang phyis rang gi 'dod pas 'gog par bya ba yin na ni/ de'i tshe yun ring por goms par byas pa'i snying rje med par 'gyur ma yin nam/ de yang med pa'i phyir sems can gyi don med par 'gyur zhes dogs pa la/ sems can don yang yod de 'dir med min zhes bya ba smos te/ phyogs 'di la sems can gyi don byed pa med pa ma yin te/ gang gi phyir 'gags pa'i 'khor lo las snying rje'i rang bzhin can sems can gyi don tu rab tu 'byung ba yod pa yin no/ /\\
+dkyil 'khor zhes bya ba la sogs pa la | dkyil 'khor bde ba'i rang bzhin can mngon sum du byas nas | de rang gi 'dod pa las nges par ldog pa ni 'gog pa'o | gal te mgun sum du byas nas kyang phyis rang gi 'dod pas 'gog par bya ba yin na ni | de'i tshe yun ring por goms par byas pa'i snying rje med par 'gyur ma yin nam | de yang med pa'i phyir sems can gyi don med par 'gyur zhes dogs pa la | sems can don yang yod de 'dir med min zhes bya ba smos te | phyogs 'di la sems can gyi don byed pa med pa ma yin te | gang gi phyir 'gags pa'i 'khor lo las snying rje'i rang bzhin can sems can gyi don tu rab tu 'byung ba yod pa yin no || \\
 
 etenaitad evāha\emdash sātasaṃpūrṇacakraṃ sākṣāt kṛtvā, yāvadiṣṭaṃ kālaṃ vyavasthāpya, paścāt tasya sarvathaiva pradīpavan nirodhaṃ kṛtvā sthātavyam.
 yadā punaḥ sattvārthābhilāṣo bhavati, tadā niruddhād eva cakrāntaram utpādya sattvārthaḥ kartavyaḥ.
@@ -817,17 +825,17 @@ cakrāntarotpāde\footnoteB{
 } vineyānāṃ yathābhilaṣitaprāptir bhavatīti ṣaṣṭham.\\
 
 \textbf{\TVA}\\
-de ni 'di skad du bstan te/ bde bas yang dag par gang ba'i 'khor lo mngon sum du byas nas/ dus ji srid du 'dod par rnam par gnas pa ste/ phyis de rnams thams cad du mar me bzhin du 'gog pa yin no/ /yang gang gi tshe sems can gyi don mngon par 'dod par gyur na/ de'i 'gags pa nyid las 'khor lo'i khyad par 'byung zhing sems can [\TVA\ fol.\ 208v] gyi don mdzad do/ /'khor lo'i khyad par 'byung ba yang ring du 'gags pa'i 'khor lo'i kho na las skal ba ji lta ba bzhin du gdul bya rnams kyis mngon par 'dod ba rnyed par 'gyur ro zhes bya ba ni bsgrub par bya ba drug pa'o/ /\\
+de ni 'di skad du bstan te | bde bas yang dag par gang ba'i 'khor lo mngon sum du byas nas | dus ji srid du 'dod par rnam par gnas pa ste | phyis de rnams thams cad du mar me bzhin du 'gog pa yin no || yang gang gi tshe sems can gyi don mngon par 'dod par gyur na | de'i 'gags pa nyid las 'khor lo'i khyad par 'byung zhing sems can [\TVA\ fol.\ 208v] gyi don mdzad do || 'khor lo'i khyad par 'byung ba yang ring du 'gags pa'i 'khor lo'i kho na las skal ba ji lta ba bzhin du gdul bya rnams kyis mngon par 'dod ba rnyed par 'gyur ro zhes bya ba ni bsgrub par bya ba drug pa'o || \\
 
 \textbf{\TVB}\\
-de ni 'di skad du bstan te/ bde bas yang dag par gang ba'i 'khor lo mngon sum du byas nas dus ji srid 'dod [\TVB\ fol.\ 77r] par rnam par gnas te phyis de rnam pa thams cad du mar me bzhin du 'gog pa yin no/ /yang gang gi tshe sems can gyi don mngon par 'dod par 'gyur na/ de tshe 'gag pa nyid las 'khor lo'i khyad par 'byung zhing sems can gyi don mdzad pa'am/ 'khor lo'i khyad par 'byung ba yang/ ring du 'gags pa'i 'khor lo kho na las skal ba ji lta ba bzhin du gdul bya rnams kyis mngon par 'dod pa rnyed par 'gyur ro zhes bya ba ni drug pa'o/ /
+de ni 'di skad du bstan te | bde bas yang dag par gang ba'i 'khor lo mngon sum du byas nas dus ji srid 'dod [\TVB\ fol.\ 77r] par rnam par gnas te phyis de rnam pa thams cad du mar me bzhin du 'gog pa yin no || yang gang gi tshe sems can gyi don mngon par 'dod par 'gyur na | de tshe 'gag pa nyid las 'khor lo'i khyad par 'byung zhing sems can gyi don mdzad pa'am | 'khor lo'i khyad par 'byung ba yang | ring du 'gags pa'i 'khor lo kho na las skal ba ji lta ba bzhin du gdul bya rnams kyis mngon par 'dod pa rnyed par 'gyur ro zhes bya ba ni drug pa'o || 
 
 \subsection{Verse 14}
 \subsubsection{Root Text}
 \begin{quote}
 	kṛtvā sphuṭaṃ rūpam abhīṣṭam eṣāṃ \\
 	paścān nirodhaḥ\footnoteB{
-		nirodhaḥ] \emd ; nirodha(ṃ) \MSS\ (\emph{this may be corrected to ḥ}); nirodhaṃ \EDD
+		nirodhaḥ] \emd ; nirodha(ṃ) \MS\ (\emph{this may be corrected to ḥ}); nirodhaṃ \EDD
 	}\footnoteA{
 		It is possible to take \emph{phala} as the direct object of √\emph{ah} and then read \emph{nirodhaṃ}, construing it as an accusative form; however, the agent of \emph{√kṛ} and \emph{√ah} would have to be the same.
 		Rather, with the reading \emph{nirodhaḥ phalaṃ}, we can avoid this problem and simply supply an \emph{iti}.
@@ -839,10 +847,10 @@ de ni 'di skad du bstan te/ bde bas yang dag par gang ba'i 'khor lo mngon sum du
 	Some say that after realising directly the desire form of these [other six positions], [one later realises] the fruit which is cessation.
 	And because cessation is not different in nature, even though there are different position, it has no distinction.
 
-	de rnams las 'dod ngo bo gsal byas la/ /\\
-	phyir ni 'gog pas 'bras bu kha cig smra/ /\\
-	gang phyir 'gog pa'i ngo bo tha dad min/ /\\
-	de phyir tha dad phyogs kyi'am tha dad med/ / 
+	de rnams las 'dod ngo bo gsal byas la || \\
+	phyir ni 'gog pas 'bras bu kha cig smra || \\
+	gang phyir 'gog pa'i ngo bo tha dad min || \\
+	de phyir tha dad phyogs kyi'am tha dad med ||  
 \end{quote}
 
 \subsubsection{Commentary}
@@ -855,10 +863,10 @@ kṛtvetyādi. ṣaṇṇāṃ pakṣāṇām anyatamasya phalasya\footnoteB{
 } eva sākṣāt kṛtvā paścāt sarvathaiva pradīpavan nirodha uttarakālaṃ sattvārthādiśūnyaḥ sākṣāt kartavyaḥ.\\
 
 \textbf{\TVA}\\
-de rnams las zhes bya ba la sogs pa smos pa yin te/ phyogs drug po rnams kyi nang nas 'bras bu bsgrub bya gang kho na mngon sum du byas shing de'i 'og tu rnam pa thams cad du mar me bzhin du 'gog pa dus gzhan na sems can gyi don la sogs pas stong pa mngon sum du byas pa yin no/ /\\
+de rnams las zhes bya ba la sogs pa smos pa yin te | phyogs drug po rnams kyi nang nas 'bras bu bsgrub bya gang kho na mngon sum du byas shing de'i 'og tu rnam pa thams cad du mar me bzhin du 'gog pa dus gzhan na sems can gyi don la sogs pas stong pa mngon sum du byas pa yin no || \\
 
 \textbf{\TVB}\\
-de rnams las zhes bya ba la sogs pa smos pa la/ phyogs drug po rnams kyi nang nas 'bras bu bsgrub bya gang kho na mngon par 'dod pa de kho na nyid mngon sum du byas shing/ de'i 'og tu rnam pa thams cad du mar me bzhin du 'gog pa dus gzhan na sems can gyi don la sogs pas stong pa mngon sum du bya ba yin no/ /\\
+de rnams las zhes bya ba la sogs pa smos pa la | phyogs drug po rnams kyi nang nas 'bras bu bsgrub bya gang kho na mngon par 'dod pa de kho na nyid mngon sum du byas shing | de'i 'og tu rnam pa thams cad du mar me bzhin du 'gog pa dus gzhan na sems can gyi don la sogs pas stong pa mngon sum du bya ba yin no || \\
 
 nanu ṣaṭpakṣabhedena ṣaḍ eva\footnoteB{
 	ṣaḍ eva] \EDD ; ṣatreva \MS
@@ -869,10 +877,10 @@ nanu ṣaṭpakṣabhedena ṣaḍ eva\footnoteB{
 } na hi nirodhānāṃ ṣaṭpakṣalakṣaṇabhede 'pi bhedo 'sti, abhāvaikarūpatayā nirodhasya samānatvāt. ayam arthaḥ\emdash anyatamapakṣaṃ sākṣāt kṛtvā paścāt tasya santānocchedarūpo nirodha iti saptamaṃ sādhyam.\\
 
 \textbf{\TVA}\\
-phyogs drug gi dbye bas 'gog pa yang drug kho nar 'gyur ba ma yin nam 'gog pa de ji ltar na gcig kho nar 'gyur zhes dogs pa la/ gang phyir zhes bya ba la sogs pa smos te/ tha mi dad pa'i ngo bo gang yin pa de la de skad bya ste/ phyogs drug gi mtshan nyid kyi dbye bas kyang 'gog pa rnams la tha dad pa yod pa ma yin te/ 'gog pa ni dngos po med pa'i ngo bo nyid du gcig cing mtshungs pa'i phyir ro/ /don ni 'di yin te/ phyogs gzhan zhig mngon sum du byas nas/ de'i 'og tu de'i rgyud rgyun chad pa'i ngo bo 'gog pa ni bsgrub par bya ba bdun pa'o/ /\\
+phyogs drug gi dbye bas 'gog pa yang drug kho nar 'gyur ba ma yin nam 'gog pa de ji ltar na gcig kho nar 'gyur zhes dogs pa la | gang phyir zhes bya ba la sogs pa smos te | tha mi dad pa'i ngo bo gang yin pa de la de skad bya ste | phyogs drug gi mtshan nyid kyi dbye bas kyang 'gog pa rnams la tha dad pa yod pa ma yin te | 'gog pa ni dngos po med pa'i ngo bo nyid du gcig cing mtshungs pa'i phyir ro || don ni 'di yin te | phyogs gzhan zhig mngon sum du byas nas | de'i 'og tu de'i rgyud rgyun chad pa'i ngo bo 'gog pa ni bsgrub par bya ba bdun pa'o || \\
 
 \textbf{\TVB}\\
-phyogs drug gi dbye bas 'gog pa yang drug kho nar 'gyur ba ma yin nam/ 'gog pa de ji ltar na gcig kho nar 'gyur zhes dogs pa la/ gang phyir zhes bya ba la sogs pa smos te/ tha mi dad pa'i ngo bo gang yin pa de la de skad ces bya ste/ phyogs drug gis mtshan nyid kyi dbye bas kyang 'gog pa rnams la tha dad pa yod pa ma yin te/ 'gog pa ni dngos po med pa'i ngo bo nyid du gcig cing mtshungs pa nyid kyi phyir ro/ /don ni 'di yin te/ phyogs gzhan zhig mngon sum du byas nas/ de'i [\TVB\ fol.\ 77v] 'og tu de'i rgyun chad pa'i ngo bo 'gog pa ni bsgrub par bya ba bdun pa'o/ /
+phyogs drug gi dbye bas 'gog pa yang drug kho nar 'gyur ba ma yin nam | 'gog pa de ji ltar na gcig kho nar 'gyur zhes dogs pa la | gang phyir zhes bya ba la sogs pa smos te | tha mi dad pa'i ngo bo gang yin pa de la de skad ces bya ste | phyogs drug gis mtshan nyid kyi dbye bas kyang 'gog pa rnams la tha dad pa yod pa ma yin te | 'gog pa ni dngos po med pa'i ngo bo nyid du gcig cing mtshungs pa nyid kyi phyir ro || don ni 'di yin te | phyogs gzhan zhig mngon sum du byas nas | de'i [\TVB\ fol.\ 77v] 'og tu de'i rgyun chad pa'i ngo bo 'gog pa ni bsgrub par bya ba bdun pa'o || 
 
 \subsection{Verse 15}
 \subsubsection{Root Text}
@@ -888,10 +896,10 @@ phyogs drug gi dbye bas 'gog pa yang drug kho nar 'gyur ba ma yin nam/ 'gog pa d
 
 	[Some] say that the fourth consecration is tasting \emph{bodhicitta} subsequent to the wisdom-knowledge [consecration]. This is bad. For, given that its fruit is already established. all efforts in the meditations, having already obtained, would pointless. 
 
-	shes rab ye shes phyis ni byang chub sems/ /\\
-	ro myang dbang bzhir 'chad pa de mchog min/ /\\
-	gang phyir bsgom sogs kun stsol don med pa/ /\\
-	thob 'gyur de 'bras rab tu mi rung phyir/ /
+	shes rab ye shes phyis ni byang chub sems || \\
+	ro myang dbang bzhir 'chad pa de mchog min || \\
+	gang phyir bsgom sogs kun stsol don med pa || \\
+	thob 'gyur de 'bras rab tu mi rung phyir || 
 \end{quote}
 
 \subsubsection{Commentary}
@@ -909,10 +917,10 @@ kutaḥ?
 tatphalasya bhāvanāsādhyasya phalasya bodhicittāsvādakāla eva prasiddhatvāt prāptatvāt, anyasya viśiṣṭasya phalasyābhāvād iti yāvat.\\
 
 \textbf{\TVA}\\
-shes rab ye shes zhes bya ba la sogs pa la shes rab dang ye shes ni shes rab ye shes te/ dbang bskur ba'i bye brag go/ /phyis ni 'das pa'i 'og tu'o/ /gang zhe na/ byang chub kyi sems te bdud rtsi'i ngo bo lces bkug nas blangs pa gang yin pa de ni bzhi pa ste/ dbang bskur bzhi pa yin par smra ba de ni mchog ma yin pa dang/ dman pa dang/ shin tu smad pa zhes bya ba'i bar du'o/ /ci'i phyir mchog min zhe na/ gang gi phyir sngags dang phyag rgya dang/ lha nyid la sogs pa'i rnam pa bsgom pa la yang dang yang du 'bad pa dang/ gzhan yang de bzhin gshegs pas gsungs pa'i sgrub pa'i mtshan nyid don med pa thob par 'gyur ro/ /gang las she na/ de 'bras te bsgoms pas bsgrub par bya ba'i 'bras bu byang chub kyi sems kyi ro myang ba'i dus nyid na rab tu grub pa nyid dang/ 'bras bu khyad par can gzhan yang med pa'i phyir zhes bya ba'i bar du'o/ /\\
+shes rab ye shes zhes bya ba la sogs pa la shes rab dang ye shes ni shes rab ye shes te | dbang bskur ba'i bye brag go || phyis ni 'das pa'i 'og tu'o || gang zhe na | byang chub kyi sems te bdud rtsi'i ngo bo lces bkug nas blangs pa gang yin pa de ni bzhi pa ste | dbang bskur bzhi pa yin par smra ba de ni mchog ma yin pa dang | dman pa dang | shin tu smad pa zhes bya ba'i bar du'o || ci'i phyir mchog min zhe na | gang gi phyir sngags dang phyag rgya dang | lha nyid la sogs pa'i rnam pa bsgom pa la yang dang yang du 'bad pa dang | gzhan yang de bzhin gshegs pas gsungs pa'i sgrub pa'i mtshan nyid don med pa thob par 'gyur ro || gang las she na | de 'bras te bsgoms pas bsgrub par bya ba'i 'bras bu byang chub kyi sems kyi ro myang ba'i dus nyid na rab tu grub pa nyid dang | 'bras bu khyad par can gzhan yang med pa'i phyir zhes bya ba'i bar du'o || \\
 
 \textbf{\TVB}\\
-shes rab ye shes zhes bya ba la sogs pa la/ shes rab dang ye shes te/ dbang bskur ba'i bye brag go/ /phyis te rdzogs pa'i dus kyi byang chub gang zhe na/ sems te bdud rtsi'i ngo bo lces kun nas blang ba gang yin pa de ni bzhi pa ste/ dbang bskur ba bzhi par 'ga' zhig smra ba de ni mchog ma yin pa dang/ dman pa dang shin tu smad pa zhes bya ba'i bar du'o/ /ci'i phyir mchog min zhe na/ gang phyir sngags dang phyag rgya dang lha nyid la sogs pa'i rnam pa bsgom pa la 'bad pa dang/ gzhan yang de bzhin gshegs pas gsungs pa'i bsgrub pa'i mtshan nyid don med pa thob par 'gyur ro/ /gang las zhe na/ de 'bras bu ste/ bsgom pas bsgrub par bya ba'i 'bras bu <thob pa yin na> byang chub kyi sems kyi ro myang ba'i dus nyid na rab tu grub pa nyid dang/ thob pa nyid dang/ 'bras bu khyad par can med pa'i phyir zhes bya ba'i bar du'o/ /
+shes rab ye shes zhes bya ba la sogs pa la | shes rab dang ye shes te | dbang bskur ba'i bye brag go || phyis te rdzogs pa'i dus kyi byang chub gang zhe na | sems te bdud rtsi'i ngo bo lces kun nas blang ba gang yin pa de ni bzhi pa ste | dbang bskur ba bzhi par 'ga' zhig smra ba de ni mchog ma yin pa dang | dman pa dang shin tu smad pa zhes bya ba'i bar du'o || ci'i phyir mchog min zhe na | gang phyir sngags dang phyag rgya dang lha nyid la sogs pa'i rnam pa bsgom pa la 'bad pa dang | gzhan yang de bzhin gshegs pas gsungs pa'i bsgrub pa'i mtshan nyid don med pa thob par 'gyur ro || gang las zhe na | de 'bras bu ste | bsgom pas bsgrub par bya ba'i 'bras bu <thob pa yin na> byang chub kyi sems kyi ro myang ba'i dus nyid na rab tu grub pa nyid dang | thob pa nyid dang | 'bras bu khyad par can med pa'i phyir zhes bya ba'i bar du'o || 
 
 \subsection{Verse 16}
 \subsubsection{Root Text}
@@ -926,10 +934,10 @@ shes rab ye shes zhes bya ba la sogs pa la/ shes rab dang ye shes te/ dbang bsku
 	This is most reprehensible.
 	For all of the effort taught by the Buddha in meditation and the like would be useless, it follows(?).
 
-	shes rab ye shes phyir ni dga' ba'i ro/ /\\
-	myong rnyed dbang bskur bzhir smra de dman te/ /\\
-	gang phyir [\TM\ fol.\ 204r]/ /bsgom sogs kun la rab tu stsol/ /\\
-	sangs rgyas kyis gsungs 'bras med rab thal 'gyur/ /
+	shes rab ye shes phyir ni dga' ba'i ro || \\
+	myong rnyed dbang bskur bzhir smra de dman te || \\
+	gang phyir [\TM\ fol.\ 204r] || bsgom sogs kun la rab tu stsol || \\
+	sangs rgyas kyis gsungs 'bras med rab thal 'gyur || 
 \end{quote}
 % GGGGGLGGLGG
 
@@ -942,10 +950,10 @@ tad apy adhamam.
 śeṣaṃ gatārtham.\\
 
 \textbf{\TVA}\\
-shes rab ces bya ba la sogs pa la/ shes rab ye shes la dus phyis ji lta ba bzhin du rnyed pa'i dga' ba ste/ bud med [\TVA\ fol.\ 209r]/ /gang yin pa de dang/ rig pa'i sgo nas ro myang ba'i dbang bskur ba gang yin pa de ni dman pa'o/ /lhag ma'i don ni rtogs par zad do/ /\\
+shes rab ces bya ba la sogs pa la | shes rab ye shes la dus phyis ji lta ba bzhin du rnyed pa'i dga' ba ste | bud med [\TVA\ fol.\ 209r] || gang yin pa de dang | rig pa'i sgo nas ro myang ba'i dbang bskur ba gang yin pa de ni dman pa'o || lhag ma'i don ni rtogs par zad do || \\
 
 \textbf{\TVB}\\
-shes rab ces bya ba la sogs pa la/ shes rab ye shes las dus phyis <phyis gzhan las> ji lta ba bzhin du rnyed pa'i dga' ba ste/ bud med gang yin pa de dang reg pa'i sgo nas ro myong ba'i dbang bskur ba gang yin pa de ni dman pa'o/ /lhag ma'i don ni rtogs par zad do/ /\\
+shes rab ces bya ba la sogs pa la | shes rab ye shes las dus phyis <phyis gzhan las> ji lta ba bzhin du rnyed pa'i dga' ba ste | bud med gang yin pa de dang reg pa'i sgo nas ro myong ba'i dbang bskur ba gang yin pa de ni dman pa'o || lhag ma'i don ni rtogs par zad do || \\
 
 atha caturthaṃ tat punas tatheti\footnoteB{
 	punas tatheti] \EDD\ (\emd); punar iti \MS
@@ -985,7 +993,7 @@ atra caturthaṃ nāstīty eke.\footnoteA{
 tad atyantāsaṃgatam, caturthasya pramāṇasiddhasya pratipāditatvāt pratipādayiṣyamāṇatvāc ceti.\footnoteA{
 	Tib.\ discusses two further \emph{pakṣa}s here: that the fourth referred to in the \emph{Samājottara} is the four \emph{aṅga} of \emph{sevā} and so forth; and what appears to be the idea that the four initiation consists in the third accompanied by its fruits (\emph{'bras bu dang bcas pa}).
 } atra lakṣaṇaṃ prajñājñānaṃ pratītam eva sarvaiḥ. lakṣye\footnoteB{
-	lakṣye] \ED\ (\emd); lakṣyā \MS
+	lakṣye] \EDD\ (\emd); lakṣyā \MS
 } paraṃ vyāmohaḥ. tad vicāryate. lakṣyaṃ hi bhavet,\footnoteB{
 	lakṣyaṃ hi bhavet] \conj (\TIB : mtshon par bya ba yang srid na); lakṣyaṃ hi bhagavat \MS\ \EDD\ (°gavad)
 } artharūpaṃ vā syāt jñānarūpaṃ vā. na tāvad artharūpam, arthasyaikasyābhāvāt, ekānekaviyogitvena pramāṇena tasya nirākṛtatvāt. mantranaye ca vijñānavādamadhyamakamatayor\footnoteB{
@@ -1122,7 +1130,7 @@ ces gsungs so ||\\
 ces gsungs pas so ||\\
 
 nanu sarvam eva vastujātam alīkarūpatayā niḥsāram. tadā kimarthaṃ maṇḍalacakrādibhāvanāprayāsaḥ\footnoteB{
-	maṇḍala°] \ED ; bri ba'i 'dkyil 'khor (lekhyamaṇḍala°)
+	maṇḍala°] \EDD ; bri ba'i 'dkyil 'khor (lekhyamaṇḍala°)
 } kriyate? asad etat,
 
 \begin{quote}
@@ -1142,7 +1150,7 @@ iti vacanāt. yady api vicāryamāṇaṃ pāramārthikaṃ vasturūpaṃ nāsti
 } duḥkhy abhūvam iti tṛṣṇā sakalaprāṇabhṛtām asti. yathā tulye 'pi mithyātve śubhāśubhasvapnayoḥ śubhasvapnadarśanāt saumanasyam aśubhasvapnadarśanāc ca daurmanasyam, tadapanayanāya ca saddharmapāṭhamantrajāpādau pravṛttir bhavati, tathā mithyātvāviśeṣe 'pi duḥkhādiprākṛtavikalpahānāya\footnoteA{
 	cf.\ \emph{Samantabhadrasādhana} (as quoted in Kamalanātha's \emph{Ratnāvalī} ad HeTa 2.2.45, fol.\ 16r6): prākṛtavikalpavṛttair aparaṃ na hi kiñcad asti bhavaduḥkham | tasya viruddhaṃ caitat sākṣādavagamyate cetaḥ ||
 } samyaksaṃbodhilakṣaṇaprāptaye\footnoteB{
-	lakṣaṇaprāptaye] \MS\ \ED ; mtshan nyid kyi 'bras bu thob par bya ba'i phyir \TVA\ (lakṣaṇaphalaprāptaye); mtshan nyid 'bras bu thob par bya ba'i phyir \TVB\ (lakṣaṇaphalaprāptaye)
+	lakṣaṇaprāptaye] \MS\ \EDD ; mtshan nyid kyi 'bras bu thob par bya ba'i phyir \TVA\ (lakṣaṇaphalaprāptaye); mtshan nyid 'bras bu thob par bya ba'i phyir \TVB\ (lakṣaṇaphalaprāptaye)
 } ca prekṣāvatām arthināṃ pravṛttir bhaviṣyatīti.\\
 
 \textbf{\TVA}\\
@@ -1385,9 +1393,9 @@ nanu sā na\footnoteB{
 } na ca tasyā nivṛttiḥ kadācid apy asti. yadi syāt samyaksaṃbodhisākṣātkaraṇāt [\EDD\ p.\ 146] pūrvam anantaram eva vā nivṛttiḥ syāt. na ca bhavati, samyaksaṃbuddhībhūyāpi katipayakālāvasthānasya svayam eva svīkṛtatvāt. kintu śūnyatāpi jñānarūpā, cakram api jñānarūpam. śūnyatājñānotpattyā cakrajñānasyānivṛttau śūnyatājñānaṃ kena nivartanīyam. tena nivṛttiś ca virodhino 'bhāvāt kāraṇavyāpakayoś cābhāvān nāsti tasmāc chūnyatājñānasya nivṛttiḥ. nāpi maṇḍalacakrasya śūnyatāto nivṛttir iti śūnyatā na nivartikā.\\
 
 ko brūte śūnyatā nivartikā? kiṃ tarhi yan nivartakās tad gurūpadeśato jñeyam ity apy asāram. gurūpadeśato 'pi na śūnyatāvyatiriktaḥ\footnoteB{
-	vyatiriktaḥ] \EDD ; vyatiri((ktiḥ)) \MSS\ (i \emph{in} kti \emph{lacks a} pṛṣṭhamātrā)
+	vyatiriktaḥ] \EDD ; vyatiri((ktiḥ)) \MS\ (i \emph{in} kti \emph{lacks a} pṛṣṭhamātrā)
 } pramāṇato 'stīti. yatkiñcid etat. pratikṣaṇanivṛttiś ca kṣaṇabhaṅgarūpā sarvapadārthavyāpinī. na sā santānanivartikā. tasmān na svecchayā nivṛttiḥ.\footnoteB{
-	nivṛttiḥ] \MS\ACreding ; nivṛrttiḥ \MS\PCreading
+	nivṛttiḥ] \MS\ACreading ; nivṛrttiḥ \MS\PCreading
 } na ca nivvṛttyā\footnoteB{
 	nivvṛttyā] \EDD\ (\emd); nivartyā \MS
 } nīrasarūpayā prayojanam asti prekṣāvatām. tathā coktam\emdash \\
