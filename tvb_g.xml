@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title xml:lang="bo">De kho na nyid rin po che snang ba'i rnam par bshad pa</title>
+				<title xml:lang="sa">Tattvaratnāvalīvivaraṇa</title>
+				<author>
+					<persName xml:lang="sa">Vāgīśvarakīrti</persName>
+				</author>
+			</titleStmt>
+			<publicationStmt>
+				<p>Transcribed from Golden bsTan 'gyur edition</p>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<collection>bsTan 'gyur gSer bris ma</collection>
+						<idno type="Ōtani">4793</idno>
+						<idno type="siglum">TVB-G</idno>
+						<altIdentifier>
+							<idno type="volume">84 (83 in BDRC outline), rGyud 'brel, Zhu</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<physDesc>
+						<extent>Folios 70v–85v</extent>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Digital transcription of Tibetan Buddhist text</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="bo">Classical Tibetan</language>
+				<language ident="sa">Sanskrit</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="title">
+				<p xml:id="TV-title">
+					<pb n="70v1"/> rgya gar skad du | tad ta rad na ā lo ka bya khya na | bod skad du | de kho na nyid rin po che snang ba'i rnam par bshad pa | bcom ldan 'das gsung gi dbang phyug la phyag 'tshal lo |
+				</p>
+			</div>
+
+			<div type="translator's homage">
+				<p xml:id="TV-trans-homage">
+					bcom ldan 'das gsung gi dbang phyug la phyag 'tshal lo ||
+				</p>
+			</div>
+
+			<div type="maṅgalācaraṇa">
+				<lg xml:id="TV-maṅgalācaraṇa">
+					<l>'od dpag med pa rin chen gyis ||</l>
+					<l>'od kyis spyi gtsug mdzes pa yi ||</l>
+					<l>'jig rten dbang la phyag 'tshal lo ||</l> 
+					<l>bzhi pa'i snang bar rab bshad bya ||</l>
+				</lg>
+			</div>
+
+			<div type="main text">
+				<div type="verse" n="1">
+					<div type="root verse">
+						<lg xml:id="T1">
+							<l>dpe med bde ba'i ngo bo dpal gyi gnas gyur gnas 'dren pa ||</l>
+							<l>dpe med lha mo bcu yi ngo bo rig dang rig par bcas ||</l>
+							<l>srid pa gsum phan bde ba thob mdzad 'gyur min 'gyur ba med ||</l>
+							<l>ji srid re ba snang bar phyag na padma rgyal gyur cig | (TaRaĀ 2)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV1.1">
+							dpe med ces bya ba la sogs pa la | phyag na pad ma bsnams pa de ni | phyag na pad ma ste bcom ldan 'das spyan ras gzigs dbang phyug ste | de rgyal gyur cig ces bya bar sbyar ro || khyad par ci lta bu zhig dang ldan pa ce na | dpe med ces bya ba la sogs pa smos te | dpe med pa dang shin tu (bdag don gyi) gya nom pa nyid dang | ('dar ma ka ya) che ba nyid dang | (gzhan gyi don tu ba pa ka ya) 'khor ba'i mtha'i bar du gnas pa'i mtshan nyid kyi chos dang ldan pa ste | gzhan dag la med pa'i phyir ro || gang gi rang bzhin bde ba nyid kyi ngo bo dpe dang bral bar gyur pa de la de skad ces bya'o || gzhan yang khyad par ji lta bu zhig dang ldan zhe na | dpal ste bsod nams dang ye shes kyi tshogs kyi mtshan nyid yin la | de'i gnas ni gang gi gzhir gyur pa de la de skad ces bya'o || chos kyi sku'i ngo bo nyid kyis kun tu 'gro ba nyid yin pa'i phyir so sor nges pa'i gnas med pas na gnas med pa'o ||
+						</p>
+
+						<p xml:id="TV1.2">
+							yang khyad par ci lta bu zhig dang ldan ce na | dpe med te gzugs mchog tu gyur pa dang na tshod dang | sgeg pa la sogs pa'i rang bzhin dang | snying rje chen po la sogs pa dang ldan pa nyid kyis na dpe las 'das <pb n="71r"/> pa'o || gzugs rdo rje la sogs pa nas sgrol ma'i mthar thug pa lha mo bcu'i ngo bo rig ma'i 'khor gyis bskor ba gang la yod pa de la de skad ces bya'o || rang snang ba'i ngo bo rig pa ste shes rab dang lhan cig 'jug pa'i phyir rig pa dang bcas pa'o || srid pa gsum ni srid pa gsum na gnas pa'i skye bo'o || gang la phan pa ni ma 'ongs pa'i phan pa ste | rgyas nyid la sogs pa dang | de la bde ba ni bde ba ste | 'khor lo bsgyur ba nyid la sogs pa'o || de thob pa ni rnyed pa ste | mngon sum du byas pa'o || de dag gi rgyu mdzad pa gang yin pa de la de skad ces bya'o || yongs su mya ngan las mi 'da' ba'i chos nyid kyi mi gnas pa'i mya ngan las 'das pa'i ngo bo nyid brnyes pas rnam pa gzhan du 'gyur ba med pa'i phyir 'gyur ba med pa yin te | de lta bu'i khyad par can gyi bcom ldan 'das rgyal bar gyur cig ces pa'o |
+						</p>
+
+						<p xml:id="TV1.3">
+							dus ji srid du ce na | ci srid re bar snang ba zhes bya ba smos te | (ka pa) re ba'i ngo bo'i sgra ni phyogs bcu'i nam mkha'i (a ka pa) rang gi ngo bo'am | yang na re ba ste sems can thams cad srid pa'i longs spyod la sred pa'o || re ba snang ba ni gsal ba ste | rab tu 'jug pa | rab tu skye ba'i bar du'o || de srid bcom ldan 'das rgyal bar gyur pa ste | khyab (ta ri ha ra) 'jug dang lha chen po dang | tshangs pa la sogs pa thams cad las khyad par du 'phags par <pb n="71v"/> gyur pa zhes bya ba'i don to ||
+						</p>
+
+						<p xml:id="TV1.4">
+							de la dpe med bde ba'i ngo bo zhes bya ba 'dis ni rang gi don phun sum tshogs pa bstan to || dpal gyi gnas gyur ces bya ba 'dis ni | de'i thabs yin te | bsod nams dang ye shes kyi tshogs dag ni dpal gyi sgras mngon par brjod pa'i phyir ro || srid pa gsum la phan pa dang bde ba thob mdzad ces bya ba 'dis ni gzhan gyi don phun sum tshogs pa bstan to || dpe med lha mo bcu'i ngo bo'i rig ma dag dang rig par bcas zhes bya ba 'dis ni de'i thabs yin te | de lta bu'i lha mo bcu dang dam pa'i sku mtshan sum cu rtsa gnyis dang | dpe byad bzang po brgyad cu'i rnam pas stong na | gzhan gyi don phun sum tshogs pa rnam pa thams cad du mdzad pa'i mthu mi mnga' ba'i phyir ro || 
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="2">
+					<div type="root text">
+						<lg xml:id="T2">
+							<l>sngags kyi gzhung lugs mdzes pa'i dbang bzhi'i ngo bo dag |</l>
+							<l>rab tu gsal ba'i sgras stong gyur pas gang gis mi shes shing ||</l>
+							<l>du ma'i man ngag bdun gyi dbye ba'i tshogs kyis yongs 'khrugs pa ||</l>
+							<l>de dag rnams kyi gsal bar rtogs par bya phyir 'bad pas bya || (TaRaĀ 2)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV2">
+							dpal ldan sngags kyi gzhung lugs zhes bya ba'i sgras | rnal 'byor rgyud shugs kyis dpal gsang ba 'dus spyir brjod par byed pa yin du zin kyang | pa yongs su gzung bar bya ste | gzhan dag la don bzhi pa mi srid pa'i phyir ro || lhag ma ni go sla'o || slob dpon du ma'i man ngag gis yongs su dkrugs pa'i rnam par 'khrugs pa rnam par bkab pa ste bdun gyi dbye bas zhes bya ba ni 'das pa dang | ma 'ongs pa dang | da ltar gyi slob dpon du gtogs pa'i man ngag gi tshogs yang dag par bsdus pas so || gsal bar rtogs par bya ba'i phyir | zhes bya ba ni bde bar gsal bar khong du chud par bya'o || <pb n="72r"/> zhes bya ba'i tha tshig go || 
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="3">
+					<div type="root text">
+						<lg xml:id="T3">
+							<l>dpal ldan de nyid bsgrub bya'i ngo bor rig pa la ||</l>
+							<l>mu stegs ma lus blo rnams rnam par 'khrul ||</l>
+							<l>de las rig byed mthar ni smra ba yi ||</l>
+							<l>skye bo rnams ni de nyid mchog ces smra || (TaRaĀ 3)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV3.1">
+							de nyid zhes bya ba la sogs pa la | mu stegs can gang la kun nas 'khrul pa ste | rnam par 'khrul pa'i blo shes rab kyi bye brag yod pa de la de skad ces bya'o || mu stegs can de dag thams cad bdag dang bdag gir 'dzin pa'i ling tog gis blo yi dmig khebs par gyur pas | de kho na nyid ni 'di'am | bsgrub par bya ba ni 'di'o zhes de kho na nyid dang bsgrub par bya ba de'i rang gi ngo bo gang yin pa rig cing khong du chud pa la de dag 'khrul pa'o || lhag ma ni go sla'o ||
+						</p>
+
+						<p xml:id="TV3.2">
+							gal te de kho na nyid dang bsgrub par bya ba dag la ni blang bar bya ba nyid du ngo bo nyid gcig pa ma yin nam | ci'i phyir de kho na nyid dang bsgrub par bya ba dbye ba bstan ce na | de ni bden pa ma yin te | de kho na nyid blang bar bya ba nyid yin yang bde ba dang sdug bsngal dang btang snyoms la sogs pa so sor snang ba'i tshogs ma lus pa la khyab par byed pa yin la | bsgrub par bya ba yang mngon par 'dod pa ma yin pa las bzlog par 'dod pa'i mtshan nyid kyis 'bras bu blang bar bya ba nyid yin yang srog chags thams cad kyis gdon mi za bar bsgrub bya ba ma yin pa las bzlog pa bsgrub par bya ba nyid du mngon par 'dod pa'i phyir nyes pa med do || 
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="4">
+					<div type="root text">
+						<lg xml:id="T4">
+							<l>dga' ba'i ngo bo rang rig mi g-yo zhing |</l>
+							<l>bsgrub byar 'dod pa rig byed mtha' can pa'o ||</l>
+							<l>nyan thos rang rgyal bcas pa gzugs la sogs ||</l>
+							<l>phung po dag dang bral ba bsgrub byar 'dod || (TaRaĀ 4)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV4.1">
+							de la rig byed kyi mthar smra ba'i mngon par 'dod pa'i sgrub par bya ba ni | dga' ba'i ngo bo zhes bya ba la sogs pa smos te | dga' ba'i ngo bo nyid ni rtag <pb n="72v"/> tu bde ba'i rang bzhin nyid yin pa'i phyir ro || rang rig pa ni gsal ba'i ngo bo nyid kyis bdag nyid rab tu snang ba nyid kyi phyir ro || mi g.yo ba zhes bya ba ni | mi rtag pa nyid kyis bskyod par mi nus pa'i phyir ro || zhi ba ni nyon mongs pa dang nye ba'i nyon mongs pas stong pa nyid du yongs su brtags pa'i phyir ro || rnam pa de lta bu bsgrub par bya ba la 'dun pa ni 'dod pa'o ||
+						</p>
+
+						<p xml:id="TV4.2">
+							gang nyan thos dang bcas pa'i 'jug pa'i rang rgyal ba ni bse ru lta bu ste | gcig pu rgyu ba dang | tshogs kyi spyod pa'i rang sangs rgyas dag bsgrub byar 'dod do || ci 'dra ba zhig ce na | gzugs la sogs pa'i phung po dang bral ba'o || gzugs dang tshor ba dang 'du shes dang | 'du byed rnams dang | rnam par shes pa'i mtshan nyid dag gi phung po rnams ni spung ba ste | bral ba dang | rnam par chad pa dang | 'gag par gyur pa zhes bya ba'i bar du'o || 'di skad du bstan par 'gyur te | nyan thos dang rang sangs rgyas thams cad ni phung po lhag ma dang bcas pa dang | phung po lhag ma med pa'i dbye bas mya ngan las 'das pa tha dad kyang | phung po lhag ma med pa'i mya ngan las 'das pa kho na mngon sum du bya ba'i phyir bsgrub par byed par zhugs pa yin no || 
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="5">
+					<div type="root text">
+						<lg xml:id="T5">
+							<l>rnam pas stong pa nam mkha' zla ba'i ngo bo nyid ||</l>
+							<l>so sor rang rig snying rje'i rang bzhin ca ||</l>
+							<l>mdzes pa'i mtshan rnams kyis brgyan don mdzad pa ||</l>
+							<l>sbyin la sogs pa'i rgyu mthun bde bral ba || (TaRaĀ 5)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV5.1">
+							da ni pha rol tu phyin pa'i tshul du smra ba dag mngon par 'dod pa'i bsgrub par bya ba rnam pa bzhi bstan pa'i phyir | zhes bya ba la sogs pa smos te | rnam pa ni <pb n="73r"/> sngon po dang | ser po dang | bde ba dang | sdug bsngal la sogs sna tshogs pa'i ngo bo'o || des stong pa ste (rnam pa rdzun pa'i gzhung) rnam pa brdzun pa'o || rnam pa med pa de nyid kyi phyir na nam mkha' lta bu'o || gang gi rang bzhin zla ba dang 'dra bar 'od gsal ba'i ngo bo nyid yin pa de la de skad ces bya'o || so so rang rig ces bya ba ni rang rig pa gcig pu'i ngo bo rig pa'o || 'dir (phung po) sdug bsngal dang sdug bsngal gyi rgyu (mi dge bcu las dang nyon mongs) dag las 'gro ba ma lus par 'don par 'dod pa'i snying rje'i rang bzhin gang yin pa de la de skad ces bya'o || 'di skad du bshad par 'gyur te || pha rol tu phyin pa nye bar ston pa'i sgras brjod par bya ba sngon po dang | ser po la sogs pa'i rnam pa sna tshogs pas stong zhing snang ba med la | dri ma med pa nam mkha' lta bur dag pa 'gro ba ma lus pa'i don byed pa'i snying rje chen po dang ldan pa so so rang gis rig pa ni bsgrub par bya ba yin te | pha rol tu phyin pa'i tshul gyi bsgrub par bya ba dang po'o |
+						</p>
+						<p xml:id="TV5.2">
+							mdzes pa (rnam pa dang bcas pa) yang de nyid yin la mtshan yang de nyid yin pas na || mdzes pa (rnam pa dang bcas pa) yang de nyid yin la mtshan yang de nyid yin pas na | mdzad pa'i mtshan sum cu rtsa gnyis zhes bya sde | des brgyan pa'o || don te skye bo rnams kyis dgos pa mdzad pa'i ngang tshul can gyi rang bzhin gang la yod pa de ni de'i don mdzad pa'o || sbyin pa la sogs pa pha rol tu phyin pa <pb n="73v"/> bcu'i rgyu mthun pa de ni rab kyi mtha'i stobs nyid kyis 'dra ba'i 'bras bu'o || sdug bsngal sngar spangs pa nyid kyi phyir dang | bde ba yang mngon sum du byas pa'i gnas skabs na med pa'i phyir | btang snyoms kyi ngo bo nyid kyis bde ba nyid med pa'i ni bde bral ba'o || 'di skad du bstan par 'gyur te | mtshan sum cu rtsa gnyis 'dzin cing |dpe byad bzang po brgyad cus rnam par spras pa'i sku 'gro ba ma lus pa'i don mdzad pa | sbyin pa la sogs pa'i pha rol tu phyin pa goms par mdzad pa'i stobs kyis byung ba yang dag par rdzogs pa'i sangs rgyas kyi ngo bo nyid bde ba dang | sdug bsngal spangs pa'i btang snyoms kyi ngo bo nyid bsgrub par bya ba gnyis pa yin no || 
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="6">
+					<div type="root text">
+						<lg xml:id="T6">
+							<l>sbyin sogs pha rol phyin drug tshul gnas pa ||</l>
+							<l>dka' bcas sku ni mdzes pa'i mtshan gyis brgyan ||</l>
+							<l>sa bcur bzhugs pas yang dag longs spyod pa ||</l>
+							<l>'gro don mdzad pa bsgrub byar rab tu smra || (TaRaĀ 6)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV6">
+							dga' bcas (rnam bcas kyi gzhung) zhes bya ba la sogs pa la | dga' ba dang lhan cig 'jig pa'i phyir de dga' ba dang bcas pa yang yin la | mdzes pa'i mtshan gyis brgyan pa'i sku yang yin pas so || yang dag longs spyod pa ni chos ston pa'i sgo nas nye bar longs spyod par gyur pa'o || su zhig gis zhe na || sa bcu'i dbang phyug rnams kyis te | sa lhag ma rnams na gnas pa'i spyod yul ma yin pa nyid kyi phyir | sa bcu pa brnyes pa spyan ras gzigs dbang phyug dang | 'jam dpal la sogs pa rnams kyis longs spyod par bya ba yin no || zhes bya ba'i bar du'o || lhag ma ni go sla'o || 'di skad du bshad par 'gyur te | gnas <pb n="74r"/> gtsang ma'i steng na yang dag par rdzogs pa'i sangs rgyas kyi pho brang stug po bkod pa zhes bya ba na | ji ltar bcom ldan 'das dga' ba'i ngo bo longs spyod rdzogs pa'i sku'i bdag nyid can | sprul pa'i sku'i sgo nas 'gro ba ma lus pa'i don yang dag par sgrub par mdzad pa | nyan thos dang rang sangs rgyas dang sa dgu'i dbang phyug rnams kyis kyang ma mthong ba'i sku can | sa bcu'i dbang phyug mchog tu gyur pa'i byang chub sems dpa' kho nas chos gsan pa'i sgo nas nye bar longs spyod par bya ba 'khor ba ji srid du bzhugs te | de lta bu ni bsgrub par bya ba gsum pa yin no || 
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="7">
+					<div type="root text">
+						<lg xml:id="T7">
+							<l>sbyin sogs yon tan ma lus yongs rdzogs pa ||</l>
+							<l>rdzogs sangs mdzad pa ma lus mdzad nas ni ||</l>
+							<l>gang zhig yang dag mtha' ni mngon mdzad pa ||</l>
+							<l>'gog pa'i ngo bo bsgrub bya yang dag yod || (TaRaĀ 7)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV7">
+							(dbu ma pa'i gzhung) sbyin sogs zhes bya ba la sogs pa la | yongs su yon tan du byed goms par byed pa'i phyir sbyin pa la sogs pa'i pha rol tu phyin pa nyid yon tan yin la | de dag yang dag par rdzogs pa ste | rdzogs par byas nas | gang rdzogs pa'i sangs rgyas rnams kyis nges par mdzad par bya ba ma lus pa de yang mdzad nas | yang dag mtha' ste | gang sems dang sems las byung ba 'gog pa'i bdag nyid kyi stong pa'i mtshan nyid mngon sum du mdzad pa'o || de yang bsgrub byar yod pa yin no zhes pha rol tu phyin pa'i tshul la gnas pa de dag skad du smra ba bsgrub par bya ba bzhi pa'o || 
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="8">
+					<div type="root text">
+						<lg xml:id="T8">
+							<l>nyid mtshungs lha mos 'khyud cing 'gro ba yi ||</l>
+							<l>don mdzad bde sdug nyid bral ngo bo nyid ||</l>
+							<l>sku ni dpe byang bzang po brgyad cus brgyan ||</l>
+							<l>rtog pa dang bral bsgrub byar rab tu 'chad || (TaRaĀ 8)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV8">
+							da ni sngags kyi tshul du bshad pa'i bsgrub par bya ba rnam pa bdun bstan par bya ba'i phyir | nyid mtshungs (a na ga badz+ra) lha mo zhes bya ba la sogs pa smos te | nyid <pb n="74v"/> dang mtshungs pa'i lha mos 'khyud pa'i ngang tshul can gyi rang bzhin gang la mnga' ba de ni nyid mtshungs lha mos 'khyud pa can no || rtog pa dang bral ba ni rnam par rtog pa med cing rnam par rtog pa spangs pa zhes bya ba'i bar du'o || gzhan ni go sla'o || don ni 'di yin te | yang dag par 'khyud pa ste | nyid dang mtshungs pa'i lha (kha) mos 'khyud pa can 'gro (ga) ba'i don mdzad pa'i sku (k) mtshan sum cu rtsa gnyis la sogs pas rnam par brgyan pa btang snyoms kyi ngo bo nyid du 'khor ba ji bzhugs pa mngon sum du bya ba yin zhes bya ba ni bsgrub bya dang po'o || 
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="9">
+					<div type="root text">
+						<lg xml:id="T9">
+							<l>dang po nyid nas lha yi rnam pa dag |</l>
+							<l>khyad par gyis stong bde ba yang dag bsgom ||</l>
+							<l>gsal 'gyur bde chen 'gro ba'i don mdzad pa ||</l>
+							<l>yid bzhin nor bur grags pa kha cig smra || (TaRaĀ 9)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV9">
+							dang po nyid nas zhes bya ba la sogs pa la | rang lha'i rnam pa'i khyad par te | bdag nyid kyi 'dod pa'i lha rnams pas stong pa dang | rnam pa med pa zhes bya ba'i bar du'o || dang po nyid nas zhes bya ba ni thog ma nyid nas bshad ma thag pa'i lha'i rnam pa nyid la bltos pa med (shar ba) par bde ba yang dag par bsgom par bya ba bsgom pas | mngon du bya ba gsal ba ma yin pa gsal bar byas par gyur pa ni bde ba chen po zhes bya bar 'gyur ro || de yang 'gro don mdzad pa ni yid bzhin gyi nor bu dang mtshungs pa'i tshul du'o || 'di skad du bshad par 'gyur te | bshad ma thag pa'i nyid kyi sngags (sa bon las | lha'i sku) dang phyag rgya dang lha'i rnam pa nyid spangs ste | bsgoms pas gsal por <pb n="75r"/> byas pa bde (ga) ba chen po zhes bya ba yid bzhin gyi nor (ga) bu bzhin du 'gro ba'i don mdzad pa | sgyu ma lta bu 'khor ba ji srid (ga) par bzhugs pa ni bsgrub par bya ba gnyis pa'o || 
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="10">
+					<div type="root text">
+						<lg xml:id="T10">
+							<l>rang bdag bde ba'i ngo bo mngon byas nas ||</l>
+							<l>phyes btang bde btsam zhig 'bras 'gyur ba'o ||</l>
+							<l>dag pa mngon sum byed par nus med nas ||</l>
+							<l>de phyir bdag po'i rnam pa bsgom pa yin || (TaRaĀ 10)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV10">
+							rang bdag (rad na a kar shan ti) ces bya ba la sogs pa smos pa la | rang gi bdag po ste | rang gi 'dod pa'i lha nyid dang | bde ba'i ngo bo ni bde ba gcig pu'i rang bzhin no || mngon byas pa ni kun nas mngon sum du byas pa yin no || phyis lha'i rnam pa nyid yongs su btang nas bsgrub par bya ba'i 'bras bu bde ba tsam la rnam par gnas par 'gyur ro || mngon sum du byas nas kyang lha'i rnam pa ngo bo nyid btang bar bya ba yin pa de lta na ni | dang po nyid ci'i phyir rnam pa bsgom par byed de | bsgrub par bya ba gnyis pa bzhin du bde ba tsam nyid ci ste bsgom par mi byed ma yin nam | ngal ba don med pas ci zhig bya zhe na | dag pa zhes bya ba la sogs pa smos te | dag pa (bde ba) 'ba' shig lha'i rnam pa dang rnam par bra'i ba'i bde ba tsam kho nas mngon sum du byed mi nus te | rnam pa dang bral ba'i bde ba mi dmigs (bde ba'i ngo bo) pa'i phyir ro || rgyu de'i phyir rang gi bdag po rnam par bsgom par byed pa zhes bya ba gsum pa yin no || don ni 'di yin te | lha nyid kyi rnam par dang ldan pa'i bde ba kho na rnam par bsgom par bya ba mngon sum du byas nas lha'i rnam pa nyid btang ste | bde ba (kha) tsam kho na sbgrub par bya ba <pb n="75v"/> yon tan can du 'chad do | 
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="11">
+					<div type="root text">
+						<lg xml:id="T11">
+							<l>sku ni nam mkha' dang mtshungs yan lag mtshan gyis brgyan ||</l>
+							<l>dpe med bde bas gang ba nyid dang mtshungs par 'dus pa dang |</l>
+							<l>thub pa'i dbang po 'phro bas bsams can rnams kyi don mdzad pa ||</l>
+							<l>chad pas stong pa bsgrub bya nyid du gzhan dag rab tu smra || (TaRaĀ 11)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV11.1">
+							sku ni zhes bya ba la sogs pa la | (rang gi 'dod pa) gang gi sku nam mkha' dang mtshungs pa ni ('ja' tshon lta bur) sgyu ma dang 'dra bar dpyad mi bzod pa'o || gang gi yan lan mtshan gyis te | mtshan sum cu rtsa gnyid dang dpe byad bzang po brgyad cus spras par gyur pa'o | dpe med ces bya ba ni lhun che ba nyid dang | bar med pa nyid dang | 'khor ba ci srid par rab tu 'jug pa nyid dang | zag pa med pa nyid la sogs pa rnams kyis dpe med pa'i phyir | dpe las 'das pa'i bde bas gang ba ni | ba spu'i rtse mo'i mthar thug par yang dag par gang bar gyur pa'o || nyid dang mtshungs pa yang de lta bur gyur pas 'dus pa ste kun nas 'khyud par 'gyur pa'o || thub pa'i dbang po dpag tu med pa 'phro ba yang de lta bur gyur pa kho nas sems can thams cad kyi don mdzad pa'o || chad pas zhes bya ba ni 'gog pas sgong pa ste spangs pa'o ||
+						</p>
+
+						<p xml:id="TV11.2">
+							'di skad du bshad par 'gyur te | nam mkha' dang sgyu ma dang | smig rgyu dang | dri za'i khrong khyer dang | chu zla dang gzugs brnyad dang | rmi lam dang 'dra bar gcig dang | du ma dang | dngos po dang | dngos po med pa dang | gzung ba dang | 'dzin pa'i rang bzhin bral ba | thog ma dang tha ma med pa'i dngos po ma lus pa'i rang bzhin snang ba med pa dri ma med pa dpe thams cad las shin tu 'das pa | mchog tu phra zhing shin <pb n="76r"/> tu zab pa shes rab kyi ngo bo nyid kyis chos kyi sku'i rang bzhin yin pa dang | sku (ka) mtshan sum cu rtsa gnyis kyis brgyan cing dpe byad bzang po brgyad cus rnam par spras pa mchog tu sgeg cing na tshod la sogs pa dang ldan pa dang | sku nyid dang mtshungs pa'i lha (kha) mos 'khyud cing | gzugs rdo rje la sogs pa nas sgrol ma'i mthar thug pa'i lha mo'i tshogs kyis mtshan ma med pa'i rang gi ngo bo'i rab tu dpag tu med pas mchog tu dga' ba la nye bar longs spyod pa'i sgo nas gzugs brnyan dang 'dra bas yang dag par longs spyod pa ni snying rje'i rang bzhin rgya che ba nyid kyis longs spyod rdzogs pa'i ngo bo nyid dang | gdul bya'i skye bo mos pa sna tshogs pa yongs su smin par bya ba'i don du rdzu 'phrul dang cho 'phrul rnam pa du ma'i sgo nas rigs kyi nang du chud pa'i rdzogs pa'i sangs rgyas dang byang chub sems dpa'i sprul pa dpag tu med pa spro ba dang | bsdu ba mdzad pa nyid kyis na sprul pa'i sku'i bdag nyid dang | stong pa nyid dang snying rje dang tha mi dad pa'i byang chub kyi sems kyi rang bzhin dri ma med pa shes rab dang thabs kyi ting nge 'dzin las yang dag par byung ba'i bde (ga) ba dam pas gang 'khor ba ji srid (ja) par bzhugs pa'i chos can | mi gnas pa'i mya ngan las 'das pa'i ngo bo dang | mar me rlung gis ma bskyod pa'i rtse mo bzhin du dri ma <pb n="76v"/> med pa'i rgyun gyis rtag pa nyid kyi (cha) 'gog pas stong pa ni bsgrub par bya ba bzhi pa'o || 
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="12">
+					<div type="root text">
+						<lg xml:id="T12">
+							<l>rang bdag bde ba'i ngo bo mngon byas nas ||</l>
+							<l>btang snyoms ngo bo ye shes tsam 'bras bu ||</l>
+							<l>'khor ba srid zhugs sems can don mdzad pa ||</l>
+							<l>yid bzhin nor grags gcig tu zhi gyur pa'o || (TaRaĀ 12)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV12">
+							rang bdag ces bya ba la (zla grags) kyi gzhung sogs pa la | rang gi bdag po mngon sum du byas nas phyis btang ste | btang snyoms kyi ngo bo gang yin pa'i ye shes de tsam zhig bsgrub byar 'gyur ro || gzhan ni rtogs par sla'o || 'di skad du bshad par 'gyur te | dkyil 'khor gyi 'khor lo'i ngo bo mngon sum du byas nas phyis de bkag cing btang snyoms kyi ye shes tsam du 'gyur ba ni bsgrub par bya ba lnga pa'o || 
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="13">
+					<div type="root text">
+						<lg xml:id="T13">
+							<l>dkyil 'khor bde gang mngon sum byas nas ni ||</l>
+							<l>phyis ni de rang 'dod pas nges ldog pa ||</l>
+							<l>sems can don yang yod de 'dir med min ||</l>
+							<l>gang phyir nges par ldog pas rab tu byung || (TaRaĀ 13)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV13.1">
+							dkyil 'khor zhes bya ba la sogs pa la | dkyil 'khor bde ba'i rang bzhin can mngon sum du byas nas | de rang gi 'dod pa las nges par ldog pa ni 'gog pa'o | gal te mgun sum du byas nas kyang phyis rang gi 'dod pas 'gog par bya ba yin na ni | de'i tshe yun ring por goms par byas pa'i snying rje med par 'gyur ma yin nam | de yang med pa'i phyir sems can gyi don med par 'gyur zhes dogs pa la | sems can don yang yod de 'dir med min zhes bya ba smos te | phyogs 'di la sems can gyi don byed pa med pa ma yin te | gang gi phyir 'gags pa'i 'khor lo las snying rje'i rang bzhin can sems can gyi don tu rab tu 'byung ba yod pa yin no ||
+						</p>
+
+						<p xml:id="TV13.2">
+							de ni 'di skad du bstan te | bde bas yang dag par gang ba'i 'khor lo mngon sum du byas nas dus ji srid 'dod <pb n="77r"/> par rnam par gnas te phyis de rnam pa thams cad du mar me bzhin du 'gog pa yin no || yang gang gi tshe sems can gyi don mngon par 'dod par 'gyur na | de tshe 'gag pa nyid las 'khor lo'i khyad par 'byung zhing sems can gyi don mdzad pa'am | 'khor lo'i khyad par 'byung ba yang | ring du 'gags pa'i 'khor lo kho na las skal ba ji lta ba bzhin du gdul bya rnams kyis mngon par 'dod pa rnyed par 'gyur ro zhes bya ba ni drug pa'o || 
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="14">
+					<div type="root text">
+						<lg xml:id="T14">
+							<l>de rnams las 'dod ngo bo gsal byas la ||</l>
+							<l>phyir ni 'gog pas 'bras bu kha cig smra ||</l>
+							<l>gang phyir 'gog pa'i ngo bo tha dad min ||</l>
+							<l>de phyir tha dad phyogs kyi'am tha dad med || (TaRaĀ 14)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV14.1">
+							de rnams las zhes bya ba la sogs pa smos pa la | phyogs drug po rnams kyi nang nas 'bras bu bsgrub bya gang kho na mngon par 'dod pa de kho na nyid mngon sum du byas shing | de'i 'og tu rnam pa thams cad du mar me bzhin du 'gog pa dus gzhan na sems can gyi don la sogs pas stong pa mngon sum du bya ba yin no ||
+						</p>
+						
+						<p xml:id="TV14.2">
+							phyogs drug gi dbye bas 'gog pa yang drug kho nar 'gyur ba ma yin nam | 'gog pa de ji ltar na gcig kho nar 'gyur zhes dogs pa la | gang phyir zhes bya ba la sogs pa smos te | tha mi dad pa'i ngo bo gang yin pa de la de skad ces bya ste | phyogs drug gis mtshan nyid kyi dbye bas kyang 'gog pa rnams la tha dad pa yod pa ma yin te | 'gog pa ni dngos po med pa'i ngo bo nyid du gcig cing mtshungs pa nyid kyi phyir ro || don ni 'di yin te | phyogs gzhan zhig mngon sum du byas nas | de'i <pb n="77v"/> 'og tu de'i rgyun chad pa'i ngo bo 'gog pa ni bsgrub par bya ba bdun pa'o || 
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="15">
+					<div type="root text">
+						<lg xml:id="T15">
+							<l>shes rab ye shes phyis ni byang chub sems ||</l>
+							<l>ro myang dbang bzhir 'chad pa de mchog min ||</l>
+							<l>gang phyir bsgom sogs kun stsol don med pa ||</l>
+							<l>thob 'gyur de 'bras rab tu mi rung phyir || (TaRaĀ 15)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV15">
+							shes rab ye shes zhes bya ba la sogs pa la | shes rab dang ye shes te | dbang bskur ba'i bye brag go || phyis te rdzogs pa'i dus kyi byang chub gang zhe na | sems te bdud rtsi'i ngo bo lces kun nas blang ba gang yin pa de ni bzhi pa ste | dbang bskur ba bzhi par 'ga' zhig smra ba de ni mchog ma yin pa dang | dman pa dang shin tu smad pa zhes bya ba'i bar du'o || ci'i phyir mchog min zhe na | gang phyir sngags dang phyag rgya dang lha nyid la sogs pa'i rnam pa bsgom pa la 'bad pa dang | gzhan yang de bzhin gshegs pas gsungs pa'i bsgrub pa'i mtshan nyid don med pa thob par 'gyur ro || gang las zhe na | de 'bras bu ste | bsgom pas bsgrub par bya ba'i 'bras bu (thob pa yin na) byang chub kyi sems kyi ro myang ba'i dus nyid na rab tu grub pa nyid dang | thob pa nyid dang | 'bras bu khyad par can med pa'i phyir zhes bya ba'i bar du'o || 
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="16">
+					<div type="root text">
+						<lg xml:id="T16">
+							<l>shes rab ye shes phyir ni dga' ba'i ro ||</l>
+							<l>myong rnyed dbang bskur bzhir smra de dman te ||</l>
+							<l>gang phyir bsgom sogs kun la rab tu stsol ||</l>
+							<l>sangs rgyas kyis gsungs 'bras med rab thal 'gyur || (TaRaĀ 16)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV16">
+
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="17">
+					<div type="root text">
+						<lg xml:id="T17">
+							<l>rdo rje'i sa bon dri med dga' 'bab pa ||</l>
+							<l>dag pa'i chu skyes yang dag myu gu 'byung rgyas shing ||</l>
+							<l>bzhi pa'i 'bru ni yongs gsal smin 'gyur ba'i ||</l>
+							<l>bzhi pa dag ni mkhas pa rnams la sbas || (TaRaĀ 17)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV17">
+							rdo rje'i sa bon zhes bya ba la sogs pa la | 
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="18">
+					<div type="root text">
+						<lg xml:id="T18">
+							<l>gsal byed bdud rtsi lnga dang thig le zla ba dang |</l>
+							<l>smin dbus thig le las byung dkyil 'khor dang ||</l>
+							<l>rlung gi rang bzhin lce'u chung sogs de nyid ||</l>
+							<l>ngo bo min pa bdag nyid kyis rtag tu || (TaRaĀ 18)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV18.1">
+							gsal byed lnga'i sgra ni | ba glang dang | khyi dang | glang po dang | rta dang | mi'i mtshan nyid do || bdud rtsi lnga'i sgra ni | be ('bhe sta phyi) dang | mu (tra chu) dang | mang ('ad sha) dang ra dang (ka ta khrag) shu'i mtshan nyid do || rtag tu bsten pa kho na bsgrub byar sems so || thig le zhes bya ba ni | snying kar zla ba la gnas pa'i thig le 'od 'phro bar gyur pa de kho na nyid bsgrub bya yin no zhes sems nas rnam par bsgom par byed do || zla ba zhes bya ba ni snying ka'i gnas su zla ba'i bzhi dum bu 'am zla ba phyed pa'am | zla ba rgyas pa snying kar pad+ma la gnas pa 'ga' zhig rnam par bsgom par byed do ||
+						</p>
+
+						<p xml:id="TV18.2">
+							smin dbus thig le las byung dkyil 'khor zhes bya ba ni | smin ma'i dbus te mdzod spu'i gnas su thig le rnam par sgom par bya'o || thig le de las byung ba'i dkyil 'khor ni rlung (g.yon dang) dang chu (ngal ba) dang dbang chen (gnyi ga) gyi dkyil 'khor dang (kha dog) (mthun par |) me'i mtshan (g.ya) nyid do || 'di skad du bshad par 'gyur te | kha dang rna ba dang sna dang mig lag pa'i sor mos bkab la smin ma'i dbus su thig le blta bar bya'o || de yang <pb n="84v"/> gsal por gyur pa'i gnas skabs su dge ba dang | mi dge ba'i ltas yang dag par ston par byed pa dbang chen gyi la sogs pa'i dkyil 'khor rab tu skyed pa'i thig le de la yang de kho na nyid du sems so |
+						</p>
+
+						<p xml:id="TV18.3">
+							rlung gi rang bzhin zhes bya ba ni phu ra ('gengs byed) ka dang | kum bha ('dzin byed) ka dang | re tsa ('byin byed) ka dang | rab tu zhi ba'i mtshan (tha ma sangs) nyid dang | dbugs dbyung rngub la sogs pa'i mtshan nyid yin no || 'di skad du bshad pa yin te | de la 'di ltar shi ba dang grangs can la sogs pas bstan pa'i rlung gi rang bzhin shes par byas nas | dbugs 'gag pa'i sgom pa brtan por byas nas nam mkha' la rgyu bas 'ong ba dang | gzhan gyi grong la 'jug pa dang | grol ba'i bar mngon sum du byed par 'gyur ro || zhes bya ba ni rlung gi de kho na nyid du smra ba rnams kyi'o ||
+						</p>
+
+						<p xml:id="TV18.4">
+							lce'u chung zhes bya ba ni | mid pa'i phyogs lce'i phugs kyi steng na glang po che'i sna'i rnam pa lta bu kha 'og tu ltas pa nye ba'i lce'i ming can lce'u chung yod do || de yang nus pa'i rang bzhin no de'i 'og na zhi ba'i ngo bo yod pa (zhi ba'i ngo bo) de kho na nyid yin no || de la yang lce'i rtse mos reg par gyur pa na bdud rtsi'i rgyun mi 'chad par 'dzag par 'gyur ro | rtsi'i rgyun 'bab pa des don dam pa'i bdag nyid tshim par gyur par sgom mo || zhes bya ba ni lce'u chung gi de kho na nyid yin no || sogs pa'i sgras snying ka'i dbus kyi 'khor <pb n="85r"/> lo rtsibs bcu drug pa'i dbus na gnas pa ye shes kyi rang bzhin zhi ba'i ngo bo de kho na nyid bsgom par bya'o zhes bya ba la sogs pa bzung ngo  || de yang smras pa | bcu las drug lhag rtsa dang ldan pa'i 'khor lo'i dkyil na gnas pa snying kar rnam par gnas pa'i bdag  |des ni de'i khyad par lta bu yi grub pa ster | de ni mngon par mi g.yo ba'i yid dag gis || rnal 'byor pa yis de ltar mngon par bsam par bya || nus par gyur pa'i mgon po rgyal bar gyur || de ni nus pa dag gis de ni yongs su bskyor dang bcas ||
+						</p>
+
+						<p xml:id="TV18.5">
+							zhes de lta bu mu stegs la sogs pa de kho na nyid du mngon par 'dod pa de dag thams cad ni de kho na nyid ma yin zhes bdag nyid kyis brtag par bya | dpyad par bya zhes bya ba'i bar du'o || 
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="19">
+					<div type="root text">
+						<lg xml:id="T19">
+							<l>rmi lam mig 'phrul gzugs brnyan sgyu ma dang ||</l>
+							<l>smig rgyu dri za'i grong khyer chu zla dang ||</l>
+							<l>gzhan gyi sgra yis mngon par brjod pa yis ||</l>
+							<l>'dir bshad bsgrub bya gzhan la yod ma yin || (TaRaĀ 19)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV19">
+							rmi lam mig 'phrul zhes bya ba la sogs pa la | rmi lam dang | mig 'phrul lta bu dang | gzugs brnyan dang | sgyu ma dang | smig rgyu dang | dri za'i grong khyer dang | chu zla lta bu'o || gzhan gyi sgras ni nam mkha' dang | brag cha dang | dbu ba lta bu'o zhes bya ba la sogs pa'i sgras so || de lta bur mngon par brjod pa ni smra ba pos de lta bus bstan pa'i bsgrub bya las gzhan med pa nyid de | gzhan du yang 'dir bshad pa kho na bsgrub bya yin no zhes sgra de las rab tu 'jug par rang nyid kyis shes par bya'o || 
+						</p>
+					</div>
+				</div>
+
+				<div type="verse" n="20">
+					<div type="root text">
+						<lg xml:id="T20">
+							<l>zab mo stong nyid so sor snang ba tsam ||</l>
+							<l>zhi ba shin tu phra ba sgras brjod min ||</l>
+							<l>gos med dngos bral dri med la sogs dang ||</l>
+							<l>gzhan sgrub yod pa 'khrul par mi bya'o || (TaRaĀ 20)</l>
+						</lg>
+					</div>
+					<div type="commentary">
+						<p xml:id="TV20">
+							<pb n="85v"/> zab mo stong nyid so so snang ba tsam || zhi ba shin tu sgras brjod min | gos dngos bral dri med la sogs dang || zhes bya ba la sogs pa'i sgra yis | zhi ba dang rnam pa med pa dang | spros pa med pa dang | thog ma med pa dang | 'gag pa med pa zhes bya ba la sogs sgra yis kyang 'khrul par mi bya zhing | gzhan bsgrub tu yod pa ni | gzhan gyi bsgrub par bya ba yod pa ste | 'dir yod pa'i sgras des bshad pa'i sgrub par bya ba las mchog 'ga' shig yod do zhes 'khrul par mi bya ste | bshad pa bsgrub bya kho na de dag thams cad kyis brjod par bya ba yin zhes nges par bya'o ||
+						</p>
+					</div>
+				</div>
+			</div>
+
+			<div type="conclusion">
+				<lg xml:id="TV-conclusion-1">
+					<l>dpal ldan gsang ba 'dus pa las ||</l>
+					<l>dri med dag mchog mthar phyin pa'i ||</l>
+					<l>ngag gi dbang phyug de yis 'di ||</l>
+					<l>byas pas blo ngan 'jig gyur cig |</l>
+				</lg>
+
+				<lg xml:id="TV-conclusion-2">
+					<l>bdag gis 'di bshad byas pa las ||</l>
+					<l>pad dkar kunda kha bye lta bu dang ||</l>
+					<l>'o ma skar ma lta bu'i bsod nams gang bsags pa ||</l>
+					<l>de yis 'gro ba bdag nyid dang mtshungs rig mas nyer 'khyud pa'i ||</l>
+					<l>dpe med bde chen gang ba'i dbang phyug dpal gyur shog |</l>
+				</lg>
+			</div>
+
+			<div type="colophon">
+				<p xml:id="colophon">
+					de kho na nyid rin po che snang ba'i rnam par bshad pa | slob dpon ngag gi dbang phyug grags pas mdzad pa rdzogs so ||  || lo ts'a ba 'gos lhas btsas kyis rgya gar shar phyogs kyi dpe las zhu gtugs g-yar khral 'tshal ba lags so ||
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>
