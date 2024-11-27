@@ -11,6 +11,7 @@
 \usepackage[series={A,B},noend,noeledsec,noledgroup]{reledmac}
 \renewcommand*{\thefootnoteA}{\roman{footnoteA}}
 \usepackage{marginnote}
+\usepackage{longtable}
 
 \usepackage{fontspec}
 \usepackage{polyglossia} 		
@@ -27,6 +28,28 @@
 \title{Tattvaratnāvaloka and Vivaraṇa}
 \author{Vāgīśvarakīrti}
 
+
+
+% Increase the depth of sectioning in the table of contents
+\setcounter{secnumdepth}{4} % Numbering depth
+\setcounter{tocdepth}{4}    % Table of contents depth
+
+% Define \subsubsubsection
+\makeatletter
+\newcounter{subsubsubsection}[subsubsection] % Create a counter for subsubsubsections
+\renewcommand\thesubsubsubsection{\thesubsubsection.\arabic{subsubsubsection}} % Define numbering
+
+\newcommand\subsubsubsection{\@startsection{subsubsubsection}{4}{\z@}%
+  {-3.25ex \@plus -1ex \@minus -.2ex}%
+  {1.5ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries}}
+\newcommand\subsubsubsectionmark[1]{}
+\makeatother
+
+% Adjust formatting (optional)
+\usepackage{titlesec}
+\titleformat{\subsubsubsection}[runin]
+  {\normalfont\normalsize\bfseries}{\thesubsubsubsection}{1em}{}
 \begin{document}
 \maketitle
 
@@ -67,25 +90,45 @@
 \newcommand{\possibleemd} {\emph{possible em.}}
 
 \section{Sigla and Abbreviations}
-\noindent TaRaA = Tattvaratnāvaloka\\
+\noindent\begin{longtable}{ l p{12cm} }
+	\noindent TaRaA & Tattvaratnāvaloka\\
 
-\noindent TaRaA-V = Tattvaratnāvalokavivaraṇa\\
+	\noindent TaRaA-Vi & Tattvaratnāvalokavivaraṇa\\
 
-\noindent \EDD\ = Dhīḥ vol. 21, pp.\ 129–149.\\
+	\noindent \EDD\ & Dhīḥ vol. 21, pp.\ 129–149.\\
 
-\noindent \MS\ = NAK 5–252 = NGMPP A 915/4\\
+	\noindent \MS\ & NAK 5–252 = NGMPP A 915/4\\
 
-\noindent \TM : \emph{De kho na nyid rin po che snang ba}. Tōhoku no.\ 1889. sDe dge bstan 'gyur, vol.\ Pi, fols.\ 203r3–204r5. Tr.\ by 'Gos Lhas btsas\\
+	\noindent \TM & \emph{De kho na nyid rin po che snang ba}. Tōhoku no.\ 1889. sDe dge bstan 'gyur, vol.\ Pi, fols.\ 203r3–204r5. Tr.\ by 'Gos Lhas btsas\\
 
-\noindent \TVA : \emph{De kho na nyid rin po che snang ba'i rnam par bshad pa}.  Tōhoku\ no.\ 1890.  sDe dge bstan 'gyur, vol.\ Pi, fols.\ 204r5–214v4. Tr.\ by 'Gos Lhas btsas.\\
+	\noindent \TVA & \emph{De kho na nyid rin po che snang ba'i rnam par bshad pa}.  Tōh.\ 1890. sDe dge bsTan 'gyur, vol.\ 44 (rGyud 'grel, Pi), fols.\ 204r5–214v4. Tr.\ by 'Gos Lhas btsas.\\
 
-\noindent \TVB : \emph{De kho na nyid rin po che snang ba'i rnam par bshad pa}. Ōtani no.\ 4793. sNar thang bstan 'gyur. No translator given.
+	\noindent \TVB & \emph{De kho na nyid rin po che snang ba'i rnam par bshad pa}. Ōtani no.\ 4793. bsTan 'gyur gSer bris ma, vol.\ 84 (83 in BDRC outline(?)), (rGyud 'brel, Zhu), fols. 70v–85v. translator given.\\
 
-\noindent \TIB : Both Tibetan translations (differences, if any, indicated in a mini-aparatus)
+	\noindent \TIB & Both Tibetan translations (differences, if any, indicated in a mini-aparatus)\\
+
+\bigskip
+$ac$ & \emph{ante correctionem} \\
+\emph{deest} & omitted in \\
+\diag & diagnostic conjecture [e.g.\ `reconstructed' from Tibetan]\\
+\conj & conjecture\\
+\emd & emendation [an emendation is made with a high degree of confidence, whereas a conjecture proposes a correction while acknowledging a greater possibility for alternatives]\\
+fol./fols. & folio/folios \\
+$pc$ & \emph{post correctionem} \\
+$r$ & recto \\
+$v$ & verso \\
+$\Sigma$\textsubscript{X} & Reading shared in all witnesses but X \\
+((kiṃcit)) & Reading uncertain—either illegible or otherwise in doubt \\
+<kiṃcit> & Reading cancelled \\
+\crux kiṃcit\crux & Reading does not make sense to the editor and an adequate conjecture was not able to be chosen. \\
+{[}kiṃcit{]} & Indication of a diagnostic conjecture  \\
+.. & Damaged \emph{akṣara} (one . per half \emph{akṣara}) \\
+... & Lacunae of an unknown quanity of \emph{akṣara}s \\
+° & Mark of abbreviation \\
+\end{longtable}
 
 \section{Text}
-\subsection{Verse 1}
-\subsubsection{Root text}
+\subsection{Maṅgalācaraṇa}
 \begin{quote}
 	[\MS\ fol.\ 1r] [siddhaṃ]\footnoteB{
 		[siddhaṃ]] \MS ; oṁ \EDD
@@ -113,8 +156,7 @@
 %	ji srid re ba snang bar phyag na padma rgyal gyur cig  |
 \end{quote}
 
-\subsubsection{Commentary}
-\noindent [\MS\ fol.\ 2r3] namaḥ samantakāyavākcittavajrāya.\footnoteA{
+\medskip\noindent [\MS\ fol.\ 2r3] namaḥ samantakāyavākcittavajrāya.\footnoteA{
 	Scribal homage
 }\\
 
@@ -133,11 +175,10 @@ anupamam ity atipraṇītatvamahattvāsaṃsārasthāyitvalakṣaṇair\footnote
 	cf.\ Tib.: dpe med ces bya ba la sogs pa smos te/ dpe med pa ni (ni] \TVA; dang \TVB) shin tu gya nom pa nyid dang/ rgya (rgya] \TVA; deest in \TVB) che ba nyid dang/ 'khor ba'i mtha'i bar du gnas pa'i mtshan nyid kyi chos dang ldan pa ste/ gzhan dag la de med pa'i phyir ro/ / (āha—anumapetyādi. anupamam iti atipraṇītatvamahattvāsaṃsārasthāyitvalakṣaṇair yuktam, anyasya tadabhāvād.)\\
 } upamārahitaṃ sukham eva rūpaṃ svabhāvo yasya sa tathoktaḥ.
 punar api kiṃviśiṣṭaḥ?
-śrīḥ puṇyajñānasambhāralakṣaṇā.
-tasyā nivāsa āśrayo yaḥ sa tathā.
+śrīḥ puṇyajñānasambhāralakṣaṇā, tasyā nivāsa āśrayo yaḥ sa tathā.
 dharmakāyarūpitvena\footnoteB{
 	dharmakāyarūpitvena] \MS\ \EDD; dharmakāyarūpatvena \possibleemd\ (\emph{cf.} \TVA\ \TVB: chos kyi sku'i ngo bo nyid kyis)
-} sarvagatatvāt [\EDD\ p.\ 132] pratiniyatanivāsābhāvād anivāsaḥ.\\
+} sarvagatatvāt [\EDD\ p.\ 132] pratiniyatanivāsābhāvād anivāsaḥ.
 
 % \textbf{\TVA}\\
 % dpe med ces bya ba la sogs pa la gang gi phyag na padma bsnams pa de ni phyag na padma ste | bcom ldan 'das spyan ras gzigs dbang phyug yin la | de rgyal bar gyur cig ces bya bar sbyar ro || khyad par ji lta bu zhig dang ldan zhe na | dpe med ces bya ba la sogs pa smos te | dpe med pa ni shin tu gya nom ba nyid dang | rgya che ba nyid dang | 'khor ba'i mtha'i [\TVA\ fol.\ 204v] bar du gnas pa'i mtshan nyid kyi chos dang ldan pa ste | gzhan dag la de med pa'i phyir ro || gang gis rang bzhin bde ba nyid kyi ngo bo dpe dang bral bar gyur pa de la de skad ces bya'o || gzhan yang khyad par ji lta bu zhig dang ldan zhe na | dpal de bsod nams dang ye shes kyi tshogs kyi mtshan nyid yin la | de'i gnas ni gzhir gyur pa gang yin pa de la de skad ces bya'o || chos kyi sku'i ngo bo nyid kyis kun du 'gro ba nyid yin pa'i phyir | so sor nges pa'i gnas med pas na gnas med pa'o || \\
@@ -160,7 +201,7 @@ tribhuvanasya tribhuvanavartino janasya yaddhitam āyatipathyaṃ\footnoteB{
 	tad āpātapathyaṃ] \conj\ (\TVA : 'phral gyi phan pa); tad dāpayati pathyaṃ \MS\ \EDD ; de la bde ba ni bde ba ste \TVB
 } cakravartitvādikam, tasya yā prāptiḥ\footnoteB{
 	prāptiḥ] \MS\ \EDD ; thob pa ni rnyed pa ste \TVA\ \TVB
-} [\MS\ fol.\ 2v] sākṣātkriyā, tasyāḥ karaṇaṃ kāro yasya sa tathā.
+} [\MS\ fol.\ 2v] sākṣāt kriyā, tasyāḥ karaṇaṃ kāro yasya sa tathā.
 aparinirvāṇadharmakatvenāpratiṣṭhitanirvāṇarūpatvenā\footnoteB{
 	°rūpatvenā°] \MS\ \EDD ; ngo bo rnyed pas \TVA ; ngo bo brnyed pas \TVB\ (°rūpaprāptyā°)
 }nyathātvalakṣaṇasya vikārasyābhāvād avikāraḥ.
@@ -181,8 +222,7 @@ kiyantaṃ kālam ity āha\emdash yāvad āśāvikāśāḥ.\footnoteB{
 } avakāśāḥ pravartanāni, prādurbhāvā iti yāvat.
 te yāvat\footnoteB{
 	te yāvat] \emd ; tā yāvat \MS\ \EDD ; deest \emph{in \TIB}
-} tāvad bhagavāñ jayati.
-sarvahariharahiraṇyagarbhādibhyaḥ prakṛṣṭo bhavatīty arthaḥ.
+} tāvad bhagavāñ jayati, sarvahariharahiraṇyagarbhādibhyaḥ prakṛṣṭo bhavatīty arthaḥ.
 
 % \textbf{\TVA}\\
 % dus ji srid du zhe na | ji srid re ba snang bar zhes bya ba smos te | re ba'i ngo bo'i sgras ni phyogs bcu nam mkha'i rang bzhin pa'am | yang na re ba ste | sems can thams cad srid pa'i longs spyod la sreg pa'o || re ba de snang ba ni gsal ba dang | rab tu 'jug pa dang | rab tu skye ba'i bar du ste | de srid du bcom ldan 'das rgyal bar gyur pa ni khyab 'jug dang | lha chen po dang | tshangs pa la sogs pa thams cad las khyad par du 'phags par gyur [\TVA\ fol.\ 205r] || cig ces bya ba'i don to || \\
@@ -193,9 +233,9 @@ sarvahariharahiraṇyagarbhādibhyaḥ prakṛṣṭo bhavatīty arthaḥ.
 atrānupamasukharūpīty anena svārthasaṃpattiḥ kathitā.
 śrīnivāsa ity anena tadupāyaḥ, puṇyajñānasambhārayoḥ śrīśabenābhihitatvāt.
 tribhuvanahitasaukhyaprāptikāra ity anena parārthasaṃpattir uktā.
-nirupamadaśadevīrūpavidyaḥ savidya ity anena tadupāyaḥ, tathābhūta\footnoteB{
+nirupamadaśadevīrūpavidyaḥ savidya ity anena tadupāyaḥ, \footnoteB{
 	tathābhūta°] \MS\ \EDD ; \emph{no reflect in } \TIB
-}daśadevīdvātriṃśallakṣaṇāśītyanuvyañjanakāyākāraśūnyena\footnoteB{
+}\hspace{0em}tathābhūtadaśadevīdvātriṃśallakṣaṇāśītyanuvyañjanakāyākāraśūnyena\footnoteB{
 	°kāyā°] \MS\ \EDD ; dam pa'i sku \TIB\ (satkāya)
 } sarvākāraparārthasaṃpatteḥ kartum aśakyatvād iti.
 
@@ -205,8 +245,7 @@ nirupamadaśadevīrūpavidyaḥ savidya ity anena tadupāyaḥ, tathābhūta\foo
 % \textbf{\TVB}\\
 % de la dpe med bde ba'i ngo bo zhes bya ba 'dis ni rang gi don phun sum tshogs pa bstan to || dpal gyi gnas gyur ces bya ba 'dis ni | de'i thabs yin te | bsod nams dang ye shes kyi tshogs dag ni dpal gyi sgras mngon par brjod pa'i phyir ro || srid pa gsum la phan pa dang bde ba thob mdzad ces bya ba 'dis ni gzhan gyi don phun sum tshogs pa bstan to || dpe med lha mo bcu'i ngo bo'i rig ma dag dang rig par bcas zhes bya ba 'dis ni de'i thabs yin te | de lta bu'i lha mo bcu dang dam pa'i sku mtshan sum cu rtsa gnyis dang | dpe byad bzang po brgyad cu'i rnam pas stong na | gzhan gyi don phun sum tshogs pa rnam pa thams cad du mdzad pa'i mthu mi mnga' ba'i phyir ro || 
 
-\subsection{Verse 2}
-\subsubsection{Root Text}
+\subsection{prayojanādyabhidhānam}
 \begin{quote}
 	śrīmantranītigatacārucaturthaseka-\\
 	rūpaṃ vidanti na hi ye sphuṭaśabdaśūnyam |\\
@@ -222,8 +261,7 @@ nirupamadaśadevīrūpavidyaḥ savidya ity anena tadupāyaḥ, tathābhūta\foo
 % 	de dag rnams kyi gsal bar rtogs par bya phyir 'bad pas bya ||
 \end{quote}
 
-\subsubsection{Commentary}
-śrīmantranītiśabdena sāmānyayogatantravācakenāpi śrīsamājaḥ parigṛhyate, caturthārthakasyānyatrāsambhavāt.
+\noindent śrīmantranītiśabdena sāmānyayogatantravācakenāpi śrīsamājaḥ parigṛhyate, caturthārthakasyānyatrāsambhavāt.
 	% svārthe kaḥ?
 śeṣaṃ subodham.
 nānācāryopadeśagaṇasaṃkulai\hspace{0em}[\EDD\ p.\ 133]\hspace{0em}r vyākulaiḥ saptabhir bhedaiḥ prakārair atītānāgatavartamānācārya\footnoteB{
@@ -237,8 +275,7 @@ sphuṭāvagataye sukhena sphuṭapratītyartham iti.
 % \textbf{\TVB}\\
 % dpal ldan sngags kyi gzhung lugs zhes bya ba'i sgras | rnal 'byor rgyud shugs kyis dpal gsang ba 'dus spyir brjod par byed pa yin du zin kyang | pa yongs su gzung bar bya ste | gzhan dag la don bzhi pa mi srid pa'i phyir ro || lhag ma ni go sla'o || slob dpon du ma'i man ngag gis yongs su dkrugs pa'i rnam par 'khrugs pa rnam par bkab pa ste bdun gyi dbye bas zhes bya ba ni 'das pa dang | ma 'ongs pa dang | da ltar gyi slob dpon du gtogs pa'i man ngag gi tshogs yang dag par bsdus pas so || gsal bar rtogs par bya ba'i phyir | zhes bya ba ni bde bar gsal bar khong du chud par bya'o || [\TVB\ fol.\ 72r] zhes bya ba'i tha tshig go || 
 
-\subsection{Verse 3}
-\subsubsection{Root text}
+\subsection{tīrthikānāṃ tattvasādhyayor prastāvaḥ}
 \begin{quote}
 	sambhrāntabodhā nikhilā hi tīrthyās \\% final s in tīrthyās is unclear, but probably there; there is a slight crease in the image
 	tattvasya sādhyasya ca rūpavittau |\\
@@ -255,8 +292,7 @@ sphuṭāvagataye sukhena sphuṭapratītyartham iti.
 % 	skye bo rnams ni de nyid mchog ces smra || 
 \end{quote}
 
-\subsubsection{Commentary}
-sambhrāntetyādi.
+\noindent sambhrāntetyādi.
 sambhrānto vibhrānto bodhaḥ prajñāviśeṣo yeṣāṃ tīrthikānāṃ te tatho[\MS\ fol.\ 3r]ktāḥ.\footnoteB{
 	te tathoktāḥ]; \MS\PCreading ; te thoktāḥ \MS\ACreading ; tathoktāḥ \EDD
 }
@@ -265,7 +301,7 @@ tattvam idam iti sādhyam idam\footnoteB{
 	sādhyam idam] \emd ; sādhyaṃ cedam \MS\ \EDD
 } iti ca tattvasya sādhyasya yat\footnoteB{
 	yat] \EDD\ (\emd); tat \MS
-} svarūpaṃ tasya yā vittiḥ pratītis tasyāṃ bhrāntāḥ.
+} svarūpaṃ tasya yā vittiḥ pratītiḥ. tasyāṃ bhrāntāḥ.
 śeṣaṃ subodham.
 
 % \textbf{\TVA}\\
@@ -278,7 +314,9 @@ nanu tattvasādhyayor upādeyatvenaikarūpatvāt tattvasya sādhyasya ceti katha
 	tattvasya sādhyasya ceti kathaṃ] \EDD\ (\emd); tat kathaṃ tatvasya sādhyasya ceti \MS
 } bhedena nirdeśa iti cet.
 asad etat.
-tattvaṃ hy upādeyatvenāpi sukhaduḥkhopekṣādisakalapratibhāsasaṃdohavyāpakam.
+tattvaṃ hy upādeyatve 'pi\footnoteB{
+	upādeyatve 'pi] \conj\ (\TIB : blang bar bya ba nyid yin); upādeyatvenāpi \MS\ \EDD
+} sukhaduḥkhopekṣādisakalapratibhāsasaṃdohavyāpakam.
 sādhyaṃ cānabhimataparihāreṇecchālakṣaṇaṃ phalam upādeyatve 'pi sakalaprāṇibhir avaśyam evāsādhyavyāvṛttyā sādhayitavyatvenābhimatam ity adoṣaḥ.
 
 % \textbf{\TVA}\\
@@ -287,8 +325,11 @@ sādhyaṃ cānabhimataparihāreṇecchālakṣaṇaṃ phalam upādeyatve 'pi s
 % \textbf{\TVB}\\
 % gal te de kho na nyid dang bsgrub par bya ba dag la ni blang bar bya ba nyid du ngo bo nyid gcig pa ma yin nam | ci'i phyir de kho na nyid dang bsgrub par bya ba dbye ba bstan ce na | de ni bden pa ma yin te | de kho na nyid blang bar bya ba nyid yin yang bde ba dang sdug bsngal dang btang snyoms la sogs pa so sor snang ba'i tshogs ma lus pa la khyab par byed pa yin la | bsgrub par bya ba yang mngon par 'dod pa ma yin pa las bzlog par 'dod pa'i mtshan nyid kyis 'bras bu blang bar bya ba nyid yin yang srog chags thams cad kyis gdon mi za bar bsgrub bya ba ma yin pa las bzlog pa bsgrub par bya ba nyid du mngon par 'dod pa'i phyir nyes pa med do || 
 
-\subsection{Verse 4}
-\subsubsection{Root text}
+\subsection{vedāntavādināṃ śrāvakapratyekabuddhānāṃ ca sādhyāni}
+tatra tāvad\footnoteB{
+	tāvad] \MS\ \EDD\ \TVA\ (re zhig); \emph{no reflex in} \TVB
+} vedāntavādyabhimataṃ sādhyam āha\emdash ānandarūpam ityādi.
+
 \begin{quote}
 	ānandarūpaṃ svavid aprakampyaṃ \\
 	vedāntinaḥ sādhyam uṣanti śāntam\footnoteB{
@@ -307,11 +348,7 @@ sādhyaṃ cānabhimataparihāreṇecchālakṣaṇaṃ phalam upādeyatve 'pi s
 % 	phung po dag dang bral ba bsgrub byar 'dod || 
 \end{quote}
 
-\subsubsection{Commentary}
-tatra tāvad\footnoteB{
-	tāvad] \MS\ \EDD\ \TVA\ (re zhig); \emph{no reflex in} \TVB
-} vedāntavādyabhimataṃ sādhyam āha\emdash ānandarūpam ityādi.
-ānandarūpam iti sadāsukhamayatvāt.
+\noindent ānandarūpam iti sadāsukhamayatvāt.
 svavid iti jyotīrūpatvena\footnoteB{
 	jyotīrūpatvena] \MS ; jyotirūpatvena \EDD
 } svayaṃ prakāśamānatvāt.\footnoteB{
@@ -346,8 +383,12 @@ rūpādyupadher virāmaṃ rūpavedanāsaṃjñāsaṃskāravijñānalakṣaṇ�
 % \textbf{\TVB}\\
 % gang nyan thos dang bcas pa'i 'jug pa'i rang rgyal ba ni bse ru lta bu ste | gcig pu rgyu ba dang | tshogs kyi spyod pa'i rang sangs rgyas dag bsgrub byar 'dod do || ci 'dra ba zhig ce na | gzugs la sogs pa'i phung po dang bral ba'o || gzugs dang tshor ba dang 'du shes dang | 'du byed rnams dang | rnam par shes pa'i mtshan nyid dag gi phung po rnams ni spung ba ste | bral ba dang | rnam par chad pa dang | 'gag par gyur pa zhes bya ba'i bar du'o || 'di skad du bstan par 'gyur te | nyan thos dang rang sangs rgyas thams cad ni phung po lhag ma dang bcas pa dang | phung po lhag ma med pa'i dbye bas mya ngan las 'das pa tha dad kyang | phung po lhag ma med pa'i mya ngan las 'das pa kho na mngon sum du bya ba'i phyir bsgrub par byed par zhugs pa yin no || 
 
-\subsection{Verse 5 — pāramitānayavādināṃ caturvidhaṃ sādhyam}
-\subsubsection{Root text}
+\subsection{pāramitānayavādināṃ caturvidhaṃ sādhyam}
+idānīṃ pāramitānayavādinām abhimataṃ\footnoteB{
+	abhimataṃ] \EDD; abhimata \MS
+} caturvidhaṃ sādhyam āha\emdash ākāraśūnyam ityādi.
+	% citrarūpa -- bahuvrīhi or not?
+
 \begin{quote}
 	ākāraśūnyaṃ gaganendurūpaṃ \\
 	pratyātmavedyaṃ karuṇārasaṃ ca |\\
@@ -357,6 +398,18 @@ rūpādyupadher virāmaṃ rūpavedanāsaṃjñāsaṃskāravijñānalakṣaṇ�
 	dānādiniṣyandam apetasaukhyam || 5 ||
 	% Indravajra: GGLGGLLGLGG
  
+	sānandasallakṣaṇamaṇḍitāṅgaṃ \\
+	sambhujyamānaṃ daśabhūmisaṃsthaiḥ |\\
+	sattvārthakāri pravadanti sādhyaṃ \\
+	dānādiṣaṭpāramitānayasthāḥ || 6 ||
+	% GGLGGLLGLGG, Indravajrā
+
+% 	Followers of the Way of the Six Perfections—namely, giving and the others—teach that the goal is the body adorned with the blissful excellent qualities, enjoyed by the lords of the tenth stage and accomplishing the aims of sentient beings.
+% 
+% 	sbyin sogs pha rol [\TM\ fol.\ 203v] phyin drug tshul gnas pa || \\
+% 	dka' bcas sku ni mdzes pa'i mtshan gyis brgyan || \\
+% 	sa bcur bzhugs pas yang dag longs spyod pa || \\
+% 	'gro don mdzad pa bsgrub byar rab tu smra || 
 % 	It is empty of forms, has the nature of the sky and the moon, is to be realised by oneself, and has compassion as its flavour.
 % 	Adorned with all excellent characteristics, it accomplishes aims, it is the outflow of giving and so forth, and is free of bliss.
 % 
@@ -366,12 +419,8 @@ rūpādyupadher virāmaṃ rūpavedanāsaṃjñāsaṃskāravijñānalakṣaṇ�
 % 	sbyin la sogs pa'i rgyu mthun bde bral ba || 
 \end{quote}
 
-\subsubsection{Commentary}
-idānīṃ pāramitānayavādinām abhimataṃ\footnoteB{
-	abhimataṃ] \EDD; abhimata \MS
-} caturvidhaṃ sādhyam āha\emdash ākāraśūnyam ityādi.
-	% citrarūpa -- bahuvrīhi or not?
-ākārair nīlapītasukhaduḥkhādibhiś citrarūpaiḥ śūnyaṃ nirākāram.
+\subsubsection{pāramitānaye prathaṃ sādhyam}
+\noindent ākārair nīlapītasukhaduḥkhādibhiś citrarūpaiḥ śūnyaṃ nirākāram.
 ata eva gaganasyeva nirākāratvenendor iva prabhāsvaratvena rūpaṃ svabhāvo yasya tat tathā.
 pratyātmavedyam iti svasaṃvedanaikavedyam.\footnoteB{
 	svasaṃvedanaikavedyam] \EDD\ (\emd) (°vedyaṃ); svasaṃvedyanaikavedyaṃ \MS
@@ -399,7 +448,8 @@ etad uktaṃ bhavati\emdash nīlapītādicitrākāraśūnyaṃ nirābhāsaṃ\fo
 % \textbf{\TVB}\\
 % da ni pha rol tu phyin pa'i tshul du smra ba dag mngon par 'dod pa'i bsgrub par bya ba rnam pa bzhi bstan pa'i phyir | zhes bya ba la sogs pa smos te | rnam pa ni [\TVB\ fol.\ 73r] sngon po dang | ser po dang | bde ba dang | sdug bsngal la sogs sna tshogs pa'i ngo bo'o || des stong pa ste (rnam pa rdzun pa'i gzhung) rnam pa brdzun pa'o || rnam pa med pa de nyid kyi phyir na nam mkha' lta bu'o || gang gi rang bzhin zla ba dang 'dra bar 'od gsal ba'i ngo bo nyid yin pa de la de skad ces bya'o || so so rang rig ces bya ba ni rang rig pa gcig pu'i ngo bo rig pa'o || 'dir (phung po) sdug bsngal dang sdug bsngal gyi rgyu (mi dge bcu las dang nyon mongs) dag las 'gro ba ma lus par 'don par 'dod pa'i snying rje'i rang bzhin gang yin pa de la de skad ces bya'o || 'di skad du bshad par 'gyur te || pha rol tu phyin pa nye bar ston pa'i sgras brjod par bya ba sngon po dang | ser po la sogs pa'i rnam pa sna tshogs pas stong zhing snang ba med la | dri ma med pa nam mkha' lta bur dag pa 'gro ba ma lus pa'i don byed pa'i snying rje chen po dang ldan pa so so rang gis rig pa ni bsgrub par bya ba yin te | pha rol tu phyin pa'i tshul gyi bsgrub par bya ba dang po'o |\\
 
-śobhanāni ca tāni lakṣaṇāni ca dvātriṃśallakṣaṇasaṃjñakānīti.\footnoteB{
+\subsubsection{pāramitānaye dvitīyaṃ sādhyam}
+\noindent śobhanāni ca tāni lakṣaṇāni ca dvātriṃśallakṣaṇasaṃjñakānīti.\footnoteB{
 	°saṃjñakānīti] \conj\ (\textsc{Isaacson}); °saṃjñakāni ceti \MS\ \EDD ; mdzes pa'i mtshan sum cu rtsa gnyis zhes bya ste \TIB
 }
 tair bhūṣitam.
@@ -426,24 +476,7 @@ etad uktaṃ bhavati\emdash dvātriṃśallakṣaṇadharāśītyanuvyañjanavir
 % \textbf{\TVB}\\
 % mdzes pa (rnam pa dang bcas pa) yang de nyid yin la mtshan yang de nyid yin pas na || mdzes pa (rnam pa dang bcas pa) yang de nyid yin la mtshan yang de nyid yin pas na | mdzad pa'i mtshan sum cu rtsa gnyis zhes bya sde | des brgyan pa'o || don te skye bo rnams kyis dgos pa mdzad pa'i ngang tshul can gyi rang bzhin gang la yod pa de ni de'i don mdzad pa'o || sbyin pa la sogs pa pha rol tu phyin pa [\TVB\ 73v] bcu'i rgyu mthun pa de ni rab kyi mtha'i stobs nyid kyis 'dra ba'i 'bras bu'o || sdug bsngal sngar spangs pa nyid kyi phyir dang | bde ba yang mngon sum du byas pa'i gnas skabs na med pa'i phyir | btang snyoms kyi ngo bo nyid kyis bde ba nyid med pa'i ni bde bral ba'o || 'di skad du bstan par 'gyur te | mtshan sum cu rtsa gnyis 'dzin cing |dpe byad bzang po brgyad cus rnam par spras pa'i sku 'gro ba ma lus pa'i don mdzad pa | sbyin pa la sogs pa'i pha rol tu phyin pa goms par mdzad pa'i stobs kyis byung ba yang dag par rdzogs pa'i sangs rgyas kyi ngo bo nyid bde ba dang | sdug bsngal spangs pa'i btang snyoms kyi ngo bo nyid bsgrub par bya ba gnyis pa yin no || 
 
-\subsection{Verse 6}
-\subsubsection{Root text}
-\begin{quote}
-	sānandasallakṣaṇamaṇḍitāṅgaṃ \\
-	sambhujyamānaṃ daśabhūmisaṃsthaiḥ |\\
-	sattvārthakāri pravadanti sādhyaṃ \\
-	dānādiṣaṭpāramitānayasthāḥ || 6 ||
-	% GGLGGLLGLGG, Indravajrā
-
-% 	Followers of the Way of the Six Perfections—namely, giving and the others—teach that the goal is the body adorned with the blissful excellent qualities, enjoyed by the lords of the tenth stage and accomplishing the aims of sentient beings.
-% 
-% 	sbyin sogs pha rol [\TM\ fol.\ 203v] phyin drug tshul gnas pa || \\
-% 	dka' bcas sku ni mdzes pa'i mtshan gyis brgyan || \\
-% 	sa bcur bzhugs pas yang dag longs spyod pa || \\
-% 	'gro don mdzad pa bsgrub byar rab tu smra || 
-\end{quote}
-
-\subsubsection{Commentary}
+\subsubsection{pāramitānaye tṛtīyaṃ sādhyam}
 [\EDD\ p.\ 135] sānandetyādi.
 sahānandena vartata iti sā[\MS\ fol.\ 4r]nandam.
 sānandaṃ ca tat sallakṣaṇamaṇḍitāṅgaṃ ca\footnoteB{
@@ -464,7 +497,7 @@ etad uktaṃ bhavati\emdash śuddhāvāsopari ghanavyūhasaṃjñake\footnoteB{
 	paraṃ bodhisatvair] \MS\ \EDD\ (°sattvair); mchog tu gyur pa'i byang chub sems dpa' \TIB\ (paramabodhisattvair)
 } dharmaśravaṇadvāreṇopabhujyamāna\footnoteB{
 	bhujyamāna] \emd ; bhujyamānam \MS\ \EDD
-} āsaṃsāraṃ cakāsti tathaiva tat sādhyam iti tṛtīyam.
+} āsaṃsāraṃ cakāsti, tathaiva tat sādhyam iti tṛtīyam.
 
 % \textbf{\TVA}\\
 % dga' bcas zhes bya ba la sogs pa la | dga' ba dang lhan cig 'jug pa'i phyir de dag dga' ba dang bcas pa yin la | mdzes pa'i mtshan rnams kyis brgyan pa'i sku yang yin pas so || yang dag longs spyod pa [\TVA\ fol.\ 206v]ni | chos bstan pa'i sgo nas nye bar longs spyod par gyur pa'o || su zhig gis she na | sa bcu'i dbang phyug rnams kyis te | sa lhag ma rnams na gnas pa'i spyod yul ma yin pa nyid kyi phyir | sa bcu brnyes pa spyan ras gzigs dang 'jam dpal la sogs pa rnams kyis longs spyod par bya ba ma yin no zhes bya ba'i bar du'o || lhag ma ni go sla'o || 'di skad du bshad par 'gyur te | gnas gtsang ma'i steng na yang dag par rdzogs pa'i sangs rgyas kyi pho brang stug po bkod pa zhes bya ba ni ji ltar bcom ldan 'das dga' ba'i ngo bo longs skyod rdzogs pa'i sku'i bdag nyid can | sprul pa'i sku'i sgo nas 'gro ba ma lus pa'i don yang dag par sgrub par mdzad pa nyan thos dang rang sangs rgyas dang | sa dgu'i dbang phyug rnams kyis kyang mi mthong ba'i sku can | sa bcu'i dbang phyug mchog tu gyur pa'i byang chub sems dpa' kho nas chos gsan pa'i sgo nas nye bar longs spyad par bya ba 'khor ba ji srid nas bzhugs te | de lta bu'i bsgrub par bya ba gsum pa yin no || \\
@@ -472,8 +505,8 @@ etad uktaṃ bhavati\emdash śuddhāvāsopari ghanavyūhasaṃjñake\footnoteB{
 % \textbf{\TVB}\\
 % dga' bcas (rnam bcas kyi gzhung) zhes bya ba la sogs pa la | dga' ba dang lhan cig 'jig pa'i phyir de dga' ba dang bcas pa yang yin la | mdzes pa'i mtshan gyis brgyan pa'i sku yang yin pas so || yang dag longs spyod pa ni chos ston pa'i sgo nas nye bar longs spyod par gyur pa'o || su zhig gis zhe na || sa bcu'i dbang phyug rnams kyis te | sa lhag ma rnams na gnas pa'i spyod yul ma yin pa nyid kyi phyir | sa bcu pa brnyes pa spyan ras gzigs dbang phyug dang | 'jam dpal la sogs pa rnams kyis longs spyod par bya ba yin no || zhes bya ba'i bar du'o || lhag ma ni go sla'o || 'di skad du bshad par 'gyur te | gnas [\TVB\ fol.\ 74r] gtsang ma'i steng na yang dag par rdzogs pa'i sangs rgyas kyi pho brang stug po bkod pa zhes bya ba na | ji ltar bcom ldan 'das dga' ba'i ngo bo longs spyod rdzogs pa'i sku'i bdag nyid can | sprul pa'i sku'i sgo nas 'gro ba ma lus pa'i don yang dag par sgrub par mdzad pa | nyan thos dang rang sangs rgyas dang sa dgu'i dbang phyug rnams kyis kyang ma mthong ba'i sku can | sa bcu'i dbang phyug mchog tu gyur pa'i byang chub sems dpa' kho nas chos gsan pa'i sgo nas nye bar longs spyod par bya ba 'khor ba ji srid du bzhugs te | de lta bu ni bsgrub par bya ba gsum pa yin no || 
 
-\subsection{Verse 7}
-\subsubsection{Root Text}
+\subsubsection{pāramitānaye tṛtīyaṃ sādhyam}
+
 \begin{quote}
 	saṃpūrya dānādiguṇān aśeṣān \\
 	saṃbuddhakṛtyaṃ\footnoteB{
@@ -491,9 +524,8 @@ etad uktaṃ bhavati\emdash śuddhāvāsopari ghanavyūhasaṃjñake\footnoteB{
 % 	'gog pa'i ngo bo bsgrub bya yang dag yod || 
 \end{quote}
 
-\subsubsection{Commentary}
-saṃpūryetyādi.
-dānādipāramitā eva guṇā guṇyante 'bhyasyanta iti kṛtvā.
+\noindent saṃpūryetyādi.
+dānādipāramitā eva guṇā, guṇyante 'bhyasyanta iti kṛtvā.
 tān saṃpūrya paripūrṇān\footnoteB{
 	paripūrṇān] \emd ; paripūrṇaṃ \MS\ \EDD
 } kṛtvā, yat saṃbuddhānāṃ kṛtyaṃ sakalam\footnoteB{
@@ -502,7 +534,7 @@ tān saṃpūrya paripūrṇān\footnoteB{
 	The manuscript reading of simply \emph{sakalaṃ} instead of \emph{kṛtyaṃ sakalam} is asymmetrical given the following gloss, \emph{avaśyakartavyaṃ kṛtsnaṃ}. Here Tib.\ reads simply \emph{nges par mdzad par bya ba ma lus pa}, reflecting only the gloss and neither \emph{sakalam} of the Sanskrit nor the conjecture \emph{kṛtyaṃ sakalam}. It is also possible that \emph{sakalam} is a mistaken scribal addition, but it's also possible that even if the Tibetan translators saw \emph{kṛtyaṃ sakalam}, they chose not to render this because of the superfluous sounding result in Tibetan.
 } avaśyakartavyaṃ kṛtsnaṃ tad api kṛtvā, bhūtakoṭeḥ śūnyatālakṣaṇāyāś cittacaittanirodhātmikāyā\footnoteB{
 	cittacaitta°] \EDD\ (\emd); cittacaitya° \MS
-} yat sākṣātkaraṇaṃ tad api sādhyam astīti pāramitānayasthā evaṃ bruvate caturthaṃ sādhyam iti.
+} yat sākṣāt karaṇaṃ tad api sādhyam astīti pāramitānayasthā evaṃ bruvate caturthaṃ sādhyam iti.
 
 % \textbf{\TVA}\\
 % sbyin sogs zhes bya ba la sogs pa la yon tan 'du byed goms par byed pa'i phyir | spyan pa la sogs pa'i pha rol tu phyin pa nyid yon tan yin la de dag yang dag par rdzogs pa ste | yongs su rdzogs par byas nas | gang rdzogs pa'i sangs rgyas rnams kyis nges par mdzad par bya ba ma lus pa de yang mdzad nas | yang dag pa'i mtha' ste gang sems dang sems las byung ba 'gog ba'i bdag nyid stong pa'i mtshan nyid mngon sum du mdzad pa'o || de yang bsgrub byar yod pa yin no zhes pha rol tu phyin pa'i tshul la gnas pa dag de skad smra ba bsgrub par bya ba bzhi pa yin no || \\
@@ -510,8 +542,11 @@ tān saṃpūrya paripūrṇān\footnoteB{
 % \textbf{\TVB}\\
 % (dbu ma pa'i gzhung) sbyin sogs zhes bya ba la sogs pa la | yongs su yon tan du byed goms par byed pa'i phyir sbyin pa la sogs pa'i pha rol tu phyin pa nyid yon tan yin la | de dag yang dag par rdzogs pa ste | rdzogs par byas nas | gang rdzogs pa'i sangs rgyas rnams kyis nges par mdzad par bya ba ma lus pa de yang mdzad nas | yang dag mtha' ste | gang sems dang sems las byung ba 'gog pa'i bdag nyid kyi stong pa'i mtshan nyid mngon sum du mdzad pa'o || de yang bsgrub byar yod pa yin no zhes pha rol tu phyin pa'i tshul la gnas pa de dag skad du smra ba bsgrub par bya ba bzhi pa'o || 
 
-\subsection{Verse 8}
-\subsubsection{Root Text}
+\subsection{mantranaye saptavidhaṃ sādhyam}
+\subsubsection{mantranaye prathamaṃ sādhyam}
+idānīṃ mantranayopadiṣṭaṃ saptavidhaṃ\footnoteB{
+	saptavidhaṃ] \EDD\ (Tib: rnam pa bdun); caturthaṃ \MS
+} sādhyaṃ kathayitum āha\emdash svābhāṅganetyādi.
 \begin{quote}
 	svābhāṅganāśleṣi\footnoteB{
 		svābhāṅganāśleṣi \EDD\ (\corr); svābhāṅgaṇāśleṣi \MS
@@ -532,11 +567,7 @@ tān saṃpūrya paripūrṇān\footnoteB{
 % 	rtog pa dang bral bsgrub byar rab tu 'chad || 
 \end{quote}
 
-\subsubsection{Commentary}
-idānīṃ mantranayopadiṣṭaṃ saptavidhaṃ\footnoteB{
-	saptavidhaṃ] \EDD\ (Tib: rnam pa bdun); caturthaṃ \MS
-} sādhyaṃ kathayitum āha\emdash svābhāṅganetyādi.
-svābhāṅganām\footnoteB{
+\noindent svābhāṅganām\footnoteB{
 	svābhāṅganām] \EDD\ (\corr); svābhāṅganām \MS
 } āśleṣituṃ śīlaṃ svabhāvo yasya tat svābhāṅganāśleṣi.\footnoteB{
 	svābhāṅganāśleṣi] \corr ; svābhāṅgaṇāśleṣi \MS\ \EDD
@@ -559,8 +590,7 @@ ayam arthaḥ\emdash samāliṅgitasvābhāṅganāśleṣi jagadarthakāri\foot
 % \textbf{\TVB}\\
 % da ni sngags kyi tshul du bshad pa'i bsgrub par bya ba rnam pa bdun bstan par bya ba'i phyir | nyid mtshungs (a na ga badz+ra) lha mo zhes bya ba la sogs pa smos te | nyid [\TVB\ fol.\ 74v] dang mtshungs pa'i lha mos 'khyud pa'i ngang tshul can gyi rang bzhin gang la mnga' ba de ni nyid mtshungs lha mos 'khyud pa can no || rtog pa dang bral ba ni rnam par rtog pa med cing rnam par rtog pa spangs pa zhes bya ba'i bar du'o || gzhan ni go sla'o || don ni 'di yin te | yang dag par 'khyud pa ste | nyid dang mtshungs pa'i lha (kha) mos 'khyud pa can 'gro (ga) ba'i don mdzad pa'i sku (k) mtshan sum cu rtsa gnyis la sogs pas rnam par brgyan pa btang snyoms kyi ngo bo nyid du 'khor ba ji bzhugs pa mngon sum du bya ba yin zhes bya ba ni bsgrub bya dang po'o || 
 
-\subsection{Verse 9}
-\subsubsection{Root Text}
+\subsubsection{mantranaye dvitīyaṃ sādhyam}
 \begin{quote}
 	svadevatākāraviśeṣaśūnyaṃ \\
 	prāg eva sambhāvya sukhaṃ sphuṭaṃ sat |\\
@@ -578,8 +608,7 @@ ayam arthaḥ\emdash samāliṅgitasvābhāṅganāśleṣi jagadarthakāri\foot
 % 	yid bzhin nor bur grags pa kha cig smra || 
 \end{quote}
 
-\subsubsection{Commentary}
-svadevatetyādi.
+\noindent svadevatetyādi.
 svadevatākāraviśeṣeṇa\footnoteB{
 	svadevatā°] \sigmareading{\TVA}; lha \TVA\ (devatā°)
 } sveṣṭadevatākāreṇa śūnyam, nirākāram iti yāvat.
@@ -587,7 +616,7 @@ prāg eva prathamataram\footnoteB{
 	prathamataram] \MS ; prathamataro° \EDD
 } upadeśānantaram eva\footnoteB{
 	upadeśānantaram eva] \EDD\ (\emd); upadeśāntaram eva \MS ; bshad ma thag pa'i \TIB\ (anantarokta°)
-} devatākāranirapekṣaṃ sukhaṃ sambhāvya bhāvanayā sākṣāt kṛtvā sphuṭaṃ\footnoteB{
+} devatākāranirapekṣaṃ sukhaṃ sambhāvya, bhāvanayā sākṣāt kṛtvā, sphuṭaṃ\footnoteB{
 	sphuṭaṃ] \MS ; \emph{deest in} \EDD ; ma gsal ba TIB 
 }\footnoteA{
 	The understanding reflected in \TIB , namely \emph{aphuṭaṃ} instead of \emph{sphuṭaṃ}, is an alternative word division and also yields sense.
@@ -604,8 +633,7 @@ etad uktaṃ bhavati\emdash upadeśānantaram eva mantramudrādevatākārarahita
 % \textbf{\TVB}\\
 % dang po nyid nas zhes bya ba la sogs pa la | rang lha'i rnam pa'i khyad par te | bdag nyid kyi 'dod pa'i lha rnams pas stong pa dang | rnam pa med pa zhes bya ba'i bar du'o || dang po nyid nas zhes bya ba ni thog ma nyid nas bshad ma thag pa'i lha'i rnam pa nyid la bltos pa med (shar ba) par bde ba yang dag par bsgom par bya ba bsgom pas | mngon du bya ba gsal ba ma yin pa gsal bar byas par gyur pa ni bde ba chen po zhes bya bar 'gyur ro || de yang 'gro don mdzad pa ni yid bzhin gyi nor bu dang mtshungs pa'i tshul du'o || 'di skad du bshad par 'gyur te | bshad ma thag pa'i nyid kyi sngags (sa bon las | lha'i sku) dang phyag rgya dang lha'i rnam pa nyid spangs ste | bsgoms pas gsal por [\TVB\ fol.\ 75r] byas pa bde (ga) ba chen po zhes bya ba yid bzhin gyi nor (ga) bu bzhin du 'gro ba'i don mdzad pa | sgyu ma lta bu 'khor ba ji srid (ga) par bzhugs pa ni bsgrub par bya ba gnyis pa'o || 
  
-\subsection{Verse 10}
-\subsubsection{Root Text}
+\subsubsection{mantranaye tṛtīyaṃ sādhyam}
 \begin{quote}
 	kṛtvā sākṣāt svādhipaṃ [\MS\ fol.\ 1v] sātarūpaṃ \\
 	paścāt tyaktvā sātamātraṃ phalaṃ syāt |\\
@@ -626,26 +654,27 @@ etad uktaṃ bhavati\emdash upadeśānantaram eva mantramudrādevatākārarahita
 % 	de phyir bdag po'i rnam pa bsgom pa yin || 
 \end{quote}
 
-\subsubsection{Commentary}
-kṛtvetyādi.
-svādhipaṃ sveṣṭadaivataṃ sākṣāt kṛtvāmukhīkṛtya sātarūpaṃ sukhaikasvabhāvam, paścād devatākāraṃ parityajya sukhamātraphalaṃ sādhyaṃ vyavasthitaṃ syāt.
-nanu\footnoteB{
-	nanu] \MS\ \EDD\ ; gal te \TVA\ ([nanu] yadi) ; \TVB : \emph{not clearly rendered}
-} sākṣāt kṛtvāpi devatākāras tyaktavyaḥ.
-tarhi prathamam eva kasmād [\EDD\ p.\ 137] vibhāvitaḥ.
-sukhamātram eva dvitīyasādhyavat kiṃ na vibhāvitaḥ?\footnoteB{
-	vibhāvitaḥ] \EDD\ (\emd); vibhāgato \MS
+\noindent kṛtvetyādi.
+svādhipaṃ sveṣṭadaivataṃ sākṣāt kṛtvāmukhīkṛtya sātarūpaṃ sukhaikasvabhāvam, paścād devatākāraṃ parityajya, sukhamātraṃ\footnoteB{
+	sukhamātraṃ] \emd ; sukhamātra° \MS\ \EDD
+} phalaṃ sādhyaṃ vyavasthitaṃ syāt.
+
+nanu yadi\footnoteB{
+	nanu yadi] \conj ; nanu \MS\ \EDD ; gal te \TVA\ ([nanu] yadi); \TVB : \emph{not clearly rendered}
+} sākṣāt kṛtvāpi devatākāras tyaktavyaḥ, tarhi prathamam eva kasmād [\EDD\ p.\ 137] vibhāvitaḥ?
+sukhamātram eva dvitīyasādhyavat kiṃ na vibhāvitam?\footnoteB{
+	vibhāvitam] \emd ; vibhāvitaḥ \EDD\ (\emd); vibhāgato \MS
 }
 kiṃ vṛthāprayāsenety\footnoteB{
 	vṛthāprayāsenety] \EDD ; vyathāprayāsenety \MS
 } āha\emdash śuddham ityādi.
 śuddhaṃ kevalaṃ devatākāravirahitaṃ sukhamātraṃ naiva sākṣāt kartuṃ śakyate, ākārarahitasya sukhasyānupalambhāt.
 tasmāt tena kāraṇenākāro bhāvitaḥ svādhipasyeti tṛtīyam.\footnoteB{
-	tṛtīyam] \emd\ \TVB\ (gsum pa yin no) ; tṛtīyaḥ \MS\ \EDD ; bsgrub par bya ba gsum pa yin no \TVA\ (tṛtīyaṃ sādhyam)
+	tṛtīyam] \emd\ \TVB\ (gsum pa yin no); tṛtīyaḥ \MS\ \EDD ; bsgrub par bya ba gsum pa yin no \TVA\ (tṛtīyaṃ sādhyam)
 }
 ayam arthaḥ\footnoteB{
 	arthaḥ] \EDD ; artha \MS
-}\emdash devatākārasaṃvalitam eva sukhaṃ vibhāvya sākṣādbhūte devatākāraṃ tyaktvā sukhamātram eva sādhyam uktaguṇam.
+}\emdash devatākārasaṃvalitam eva sukhaṃ vibhāvya, sākṣādbhūte devatākāraṃ tyaktvā, sukhamātram eva sādhyam uktaguṇam.
 
 % \textbf{\TVA}\\
 % rang bdag ces bya ba la sogs pa smos pa la rang gi bdag po ni rang gi 'dod pa'i lha nyid do || bde ba'i ngo bo nyid ni bde ba gcig pu'i rang bzhin no || mngon byas pa ni kun nas mngon sum du byas pa yin no || phyis lha'i rnam pa nyid yongs su btang nas sgrub pa'i 'bras bu bde ba tsam la gnas par gyur pa'o || gal te mngon sum du byas nas kyang lha'i rnam pa'i ngo bo nyid gtang bar bya ba yin pa de lta na ni | dang po nyid ci'i phyir rnam par sgom par byed de | bsgrub par bya ba gnyis pa bzhin du bde ba tsam nyid ci ste bsgom par bya ba ma yin nam ngal ba don med pas ci zhig bya zhe na | dag pa zhes bya ba la sogs pa smos te | dag pa 'ba' zhig lha'i rnam pa dang | rnam par bral ba'i bde ba tsam kho na mngon sum du byed mi nus te | rnam pa dang bral ba'i bde ba 'ba' zhig mi dmigs pa'i phyir ro || rgyu de'i phyir rang gi bdag po'i rnam pa sgom par byed pa ste | bsgrub par bya ba gsum pa yin no || de'i don ni 'di yin te | lha nyid kyi rnam pa dang ldan pa'i bde ba kho na rnam par bsgom par bya ba mngon sum du byas nas lha'i rnam pa nyid [\TVA\ fol.\ 207v] btang ste | bde ba tsam kho na bsgrub par bya ba yon tan du 'chad do || \\
@@ -653,8 +682,7 @@ ayam arthaḥ\footnoteB{
 % \textbf{\TVB}\\
 % rang bdag (rad na a kar shan ti) ces bya ba la sogs pa smos pa la | rang gi bdag po ste | rang gi 'dod pa'i lha nyid dang | bde ba'i ngo bo ni bde ba gcig pu'i rang bzhin no || mngon byas pa ni kun nas mngon sum du byas pa yin no || phyis lha'i rnam pa nyid yongs su btang nas bsgrub par bya ba'i 'bras bu bde ba tsam la rnam par gnas par 'gyur ro || mngon sum du byas nas kyang lha'i rnam pa ngo bo nyid btang bar bya ba yin pa de lta na ni | dang po nyid ci'i phyir rnam pa bsgom par byed de | bsgrub par bya ba gnyis pa bzhin du bde ba tsam nyid ci ste bsgom par mi byed ma yin nam | ngal ba don med pas ci zhig bya zhe na | dag pa zhes bya ba la sogs pa smos te | dag pa (bde ba) 'ba' shig lha'i rnam pa dang rnam par bra'i ba'i bde ba tsam kho nas mngon sum du byed mi nus te | rnam pa dang bral ba'i bde ba mi dmigs (bde ba'i ngo bo) pa'i phyir ro || rgyu de'i phyir rang gi bdag po rnam par bsgom par byed pa zhes bya ba gsum pa yin no || don ni 'di yin te | lha nyid kyi rnam par dang ldan pa'i bde ba kho na rnam par bsgom par bya ba mngon sum du byas nas lha'i rnam pa nyid btang ste | bde ba (kha) tsam kho na sbgrub par bya ba [\TVB\ fol.\ 75v] yon tan can du 'chad do | 
 
-\subsection{Verse 11}
-\subsubsection{Root Text}
+\subsubsection{mantranaye caturthaṃ sādhyam}
 \begin{quote}
 	gagaṇasamaśarīraṃ lakṣaṇair bhūṣitāṅgaṃ \\
 	nirupamasukhapūrṇaṃ\footnoteB{
@@ -674,10 +702,9 @@ ayam arthaḥ\footnoteB{
 % 	chad pas stong pa bsgrub bya nyid du gzhan dag rab tu smra || 
 \end{quote}
 
-\subsubsection{Commentary}
-gagaṇetyādi.
+\noindent gagaṇetyādi.
 gagaṇasamaṃ māyopamaṃ vicārāsahaṃ\footnoteB{
-	māyopamaṃ vicārāsahaṃ] \MS\ (\emph{reading slightly unclrear}) ; māyopamavicārasaha \EDD
+	māyopamaṃ vicārāsahaṃ] \MS\ (\emph{reading slightly unclrear}); māyopamavicārasaha \EDD
 } śarīraṃ yasya.
 lakṣaṇair dvātriṃśadbhir aśītibhiś cānuvyañjanair maṇḍitāny aṅgāni yasya.
 nirupamaiḥ sthaulya\footnoteB{
@@ -685,9 +712,9 @@ nirupamaiḥ sthaulya\footnoteB{
 }nairantaryā\footnoteB{
 	°nairantaryā°] \EDD\ (\emd); °nairuttaryā° \MS
 }saṃsāra\footnoteB{
-	°āsaṃsāra°] \emd ; °āsaṃsāraṃ \EDD
+	°āsaṃsāra°] \emd ; °āsaṃsāraṃ \EDD\ \MS
 }pravāhitvanirāsravatvādibhir upamābhāvād upamātikrāntaiḥ sukhaiḥ pūrṇaṃ romāgraparyantaṃ\footnoteB{
-	\conj\ (\TIB : gang ba ni | ba spu rtse mo'i mthar thug pa) ; pūrṇṇaṃ masimāgrapayantaṃ \MS ; pūrṇatāṃ samāśrayantaṃ \EDD ;  \TVA\ (pūrṇaṃ romāgraparyantaṃ)
+	\conj\ (\TIB : gang ba ni | ba spu rtse mo'i mthar thug pa); pūrṇṇaṃ masimāgrapayantaṃ \MS ; pūrṇatāṃ samāśrayantaṃ \EDD ; \TVA\ (pūrṇaṃ romāgraparyantaṃ)
 } saṃpūrṇam.
 svābhayā ca tathābhūtayā saṃgataṃ samāliṅgitam.
 sphuradbhir anantanirmitair munīndrais tathābhūtair eva sarvasattvārthakāri.\footnoteB{
@@ -696,6 +723,8 @@ sphuradbhir anantanirmitair munīndrais tathābhūtair eva sarvasattvārthakāri
 ucchedeneti nirodhena śūnyam tucchaṃ riktam.\footnoteB{
 	tucchaṃ riktaṃ \MS ; bhūsthaṃ riktam \EDD ; spangs pa’o \TIB\ (tucchaṃ  | riktaṃ)
 }
+
+% For sthaulya°, see commentary on verse one. These are to be taken as qualities (dharmas) qualifying the sukha and thus making it unique.
 
 % \textbf{\TVA}\\
 % sku ni bya ba la sogs pa la gang gi sku nam mkha' dang mtshungs pa'i sgyu ma dang 'dra bar dpyad mi bzod pa'o || gang gis yan lag mtshan gyi ste | mtshan sum cu rtsa gnyis dang | dpe byang chub bzang po brgyad cus spras par gyur pa'o || dpe med ces bya ba ni gya nom pa nyid dang | rgya che ba nyid dang | bar med pa nyid dang | 'khor ba ji srid par rab tu 'jug pa nyid dang zag pa med pa nyid la sogs pa rnams kyis dpe med pa'i phyir ro || dpe las 'das pa'i bde bas gang ba ni | ba spu'i rtse mo'i mthar thug par gyur pa'o ||  nyid dang mtshungs pa yang de lta bur gyur pas 'dus pa ste | kun nas 'khyud par gyur pa'o || thub pa'i dbang po'i dpag tu med pa 'phro bar gyur pa de yang de lta bu kho nas sems can gyi don mdzad pa'o || chad pas zhes bya ba ni | 'gog pa stong pa ste spangs pa'o || \\
@@ -709,6 +738,8 @@ etad uktaṃ bhavati\emdash gaganamāyāmarīci\footnoteB{
 	°svapnopayam] \EDD ; svapnāpayaṃ \MS
 } [\MS\ fol.\ 5r] ekānekabhāvābhāvagrāhyagrāhakasvabhāvarahitam anādyantam aśeṣavastusaṃdohasvabhāvam\footnoteB{
 	anādyantam aśeṣavastusaṃdohasvabhāvam] \MS\ \EDD; thog ma dang tha ma med pa’i dngos po ma lus pa’i rang bzhin \TVA\ \TVB\ (anādyantāśeṣavastusvabhāvam)
+}\footnoteA{
+	See parallels in \emph{Samantabhadrasādhana} for \emph{mtshan ma med pa'i dga' ba}
 } anābhāsaṃ nirañjanaṃ sarvopamātikrāntaṃ paramasūkṣmātigambhīraprajñārūpatayā dharmakāyasvabhāvam, dvātriṃśallakṣaṇavibhūṣitaśarīram aśītyanuvyañjanavirājitagātraṃ\footnoteB{
 	°gātraṃ] \MS\ \EDD ; \emph{deest} in \TVA\ and \TVB
 } paramaśṛṅgārayauvanādyupetaṃ svābhāṅganāliṅgitāṅgaṃ rūpavajrāditārāparyantadevīgaṇair anantaprabhedānimittarati\footnoteB{
@@ -716,7 +747,9 @@ etad uktaṃ bhavati\emdash gaganamāyāmarīci\footnoteB{
 }svarūpaparamānandopabhogadvāreṇa pratibimbavat [\EDD\ p.\ 138] sambhujyamānaṃ karuṇāsaṃvalitodārarūpatayā sambhogakāyarūpam, nānādhimuktivineyajanaparipācanārtham % EDD misreports MS as reading paripāvanārtha
 anekavidhaprātihāryadvāreṇa\footnoteB{
 	anekavidhaprātihārya°] \MS\ \EDD ; rdzu 'phrul dang cho 'phrul rnam pa du ma \TVA\ \TVB\ (anekaṛddhiprātihārya°)
-} nirmitānantakulāntarbhūtasaṃbuddhabodhispharaṇasaṃhārakāritvena nirmāṇakāyātmakam, śūnyatākaruṇābhinnabodhicitta\footnoteB{
+} nirmitānantakulāntarbhūtasaṃbuddhabodhisattvaspharaṇasaṃhārakāritvena\footnoteB{
+	°bodhisattva°] \conj\ (\TVB byang chub sems dpa'i); °bodhi° \MS\ \EDD ; byang chub sems dpa' la sogs pa'i \TVA\ (°bodhisattvādi°) 
+} nirmāṇakāyātmakam, śūnyatākaruṇābhinnabodhicitta\footnoteB{
 	°bodhicitta°] \EDD; °bodhicittā° \MS
 }\hspace{0em}svabhāvāmalaprajñopāyasamādhisambhūtasatsukhāpūrṇam\footnoteA{
 	See Sahajavilāsa, \emph{Svādhiṣṭhānakurukullāsādhana} (SāMā no.\ 183, p.\ 383): \emph{tataḥ prajñopāyāmalasamādhisambhūtasatsukhāpūrṇam iva svadehaṃ trailokya ca paśyet}.
@@ -732,8 +765,7 @@ anekavidhaprātihāryadvāreṇa\footnoteB{
 % \textbf{\TVB}\\
 % 'di skad du bshad par 'gyur te | nam mkha' dang sgyu ma dang | smig rgyu dang | dri za'i khrong khyer dang | chu zla dang gzugs brnyad dang | rmi lam dang 'dra bar gcig dang | du ma dang | dngos po dang | dngos po med pa dang | gzung ba dang | 'dzin pa'i rang bzhin bral ba | thog ma dang tha ma med pa'i dngos po ma lus pa'i rang bzhin snang ba med pa dri ma med pa dpe thams cad las shin tu 'das pa | mchog tu phra zhing shin [\TVB\ fol.\ 76r] tu zab pa shes rab kyi ngo bo nyid kyis chos kyi sku'i rang bzhin yin pa dang | sku (ka) mtshan sum cu rtsa gnyis kyis brgyan cing dpe byad bzang po brgyad cus rnam par spras pa mchog tu sgeg cing na tshod la sogs pa dang ldan pa dang | sku nyid dang mtshungs pa'i lha (kha) mos 'khyud cing | gzugs rdo rje la sogs pa nas sgrol ma'i mthar thug pa'i lha mo'i tshogs kyis mtshan ma med pa'i rang gi ngo bo'i rab tu dpag tu med pas mchog tu dga' ba la nye bar longs spyod pa'i sgo nas gzugs brnyan dang 'dra bas yang dag par longs spyod pa ni snying rje'i rang bzhin rgya che ba nyid kyis longs spyod rdzogs pa'i ngo bo nyid dang | gdul bya'i skye bo mos pa sna tshogs pa yongs su smin par bya ba'i don du rdzu 'phrul dang cho 'phrul rnam pa du ma'i sgo nas rigs kyi nang du chud pa'i rdzogs pa'i sangs rgyas dang byang chub sems dpa'i sprul pa dpag tu med pa spro ba dang | bsdu ba mdzad pa nyid kyis na sprul pa'i sku'i bdag nyid dang | stong pa nyid dang snying rje dang tha mi dad pa'i byang chub kyi sems kyi rang bzhin dri ma med pa shes rab dang thabs kyi ting nge 'dzin las yang dag par byung ba'i bde (ga) ba dam pas gang 'khor ba ji srid (ja) par bzhugs pa'i chos can | mi gnas pa'i mya ngan las 'das pa'i ngo bo dang | mar me rlung gis ma bskyod pa'i rtse mo bzhin du dri ma [N-D fol.\ 76v] med pa'i rgyun gyis rtag pa nyid kyi (cha) 'gog pas stong pa ni bsgrub par bya ba bzhi pa'o || 
 
-\subsection{Verse 12}
-\subsubsection{Root Text}
+\subsection{mantranaye pañcamaṃ sādhyam}
 \begin{quote}
 	kṛtvā sākṣāt svādhipaṃ sātarūpaṃ \\
 	tyaktvopekṣājñānamātraṃ\footnoteB{
@@ -745,6 +777,7 @@ anekavidhaprātihāryadvāreṇa\footnoteB{
 	}ratnaprakhyam\footnoteB{
 		°prakhyam] \EDD ; °prakhyaṃm \MS
 	} ekāntaśāntam || 12 ||
+	% Śālinī, GGGGGLGGLGG X 4
 	
 % 	After one directly perceives and then relinquishes one's lord with his blissful nature, there comes as fruit mere indifferent awanreness.
 % 	It remains as long as there is \emph{saṃsāra} and accomplishes the aims of beings.
@@ -756,8 +789,7 @@ anekavidhaprātihāryadvāreṇa\footnoteB{
 % 	yid bzhin nor grags gcig tu zhi gyur pa'o || 
 \end{quote}
 
-\subsubsection{Commentary}
-kṛtvetyādi.
+\noindent kṛtvetyādi.
 sākṣāt svādhipaṃ kṛtvā, paścāt\footnoteB{
 	paścāt] \EDD ; paścāta \MS
 } tyaktvā, upekṣārūpaṃ yaj jñānaṃ tanmātraṃ sādhyaṃ syāt.
@@ -772,8 +804,7 @@ etad uktaṃ bhavati\emdash maṇḍalacakrarūpaṃ sākṣāt kṛtvā, paśc�
 % \textbf{\TVB}\\
 % rang bdag ces bya ba la (zla grags) kyi gzhung sogs pa la | rang gi bdag po mngon sum du byas nas phyis btang ste | btang snyoms kyi ngo bo gang yin pa'i ye shes de tsam zhig bsgrub byar 'gyur ro || gzhan ni rtogs par sla'o || 'di skad du bshad par 'gyur te | dkyil 'khor gyi 'khor lo'i ngo bo mngon sum du byas nas phyis de bkag cing btang snyoms kyi ye shes tsam du 'gyur ba ni bsgrub par bya ba lnga pa'o || 
  
-\subsection{Verse 13}
-\subsubsection{Root Text}
+\subsection{mantranaye ṣaṣṭhamaṃ sādhyam}
 \begin{quote}
 	kṛtvā sākṣān maṇḍalaṃ sātarūpaṃ \\
 	paścāt tasya svecchayā nirvṛtiś\footnoteB{
@@ -794,16 +825,14 @@ etad uktaṃ bhavati\emdash maṇḍalacakrarūpaṃ sākṣāt kṛtvā, paśc�
 % 	gang phyir nges par ldog pas rab tu byung || 
 \end{quote}
 
-\subsubsection{Commentary}
-kṛtvetyādi.
+\noindent kṛtvetyādi.
 kṛtvā sākṣān maṇḍalaṃ sātasaṃvalitam.\footnoteB{
 	sātasaṃvalitam] \emd\ (\TIB : bde ba'i rang bzhin can); sātaṃ saṃvalitaṃ \MS\ \EDD
 }
 tasya svecchayā nirvṛtir nirodhaḥ.
+
 nanu yadi sākṣāt kṛtvāpi paścāt svecchayā nirodhayita[\MS\ fol.\ 5v]vyam,\footnoteB{
-	nirodhayitavyam] \conj ; nirodhayitavyaḥ \MS\ \EDD
-}\footnoteA{
-	The word \emph{nirodhayitavya} seems to only make sense if it qualifies \emph{maṇḍala}, sharing the same agent as \emph{kṛtvā}. The manuscript reading \emph{nirodhayitavyaḥ}, therefore, is probably to be discarded.
+	nirodhayitavyam] \emd ; nirodhayitavyaḥ \MS\ \EDD
 } tadā karuṇāyā anekakālābhyastāyā abhāvaḥ syāt.
 tasyāś cābhāvāt sattvārthābhāvaḥ [\EDD\ p.\ 139] syād ity āśaṅkyāha\emdash sattvārthasyāpy asty abhāvo na vetyādi.
 asmin pakṣe sattvārthābhāvo nāsti, yasmān nirvṛtāc cakrāt karuṇāsaṃvalitāt sattvārthasya prādurbhāvo 'sti.\footnoteA{
@@ -816,7 +845,7 @@ asmin pakṣe sattvārthābhāvo nāsti, yasmān nirvṛtāc cakrāt karuṇāsa
 % \textbf{\TVB}\\
 % dkyil 'khor zhes bya ba la sogs pa la | dkyil 'khor bde ba'i rang bzhin can mngon sum du byas nas | de rang gi 'dod pa las nges par ldog pa ni 'gog pa'o | gal te mgun sum du byas nas kyang phyis rang gi 'dod pas 'gog par bya ba yin na ni | de'i tshe yun ring por goms par byas pa'i snying rje med par 'gyur ma yin nam | de yang med pa'i phyir sems can gyi don med par 'gyur zhes dogs pa la | sems can don yang yod de 'dir med min zhes bya ba smos te | phyogs 'di la sems can gyi don byed pa med pa ma yin te | gang gi phyir 'gags pa'i 'khor lo las snying rje'i rang bzhin can sems can gyi don tu rab tu 'byung ba yod pa yin no || \\
  
-etenaitad evāha\emdash sātasaṃpūrṇacakraṃ sākṣāt kṛtvā, yāvadiṣṭaṃ kālaṃ vyavasthāpya, paścāt tasya sarvathaiva pradīpavan nirodhaṃ kṛtvā sthātavyam.
+etenaitad evāha\emdash sātasaṃpūrṇacakraṃ sākṣāt kṛtvā, yāvad iṣṭaṃ kālaṃ vyavasthāpya, paścāt tasya sarvathaiva pradīpavan nirodhaṃ kṛtvā sthātavyam.
 yadā punaḥ sattvārthābhilāṣo bhavati, tadā niruddhād eva cakrāntaram utpādya sattvārthaḥ kartavyaḥ.
 cakrāntarotpāde\footnoteB{
 	cakrāntarotpāde] \EDD ; cakrāntaropāde \MS
@@ -832,8 +861,7 @@ cakrāntarotpāde\footnoteB{
 % \textbf{\TVB}\\
 % de ni 'di skad du bstan te | bde bas yang dag par gang ba'i 'khor lo mngon sum du byas nas dus ji srid 'dod [\TVB\ fol.\ 77r] par rnam par gnas te phyis de rnam pa thams cad du mar me bzhin du 'gog pa yin no || yang gang gi tshe sems can gyi don mngon par 'dod par 'gyur na | de tshe 'gag pa nyid las 'khor lo'i khyad par 'byung zhing sems can gyi don mdzad pa'am | 'khor lo'i khyad par 'byung ba yang | ring du 'gags pa'i 'khor lo kho na las skal ba ji lta ba bzhin du gdul bya rnams kyis mngon par 'dod pa rnyed par 'gyur ro zhes bya ba ni drug pa'o || 
 
-\subsection{Verse 14}
-\subsubsection{Root Text}
+\subsection{mantranaye saptamaṃ sādhyam}
 \begin{quote}
 	kṛtvā sphuṭaṃ rūpam abhīṣṭam eṣāṃ \\
 	paścān nirodhaḥ\footnoteB{
@@ -855,14 +883,13 @@ cakrāntarotpāde\footnoteB{
 % 	de phyir tha dad phyogs kyi'am tha dad med ||  
 \end{quote}
 
-\subsubsection{Commentary}
-kṛtvetyādi. ṣaṇṇāṃ pakṣāṇām anyatamasya phalasya\footnoteB{
+\noindent kṛtvetyādi. ṣaṇṇāṃ pakṣāṇām anyatamasya phalasya\footnoteB{
 	anyatamasya phalasya] \conj ; arthaphalaysa \MS\ \EDD ; nang nas 'bras bu \TIB
 } sādhyatvād yad yad evābhiṣṭaṃ\footnoteB{
 	phalasya sādhyatvād yad yad evābhiṣṭaṃ] \MS\ \EDD ; 'bras bu bsgrub bya gang kho na \TVA\ (phalaṃ yad eva); bsgrub bya gang kho na mngon par 'dod pa \TVB\ (phalaṃ yad evābhiṣṭaṃ);
 } tad\footnoteB{
 	tad] \EDD ; sa \MS
-} eva sākṣāt kṛtvā paścāt sarvathaiva pradīpavan nirodha uttarakālaṃ sattvārthādiśūnyaḥ sākṣāt kartavyaḥ.
+} eva sākṣāt kṛtvā, paścāt sarvathaiva pradīpavan nirodha uttarakālaṃ sattvārthādiśūnyaḥ sākṣāt kartavyaḥ.
 
 % \textbf{\TVA}\\
 % de rnams las zhes bya ba la sogs pa smos pa yin te | phyogs drug po rnams kyi nang nas 'bras bu bsgrub bya gang kho na mngon sum du byas shing de'i 'og tu rnam pa thams cad du mar me bzhin du 'gog pa dus gzhan na sems can gyi don la sogs pas stong pa mngon sum du byas pa yin no || \\
@@ -884,8 +911,8 @@ nanu ṣaṭpakṣabhedena ṣaḍ eva\footnoteB{
 % \textbf{\TVB}\\
 % phyogs drug gi dbye bas 'gog pa yang drug kho nar 'gyur ba ma yin nam | 'gog pa de ji ltar na gcig kho nar 'gyur zhes dogs pa la | gang phyir zhes bya ba la sogs pa smos te | tha mi dad pa'i ngo bo gang yin pa de la de skad ces bya ste | phyogs drug gis mtshan nyid kyi dbye bas kyang 'gog pa rnams la tha dad pa yod pa ma yin te | 'gog pa ni dngos po med pa'i ngo bo nyid du gcig cing mtshungs pa nyid kyi phyir ro || don ni 'di yin te | phyogs gzhan zhig mngon sum du byas nas | de'i [\TVB\ fol.\ 77v] 'og tu de'i rgyun chad pa'i ngo bo 'gog pa ni bsgrub par bya ba bdun pa'o || 
 
-\subsection{Verse 15}
-\subsubsection{Root Text}
+\subsection{caturtho 'bhiṣekaḥ}
+\subsubsection{caturthaseke vipratipattiḥ prathamā}
 \begin{quote}
 	prajñājñānād uttaraṃ bodhicittā-\\
 	svādas turyaṃ sekam\footnoteB{
@@ -904,8 +931,7 @@ nanu ṣaṭpakṣabhedena ṣaḍ eva\footnoteB{
 % 	thob 'gyur de 'bras rab tu mi rung phyir || 
 \end{quote}
 
-\subsubsection{Commentary}
-[\EDD\ p.\ 140] prajñājñānetyādi. prajñājñānopadeśād uttarakālaṃ\footnoteB{
+\noindent [\EDD\ p.\ 140] prajñājñānetyādi. prajñājñānopadeśād uttarakālaṃ\footnoteB{
 	prajñājñānopadeśād uttarakālaṃ] \MS\ \EDD ; shes rab dang ye shes ni shes rab ye shes te | dbang bskur ba'i bye brag go || phyis ni 'das pa'i 'og tu'o || gang zhe na | \TVA\ (prajñājñānetyādi. prajñā ca jñānaṃ prajñājñānaṃ sekaviśeṣaḥ. uttaram paścāt. kim?); \TVB
 } yat bodhicittasyāmṛtarūpasya\footnoteB{
 	bodhicittasyāmṛtarūpasya] \emd\ (\TVA : byang chub kyi sems te); saṃ bodhicittasyāmṛtarūpasya \MS\ \EDD ; sems te \TVB\ (cittasya)
@@ -924,8 +950,7 @@ tatphalasya bhāvanāsādhyasya phalasya bodhicittāsvādakāla eva prasiddhatv�
 % \textbf{\TVB}\\
 % shes rab ye shes zhes bya ba la sogs pa la | shes rab dang ye shes te | dbang bskur ba'i bye brag go || phyis te rdzogs pa'i dus kyi byang chub gang zhe na | sems te bdud rtsi'i ngo bo lces kun nas blang ba gang yin pa de ni bzhi pa ste | dbang bskur ba bzhi par 'ga' zhig smra ba de ni mchog ma yin pa dang | dman pa dang shin tu smad pa zhes bya ba'i bar du'o || ci'i phyir mchog min zhe na | gang phyir sngags dang phyag rgya dang lha nyid la sogs pa'i rnam pa bsgom pa la 'bad pa dang | gzhan yang de bzhin gshegs pas gsungs pa'i bsgrub pa'i mtshan nyid don med pa thob par 'gyur ro || gang las zhe na | de 'bras bu ste | bsgom pas bsgrub par bya ba'i 'bras bu (thob pa yin na) byang chub kyi sems kyi ro myang ba'i dus nyid na rab tu grub pa nyid dang | thob pa nyid dang | 'bras bu khyad par can med pa'i phyir zhes bya ba'i bar du'o || 
  
-\subsection{Verse 16}
-\subsubsection{Root Text}
+\subsubsection{caturthaseke vipratipattiḥ dvitīyā}
 \begin{quote}
 	prajñājñānād uttaraṃ prāptarāmā-\\
 	svādas turyaṃ sekam āhādhamaṃ tat |\\
@@ -943,8 +968,7 @@ tatphalasya bhāvanāsādhyasya phalasya bodhicittāsvādakāla eva prasiddhatv�
 \end{quote}
 % GGGGGLGGLGG
 
-\subsubsection{Commentary}
-prajñetyādi.
+\noindent prajñetyādi.
 prajñājñānād uttarakālaṃ yāḥ prāptā yathāmilitā rāmāḥ striyas tāsāṃ samāpattidvāreṇa\footnoteB{
 	samāpattidvāreṇa] \EDD ; rig pa'i sgo nas \TVA ; reg pa'i sgo nas \TVB\ (sparṣadvāreṇa)
 } ya āsvādaḥ, tat turyaṃ sekam.
@@ -957,6 +981,7 @@ tad apy adhamam.
 % \textbf{\TVB}\\
 % shes rab ces bya ba la sogs pa la | shes rab ye shes las dus phyis (phyis gzhan las) ji lta ba bzhin du rnyed pa'i dga' ba ste | bud med gang yin pa de dang reg pa'i sgo nas ro myong ba'i dbang bskur ba gang yin pa de ni dman pa'o || lhag ma'i don ni rtogs par zad do || \\
  
+\subsubsection{āgamasya arthavyākhyānam}
 atha caturthaṃ tat punas tatheti\footnoteB{
 	punas tatheti] \EDD\ (\emd); punar iti \MS
 }\footnoteA{
@@ -970,7 +995,7 @@ tad iti tacchabdena tad eva prajñājñānaṃ tadrūpaṃ parāmṛśyate. puna
 	°lakṣaṇaḥ] \EDD ; °lakṣaṇaṃ \MS
 } tatheti tathāśabdena tādṛśatvam abhidhīyate. tādṛśatvaṃ ca yādṛśyā prajñādiyuktyā\footnoteB{
 	°yuktayā] \conj\ (\TIB : dang ldan pa'i); °yuktyā \MS\ \EDD
-} sāmagryā yādṛśaṃ prajñājñānam utpannaṃ paścād api tādṛśyaiva sāmagyrā tathaiva cotpadyate, nānyatheti tathāśabdārthaḥ. atra ca lakṣyalakṣaṇabhāvenārtho boddhavyaḥ. lakṣyate 'neneti lakṣaṇam anubhūyamānaṃ prajñājñānam, apratīyamānasya lakṣaṇatvāyogāt, nāgṛhītaviśeṣaṇā [\EDD\ p.\ 141] viśeṣyabuddhir iti nyāyāt. lakṣyate jñāyate pratipādyate 'neneti lakṣyaṃ sākṣāt kariṣyamāṇaṃ caturtham.
+} sāmagryā yādṛśaṃ prajñājñānam utpannaṃ paścād api tādṛśyaiva sāmagryā tathaiva cotpadyate, nānyatheti tathāśabdārthaḥ. atra ca lakṣyalakṣaṇabhāvenārtho boddhavyaḥ. lakṣyate 'neneti lakṣaṇam anubhūyamānaṃ prajñājñānam, apratīyamānasya lakṣaṇatvāyogāt, nāgṛhītaviśeṣaṇā [\EDD\ p.\ 141] viśeṣyabuddhir iti nyāyāt. lakṣyate jñāyate pratipādyate 'neneti lakṣyaṃ sākṣāt kariṣyamāṇaṃ caturtham.
 
 % \textbf{\TVA}\\
 % de ltar de bzhin bzhi pa yang || zhes bya ba bshad par bya ba la bzhi pa ni gsum pa shes rab ye shes las ltos nas bzhi pa zhes bya'o || de ltar zhes bya ba la de zhes bya ba'i sgra shes rab ye shes kyi ngo bo de mtshon par byed pa yin no || yang zhes bya ba la | yang gi sgras ni de las khyad par du gyur pa yin la | khyad par yang zag pa med pa shin tu rgyas pa nyid dang | bar chad med pa nyid dang | rgyun mi 'chad par skye ba nyid kyi mtshan nyid do || de bzhin zhes bya ba ni de bzhin gyi sgras de dang 'dra ba nyid du bstan pa yin la | de dang 'dra ba nyid kyang ci 'dra ba'i shes rab dang ldan pa'i tshogs pa las | shes rab ye shes ci 'dra ba'i skye ba bzhin du phyag kyang de dang 'dra ba'i tshogs pa las kyang de dang 'dra ba bskyed kyi gzhan du ni ma yin no zhes bya ba ni | de bzhin gyi sgra'i don yin no || 'dir yang mtshon par bya ba'i don mtshan par byed pa'i dngos po khong du chud par bya ba yin te | 'dir go bar byed pas na | mtshon byed de nyams su myong bar gyur pa'i shes rab ye shes so || khyad par ma gzung pa'i khyad par can rtogs par mi 'gyur ba zhes bya ba'i rig pa 'dis nyams su ma myong bar mtshon byed nyid du mi 'thad do || mtshon par bya zhing shes par bya la go bar bya zhing bsgrub par bya bas na mtshon bya ste mngon du gyur pa'i bzhi pa'o || \\
@@ -978,6 +1003,7 @@ tad iti tacchabdena tad eva prajñājñānaṃ tadrūpaṃ parāmṛśyate. puna
 % \textbf{\TVB}\\
 % de la de ltar de bzhin bzhi pa yang zhes bya ba bshad pa la | gsum pa shes rab ye shes las ltos [\TVB\ fol.\ 78r] nas bzhi pa zhes bya'o || de ltar zhes bya ba ni de'i sgras shes rab ye shes de nyid kyi ngo bo de mtshon par byed pa yin no || yang zhes bya ba ni yang gi sgras de la khyad par du gyur pa yin la | khyad par yang zag pa med pa shin tu rgyas pa nyid rgyun mi chad par skye ba nyid kyi mtshan nyid do || de bzhin zhes bya ba ni de bzhin gyi sgras de dang 'dra ba nyid du bstan pa yin la | de dang 'dra ba nyid kyang ci 'dra ba'i shes rab dang ldan pa'i tshogs pa las | shes rab ye shes ci 'dra ba skye ba bzhin du | phyis kyang de dang 'dra ba'i tshogs pa las kyang de dang 'dra ba (brtson 'grus bar ma chad rgyun ma chad) bskyed kyi gzhan du ma yin no zhes bya ba ni | de bzhin gyi sgra'i don yin no || 'dir mtshon par bya ba dang mtshon par byed pa'i dngos pos don khong du chud par bya ba yin te | 'dis mtshon par byed pas na mtshon byed ste | nyams su myong bar gyur pa'i shes rab ye shes so || rtogs par ma gyur pa ni mtshon byed nyid du mi 'thad pa'i phyir dang | khyad par (dpe) ma bzung bar khyad par (don) gyi gzhi rtogs par mi 'gyur ba'o || zhes bya ba'i rigs pas 'dis mtshon par byed shes par byed | khong du chud par byed bsgrub par byed pas na (mtshon par) bya ba bsgom pas mngon sum du gyur pa ni bzhi pa'o || \\
  
+\subsubsection{caruthaseke vipratipattiḥ tṛtīyā}
 atra caturthaṃ nāstīty eke.\footnoteA{
 	\TVA\ adds near the beginning of this sentence \emph{Samājottara} 112ab \emph{abhiṣekaṃ tridhā bhedam asmin tantre prakalpitam |}: \emph{'dir 'ga' zhig | dbang ni rnam pa gsum dag tu | rgyud 'di las ni rab tu grags || zhes gsungs pas na | bzhi pa ni yang dag pa ma yin no zhe na |}
 } nanu caturtham ity etad asti tatpadam.\footnoteB{
@@ -994,9 +1020,12 @@ atra caturthaṃ nāstīty eke.\footnoteA{
  
 tad atyantāsaṃgatam, caturthasya pramāṇasiddhasya pratipāditatvāt pratipādayiṣyamāṇatvāc ceti.\footnoteA{
 	Tib.\ discusses two further \emph{pakṣa}s here: that the fourth referred to in the \emph{Samājottara} is the four \emph{aṅga} of \emph{sevā} and so forth; and what appears to be the idea that the four initiation consists in the third accompanied by its fruits (\emph{'bras bu dang bcas pa}).
-} atra lakṣaṇaṃ prajñājñānaṃ pratītam eva sarvaiḥ. lakṣye\footnoteB{
+}
+
+\subsubsection{lakṣyasya vicāraṇam}
+atra lakṣaṇaṃ prajñājñānaṃ pratītam eva sarvaiḥ. lakṣye\footnoteB{
 	lakṣye] \EDD\ (\emd); lakṣyā \MS
-} paraṃ vyāmohaḥ. tad vicāryate. lakṣyaṃ hi bhavet,\footnoteB{
+} paraṃ vyāmohaḥ. tad vicāryate. lakṣyaṃ hi bhaved\footnoteB{
 	lakṣyaṃ hi bhavet] \conj (\TIB : mtshon par bya ba yang srid na); lakṣyaṃ hi bhagavat \MS\ \EDD\ (°gavad)
 } artharūpaṃ vā syāt jñānarūpaṃ vā. na tāvad artharūpam, arthasyaikasyābhāvāt, ekānekaviyogitvena pramāṇena tasya nirākṛtatvāt. mantranaye ca vijñānavādamadhyamakamatayor\footnoteB{
 	matayor] \EDD ; tamayor \MS
@@ -1160,6 +1189,7 @@ iti.\footnoteB{
 % \textbf{\TVB}\\
 % 'on te dngos po skyes pa thams cad brdzun pa'i ngo bo nyid kyis snying po med pa ma yin nam | de'i tshe ci'i phyir dkyil 'khor gyi 'khor lo la sogs pa bsgom pa'i 'bad pa byed ce na | de ni bden pa ma yin te || log par sgro 'dogs spangs pa'i phyir || grol ba po ni med dang brtson || zhes bya ba'i tshig gis | ji ltar yang rnam par dpyad na yang dag pa'i dngos po'i ngo bo nyid med pa | de lta na yang bdag bde bar gyur cig sdug bsngal bar ma gyur cig ces pa'i sred pa srog chags ma lus pa la yod do || 'di ltar dge ba dang | mi dge pa'i rmi lam log pa nyid du mtshungs kyang | dge ba'i rmi lam mthong bas yid bde bar 'gyur la | mi dge ba'i rmi lam mthong ba las [\TVB\ fol.\ 80r] ni yid mi bde bar 'gyur te | de bsal ba'i phyir dam pa'i chos klog pa dang | sngags zlos pa la sogs pa la rab tu 'jug par 'gyur ro || de bzhin du brdzun pa bzhin du khyad med kyang | sdug bsngal la sogs pa rang bzhin gyi rnam par rtog pa spang ba'i phyir dang yang dag par rdzogs pa'i byang chub kyi mtshan nyid 'bras bu thob par bya ba'i phyir rtog pa dang ldan pa'i don du gnyer ba rnams rab tu 'jug par 'gyur ro || \\
  
+\subsubsection{saptavidheṣu sādhyeṣu sārāsāravicāraṇam}
 nanu yadarthas tavāyam\footnoteB{
 	yadarthas tavāyam] \conj ; yadarthasvā'yaṃ \MS ; yadarthatvād ayaṃ \EDD 
 }\footnoteA{
@@ -1172,7 +1202,10 @@ na tu\footnoteB{
 
 satyam, kintu guḍagorasanyāyena. tathā hi na jñāyate, kiṃ tat sāram asāraṃ veti.
 
-ucyate. mantranayavihitakramābhāvāt samāpattibhāvanāvaiyarthyād\footnoteB{
+ucyate.
+
+\subsubsubsection{prathamasya asāratvam}
+mantranayavihitakramābhāvāt samāpattibhāvanāvaiyarthyād\footnoteB{
 	samāpatti°] \MS\ \EDD\ \TVB\ (snyom par 'jug pa); lha'i rnal 'byor gyi snyoms par 'jug pa'i \TVA\ (devatāyogasamāpatti°)
 } yuktyabhāvāc\footnoteB{
 	yuktyabhāvāc] \EDD ; yuktābhāvāc \MS
@@ -1192,6 +1225,7 @@ ucyate. mantranayavihitakramābhāvāt samāpattibhāvanāvaiyarthyād\footnoteB
 % \textbf{TVB}\\
 % gal te gang gi don du (bzhi pa bshad pa'i bshad pa'i dus) 'di brtsams pa'i || de'i don (bzhi pa) ni nyams par 'gyur || 'di ltar mtshan gzhi dang mtshan nyid (bzhi pa) dpyad pa'i skabs la bab na | de yang gtam gzhan du thal bas brjed pa'i phyir | gang du song ba mi shes so zhe na | de bdun du dbye bas byas pa nyid ma yin nam | bden te bu ram dang dar ba'i tshul gyis de ltar ni mi shes so || de las snying po dang snying po ma yin pa gang yin zhe na || smras pa | sngags kyi tshul la brjod pa'i (longs spyod rdzogs pa'i) rim pa med pa'i phyir (bdun mi tshad) dang | snyoms par 'jug pa sgom pa don med pa'i phyir (bde ba med pas gsum dang bdun) rig pa med pa'i phyir dang snying po med pa'i (bde ba) nyid de | 'di ltar tshogs [\TVB\ fol.\ 80v] pa dang tshogs pa can la 'bras bu gang yin pa de gdon mi za ba nyid yin no || gzhan du na (rdo rje dang pad+ma dang lha'i nga rgyal tshogs pa las) tshogs pa dang tshogs can nyid du de (lus bde ba) mi 'gyur ro || (bzhi pa) mngon sum du byas pa'i gnas skabs na tshogs pa dang tshogs pa can de yod pa | des na de gdon mi za bar 'gyur ro || de ltar gyur pa dang po nyams pa yin no || \\
  
+\subsubsubsection{dvitīyasya asāratvam}
 śarīrādyākāraśūnyasya kevalasātarūpasyānupalabdher\footnoteB{
 	°labdher] \EDD ; °bdher \MS
 } na dvitīyasya sāratā. tathā hi pramāṇaniścitaṃ prekṣāvatā bhāvanīyam, na yathākathañcit. pramā[\MS\ fol.\ 8r]ṇena saṃvalitarūpam eva sarvadopalabhyate.\footnoteA{
@@ -1214,24 +1248,26 @@ ucyate. mantranayavihitakramābhāvāt samāpattibhāvanāvaiyarthyād\footnoteB
 % \textbf{\TVB}\\
 % sku la sogs pa'i rnam pas stong (longs spyod rdzogs snying rje rgyun bde ba chen po zag pa med) pa'i bde ba'i ngo bo 'ba' shig mi dmigs pas | gnyis pa bden (pa) nyid ma yin te | 'di ltar mtshan mas (de ltar de bzhi pa yang) rnam par (bdun) nges pa nyid rtog pa dang ldan pas | bsgom par bya ba yin gyi | gang yang rung ba ni (drug) ma yin no || tshad mas grub pa'i ngo bo thams cad du dmigs la de nyid skye bo thams cad kyis 'dod par bya ba nyid du snang ngo || de bas na gcig pu (bzhi pa) ma dmigs pa'i phyir dang | 'dod pa med pa'i phyir dang | 'khor lo'i rnam pa'i rang bzhin ma dmigs pa'i phyir dang | mngon du byed pa mi nus pa'i phyir dang | 'bad pa (lha'i sku bde ba) nyid mtshungs pa'i phyir gnyis pa rnam par rtog pa tsam yin no ||\\
 
+\subsubsubsection{tṛtīyasya asāratvam}
 nirupadravabhūtārthasvabhāvatvena sātmībhūtasya tyaktum aśakyatvāt, saṃvalitarūpasya [\EDD\ p.\ 144] bhedābhāvāt, prayojanābhāvāc ca na tṛtīyasya\footnoteB{
 	tṛtīyasya] \conj ; tṛtīya \MS ; tṛtīyaḥ \EDD
 } kalyāṇabhāvaḥ.\footnoteB{
 	] \conj\ (Tib: dge ba [ma] yin); kalyanībhāvaḥ \MS\PCreading ; kalyānībhāvaḥ \MS\ACreading ; dge ba ma yin \emph{[na] kalyāṇabhāvaḥ}
 } tathā hi sahopalambhena\footnoteB{
 	sahopalambhena] \EDD ; saholaṃbhena \MS
-} tādātmyasiddhāv ekasya parityāge 'parasyāvaśyaṃ parityāgo na vā kasyacid iti. prapañcatvena bahuprayāsatvād vicārāsahatvena bhrāntirūpatayāparamārtharūpatayā ca na tṛtīyapakṣasya\footnoteB{
-	tṛtīyapakṣasya] \EDD ; tṛtīyāntaḥ | pakṣasya \MS ; gsum pa'i tha' ma'i phyogs \TVA ; gsum pa'i mtha' ma'i phyogs \TVB
-} kalyāṇateti.\footnoteB{
-	kalyāṇateti] \EDD ; kalyānateti \MS
-}
-
+} tādātmyasiddhāv ekasya parityāge 'parasyāvaśyaṃ parityāgo na vā kasyacid iti. 
 % \textbf{\TVA}\\
 % gnod par byed pa med pa'i yang dag ba'i don gyi rang bzhin nyid kyis rang dbang du gyur pa dor bar mi nus pa nyid kyi phyir dang ldan pa'i ngo bo la bye brag med pa'i phyir dang | dgos pa med pa'i phyir gsum pa dge ba ma yin te | 'di ltar lhan cig dmigs nas | de'i bdag nyid grub pa las gcig yongs su dor na gzhan yang gdon mi za bar yongs su spangs pa'am | yang na 'ga' la yang ma [\TVA\ fol.\ 211v] yin no || spros pa nyid kyis 'bad pa nyid mngas pa'i phyir dang | rnam par dpyad mi bzod pa nyid kyis 'khrul pa'i ngo bo yin pas don dam pa'i ngo bo nyid ma yin pa'i phyir | gsum pa'i tha ma'i phyogs kyang legs pa ma yin no zhe na |\\
 % 
 % \textbf{\TVB}\\
 % gnod par byed pa med pa'i yang dag ba'i don gyi rang bzhin nyid kyis rang dbang du gyur pa dor bar mi nus pa nyid kyi phyir dang | ldan pa'i ngo bo la bye (lha'i sku bde ba) brag med pa'i phyir dang | dgos pa med pa'i phyir gsum pa dge ba ma yin te | (bzhi pa la) 'di ltar lhan cig dmigs nas de'i bdag nyid grub pa las gcig yongs su dor na gzhan yang gdon mi (gnyis pa dang) za bar yongs su spangs pa'am | yang na 'ga' la yang ma yin no || (bzhi pa) spros pa nyid kyis 'bad pa mangs pa nyid kyi phyir dang | rnam par dpyad [\TVB\ fol.\ 81r] mi bzod pa nyid kyis 'khrul pa'i ngo bo nyid yin pas don dam pa'i ngo bo nyid ma yin pa'i phyir | gsum pa'i mtha' ma'i phyogs kyang legs pa ma yin no zhe na |\\
 
+\subsubsubsection{pañcamasya sārāsāratvavicāraṇam}
+prapañcatvena bahuprayāsatvād vicārāsahatvena bhrāntirūpatayāparamārtharūpatayā ca na tṛtīyāntapakṣasya\footnoteB{
+	tṛtīyāntapakṣasya] \emd ; tṛtīyapakṣasya \EDD ; tṛtīyāntaḥ | pakṣasya \MS ; gsum pa'i tha' ma'i phyogs \TVA ; gsum pa'i mtha' ma'i phyogs \TVB
+} kalyāṇateti.\footnoteB{
+	kalyāṇateti] \EDD ; kalyānateti \MS
+}
 atra kecid yuktiṃ varṇayanti.\footnoteA{
 	\TVA\ renders this sentence differently: \emph{de la 'ga' zhig las rigs pa cung zhig cig brjod par mi bya ste |}
 } prapañcarūpatvabhāve\footnoteB{
@@ -1319,7 +1355,7 @@ bhrāntirūpatvenāparamārthatvam api sarvatraiva bhāvanāviśeṣe vastuni sa
 	aprapañcād bhāvyamānam] \EDD ; aprapañcā bhāvyamāṇam
 } aduṣṭaṃ bhavatīti cet, na tv ayaṃ māyākārānupraveśaḥ prapañce 'pi samāna iti? tatrāpi ko doṣasyāvakāśaḥ? tasmāt prapañcam aprapañcaṃ vā yad eva rocate pramāṇasaṃgatam itarad vā, tad evālasyaṃ vihāya mahāpuruṣārthibhir bhāvayitavyam\footnoteB{
 	bhāvayitavyam] \EDD ; bhaviyitavyam \MS
-} ity alam atiprasaṅgeneti. atra ca sāretaravibhāgaḥ paryupāsitagurubhir eva jñātavyaḥ.\\
+} ity alam atiprasaṅgeneti. atra ca sāretaravibhāgaḥ paryupāsitagurubhir eva jñātavyaḥ.
 
 % \textbf{\TVA}\\
 % zhes pa ma yin nam | de bas 'di la khyad par med do || spros pa la dmigs pa ni 'khrul pa'i ngo bo nyid kyis don dam pa ma yin pa nyid do zhe na | thams cad du bsgom pa'i yul gyis dngos po mi 'khrul pas cung zhig kyang bsgom par bya ba med par 'gyur la | de bas na rnam pa thams cad du thar pa'i lam bsgom pa don med par 'gyur ro || de ltar 'khrul yang sgyu ma lta bu'i rnam par zhugs pas spros pa med par bsgom par 'gyur bskyon yod pa ma yin no zhe na | spras [\TVA\ fol.\ 212r] || pa de yang sgyu ma'i rnam par zhugs pas de la yang skyon gyi skabs ci zhig yod | de bas na don du gnyer bas spros pa'am | spros pa med pa yang rung | gang kho na 'dod pa'i tshad ma dang ldan pa'am | cig shos de nyid le lo spangs nas phyag rgya chen po don du gnyer bas bsgom par bya ste shin tu thal ches pas chog go || de la snying po dang cig shos kyi rnam par dbye ba yang bla ma mnyes par byed pa rnams kyis shes par byed pa yin no || \\
@@ -1327,7 +1363,7 @@ bhrāntirūpatvenāparamārthatvam api sarvatraiva bhāvanāviśeṣe vastuni sa
 % \textbf{\TVB}\\
 % de bas na 'di la khyad par med do || 'khrul pa'i ngo bo nyis kyi don dam pa ma yin pa nyid do zhes na | thams cad du bsgom pa'i yul gyi dngos po ni | 'khrul pa yin pas cung zhig kyang bsgom par bya ba med par 'gyur la | de bas na rnam pa thams cad du thar pa'i lam bsgom pa la don med par 'gyur ro || 'khrul pa'i ngo bo la yang sgyu ma lta bu'i rnam par zhugs pas | spros pa med pa'i sgom par 'gyur ba la skyon yod pa ma yin no zhe na | spros pa de la sgyu ma'i rnam par zhugs pa mtshungs pas de la yang de skyon gyi skabs ci zhig yod | de bas na don du gnyer bas spros pa'am | spros pa med pa yang rung | gang kho na 'dod pa'i tshad ma dang ldan pa 'am | gcig shos de nyid la le lo spangs nas phyag rgya chen po don du gnyer bas sgom par bya ste | shin tu thal bas chog go || de la snying po dang gcig shos kyi rnam par dbye ba yang | (yan lag bdun pa nas) bla ma mnyes par byed pa rnams kyis shes pa yin no || \\
 
-\noindent \textbf{Refuting the Fifth View}\\
+\subsubsubsection{pañcamasya asāratvam}
 \noindent tṛtīyapakṣoktadoṣatvān\footnoteB{
 	tṛtīyapakṣoktaṣatvān \conj\ (\TVB : gsum pa'i phyogs la bshad pa'i nyes pa yod pa dang); tṛtīyapakṣe ktato \MS ; tṛtīyapakṣe kuto \EDD ; \emph{no reflex} in \TVA
 } nīrasatvena\footnoteB{
@@ -1340,7 +1376,7 @@ bhrāntirūpatvenāparamārthatvam api sarvatraiva bhāvanāviśeṣe vastuni sa
 % \textbf{\TVB}\\
 % gsum pa'i phyogs la bshad pa'i nyes pa yod pa dang | dgos pa med pa'i phyir dang | gsang sngags kyi tshul gyi rim pa med pa'i phyir lnga pa skyon dang bral ba ma yin no || \\
 
-nanu sākṣātkaraṇāt pūrvaṃ mantranayaprayogo 'sti. tat kathaṃ tasyābhāvaḥ? satyam, sākṣātphalāvasthā sādhyā. tasyāṃ ca nāsty asau kramaḥ. sākṣātparityāge ca na prayojanam utpaśyāma iti.\\
+nanu sākṣātkaraṇāt pūrvaṃ mantranayaprayogo 'sti. tat kathaṃ tasyābhāvaḥ? satyam, sākṣātphalāvasthā sādhyā. tasyāṃ ca nāsty asau kramaḥ. sākṣātparityāge ca na prayojanam utpaśyāma iti.
 
 % \textbf{\TVA}\\
 % sngar sngon du byas pa'i phyir | sngags kyi tshul la rab tu sbyor ba yod pa ma yin nam | ci'i phyir de la med ce na | bden te | bsgrub par bya ba 'bras bu mngon du gyur pa'i gnas skabs de yang rim pa 'di la med pa dang | mngon du gyur pa yongs su btang ba dang | dgos pa ma mthong ba'i phyir ro ||\\
@@ -1348,7 +1384,7 @@ nanu sākṣātkaraṇāt pūrvaṃ mantranayaprayogo 'sti. tat kathaṃ tasyāb
 % \textbf{\TVB}\\
 % sngar mngon sum du byas pa'i phyir sngags kyi tshul la rab tu sbyor ba yod pa [\TVB\ fol.\ 82r] ma yin nam | de ci'i phyir de la med ce na bden te | bsgrub par bya ba 'bras bu mngon du gyur pa'i gnas skabs na de yang rim pa 'di la med pa dang | mngon sum du gyur pa yongs su btang ba la dgos pa yang ma mthong ba'i phyir ro || \\
 
-\noindent\textbf{Refuting the Sixth View}:\\
+\subsubsubsection{ṣaṣṭhamasya asāratvam}
 \noindent svecchayā nirvāyayitum\footnoteB{
 	nirvāyayitum] \MS ; nirvāpayitum \EDD
 } aśakyatvāt, prayojanābhāvāt, sattvārthābhāvāc ca na pañcāntaraprabhedakalpanā\footnoteB{
@@ -1463,7 +1499,7 @@ nanu nirodhya maṇḍalacakraṃ sattvārthakāle punar utpādyate. tato 'rthak
 	tattvato] \MS\ (tatvato) \EDD ; de las \TIB\ (tato)
 } nāsti prādurbhāvaḥ, tathā cakrasyāpi. tato nārthakriyāyāḥ sambhavaḥ. na ca nirodhya\footnoteB{
 	nirodhya] \EDD ; niro((dhya)) \MS\ (\emph{some kind of correction is made, but uncertain from what to what}); 'gogas pa las (\emph{possibly} nirodhāt)
-} punar utpāde kiñcit prayojanam astīty alam atiprapañceneti.\\
+} punar utpāde kiñcit prayojanam astīty alam atiprapañceneti.
 
 % \textbf{\TVA}\\
 % dkyil 'khor 'khor lo 'gags pa las sems can gyi don byed pa'i dus na yang 'byung yang de las don byed bar 'gyur ba ma yin nam | de bas na 'gags shing yang skye bar 'gyur ro zhe na | de ni bden pa ma yin te | ji ltar sems can gyi don byed pa de las byung ba med pa de bzhin du don byed pa'i 'khor lo yang de la mi srid do || 'gags pa las kyang 'byung ba la dgos pa cung zad kyang yod pa ma yin te | shin tu spyos pas chog go || \\
@@ -1471,7 +1507,7 @@ nanu nirodhya maṇḍalacakraṃ sattvārthakāle punar utpādyate. tato 'rthak
 % \textbf{\TVB}\\
 % 'on te dkyil 'khor gyi 'khor lo 'gags pas las sems can don byed pa'i dus na yang 'byung zhing | de las don byed par 'gyur ba ma yin nam | de bas yang 'gog cing yang skye bar 'gyur ro zhe na | de ni bden pa ma yin te | ji ltar sems can gyi don byed pa de las 'byung ba med pa de bzhin du 'khor lo yang de las mi srid do || 'gags pa las yang 'byung ba la yang dgos pa cung zad yod pa ma yin te | shin tu spros pas chog go || \\
 
-\noindent \textbf{Refutation of the Seventh Position}\\
+\subsubsubsection{saptamasya asāratvam}
 \noindent ṣaṣṭhapakṣoktadoṣasandohasyāsaptame\footnoteB{
 	ṣaṣṭhapakṣoktadoṣasandohasyāsaptame] \conj\ (\TIB : drug pa'i phyogs la bshad pa'i skyon gyi (gyi] \TVA ; gyis \TVB) tshogs bdun pa la); ṣaṣṭhapakṣoktaṃ saṃdāhasyāṣṭame \MS ; ṣaṣṭhapakṣoktasaṃdohasyāṣṭame \EDD
 } 'pi bhāvān na piṣṭapeṣaṇaṃ\footnoteB{
@@ -1488,8 +1524,7 @@ nanu nirodhya maṇḍalacakraṃ sattvārthakāle punar utpādyate. tato 'rthak
 % \textbf{\TVB}\\
 % drug pa'i phyogs la bshad pa'i skyon gyi tshogs bdun pa la yang yod pas | btags pa la 'thag pa mi bya'o || drug pa dang bdun pa mtshungs pa nyid kyi phyir de las bdun pa khyad par ci yod ce na | khyad par yod de snga ma'i gnas skabs su 'khor lo'i rnam pa nyid nges par byas nas | yang rang gi 'dod pas 'gog cing rang [\TVB\ fol.\ 84r] gi 'dod pas skyed par byed pa'i phyir la | bdun pa la yang med pa de bas na mtshungs pa dang tha mi dad pa ma yin par bstan to || 
 
-\subsection{Verse 17}
-\subsubsection{Root Text}
+\subsection{caturthasya sekasya svarūpam}
 \begin{quote}
 	dambholibījasrutidhautaśuddha-\footnoteB{
 		°sruti°] \corr ; śruti \MS\ \EDD
@@ -1520,8 +1555,7 @@ nanu nirodhya maṇḍalacakraṃ sattvārthakāle punar utpādyate. tato 'rthak
 % \textbf{\TVB}\\
 % rdo rje'i sa bon zhes bya ba la sogs pa la | 
 
-\subsection{Verse 18}
-\subsubsection{Root Text}
+\subsection{aparaṃ mithyāsādhyaṃ tattvaṃ ca}
 \begin{quote}
 	pañcapradīpāmṛtabinducandra-\\
 	bhrūmadhyabindūdbhavamaṇḍalāni |\\
@@ -1582,8 +1616,7 @@ tatsarvaṃ tīrthikādibhis tattvarūpeṇābhimatam. atattvam iti svayam evoha
 % 
 % zhes de lta bu mu stegs la sogs pa de kho na nyid du mngon par 'dod pa de dag thams cad ni de kho na nyid ma yin zhes bdag nyid kyis brtag par bya | dpyad par bya zhes bya ba'i bar du'o || 
  
-\subsection{Verse 19}
-\subsubsection{Root Text}
+\subsection{upasaṃhāra}
 \begin{quote}
 	svapnendrajālapratibimbamāyā-\\
 	marīcigandharvapurāmbu{[}\MS\ fol.\ 2r{]}candraiḥ |\\
@@ -1599,7 +1632,6 @@ tatsarvaṃ tīrthikādibhis tattvarūpeṇābhimatam. atattvam iti svayam evoha
 % 	'dir bshad bsgrub bya gzhan la yod ma yin || 
 \end{quote}
 
-\subsubsection{Commentary}
 \noindent svapnendrajāletyādi. svapnendrajālopamaṃ pratibimbamāyāmarīcigandharvanagarodakacandropamam iti śabdair anyaiś ca gagaṇapratiśrutkaphenopamam ityādiśabdair upamābhidheyair upamāvācakair naivāsti sādhyaṃ kathitāt sādhyād anyat. paraṃ kathita eva sādhye, ete śabdāḥ pravartanta iti svayaṃ boddhavyam.
 
 % Yet one should know for oneself what words apply to these goals which were taught.
@@ -1610,8 +1642,6 @@ tatsarvaṃ tīrthikādibhis tattvarūpeṇābhimatam. atattvam iti svayam evoha
 % \textbf{\TVB}\\
 % rmi lam mig 'phrul zhes bya ba la sogs pa la | rmi lam dang | mig 'phrul lta bu dang | gzugs brnyan dang | sgyu ma dang | smig rgyu dang | dri za'i grong khyer dang | chu zla lta bu'o || gzhan gyi sgras ni nam mkha' dang | brag cha dang | dbu ba lta bu'o zhes bya ba la sogs pa'i sgras so || de lta bur mngon par brjod pa ni smra ba pos de lta bus bstan pa'i bsgrub bya las gzhan med pa nyid de | gzhan du yang 'dir bshad pa kho na bsgrub bya yin no zhes sgra de las rab tu 'jug par rang nyid kyis shes par bya'o || 
 
-\subsection{Verse 20}
-\subsubsection{Root Text}
 \begin{quote}
 	gambhīraśūnyapratibhāsamātra-\footnoteB{
 		°mātra°] \EDD ; mātraṃ \MS
@@ -1631,7 +1661,6 @@ tatsarvaṃ tīrthikādibhis tattvarūpeṇābhimatam. atattvam iti svayam evoha
 % 	gzhan sgrub yod pa 'khrul par mi bya'o || 
 \end{quote}
 
-\subsubsection{Commentary}
 \noindent [\EDD\ p.\ 149] gambhīraśūnyaṃ pratibhāsamātraṃ śāntātisūkṣmam anabhilāpyaṃ nirlepaṃ nīrūpam\footnoteB{
 	nīrūpam] \EDD\ (\emd); nirupamaṃ \MS
 } nirañjanādi.\footnoteB{
@@ -1646,8 +1675,7 @@ tatsarvaṃ tīrthikādibhis tattvarūpeṇābhimatam. atattvam iti svayam evoha
 % \textbf{\TVB}\\
 % {[}\TVB\ fol.\ 85v{]} zab mo stong nyid so so snang ba tsam || zhi ba shin tu sgras brjod min | gos dngos bral dri med la sogs dang || zhes bya ba la sogs pa'i sgra yis | zhi ba dang rnam pa med pa dang | spros pa med pa dang | thog ma med pa dang | 'gag pa med pa zhes bya ba la sogs sgra yis kyang 'khrul par mi bya zhing | gzhan bsgrub tu yod pa ni | gzhan gyi bsgrub par bya ba yod pa ste | 'dir yod pa'i sgras des bshad pa'i sgrub par bya ba las mchog 'ga' shig yod do zhes 'khrul par mi bya ste | bshad pa bsgrub bya kho na de dag thams cad kyis brjod par bya ba yin zhes nges par bya'o || \\
  
-\subsection{Conclusion}
-\subsubsection{Root Text}
+\subsection{pariṇāmanā}
 \begin{quote}
 	akhilagagaṇagarbhavyāpisaptaprakāra-\footnoteB{
 		°saptaprakāra°] \EDD ; °sarvaprakāra° \MS
@@ -1668,7 +1696,6 @@ tatsarvaṃ tīrthikādibhis tattvarūpeṇābhimatam. atattvam iti svayam evoha
 % 	de kho na nyid rin po che snang ba slob dpon ngag gi dbang phyug grags pas mdzad pa rdzogs so ||
 \end{quote}
 
-\subsubsection{Commentary}
 \setlength\parindent{0pt}
 śrīsamāje parā yasya bhaktir niṣṭhā ca nirmalā\\
 tasya vāgīśvarasyeyaṃ kṛtir vimatināśinī\footnoteB{
