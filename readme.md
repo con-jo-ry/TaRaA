@@ -4,4 +4,4 @@ This repository contains transcriptions and a preliminary edition of the Tattvar
 
 ```
 tei_guidlines/Stylesheets/bin/teitomarkdown source.xml output.md
-'''
+```
