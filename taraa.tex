@@ -3,7 +3,7 @@
 \usepackage{microtype}
 \usepackage[pdfusetitle,hidelinks]{hyperref}
 \usepackage{setspace}
-\usepackage{embrac}
+\usepackage{color,soul}
 
 \usepackage[series={A,B},noend,noeledsec,noledgroup]{reledmac}
 \renewcommand*{\thefootnoteA}{\roman{footnoteA}}
@@ -18,6 +18,24 @@
 	\newfontfamily\sanskritfont[Ligatures=TeX]{Libertinus Serif}
 	\newfontfamily\mantrafont[Ligatures=TeX]{STIX Two Text}[Scale=MatchLowercase]
 	\newfontfamily\devfont[Script=Devanagari]{Noto Sans Devanagari}
+
+
+% make brackets etc. never in italics
+% must be turned off before printing bibliography
+\usepackage{embrac}
+\providecommand\textsi[1]{#1} % To avoid error in xelatex looking for textsi command
+\AddOpEmph{|}
+\AddOpEmph{/}
+
+%%% Bibliography
+\usepackage[authordate16,backend=biber]{biblatex-chicago}
+\addbibresource{~/Documents/personal/bibliography.bibtex}
+\renewcommand{\mkbibnamefamily}[1]{\textsc{#1}}
+\renewcommand\postnotedelim{\addcolon\addspace} % adds colon after year in citation.
+
+\DeclareBibliographyCategory{fullcited}
+\newcommand{\mybibexclude}[1]{\addtocategory{fullcited}{#1}}
+
 
 \newcommand{\crux} {\hspace{0em}\textsuperscript{†}\hspace{0em}}
 \newcommand{\emdash} {\hspace{0em}—\hspace{0em}}
@@ -144,10 +162,9 @@ $\Sigma$\textsubscript{X} & Reading shared in all witnesses but X \\
 	tribhuvanahitasaukhyaprāptikāro 'vikāro \\
 	jayati kamalapāṇir yāvad āśāvikāśāḥ\footnoteB{
 		āśāvikāśāḥ] \corr ; āśāvikāsāḥ \MS\ \EDD
-	} || 1 ||
-	% LLLLLLGGGLGGLGG Mālinī
-	
-% 	So long as there are opportunities for hopes/spaces, the Lotus Hand reigns supreme\emdash he whose nature incomparable bliss, who is an abode of riches, who is without any abode, whose consorts are the incomparable ten goddesses, who is accompanied by his consort, who brings about the attainment of bliss that has benefit for the three worlds, and who is without degeneration.
+	} || 1 ||\footnoteB{
+		This verse is in Mālinī metre. % LLLLLLGGGLGGLGG X 4
+	}
 \end{quote}
 
 \medskip\noindent [\MS\ fol.\ 2r3] namaḥ samantakāyavākcittavajrāya.\footnoteA{
@@ -155,35 +172,60 @@ $\Sigma$\textsubscript{X} & Reading shared in all witnesses but X \\
 }\\
 
 \noindent anupametyādi.
-kamalaṃ padmaṃ pāṇau yasya sa kamalapāṇir avalokiteśvaro bhagavāñ jayatīti sambandhaḥ.
+kamalaṃ padmaṃ pāṇau yasya sa kamalapāṇir avalokiteśvaro bhagavāñ\footnoteB{
+	avalokiteśvaro bhagavāñ jayatīti] \MS\ \EDD\ (bhagavān); bcom ldan 'das spyan ras gzigs dbang phyug ste (ste] \TVB ; la \TVA) | de rgyal gyur cig ces \TIB\ (avalokiteśvaro bhagavān | saḥ jayatīti)
+} jayatīti sambandhaḥ.
 kiṃviśiṣṭaḥ?
-anupamam ity atipraṇītatvamahattvāsaṃsārasthāyitvalakṣaṇair\footnoteB{
-	°saṃsārasthāyitva°] \MS; °saṃsārasthāyisva° \EDD\ (\emph{note the two akṣaras}, tva \emph{and} sva, \emph{are very similar})
-} dharmair yuktasyānyasyābhāvād\footnoteA{
-	cf.\ Tib.: dpe med ces bya ba la sogs pa smos te/ dpe med pa ni (ni] \TVA; dang \TVB) shin tu gya nom pa nyid dang/ rgya (rgya] \TVA; deest in \TVB) che ba nyid dang/ 'khor ba'i mtha'i bar du gnas pa'i mtshan nyid kyi chos dang ldan pa ste/ gzhan dag la de med pa'i phyir ro/ / (āha—anumapetyādi. anupamam iti atipraṇītatvamahattvāsaṃsārasthāyitvalakṣaṇair yuktam, anyasya tadabhāvād.)\\
-} upamārahitaṃ sukham eva rūpaṃ svabhāvo yasya sa tathoktaḥ.
+anupamam ity\footnoteB{
+	kiṃviśiṣṭaḥ? anupamam ity] \MS\ \EDD ; khyad par ji lta bu zhig dang ldan zhe na | dpe med ces bya ba la sogs pa smos te | dpe med pa ni \TVA ; khyad par ji lta bu zhig dang ldan zhe na | dpe med ces bya ba la sogs pa smos te | dpe med pa dang \TVB (kiṃviśiṣṭa ity āha anumapam ityādi. anupamam)
+}\footnoteA{
+	Here one may wish to conjecture a reading such as, `\emph{anumapetyādi. anupamam ity} \ldots '
+	This reading is partially suggested by \TIB : \emph{khyad par ji lta bu zhig dang ldan zhe na | dpe med ces bya ba la sogs pa smos te | dpe med pa ni} (\emph{ni}] \TVA ; \emph{dang} \TVB).
+	The corruption, if there is one, can be seen as a kind of haplography.
+	The text nonetheless reads acceptably well with the transmiteed reading (although perhaps less smootly); thus we feel that while a conjecture is possible it is not strongly compelling.
+} atipraṇītatvamahattvāsaṃsārasthāyitvalakṣaṇair\footnoteB{
+	°saṃsārasthāyitva°] \MS ; °saṃsārasthāyisva° \EDD
+} dharmair yuktasyānyasyābhāvād upamārahitaṃ sukham eva rūpaṃ svabhāvo yasya sa tathoktaḥ.
 punar api kiṃviśiṣṭaḥ?
 śrīḥ puṇyajñānasambhāralakṣaṇā, tasyā nivāsa āśrayo yaḥ sa tathā.
-dharmakāyarūpitvena\footnoteB{
-	dharmakāyarūpitvena] \MS\ \EDD; dharmakāyarūpatvena \possibleemd\ (\emph{cf.} \TVA\ \TVB: chos kyi sku'i ngo bo nyid kyis)
+dharmakāyarūpatvena\footnoteB{
+	dharmakāyarūpatvena] \emd ; dharmakāyarūpitvena \MS\ \EDD
+}\footnoteA{
+	The manuscript's \emph{dharmakāyarūpitvena} is theoretically acceptable and nearly synonymous; however, \emph{dharmakāyarūpatvena} is more expected, with forms in \emph{°rūpatvena} being vastly more frequent in Classical Sanskrit. \TIB's reading \emph{chos kyi sku'i ngo bo nyid kyis} does not clearly confirm either variant, as \emph{rūpin} in the root verse is also translated as \emph{ngo bo}. We provisionally adopt \emph{dharmakāyarūpatvena}, but cannot fully discount the transmitted reading.
 } sarvagatatvāt [\EDD\ p.\ 132] pratiniyatanivāsābhāvād anivāsaḥ.
 
 punaḥ kīdṛśaḥ?
-nirupamāḥ paramarūpayauvanaśṛṅgārādirasamahākaruṇādiyuktatvenopamātikrāntā\footnoteB{
-	°opamātikrāntā] \MS\ \EDD\ \TVB\ (dpe las ’das pa’o); dpe med pa ste/ dpe las ’das pa’i \TVA\ (nirupamā upamātikrāntā)
-} rūpavajrāditārāparyantadaśadevīrūpā vidyāḥ parivārakatvena\footnoteB{
-	parivārakatvena] \emd ; saparivārakatvena \MS ; saparivārakatvena \EDD
+nirupamāḥ paramarūpayauvanaśṛṅgārādirasamahākaruṇādiyuktatvenopamātikrāntā rūpavajrāditārāparyantadaśadevīrūpā vidyāḥ parivārakatvena\footnoteB{
+	paricārakatvena] \emd ; sapari((c))ārakatvena \MS ; saparivārakatvena \EDD
 } yasya sa tathā.
 saha svābhārūpayā vidyayā\footnoteB{
-	vidyayā] \MS\ \EDD ; rig pa ste/ shes rab \TVA\ \TVB\ (vidyayā prajñayā)
+	vidyayā] \MS\ \EDD ; rig pa ste | shes rab \TIB\ (vidyayā prajñayā)
 } vartata iti savidyaḥ.
 tribhuvanasya tribhuvanavartino janasya yaddhitam āyatipathyaṃ\footnoteB{
 	āyatipathyaṃ] \emph{variant word division in} \EDD : āyati pathyaṃ; \emph{and in} \MS : āyati | pathyaṃ
+}\footnoteA{
+	We need not necessarily read a compound for \emph{āyatipathyaṃ}, treating instead \emph{āyati} as a locative of \emph{āyat}.
+	The expression appears as a gloss for \emph{hita} in several Buddhists texts, such as in Vilāsavajra's \emph{Mantrārthāvalokinī}: \emph{mahyaṃ hitaṃ maddhitaṃ hitam āyatipathyam āgāmipariṇāmatvāt} (p.\ 233).
+	Similarly, Durvekamiśra writes in his \emph{Hetubinduṭīkāloka}: \emph{parasmai hitamāyati pathyaṃ} (p. 212). 
+	In both cases, the construction is ambiguous, but in the latter case, the editors of Durvekamiśra's text have not taken it as a compound.
+
+	\hspace*{1em}The roughly parallel expression \emph{āyatisukha} is evidnetly treated as a compound by Yaśomitra in his \emph{Abhidharmakośavyākhyā}: \emph{aihikasukhārtham apuṇyam iti. ihasukhāpekṣayā tat kṛtaṃ nāyatisukhāpekṣayety arthaḥ} (vol.\ 1 p.\ 299).
+	Note also the contrast made with \emph{aihikasukha}.
+	Likewise, we can find a compounded form of \emph{āyatiduḥkha} in a verse attributed to Naradatta in the \emph{Subhāṣitaratnakośa}: \emph{muṇḍāpriyād āyatiduḥkhadāyino vasantam utsārya vijṛmbhitaśriyaḥ | na kaḥ khalāt tāpitamitramaṇḍalād upaiti pāpaṃ tapavāsarād iva ||} `Who does not become miserable because of a rogue who, like a hot day, is hated by widows (? \emph{muṇḍā}) (the hot day being hated by bald men), who leads to future pain, whose wealth expands after he expels those living with him (like the hot day manifests its richness having dismissed the spring), and who annoys his circle of friends (like on a hot day the orb of the sun is heated) (cf.\ \cite[553]{ingalls1965}).
+
+	\hspace*{1em}Assuming the conjecture in the following clause, `āpātapathya', here it seems most fitting to take \emph{āyatipathya} as a compound.
 } buddhatvādikam, saukhyaṃ tad āpātapathyaṃ\footnoteB{
 	tad āpātapathyaṃ] \conj\ (\TVA : 'phral gyi phan pa); tad dāpayati pathyaṃ \MS\ \EDD ; de la bde ba ni bde ba ste \TVB
 } cakravartitvādikam, tasya yā prāptiḥ\footnoteB{
-	prāptiḥ] \MS\ \EDD ; thob pa ni rnyed pa ste \TVA\ \TVB
-} [\MS\ fol.\ 2v] sākṣāt kriyā, tasyāḥ karaṇaṃ kāro yasya sa tathā.
+	prāptiḥ] \MS\ \EDD ; thob pa ni rnyed pa ste \TVA\ \TVB\ (prāptir lābhaḥ)
+} [\MS\ fol.\ 2v] sākṣāt kriyā, tasyāḥ karaṇaṃ kāro yasya sa tathā.\footnoteA{
+	It is notable that Vāgīśvakīrti evidently understands \emph{°prāptikāra} as a \emph{bahuvrīhi}, whereas other commentators may prefer to treat it akin to \emph{kumbhakāra} and therefore as an \emph{upapadasamāsa} as per \emph{Aṣṭādhyāyī} 3.1.18.
+	Given the latter understanding, the expected gloss for \emph{prāptikāṛa} would be \emph{prāptiṃ karoti}.
+	Compounds ending in \emph{kāra} are occasionally analysed as \emph{ṣaṣṭhītatpuruṣa}s: see, for examples, Vijñāneśvara's \emph{Mitākṣarā} ad \emph{Yājñavalkya-dharmaśāstra} 2.61 on \emph{satyaṃkārakṛta}, here referring roughly to a thing 'acquired with a pledge', i.e., acquired as earnest money: \emph{karaṇaṃ kāraḥ, bhāve ghañ. satyasya kāraḥ satyaṃkāraḥ—kāre satyāgadasya (Aṣṭādhyāyī 6.3.70) iti mum. satyaṃkāreṇa kṛtaṃ satyaṃkārakṛtam}) (p.\ 275).
+	We are unable to provide another example of a compound ending in \emph{kāra} analysed as a \emph{bahuvrīhi}, but we should also note that the compound \emph{prāptikāra} is itself rare.
+
+	\hspace*{1em}\TIB\ does not clearly reflect a \emph{bahuvrīhi} analysis, nor does it very clearly point to another reading: \emph{de dag sgrub par mdzad po gang yin pa de la de skad ces bya'o} (\TVA); \emph{de dag gi rgyu mdzad pa gang yin pa de la de skad ces bya'o} (\TVB).
+}
 aparinirvāṇadharmakatvenāpratiṣṭhitanirvāṇarūpatvenā\footnoteB{
 	°rūpatvenā°] \MS\ \EDD ; ngo bo rnyed pas \TVA ; ngo bo brnyed pas \TVB\ (°rūpaprāptyā°)
 }nyathātvalakṣaṇasya vikārasyābhāvād avikāraḥ.
@@ -603,7 +645,7 @@ anekavidhaprātihāryadvāreṇa\footnoteB{
 \begin{quote}
 	kṛtvā sākṣāt svādhipaṃ sātarūpaṃ \\
 	tyaktvopekṣājñānamātraṃ\footnoteB{
-		tyaktvopekṣā°] \MS\ (\emph{\EDD\ incorrectly reports as \emph{tyajyo°}) (\emph{see commentary}); bhāvopekṣā° \EDD\ (\emd); no reflex in \TM
+		tyaktvopekṣā°] \MS\ (\emph{\EDD\ incorrectly reports as \emph{tyajyo°}}) (\emph{see commentary}); bhāvopekṣā° \EDD\ (\emd); no reflex in \TM
 	} phalaṃ syāt |\\
 	āsaṃsārasthāyi sattvārthakāri \\
 	cintā\footnoteB{
@@ -611,7 +653,7 @@ anekavidhaprātihāryadvāreṇa\footnoteB{
 	}ratnaprakhyam\footnoteB{
 		°prakhyam] \EDD ; °prakhyaṃm \MS
 	} ekāntaśāntam || 12 ||
-	% Śālinī, GGGGGLGGLGG X 4
+	% Śālinī, GGGGG LGGLGG X 4
 	
 % 	After one directly perceives and then relinquishes one's lord with his blissful nature, there comes as fruit mere indifferent awanreness.
 % 	It remains as long as there is \emph{saṃsāra} and accomplishes the aims of beings.
@@ -621,7 +663,9 @@ anekavidhaprātihāryadvāreṇa\footnoteB{
 \noindent kṛtvetyādi.
 sākṣāt svādhipaṃ kṛtvā, paścāt\footnoteB{
 	paścāt] \EDD ; paścāta \MS
-} tyaktvā, upekṣārūpaṃ yaj jñānaṃ tanmātraṃ sādhyaṃ syāt.
+} tyaktvā, upekṣārūpaṃ yaj jñānaṃ tanmātraṃ\footnoteA{
+	tanmātraṃ] check: in compound or not
+} sādhyaṃ syāt.
 anyat sugamam.\footnoteB{
 	sugamaṃ] \EDD ; sūgamaṃ \MS
 }
@@ -644,7 +688,7 @@ etad uktaṃ bhavati\emdash maṇḍalacakrarūpaṃ sākṣāt kṛtvā, paśc�
 \end{quote}
 
 \noindent kṛtvetyādi.
-kṛtvā sākṣān maṇḍalaṃ sātasaṃvalitam.\footnoteB{
+kṛtvā sākṣān maṇḍalaṃ sātasaṃvalitam,\footnoteB{
 	sātasaṃvalitam] \emd\ (\TIB : bde ba'i rang bzhin can); sātaṃ saṃvalitaṃ \MS\ \EDD
 }
 tasya svecchayā nirvṛtir nirodhaḥ.
@@ -667,6 +711,8 @@ cakrāntarotpāde\footnoteB{
 	yathābhavyatayā] \emph{variant word division in} \EDD : yathā bhavyatayā
 } vineyānāṃ yathābhilaṣitaprāptir bhavatīti ṣaṣṭham.
 
+% By this he says exactly this: Having directly realized the wheel that is completely full of bliss, and having established it for as long a time as desired, afterwards one should remain having completely ceased it, just like a lamp. Then again, when there is the desire to benefit beings, having produced another wheel from the very [wheel] that was ceased, one should perform the benefit of beings. Even in the production of another wheel, through the wheel that was ceased long ago, in accordance with their disposition, there is the attainment of what is desired by those to be trained - this is the sixth.
+
 \subsubsection{mantranaye saptamaṃ sādhyam}
 \begin{quote}
 	kṛtvā sphuṭaṃ rūpam abhīṣṭam eṣāṃ \\
@@ -680,16 +726,16 @@ cakrāntarotpāde\footnoteB{
 	na pakṣabhede 'pi tato 'sti bhedaḥ || 14 ||
 	% Rāmā, GGLGGLLGLGG X2, LGLGGLLGLGG X2
  
-% 	Some say that after realising directly the desire form of these [other six positions], [one later realises] the fruit which is cessation.
+% 	Some say that after realising directly the desired form of these [other six positions], [one later realises] the fruit which is cessation.
 % 	And because cessation is not different in nature, even though there are different position, it has no distinction.
 \end{quote}
 
 \noindent kṛtvetyādi. ṣaṇṇāṃ pakṣāṇām anyatamasya phalasya\footnoteB{
-	anyatamasya phalasya] \conj ; arthaphalaysa \MS\ \EDD ; nang nas 'bras bu \TIB
+	anyatamasya phalasya] \conj ; arthaphalasya \MS\ \EDD ; nang nas 'bras bu \TIB
 } sādhyatvād yad yad evābhiṣṭaṃ\footnoteB{
 	phalasya sādhyatvād yad yad evābhiṣṭaṃ] \MS\ \EDD ; 'bras bu bsgrub bya gang kho na \TVA\ (phalaṃ yad eva); bsgrub bya gang kho na mngon par 'dod pa \TVB\ (phalaṃ yad evābhiṣṭaṃ);
 } tad\footnoteB{
-	tad] \EDD ; sa \MS
+	tad] \EDD ; sad \MS
 } eva sākṣāt kṛtvā, paścāt sarvathaiva pradīpavan nirodha uttarakālaṃ sattvārthādiśūnyaḥ sākṣāt kartavyaḥ.
 
 nanu ṣaṭpakṣabhedena ṣaḍ eva\footnoteB{
@@ -712,19 +758,21 @@ nanu ṣaṭpakṣabhedena ṣaḍ eva\footnoteB{
 	} sarvo bhāvanāsu prayāso \\
 	vyarthaḥ prāptas tatphalasya prasiddheḥ || 15 ||
 
-% 	[Some] say that the fourth consecration is tasting \emph{bodhicitta} subsequent to the wisdom-knowledge [consecration]. This is bad. For, given that its fruit is already established. all efforts in the meditations, having already obtained, would pointless. 
+% 	[Some] say that the fourth consecration is tasting \emph{bodhicitta} subsequent to the wisdom-knowledge [consecration]. This is bad. For, given that its fruit is already established, all efforts in the meditations, having already obtained, would be pointless. 
 \end{quote}
 
 \noindent [\EDD\ p.\ 140] prajñājñānetyādi. prajñājñānopadeśād uttarakālaṃ\footnoteB{
-	prajñājñānopadeśād uttarakālaṃ] \MS\ \EDD ; shes rab dang ye shes ni shes rab ye shes te | dbang bskur ba'i bye brag go || phyis ni 'das pa'i 'og tu'o || gang zhe na | \TVA\ (prajñājñānetyādi. prajñā ca jñānaṃ prajñājñānaṃ sekaviśeṣaḥ. uttaram paścāt. kim?); \TVB
+	prajñājñānopadeśād uttarakālaṃ] \MS\ \EDD ; shes rab dang ye shes ni shes rab ye shes te | dbang bskur ba'i bye brag go || phyis ni 'das pa'i 'og tu'o || gang zhe na | \TVA\ (prajñājñānetyādi. prajñā ca jñānaṃ prajñājñānaṃ sekaviśeṣaḥ. uttaram paścāt. kim iti); shes rab dang ye shes te | dbang bskur ba'i bye brag go || phyis te rdzogs pa'i dus kyi byang chub gang zhe na | \TVB\ (\emph{text may have suffered from corruption after \emph{phyis}})
 } yat bodhicittasyāmṛtarūpasya\footnoteB{
 	bodhicittasyāmṛtarūpasya] \emd\ (\TVA : byang chub kyi sems te); saṃ bodhicittasyāmṛtarūpasya \MS\ \EDD ; sems te \TVB\ (cittasya)
 } rasanayā grahaṇam, tat turyaṃ caturthaṃ [\MS\ fol.\ 6r] sekam āha kaścit.
 tac cāvaraṃ hīnam, vinikṛṣṭam iti yāvat.
 kasmād avaram?
 yasmāt sarvaprayāso mantramudrādevatādyākārabhāvanāsu punaḥ punar anuṣṭhānalakṣaṇas tathāgatokto\footnoteB{
-	tathāgatokto] \MS ; tathāgatoktau \EDD
-} vyarthaḥ prāptaḥ.
+	tathāgatokto] \MS ; tathāgatoktau \EDD % recheck
+} vyarthaḥ prāptaḥ.\footnoteA{
+	\TIB\ reflects understanding two items that would be \emph{vyartha}, perhaps suggesting another reading of the Sanskrit text: \emph{gang gi phyir sngags dang phyag rgya dang | lha nyid la sogs pa'i rnam pa bsgom pa la yang dang yang du 'bad pa dang | gzhan yang de bzhin gshegs pas gsungs pa'i sgrub pa'i mtshan nyid don med pa thob par 'gyur ro ||} `Because it would follow that repeated effort in meditation \ldots\ and, what's more (\emph{gzhan yang}; Skt.\ \emph{ca}?), what is characterised as practice taught by the \emph{tathāgata}s'.
+}
 kutaḥ?
 tatphalasya bhāvanāsādhyasya phalasya bodhicittāsvādakāla eva prasiddhatvāt prāptatvāt, anyasya viśiṣṭasya phalasyābhāvād iti yāvat.
 
@@ -924,7 +972,7 @@ satyam, kintu guḍagorasanyāyena. tathā hi na jñāyate, kiṃ tat sāram as�
 
 ucyate.
 
-\subsubsection{prathamasya asāratvam}
+\subsubsection{prathamasyāsāratvam}
 mantranayavihitakramābhāvāt samāpattibhāvanāvaiyarthyād\footnoteB{
 	samāpatti°] \MS\ \EDD\ \TVB\ (snyom par 'jug pa); lha'i rnal 'byor gyi snyoms par 'jug pa'i \TVA\ (devatāyogasamāpatti°)
 } yuktyabhāvāc\footnoteB{
@@ -1261,4 +1309,23 @@ bhavatu nikhilalokas tena vāgīśvaraśrīḥ ||\\
 % Mālinī, LLLLLLGGGLGGLGG X 4
 
 tattvaratnāvalokavivaraṇaṃ samāptam. kṛtir iyaṃ paṇḍitācāryavāgīśvarakīrtipādānām.\\
+
+
+\section{References}
+
+\EmbracOff
+\emph{Abhidharmakośavyākhyā} by Yośamitra. \fullcite*{wogihara1932to6}\mybibexclude{wogihara1932to6}\\
+
+\emph{Mantrārthāvalokinī} by Vilāsavajra. \fullcite*{tribe2016}\mybibexclude{tribe2016}\\
+
+\emph{Mitākṣarā} of Vijñāneśvara. \fullcite*{acharya1949}\mybibexclude{acharya1949}\\
+
+\emph{Subhāṣitaratnakośa} compiled by Vidyākara. \fullcite*{kosambigokhale1957}\mybibexclude{kosambigokhale1957}
+
+\emph{Hetubinduṭīkāloka} by Durvekamiśra. \fullcite*{sanghavi1949}\mybibexclude{sanghavi1949}\\
+
+
+	\section*{Secondary Sources}
+	\printbibliography[notcategory=fullcited,resetnumbers,heading=none]
+
 \end{document}
