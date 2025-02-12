@@ -26,17 +26,13 @@ Absolutely all of the non-Buddhist philosophers (*tīrthya*) have their intellec
 Thinking 'This is reality' and 'This is the goal', they are confused (*bhrānta*) regarding the 'realisation' (*vitti* = *pratīti*) of the nature (*svarūpa*) of reality and the goal.
 The remainder is easy to understand.
 
-\[Objection:] But insofar as reality and the goal are both to be adopted (*upādeya*), reality and the goal have the same nature.
-So how are they taught (*nirdeśa*) separately (*bhedena*)?
-This is not true.
-For, even though it is to be adopted, reality pervades of the entirety (saṃdoha) of all appearances, be they pleasant, painful, neutral, or otherwise.
-And the goal, is the fruit, characterised by one's wish, by casting off what is not desired. 
-Even though it is to be adopted, it is surely by means of exclusion of what is not the goal that it is desired as to be accomplished by all sentient beings.
+\[Objection:] But since reality and the goal are one in nature insofar both to be sought after (*upādeya*), how is it that they are treated differenly [in the verse] when you say 'of reality and the goal'. 
+This is incorrect.
+For, even though reality is to be sought after, it pervades of the entirety (*saṃdoha*) of all appearances (*sakalapratibhāsa*), be they pleasant, painful, neutral, or otherwise.
+On the other hand, the goal is the fruit characterised as one's wish though the exclusion of what is not one's wished for; while it is sought after, it is surely through the exclusion of what is not the goal that all sentient beings regard it as the goal. 
 Thus there is no fault.
 
-Verse 15:
+# 4: The goals of Vedāntins, Śrāvakas, and Pratyekabuddhas
+> Some say that the fourth initiation is the tasting of bodhicitta subsequent to the teaching of the wisdom-knowledge [initiation]. This is inferior. Why? Because all effort in visualisations would be futile, because their result is obtained [at that time].
 
-Some say that the fourth initiation is the tasting of bodhicitta subsequent to the teaching of the wisdom-knowledge [initiation]. This is inferior. Why? Because all effort in visualisations would be futile, because their result is obtained [at that time].
-
-Commentary:
 'Wisdom-knowledge' etc. Some say that after the teaching of the wisdom-knowledge (prajñājñāna) initiation, the taking (grahaṇa) of bodhicitta in the form of nectar with one's tongue (rasanā) constitutes the fourth (turya = caturtha) initiation. And that is 'inferior' (avara) or deficient, which is to say vile (hīna). Why is it inferior? Because all effort (prayāsa), i.e. that practices taught by the tathāgatas, carried out in the meditations on mantras, mudrās, and the forms of deities, etc., becomes futile. Why? Because the result - the fruit to be accomplished through visualization - is already established/attained at the time of tasting bodhicitta, meaning there is no other superior result to be achieved."
