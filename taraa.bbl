@@ -1,0 +1,216 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{acharya1949}{book}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=842d4bf1a1e2b3a883f7f15cb6ebbe82}{%
+           family={Acharya},
+           familyi={A\bibinitperiod},
+           given={Narayan\bibnamedelima Ram},
+           giveni={N\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Bombay}%
+      }
+      \list{publisher}{1}{%
+        {Nirnaya Sagar Press}%
+      }
+      \strng{namehash}{842d4bf1a1e2b3a883f7f15cb6ebbe82}
+      \strng{fullhash}{842d4bf1a1e2b3a883f7f15cb6ebbe82}
+      \strng{bibnamehash}{842d4bf1a1e2b3a883f7f15cb6ebbe82}
+      \strng{editorbibnamehash}{842d4bf1a1e2b3a883f7f15cb6ebbe82}
+      \strng{editornamehash}{842d4bf1a1e2b3a883f7f15cb6ebbe82}
+      \strng{editorfullhash}{842d4bf1a1e2b3a883f7f15cb6ebbe82}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Yājñavalkyasmṛti of Yogīśvara Yājñavalkya with the Commentary Mitākṣara of Vijñāneśvara, Notes, Varient [sic!] Readings etc.}
+      \field{year}{1949}
+    \endentry
+    \entry{ingalls1965}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b72f741743f6bd91fc0ed7dd9ee8534b}{%
+           family={Ingalls},
+           familyi={I\bibinitperiod},
+           given={Daniel\bibnamedelimb H.\bibnamedelimi H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{b72f741743f6bd91fc0ed7dd9ee8534b}
+      \strng{fullhash}{b72f741743f6bd91fc0ed7dd9ee8534b}
+      \strng{bibnamehash}{b72f741743f6bd91fc0ed7dd9ee8534b}
+      \strng{authorbibnamehash}{b72f741743f6bd91fc0ed7dd9ee8534b}
+      \strng{authornamehash}{b72f741743f6bd91fc0ed7dd9ee8534b}
+      \strng{authorfullhash}{b72f741743f6bd91fc0ed7dd9ee8534b}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Harvard Oriental Series}
+      \field{title}{An Anthology of Sanskrit Court Poetry: Vidyākara's ``Subhāṣitaratnakoṣa''}
+      \field{volume}{44}
+      \field{year}{1965}
+    \endentry
+    \entry{kosambigokhale1957}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=dc0869904615656fbad42315a9b4fef9}{%
+           family={Kosambi},
+           familyi={K\bibinitperiod},
+           given={D.\bibnamedelimi D.},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f6a70ab66751482f0a9a59456d49b2e}{%
+           family={Gokhale},
+           familyi={G\bibinitperiod},
+           given={V.\bibnamedelimi V.},
+           giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge Massachusetts}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{a5b0c7a9dcf3f6661d5f2636e9241d9d}
+      \strng{fullhash}{a5b0c7a9dcf3f6661d5f2636e9241d9d}
+      \strng{bibnamehash}{a5b0c7a9dcf3f6661d5f2636e9241d9d}
+      \strng{editorbibnamehash}{a5b0c7a9dcf3f6661d5f2636e9241d9d}
+      \strng{editornamehash}{a5b0c7a9dcf3f6661d5f2636e9241d9d}
+      \strng{editorfullhash}{a5b0c7a9dcf3f6661d5f2636e9241d9d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{The Subhāṣitaratnakoṣa Compiled by Vidyākara}
+      \field{year}{1957}
+    \endentry
+    \entry{sanghavi1949}{book}{}
+      \name{editor}{2}{}{%
+        {{un=0,uniquepart=base,hash=c22328377adde4ec49a18e4a9e96f2a2}{%
+           family={Sanghavi},
+           familyi={S\bibinitperiod},
+           given={Sukhlalji},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7c1fe768b5ce14781e1c8d11c998e52}{%
+           family={Jinavijayaji},
+           familyi={J\bibinitperiod},
+           given={Muni\bibnamedelima Shri},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Baroda}%
+      }
+      \list{publisher}{1}{%
+        {Oriental Institute}%
+      }
+      \strng{namehash}{1759dfb063701d05c6cc04075d8fee0e}
+      \strng{fullhash}{1759dfb063701d05c6cc04075d8fee0e}
+      \strng{bibnamehash}{1759dfb063701d05c6cc04075d8fee0e}
+      \strng{editorbibnamehash}{1759dfb063701d05c6cc04075d8fee0e}
+      \strng{editornamehash}{1759dfb063701d05c6cc04075d8fee0e}
+      \strng{editorfullhash}{1759dfb063701d05c6cc04075d8fee0e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Hetubinduṭīkā of Bhaṭṭa Arcaṭa with the Sub-Commentary Entitled Āloka of Durveka Miśra}
+      \field{year}{1949}
+    \endentry
+    \entry{tribe2016}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=68e4430e74f366048d367337bc3c30ec}{%
+           family={Tribe},
+           familyi={T\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{68e4430e74f366048d367337bc3c30ec}
+      \strng{fullhash}{68e4430e74f366048d367337bc3c30ec}
+      \strng{bibnamehash}{68e4430e74f366048d367337bc3c30ec}
+      \strng{authorbibnamehash}{68e4430e74f366048d367337bc3c30ec}
+      \strng{authornamehash}{68e4430e74f366048d367337bc3c30ec}
+      \strng{authorfullhash}{68e4430e74f366048d367337bc3c30ec}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Routledge Studies in Tantric Traditions}
+      \field{title}{Tantric Buddhist Practice in India: Vilāsavajra's Commentary on the Mañjuśrīnāmasaṃgīti}
+      \field{year}{2016}
+    \endentry
+    \entry{wogihara1932to6}{book}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=f2ac61a1a1b1b661795ee8cc32363928}{%
+           family={Unrai},
+           familyi={U\bibinitperiod},
+           given={Wogihara},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Tokyo}%
+      }
+      \list{publisher}{1}{%
+        {The Publishing Association of the Abhidharmakośavyākhyā}%
+      }
+      \strng{namehash}{f2ac61a1a1b1b661795ee8cc32363928}
+      \strng{fullhash}{f2ac61a1a1b1b661795ee8cc32363928}
+      \strng{bibnamehash}{f2ac61a1a1b1b661795ee8cc32363928}
+      \strng{editorbibnamehash}{f2ac61a1a1b1b661795ee8cc32363928}
+      \strng{editornamehash}{f2ac61a1a1b1b661795ee8cc32363928}
+      \strng{editorfullhash}{f2ac61a1a1b1b661795ee8cc32363928}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{Sphuṭārthā Abhidharmakośavyākhyā by Yaśomitra}
+      \field{volumes}{2}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
