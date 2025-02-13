@@ -33,6 +33,50 @@ On the other hand, the goal is the fruit characterised as one's wish though the 
 Thus there is no fault.
 
 # 4: The goals of Vedāntins, Śrāvakas, and Pratyekabuddhas
+Now, first he teaches the goal held by the followers of Vedānta, beginning with '... bliss by nature'.
+
+> The Vedāntins long for (√*vaś*) a goal that is self aware (*svavid*), bliss by nature, unmovable, and at peace. And the rhinoceros-jinas, as well as \emph{śrāvaka}s, desire as a goal the cessation (\emph{virāma}) of the substrates (\emph{upadhi}) of material form (\emph{rūpa}) and so forth. (4)
+
+\[The Vedāntins long for a goal that is] 'bliss by nature' (*ānandarūpa*), because it is always comprised of/full of bliss (*ānanda*); that is 'self-aware' (*svavid*), because, being in the form of a light (*jyotis*), it is illuminating itself; that is 'unmovable' (*aprakampya), because, in being permanant (*nitya*), it cannot be moved; and that is at peace (*śānta*), because it is conceived of as empty of major and minor mental afflictions.
+[Vedāntins] 'long for' (√vaś), or desire, this kind of goal.
+
+The rhinoceros-jinas (*khaḍgajina*) who are alongside the *śrāvaka*s—namely, the *pratyekabuddha*s who live in isolation (*ekacārin*) or in groups (*vargacārin*) and who [are called *khaḍgajina*s because they] resemble rhinoceroses (*khaḍgaviṣāṇa*)—desire a goal.
+What kind [of goal]?
+The cessation of substrates—i.e., the cessation (*virāma*) or cutting off (*viccheda*) of the substrates (*upadhi*), i.e. aggregates (*skandha*), of material form, sensation, notion, formations, and consciousness—that is to say, their extinction. 
+This amounts to saying the following: All *śrāvaka*s and *pratyekabuddha*s, even though *nirvāṇa* is divided into the types 'with remainder of substrate' (*sopadhiśeṣa*) and 'without remainder of substrate' (*nirupadhiśeṣa*), have undertaken the goal of the *nirvāṇa* without remainder of substrate as what they should directly experience.
+
+# 5. The four goals found in the Way of the Perfections
+Now, beginning with 'empty of form', [the author] relates the four kinds of goals held by the followers of the Way of the Perfections.
+
+> Followers the Way of the Six Perfections—namely, giving and so forth—teach that the goal that accomplishes the aims of beings (*sattvārthakārin*) is [either] (1) empty of forms (*ākāraśūnya*), of the nature of the sky and the moon (*gaganendurūpa*), to be realised by oneself (*pratyātmavedya*), and has compassion as its essence;
+> (6)
+
+% 	It is empty of forms, has the nature of the sky and the moon, is to be realised by oneself, and has compassion as its flavour.
+% 	Adorned with all excellent characteristics, it accomplishes aims, it is the outflow of giving and so forth, and is free of bliss.
+
+Those who abide on the path of the six perfections beginning with generosity
+put forward a goal that accomplishes the aims of beings, which is either:
+[1] empty of ākāras, whose nature is like the sky and like the moon,
+to be known for oneself (pratyātmavedya), and has compassion as its essence;
+[2] adorned with auspicious marks, accomplishes others’ aims,
+is the outflow (niṣyanda) of generosity and so on, and is free of pleasure; (5)
+or [3] blissful (sānanda), it is a body adorned by the auspicious marks,
+is being enjoyed by those who abide on the tenth bodhisattva stage. (6)
+
+## 5.1. The first goal taught in the Way of the Perfections
+[This goal] is empty of forms that are variagated in nature, including blue, yellow, pleasure, and pain—i.e., it is formless (*nirākāra*).
+For just this reason, it is called one that has a nature (*rūpa* = *svabhāva*) like that of the 'sky' (*gagana*) insofar as it is formless (*nirākara*) and like that of the 'moon' (*indu*) insofar as it shining forth (*prabhāsvara*).
+That it is 'to be known for oneself' (*pratyātmavedya*) means that it is only to be known through reflexive awareness (*svasaṃvedyaikavedya*).
+'Compassion' (*karuṇā*) is the state of having the desire to rescue (*abhyudharaṇa*) all beings (*sakalajagat*) from suffering and the cause of suffering.
+[The goal] is called that which has just that [compassion] as its essence (*rasa* = *svabhāva*).
+
+This amounts to saying the following: 
+The goal that is expressed by the words of the pith instructions on the Perfection [of Insight] is empty of variagated forms such as blue and yellow, without appearances, unstained (*nirañjana*), like the sky, pure (*svaccha*), emdowed with great compassion as it accomplishes the aims of all beings, and to be realised by oneself.
+This is the first [kind of] goal [taught] in the Way of the Perfections.
+
+
+
+
 > Some say that the fourth initiation is the tasting of bodhicitta subsequent to the teaching of the wisdom-knowledge [initiation]. This is inferior. Why? Because all effort in visualisations would be futile, because their result is obtained [at that time].
 
 'Wisdom-knowledge' etc. Some say that after the teaching of the wisdom-knowledge (prajñājñāna) initiation, the taking (grahaṇa) of bodhicitta in the form of nectar with one's tongue (rasanā) constitutes the fourth (turya = caturtha) initiation. And that is 'inferior' (avara) or deficient, which is to say vile (hīna). Why is it inferior? Because all effort (prayāsa), i.e. that practices taught by the tathāgatas, carried out in the meditations on mantras, mudrās, and the forms of deities, etc., becomes futile. Why? Because the result - the fruit to be accomplished through visualization - is already established/attained at the time of tasting bodhicitta, meaning there is no other superior result to be achieved."
