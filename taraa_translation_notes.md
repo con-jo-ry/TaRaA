@@ -48,20 +48,7 @@ This amounts to saying the following: All *śrāvaka*s and *pratyekabuddha*s, ev
 # 5. The four goals found in the Way of the Perfections
 Now, beginning with 'empty of form', [the author] relates the four kinds of goals held by the followers of the Way of the Perfections.
 
-> Followers the Way of the Six Perfections—namely, giving and so forth—teach that the goal that accomplishes the aims of beings (*sattvārthakārin*) is [either] (1) empty of forms (*ākāraśūnya*), of the nature of the sky and the moon (*gaganendurūpa*), to be realised by oneself (*pratyātmavedya*), and has compassion as its essence;
-> (6)
-
-% 	It is empty of forms, has the nature of the sky and the moon, is to be realised by oneself, and has compassion as its flavour.
-% 	Adorned with all excellent characteristics, it accomplishes aims, it is the outflow of giving and so forth, and is free of bliss.
-
-Those who abide on the path of the six perfections beginning with generosity
-put forward a goal that accomplishes the aims of beings, which is either:
-[1] empty of ākāras, whose nature is like the sky and like the moon,
-to be known for oneself (pratyātmavedya), and has compassion as its essence;
-[2] adorned with auspicious marks, accomplishes others’ aims,
-is the outflow (niṣyanda) of generosity and so on, and is free of pleasure; (5)
-or [3] blissful (sānanda), it is a body adorned by the auspicious marks,
-is being enjoyed by those who abide on the tenth bodhisattva stage. (6)
+> Followers the Way of the Six Perfections—namely, [the perfections of] giving and so forth—teach that the goal that accomplishes the aims of beings (*sattvārthakārin*) is [either] (1) empty of forms (*ākāraśūnya*), of the nature of the sky and the moon (*gaganendurūpa*), to be realised by oneself (*pratyātmavedya*), having compassion as its essence; (2) the outflow of the giving and so forth that is addorned with the beautiful marks, which accomplishes aims (*arthakārin*) and is without [even] bliss; or (3) a blissful body adorned by the beautiful marks, enjoyed by the those abiding on the tenth stage. (TaRaA 5 and 6)
 
 ## 5.1. The first goal taught in the Way of the Perfections
 [This goal] is empty of forms that are variagated in nature, including blue, yellow, pleasure, and pain—i.e., it is formless (*nirākāra*).
@@ -74,7 +61,22 @@ This amounts to saying the following:
 The goal that is expressed by the words of the pith instructions on the Perfection [of Insight] is empty of variagated forms such as blue and yellow, without appearances, unstained (*nirañjana*), like the sky, pure (*svaccha*), emdowed with great compassion as it accomplishes the aims of all beings, and to be realised by oneself.
 This is the first [kind of] goal [taught] in the Way of the Perfections.
 
+## 5.2. The second goal taught in the Way of the Perfections
+[The beautiful marks] are beautiful and they are marks; they called the thirty two marks.
+By them [this outflow/goal that they teach] is 'adorned' (*bhūṣita*).
+It 'accomplishes aims' in that it has as its nature a dispotion (*śīla*) to accomplish the aims (*artha*) or purposes (*prayojana*) of beings. 
+It is the 'outflow' (*niṣyanda*) of the ten perfections of giving etc., meaning that it is a fruit (*phala*) resembling [its cause, i.e. those perfection,] (*sadṛśa*) insofar as it arises (*prabhava*) from the [culmination] of excellence (*prakarṣa*) in them.
+Because suffering (*duḥkha*) has previusly already been abandoned (*prahīṇa*), and because even bliss is absent [at that time], [the goal is] without bliss (*apetasaukhya* = *apagatasaukhya*) insofar as it has the nature of equanimity (*upekṣā*). 
+This amounts to saying the following: the second goal [taught in the Way of the Perfections] is a body bearing the thirty-two major marks and beautified by the eighty minor marks—it benefits the entire world (*sakalajagadarthakārin*); through one's own power of repeated practice (*abhyāsa*) in the perfections of giving and the rest, it takes the form of a perfect and complete buddha; and insofar as it is free of bliss and suffering, is a nature which is equanimity.
 
+## 5.3 The third kind of goal in the Way of the Perfections
+'A blissful [body]' and so forth: [This goal] is present with bliss; thus, it is blisful (*sānanda*).
+It is both blisful and a body (*aṅga*) adorned (*maṇḍita*) with the beautiful marks (*sallakṣaṇa*), 'enjoyed' (*sambhujyamāna*), i.e. lived off of (*upajīvyamāna*), through its teaching the Dharma.
+By whom?
+By the lords of the tenth stage, since it is out of the range (*agocara*) of those abiding on the remaining stages (*pariśiṣṭabhūmi*).
+It comes down to saying that [this goal/body] is enjoyed by those who have reached the tenth stage (*daśabhūmiprāpta*), such as Avalokiteśvara and Mañjuśrī.
+This amounts to saying the following: 
+This goal is precisely like how, in a buddha realm (*samyaksaṃbuddhabhuvana*) called Ghanavyūha that is above the pure abodes (*śuddhāvāsa*), the Blessed One appears (√*cakās*) as long as *saṃsāra* remains (*āsaṃsāraṃ*) with a blissful form (*ānandarūpa*) and identical with the *sambhogakāya*—he is a fulfiller the aims of all beings by means of his emanations; his body unseen by even the *śrāvaka*s, *pratyekabuddha*s, and lords of the ninth stage, while instead (*param*) he is enjoyed through the hearing of the Dharma by *bodhisattva*s who are lords of the tenth stage.
 
 
 > Some say that the fourth initiation is the tasting of bodhicitta subsequent to the teaching of the wisdom-knowledge [initiation]. This is inferior. Why? Because all effort in visualisations would be futile, because their result is obtained [at that time].
