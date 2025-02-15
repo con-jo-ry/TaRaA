@@ -1,5 +1,5 @@
 # Beholding the Jewel of Reality
-# 1. Auspicious Beginning
+# 1. Auspicious beginning
 > So long as there are occurrences of spaces/hopes, Kamalapāṇi reigns supreme—he whose nature incomparable bliss, who is an abode of riches, who is without any abode; whose consorts are the incomparable ten goddesses, who is with his consort, who brings about the attainment of welfare and happiness for the three worlds, and who is without degeneration.
 
 Concerning the verse beginning '... incomparable', the syntax (*sambandha*) is as follows: 'Kamalapāṇi', [a *vyadhikaraṇabahuvrīhi*] meaning he who has a lotus (*kamala* = *padma*) in hand, i.e. the blessed Avalokiteśvara, reigns supreme (√*ji*). How is he characterised? He is called one whose nature (*rūpa* = *svabhāva*) is none other than bliss that is 'incomparable' (*anupama*), i.e. it is without a point of comparison (*upamārahita*) since there is nothing else that has the qualities of supreme excellence (*atipraṇīta*), greatness (*mahattva*), and steadiness (*sthāyitva*) so long as *saṃsāra* remains. How else is he characterised? 'Riches' (*śrī*) are the requisites/accumulations (*sambhāra*) of merit and knowledge, and he is called an abode (*nivāsa*) or locus (*āśraya*) for those. He is 'without any abode' (*anivāsa*) because, in pervading all in the form of the Dharmakāya, he lacks any fixed (*pratiniyata*) abode.
@@ -47,7 +47,7 @@ This amounts to saying the following: All *śrāvaka*s and *pratyekabuddha*s, ev
 # 5. The four goals found in the Way of the Perfections
 Now, beginning with 'empty of form', [the author] relates the four kinds of goals held by the followers of the Way of the Perfections.
 
-> Followers the Way of the Six Perfections—namely, [the perfections of] giving and so forth—teach that the goal that accomplishes the aims of beings (*sattvārthakārin*) is [either] (1) empty of forms (*ākāraśūnya*), of the nature of the sky and the moon (*gaganendurūpa*), to be realised by oneself (*pratyātmavedya*), having compassion as its essence; (2) the outflow of the giving and so forth that is addorned with the beautiful marks, which accomplishes aims (*arthakārin*) and is without [even] bliss; or (3) a blissful body adorned by the beautiful marks, enjoyed by the those abiding on the tenth stage. (TaRaA 5 and 6)
+> Followers the Way of the Six Perfections—namely, [the perfections of] giving and so forth—teach that the goal that accomplishes the aims of beings (*sattvārthakārin*) is [either] (1) empty of forms (*ākāraśūnya*), of the nature of the sky and the moon (*gaganendurūpa*), to be realised by oneself (*pratyātmavedya*), having compassion as its essence; (2) the outflow of the giving and so forth that is addorned with the beautiful marks, which accomplishes aims (*arthakārin*) and is without [even] bliss; or (3) a blissful body adorned by the beautiful marks, enjoyed by the those abiding on the tenth stage. (5 and 6)
 
 ## 5.1. The first goal taught in the Way of the Perfections
 [This goal] is empty of forms that are variagated in nature, including blue, yellow, pleasure, and pain—i.e., it is formless (*nirākāra*).
@@ -118,6 +118,27 @@ Therefore, for that reason, the form of one's own lord should be meditated on [i
 This is the third [goal].
 
 The meaning is as follows: One meditates on bliss that is only [the kind] connected to the form of a deity. When it is becomes manifest, one abandons the deity's form and there is bliss alone, which is the goal endowed with the previously taught qualities.
+
+## 6.4 The fourth kind of goal in the Way of Mantra
+> Another says that the goal has a body equal to space and a body adorned with the marks. It is filled with incomparable bliss, joined with a personal consort, accomplishing the aims of all beings with limitless Buddha-sages who shoot forth, and empty of eradication.
+
+[This goal is one] that has a 'body (*śarīra*) equal to space (*gagaṇasama*)', which like an illusion (*māyopama*) is unable to withstand critical analysis (*vicārāsaha*).
+It is one that has a bodies (*aṅga*) adorned (*maṇḍita*) with the thirty-two marks and the eighty signs.
+It is filled (*pūrṇa*), i.e. complete (*saṃpūrṇa*) up to the tips of the body's hair (*romāgraparyanta*), with 'incomparable (*nirupama*) blisses (*sukha*)'—which, lacking any point of comparison due to [their] largeness (sthaulya), uninterruptedness (*nairantarya*), continuity so long as *saṃsāra* remains, (āsaṃsārapravāhitva), and undefiledness (nirāsravatva), transcends [all] points of comparison.
+[The goal] is one that is 'joined' with (*saṃgata*), i.e. is in complete union with (*samāliṅgita*), a personal consort (*svābhā*), i.e. [a consort] who is [also] like that (*tathābhūta*) [goal].
+It 'accomplishes the aims of all beings' (*sarvasattvārthakārin*) with shooting forth (*sphurat*) and infinitely emanated (*anantanirmita*) Buddha-sages (*munīndra*), who are  [also] just like that (*tathābhūta*) [goal].
+Of 'eradication' (*uccheda*), i.e. cessation (*nirodha*), it is empty (*śūnya*), free (*tuccha*), and devoid (*rikta*).
+
+This amounts to saying the following:
+Insofar as its nature is insight that is supremely subtle (*parasūkṣma*) and extremely profound (*atigambhīra*), it has the nature of the Dharmakāya: it is like space (*gagana*), an illusion (*māyā*), a mirage (*marīc*), a city of *gandharva*s (*gandharvanagara*), a moon in water (*udakacandra*), a reflection (*pratibimba*), and a dream (*svapnopamam*); it is devoid of a nature that is one or many, existence or non-existence, perceiver or perceived; it is without beginning or end (*anādyantam*); it has the nature of the entirety (*saṃdoha*) of all entities (*aśeṣavastu*); it is appearanceless (*nirābhāsa*), unstained (*nirañjana*), and surpasses all points of comparison (*sarvopamātikrānta*).
+Insofar as its nature is vast (*udāra*) in its being infused (*saṃvalita*) with compassion, it has the nature of the Sambhogakāya: it has bodies (śarīra) adorned (*vibhūṣita*) by the thirty-two marks; it has forms (*gātra*) beautified (*virājita*) by the eighty signs; it is endowed with supreme eroticism (*śṛṅgāra*), youth (*yavana*), and so forth; its bodies (*aṅga*) are embraced (*āliṅgita*) by personal consort women (*svābhāṅganā*); and it is enjoyed (*sambhujyamāna*) like an reflection (*pratibimbavat*) by the group (*gaṇa*) of goddesses beginning with Rūpavajra and ending with Tārā through the enjoyment (*upabhoga*) of supreme bliss (*paramānanda*), the nature of which is signless (*animitta*) pleasure (*rati*) with countless variations (*anantaprabheda*).
+Insofar as it causes the emission (*spharaṇa*) and withdrawal (*saṃharaṇa*) of buddhas and bodhisattvas belonging to countless emanated families <mark>{**what does nirmita qualify**}</mark>, it has the nature of the Nirmāṇakāya in order to ripen (*paripācana*) beings to be tamed (*vineyajana*) of various preferences (*nānādhimukti*) through various types of miraculous displays (*pratihārya*).
+It is filled with (*pūrṇa*) the true bliss (*satsukha*) arisen from (*sambhūta*) concentration on stainless insight and means, whose nature is *bodhicitta* that is inseparable from emptiness and compassion. <mark>again, bodhicittasvabhāva qualifies what?</mark>
+It has the nature of non-abiding *nirvāṇa*.
+[And] insofar as has a permanent continuity like the flame of a lamp (*pradīpaśikhā*) that is without blemish (*nirmala*), undisturbed (*nivāta*), and unmoving (*niścala*), it is devoid of cessation (*nirodhaśūnya*). 
+This is the fourth goal.
+
+
 
 # 7. Mistaken views regarding the fourth initiation 
 ## 7.1. The first mistaken view 
