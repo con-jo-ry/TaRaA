@@ -1,5 +1,8 @@
 %% scribe appears to not distinguish ru and rū —— confirm
-\documentclass[12pt]{article}
+\documentclass[12pt]{book}
+
+% Set paper size and margins using geometry
+\usepackage[paperwidth=170mm, paperheight=240mm, inner=30mm, outer=25mm, top=25mm, bottom=30mm]{geometry}
 \usepackage{microtype}
 \usepackage[pdfusetitle,hidelinks]{hyperref}
 \usepackage{setspace}
@@ -95,7 +98,7 @@
 \newcommand{\TM}{TM\textsubscript{D}}
 \newcommand{\TVA}{TVA\textsubscript{D}}
 \newcommand{\TVB}{TVB\textsubscript{G}}
-\newcommand{\TIB}{TIB}
+\newcommand{\TIB}{TV}
 \newcommand{\sigmareading}[1]{$\Sigma$\textsubscript{#1}}
 
 % App shortcuts
@@ -118,11 +121,11 @@
     
     \item Tibetan is not included in the apparatus when it offers no clear support for or against a reading.
 
-	\item When both Tibetan translation agree, they are given the siglum \TIB .
+	\item When both Tibetan translations of the commentary agree, they are given the siglum \TIB .
 \end{itemize}
 
 \section*{Sigla and Abbreviations}
-\noindent\begin{longtable}{ l p{12cm} }
+\noindent\begin{longtable}{ l p{0.7\linewidth} }
 	\noindent TaRaA & Tattvaratnāvaloka\\
 
 	\noindent TaRaA-Vi & Tattvaratnāvalokavivaraṇa\\
@@ -137,7 +140,7 @@
 
 	\noindent \TVB & \emph{De kho na nyid rin po che snang ba'i rnam par bshad pa}. Ōtani no.\ 4793. bsTan 'gyur gSer bris ma, vol.\ 84 (83 in BDRC outline(?)), (rGyud 'brel, Zhu), fols. 70v–85v. translator given.\\
 
-	\noindent \TIB & Both Tibetan translations (differences, if any, indicated in a mini-aparatus)\\
+	\noindent \TIB & Both Tibetan translations of the commentary (differences, if any, indicated in a mini-aparatus)\\
 
 \bigskip
 $ac$ & \emph{ante correctionem} \\
@@ -355,7 +358,7 @@ tatra tāvad\footnoteB{
 		The form may be grammatically justifiable if it is treated as neuter adjective, akin to \emph{vedavid}.
 	} aprakampyaṃ \\
 	vedāntinaḥ sādhyam uṣanti śāntam\footnoteB{
-		śāntam] \corr ; sāntam \MS\ \EDD ; \emph{no reflex in} \TIB
+		śāntam] \corr ; sāntam \MS\ \EDD ; \emph{no reflex in} \TM
 	} |\\
 	saśrāvakāḥ\footnoteB{
 		saśrāvakāḥ] \emd ; saśrāvakā \MS\ \EDD
@@ -438,11 +441,12 @@ etad uktaṃ bhavati\emdash nīlapītādicitrākāraśūnyaṃ nirābhāsaṃ\fo
 % § 5_2
 \subsubsection{pāramitānaye dvitīyaṃ sādhyam}
 \noindent śobhanāni ca tāni lakṣaṇāni ca dvātriṃśallakṣaṇasaṃjñakāni,\footnoteB{
-	dvātriṃśallakṣaṇasaṃjñakāni] \conj ; dvātriṃśallakṣaṇasaṃjñakāni ceti \MS\ \EDD ; mdzes pa'i mtshan sum cu rtsa gnyis zhes bya ste \TIB\ (dvātriṃśatsallakṣaṇānīti)
+	dvātriṃśallakṣaṇasaṃjñakāni] \conj ; dvātriṃśallakṣaṇasaṃjñakāni ceti \MS\ \EDD ; mdzes pa'i mtshan sum cu rtsa gnyis zhes bya ste \TIB\ (dvātriṃśatsallakṣaṇānīti / dvātriṃśatsallakṣaṇasaṃjñakāni)
 }\footnoteA{
 	The manuscript reading \emph{ceti} after \emph{dvātriṃśallakṣaṇasaṃjñakāni} appear superfluous.
-	The commentary analyses \emph{sallakṣaṇa} as a \emph{karmadhāraya}, glossing \emph{sat} with \emph{śobhana}; \emph{dvātriṃśallakṣaṇa} serves as a further clarification, requiring no further conjunction.
+	The commentary analyses \emph{sallakṣaṇa} as a \emph{karmadhāraya}, glossing \emph{sat} with \emph{śobhana}; \emph{dvātriṃśallakṣaṇa} serves as a clarification of that, requiring no further conjunction.
 	Likewise, the words \emph{iti} and \emph{saṃjñaka} together are redundant. 
+	In \TIB , the \emph{zhes bya} following the phrase may either render \emph{iti} or \emph{saṃjñaka}—we find this rendering for the latter in the commentary on verse 9 for \emph{mahāsukhasaṃjñaka}. 
 	We cannot fully discount that Vāgīśvarakīrti wrote the transmitted reading, nor can we give a clear explanation for the corruption, if it is one.
 	Nonetheless, given that this appears to be genuine redundancy rather than simply a stylistic oddity, we provisionally conjecture a slightly smoother reading.
 } tair bhūṣitam.
@@ -503,42 +507,46 @@ etad uktaṃ bhavati\emdash śuddhāvāsopari ghanavyūhasaṃjñake\footnoteB{
 		saṃbuddhakṛtyaṃ] \emd\ (\emph{cf.} TaRaA-V: saṃbuddhānāṃ \ldots\ avaśyakartavyaṃ kṛtsnaṃ); saṃbuddhya kṛtyaṃ \MS\ \EDD
 	} sakalaṃ ca kṛtvā |\\
 	yad bhūtakoṭeḥ karaṇaṃ ca sākṣāt \\
-	sādhyaṃ tad apy asti nirodharūpam || 7 ||
-	% GGLGGLLGLGG, Indravajra
-% 
-% 	After making replete all the qualities of giving and so forth, and after completing all the tasks of a perfect buddha, there is also a goal, taking the form of cessation, that is the direct perception of the limit of reality.
+	sādhyaṃ tad apy asti nirodharūpam || 7 ||\footnoteA{
+		This verse is in Indravajrā metre.
+	}	
 \end{quote}
 
 \noindent saṃpūryetyādi.
-dānādipāramitā eva guṇā, guṇyante 'bhyasyanta iti kṛtvā.
+dānādipāramitā eva guṇā, guṇyante\footnoteA{
+	In the \emph{Dhātupāṭha}, the tenth class verbal root \emph{√guṇa} is said to express \emph{āmantraṇa}. Here, however, this is a denominative verb with the sense of \emph{āmreḍaṇa} (multiplication/repetition) formed from the noun \emph{guṇa}. 
+} 'bhyasyanta iti kṛtvā.
 tān saṃpūrya paripūrṇān\footnoteB{
 	paripūrṇān] \emd ; paripūrṇaṃ \MS\ \EDD
 } kṛtvā, yat saṃbuddhānāṃ kṛtyaṃ sakalam\footnoteB{
-	kṛtyaṃ sakalam] \conj ; sakalam \MS\ \EDD	
+	kṛtyaṃ sakalam] \conj ; sakalam \MS\ \EDD ; \emph{no reflex in \TIB}
 }\footnoteA{
-	The manuscript reading of simply \emph{sakalaṃ} instead of \emph{kṛtyaṃ sakalam} is asymmetrical given the following gloss, \emph{avaśyakartavyaṃ kṛtsnaṃ}. Here Tib.\ reads simply \emph{nges par mdzad par bya ba ma lus pa}, reflecting only the gloss and neither \emph{sakalam} of the Sanskrit nor the conjecture \emph{kṛtyaṃ sakalam}. It is also possible that \emph{sakalam} is a mistaken scribal addition, but it's also possible that even if the Tibetan translators saw \emph{kṛtyaṃ sakalam}, they chose not to render this because of the superfluous sounding result in Tibetan.
+	The manuscript's reading of simply \emph{sakalaṃ} instead of \emph{kṛtyaṃ sakalam} is asymmetrical given the following gloss, \emph{avaśyakartavyaṃ kṛtsnaṃ}. Here \TIB\ reads simply \emph{nges par mdzad par bya ba ma lus pa}, reflecting only the gloss and neither \emph{sakalam} of the \MS\ nor the conjecture \emph{kṛtyaṃ sakalam}. It is also possible that \emph{sakalam} is a mistaken scribal addition, but it's also possible that even if the Tibetan translators saw \emph{kṛtyaṃ sakalam}, they chose not to render this because of the superfluous sounding result in Tibetan.
+	We believe the manuscript's transmitted reading is improbable.
 } avaśyakartavyaṃ kṛtsnaṃ tad api kṛtvā, bhūtakoṭeḥ śūnyatālakṣaṇāyāś cittacaittanirodhātmikāyā\footnoteB{
 	cittacaitta°] \EDD\ (\emd); cittacaitya° \MS
 } yat sākṣāt karaṇaṃ tad api sādhyam astīti pāramitānayasthā evaṃ bruvate caturthaṃ sādhyam iti.
 
 \subsection{mantranaye saptavidhaṃ sādhyam}
+% §6_1
 \subsubsection{mantranaye prathamaṃ sādhyam}
 idānīṃ mantranayopadiṣṭaṃ saptavidhaṃ\footnoteB{
-	saptavidhaṃ] \EDD\ (Tib: rnam pa bdun); caturthaṃ \MS
+	saptavidhaṃ] \EDD\ (\TIB\ rnam pa bdun); caturthaṃ \MS
 } sādhyaṃ kathayitum āha\emdash svābhāṅganetyādi.
+
 \begin{quote}
 	svābhāṅganāśleṣi\footnoteB{
-		svābhāṅganāśleṣi \EDD\ (\corr); svābhāṅgaṇāśleṣi \MS
+		svābhāṅganāśleṣi] \EDD\ (\corr); svābhāṅgaṇāśleṣi \MS
 	} janārthakāri\footnoteB{
-		janārthakāri] \conj\ (Tib: 'gro ba yi don mdzad; TaRaA-V: jagadarthakāri); ta..rthakāri \MS\ (\emph{akṣara uncertain, perhaps} gna \emph{or} mva); tadarthakāri \EDD
+		janārthakāri] \conj\ (\TM\ 'gro ba yi don mdzad; TaRaA-V: jagadarthakāri); ta..rthakāri \MS\ (\emph{akṣara uncertain, perhaps} gna \emph{or} mva); tadarthakāri \EDD
 	} \\
 	duḥkhaiḥ sukhaiś caiva vimuktirūpam |\\
 	aśītyanuvyañjanabhūṣitāṅgam \\
-	apetakalpaṃ pravadanti sādhyam || 8 ||
+	apetakalpaṃ pravadanti sādhyam || 8 ||\footnoteA{
+		This verse is in Upajāti.
+	}
 	% GGLGGLLGLGL X 2
 	% LGLGGLLGLGL X 2
-	
-% 	They declare that the goal is the body adorned with the eighty minor marks that, while embracing the woman who is one's personal consort and acting for the sake of people, is by nature free of pleasure and pain and devoid of conceptualisation.
 \end{quote}
 
 \noindent svābhāṅganām\footnoteB{
@@ -549,13 +557,17 @@ idānīṃ mantranayopadiṣṭaṃ saptavidhaṃ\footnoteB{
 [\EDD\ p.\ 136] apetakalpaṃ vyapagatakalpam, kalpanārahitam iti yāvat.
 anyat subodham.
 ayam arthaḥ\emdash samāliṅgitasvābhāṅganāśleṣi jagadarthakāri\footnoteB{
-	°svābhāṅganāśleṣi jagadarthakāri] \conj\ (\TVB : nyid dang mtshungs pa'i lha mos 'khyud pa can 'gro ba'i don mdzad pa); °svābhāṅganāśleṣajagadarthakāri \MS\ \EDD; nyid dang mtshungs pa'i lha mos 'khyud pa can | 'gro ba ma lus pa'i don mdzad pa \TVA\ (°svābhāṅganāśleṣy aśeṣajagadarthakāri)
+	°svābhāṅganāśleṣi jagadarthakāri] \conj\ (\TVB : nyid dang mtshungs pa'i lha mos 'khyud pa can 'gro ba'i don mdzad pa); °svābhāṅganāśleṣajagadarthakāri \MS\ \EDD ; nyid dang mtshungs pa'i lha mos 'khyud pa can | 'gro ba ma lus pa'i don mdzad pa \TVA\ (°svābhāṅganāśleṣy aśeṣajagadarthakāri)
 }\footnoteA{
-	The compound \emph{°svābhāṅganāśleṣajagadarthakāri} is strinckly speaking not impossible, and could be read as a kind of instrumental \emph{tatpuruṣa}, for example; however, given that this is a prose explanation of the verse, there is no need for the author to use such a compound and it seems mostly likely that the scribe left off the \emph{ikāra}.
+	The compound \emph{°svābhāṅganāśleṣajagadarthakāri} is strinckly speaking not impossible, and could perhaps be interpreted as an instrumental \emph{tatpuruṣa}; however, given that this is a prose explanation of the verse, there is no need for the author to use such a compound and it seems more likely that the scribe left off the \emph{ikāra}.
 } dvātriṃśallakṣaṇavibhūṣitaśarīram\footnoteB{
 	śarīram] \EDD ; śarīra \MS
 } upekṣārūpaṃ\footnoteB{
-	upekṣārūpaṃ] \MS\ \EDD ; btang snyoms kyi ngo bo du 'khor ba ji srid du bzhugs pa (ji srid bzhugs pa] \TVA ; ju bzhugs pa \TVB) mngon du bya ba yin no zhe bya ba TIB (upekṣārūpaṃ āsaṃsārasthāyi sākṣātkriyata iti)
+	upekṣārūpaṃ] \MS\ \EDD ; btang snyoms kyi ngo bo du 'khor ba ji srid du bzhugs pa mngon du bya ba yin no zhe bya ba \TVA ; btang snyoms kyi ngo bo nyid du 'khor ba ji bzhugs pa mngon sum du bya ba yin zhes bya ba \TVB\ (upekṣārūpaṃ āsaṃsārasthāyi sākṣāt kriyata iti)
+}\footnoteA{
+	Something along the lines of \emph{āsaṃsārasthāyi sākṣāt kriyata iti} may have dropped out of the text here given \TIB , but there is no very compelling reason to think that it did.
+	The addition words certainly relevant, given that it is a pertinent feature of the first \emph{sādhya} that it remains active for as long as \emph{saṃsāra} continues to exist.
+	We can be reasonably sure that \TIB\ reflects \emph{āsaṃsārasthāyi} with \emph{'khor ba ji srid du bzhugs pa}, as this is the Tibetan rendering of this word in the next section.
 } prathamaṃ sādhyam.
 
 \subsubsection{mantranaye dvitīyaṃ sādhyam}
@@ -563,47 +575,42 @@ ayam arthaḥ\emdash samāliṅgitasvābhāṅganāśleṣi jagadarthakāri\foot
 	svadevatākāraviśeṣaśūnyaṃ \\
 	prāg eva sambhāvya sukhaṃ sphuṭaṃ sat |\\
 	mahāsukhākhyaṃ jagadarthakāri \\
-	cintāmaṇiprakhyam uvāca kaścit || 9 ||
-	% Metre is viparītākhyānikī:
-	% LGLGGLLGLGG
-	% GGLGGLLGLGG
-
-% 	A certain [authority] says that [the goal is] bliss devoid of the qualifier of the form of a personal deity. It is meditated on from the very beginning, and when it becomes vivid, it is called Great Bliss, which accomplishes the aim of beings like a wish-fulfilling jewel.
+	cintāmaṇiprakhyam uvāca kaścit || 9 ||\footnoteA{
+		The metre of this verse is Viparītākhyānikī
+	}	
 \end{quote}
 
 \noindent svadevatetyādi.
 svadevatākāraviśeṣeṇa\footnoteB{
-	svadevatā°] \sigmareading{\TVA}; lha \TVA\ (devatā°)
+	svadevatā°] \MS\ \ED\ \TVB\ (rang lha'i); lha \TVA\ (devatā°)
 } sveṣṭadevatākāreṇa śūnyam, nirākāram iti yāvat.
 prāg eva prathamataram\footnoteB{
 	prathamataram] \MS ; prathamataro° \EDD
 } upadeśānantaram eva\footnoteB{
-	upadeśānantaram eva] \EDD\ (\emd); upadeśāntaram eva \MS ; bshad ma thag pa'i \TIB\ (anantarokta°)
-} devatākāranirapekṣaṃ sukhaṃ sambhāvya, bhāvanayā sākṣāt kṛtvā, sphuṭaṃ\footnoteB{
-	sphuṭaṃ] \MS ; \emph{deest in} \EDD ; ma gsal ba TIB 
+	upadeśānantaram eva] \EDD\ (\emd); upadeśāntaram eva \MS ; bshad ma thag pa'i \TIB
 }\footnoteA{
-	The understanding reflected in \TIB , namely \emph{asphuṭaṃ} instead of \emph{sphuṭaṃ}, is an alternative word division and also yields sense.
-	It seems more likely, however, that the author is glossing \emph{sphuṭaṃ}.
+	Normally \emph{bshad ma thag pa} in Tibetan has the sense of \emph{anantarokta}, but here the translator probably did intend it to render \emph{upadeśānantaram eva} as we find the same rendering later in the paragraph.
+} devatākāranirapekṣaṃ sukhaṃ sambhāvya, bhāvanayā sākṣāt kṛtvā, sphuṭaṃ\footnoteB{
+	sphuṭaṃ] \MS ; \emph{deest in} \EDD ; ma gsal ba \TIB
+}\footnoteA{
+	The understanding offered by \TIB , which reflects \emph{asphuṭaṃ} instead of \emph{sphuṭaṃ}, appears to indicate a misunderstanding on the translator's part, confusing the word division of \emph{kṛtvā sphuṭaṃ}.
+	It is not possible for \emph{sphuṭīkṛtaṃ} to take an accusitve object, nor is a form such as \emph{sphuṭīkṛtya} possible without larger changes to the text.
 } sphu[\MS\ fol.\ 4v]\hspace{0em}ṭīkṛtaṃ san mahāsukhasaṃjñakaṃ bhavati.
 tac ca jagadarthakāri cintāmaṇisamānarūpam.
 etad uktaṃ bhavati\emdash upadeśānantaram eva mantramudrādevatākārarahitaṃ\footnoteB{
-	°rahitaṃ] \sigmareading{\TVA}; spangs te | bde ba 'ba' zhig tsam \TVA\ (°rahitaṃ sukhamātraṃ)
-} bhāvanayā sphuṭīkṛtaṃ mahāsukhasaṃjñakaṃ cintāmaṇivaj jagadarthakāri māyopamam āsaṃsārasthāyi dvitīyaṃ sādhyam.
+	°rahitaṃ] \MS\ \EDD\ \TVB\ (spangs ste); spangs te | bde ba 'ba' zhig tsam \TVA\ (°rahitaṃ sukhamātra°)
+} bhāvanayā sphuṭīkṛtaṃ mahāsukhasaṃjñakaṃ cintāmaṇivaj jagadarthakāri\footnoteB{
+	jagadarthakāri] \MS\ \EDD\ \TVB\ ('gro ba'i don mdzad pa); 'gro ba ma lus pa'i don mdzad pa \TVA\ (sakalajagadarthakāri)
+} māyopamam āsaṃsārasthāyi dvitīyaṃ sādhyam.
 
 \subsubsection{mantranaye tṛtīyaṃ sādhyam}
 \begin{quote}
 	kṛtvā sākṣāt svādhipaṃ [\MS\ fol.\ 1v] sātarūpaṃ \\
 	paścāt tyaktvā sātamātraṃ phalaṃ syāt |\\
 	śuddhaṃ sākṣāc chakyate naiva kartuṃ \\
-	tenākāro bhāvitaḥ svādhipasya || 10 ||
-	% Śālinī
-	% GGGGGLGGLGG
-	% GGGGGLGGLGG
-	% GGGGGLGGLGG
-	% GGGGGLGGLGL
-
-% 	After directly perceiving one's lord with the nature of bliss, one then abandons it for a fruit that is mere bliss.
-% 	The pure cannot be directly perceived; therefore, the form of one's lord is to be meditated on.
+	tenākāro bhāvitaḥ svādhipasya || 10 ||\footnoteA{
+		This verse is in Śālinī metre.
+	}	
 \end{quote}
 
 \noindent kṛtvetyādi.

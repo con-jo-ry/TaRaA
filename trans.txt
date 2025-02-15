@@ -1,5 +1,5 @@
 # Beholding the Jewel of Reality
-# Auspicious Beginning
+# 1. Auspicious Beginning
 > So long as there are occurrences of spaces/hopes, Kamalapāṇi reigns supreme—he whose nature incomparable bliss, who is an abode of riches, who is without any abode; whose consorts are the incomparable ten goddesses, who is with his consort, who brings about the attainment of welfare and happiness for the three worlds, and who is without degeneration.
 
 Concerning the verse beginning '... incomparable', the syntax (*sambandha*) is as follows: 'Kamalapāṇi', [a *vyadhikaraṇabahuvrīhi*] meaning he who has a lotus (*kamala* = *padma*) in hand, i.e. the blessed Avalokiteśvara, reigns supreme (√*ji*). How is he characterised? He is called one whose nature (*rūpa* = *svabhāva*) is none other than bliss that is 'incomparable' (*anupama*), i.e. it is without a point of comparison (*upamārahita*) since there is nothing else that has the qualities of supreme excellence (*atipraṇīta*), greatness (*mahattva*), and steadiness (*sthāyitva*) so long as *saṃsāra* remains. How else is he characterised? 'Riches' (*śrī*) are the requisites/accumulations (*sambhāra*) of merit and knowledge, and he is called an abode (*nivāsa*) or locus (*āśraya*) for those. He is 'without any abode' (*anivāsa*) because, in pervading all in the form of the Dharmakāya, he lacks any fixed (*pratiniyata*) abode.
@@ -13,7 +13,7 @@ For how long? Addressing this, he says 'so long as there are occurrences of spac
 
 Here, by saying that he is one 'whose nature is incomparable bliss', the perfection of [Avalokiteśvara's] personal aims (*svārthasaṃpatti*) is expressed. By saying that he is 'an abode of riches', the means to that [perfection is expressed], because the word 'riches' (*śrī*) refers to the requisites of merit and wisdom (*puṇyajñānasambhāra*). By saying that he is one 'who brings about the attainment welfare and happiness for the three worlds', the perfection of the aims of others (*parārthasaṃpatti*) is taught. By saying that he is one 'whose consorts are the incomparable ten goddesses' and 'who is with by his consort', the means to that [perfection is taught], because one is unable to bring about the perfection of the aims of others in every way (*sarvākāraparārthasaṃpatti*) without the forms (*ākāra*) of those kind of goddesses (*tathābhūtadevī*) and a body endowed with the thirty-two major signs and eighty minor marks.
 
-# 2: The purpose of the treatise, etc.
+# 2. The purpose of the treatise, etc.
 > Employing seven divisions thronging with the teachings of various [teachers], I undertake the present effort to bring about clear understanding for those who indeed do not know the nature, devoid of [expression through] clear words, of the glorious Way of Mantra's beautiful fourth initiation.
 
 The words 'glorious Way of Mantra' (*śrīmantranīti*), although they can express the *yogatantra*s in general, [here] refer to the glorious *[Guhya]samāja*, since the meaning/content (*artha*) of the fourth [initiation] does not appear elsewhere. The rest [of the first half of the verse] one can easily understand. \[I undertake the present effort] by employing seven divisions (*bheda* = *prakāra*) thronging with (muddled with?) (*saṃkula* = *vyākula*) many (*gaṇa*) teachings (*upadeśa*) of various teachers (*nānācārya*)—i.e., they compile (*saṃgrāhaka*) a number of teachings (*upadeśarāśi*) known/belonging (*gata*) to teachers of the past, present, and future. \[I do so] `to bring about clear understanding', i.e. for the sake of easily (*sukhena*) comprehending clearly (*sphuṭapratīti*).
@@ -32,7 +32,7 @@ For, even though reality is to be sought after, it pervades of the entirety (*sa
 On the other hand, the goal is the fruit characterised as one's wish though the exclusion of what is not one's wished for; while it is sought after, it is surely through the exclusion of what is not the goal that all sentient beings regard it as the goal. 
 Thus there is no fault.
 
-# 4: The goals of Vedāntins, Śrāvakas, and Pratyekabuddhas
+# 4. The goals of Vedāntins, Śrāvakas, and Pratyekabuddhas
 Now, first he teaches the goal held by the followers of Vedānta, beginning with '... bliss by nature'.
 
 > The Vedāntins long for (√*vaś*) a goal that is self aware (*svavid*), bliss by nature, unmovable, and at peace. And the rhinoceros-jinas, as well as \emph{śrāvaka}s, desire as a goal the cessation (\emph{virāma}) of the substrates (\emph{upadhi}) of material form (\emph{rūpa}) and so forth. (4)
@@ -69,7 +69,7 @@ It is the 'outflow' (*niṣyanda*) of the ten perfections of giving etc., meanin
 Because suffering (*duḥkha*) has previusly already been abandoned (*prahīṇa*), and because even bliss is absent [at that time], [the goal is] without bliss (*apetasaukhya* = *apagatasaukhya*) insofar as it has the nature of equanimity (*upekṣā*). 
 This amounts to saying the following: the second goal [taught in the Way of the Perfections] is a body bearing the thirty-two major marks and beautified by the eighty minor marks—it benefits the entire world (*sakalajagadarthakārin*); through one's own power of repeated practice (*abhyāsa*) in the perfections of giving and the rest, it takes the form of a perfect and complete buddha; and insofar as it is free of bliss and suffering, is a nature which is equanimity.
 
-## 5.3 The third kind of goal in the Way of the Perfections
+## 5.3. The third kind of goal in the Way of the Perfections
 'A blissful [body]' and so forth: [This goal] is present with bliss; thus, it is blisful (*sānanda*).
 It is both blisful and a body (*aṅga*) adorned (*maṇḍita*) with the beautiful marks (*sallakṣaṇa*), 'enjoyed' (*sambhujyamāna*), i.e. lived off of (*upajīvyamāna*), through its teaching the Dharma.
 By whom?
@@ -78,7 +78,38 @@ It comes down to saying that [this goal/body] is enjoyed by those who have reach
 This amounts to saying the following: 
 This goal is precisely like how, in a buddha realm (*samyaksaṃbuddhabhuvana*) called Ghanavyūha that is above the pure abodes (*śuddhāvāsa*), the Blessed One appears (√*cakās*) as long as *saṃsāra* remains (*āsaṃsāraṃ*) with a blissful form (*ānandarūpa*) and identical with the *sambhogakāya*—he is a fulfiller the aims of all beings by means of his emanations; his body unseen by even the *śrāvaka*s, *pratyekabuddha*s, and lords of the ninth stage, while instead (*param*) he is enjoyed through the hearing of the Dharma by *bodhisattva*s who are lords of the tenth stage.
 
+## 5.4. The fourth kind of goals in the Way of the Perfections
+> After completing all the qualities of giving and so forth, and after does all the tasks of a perfect buddha, there is also a goal, taking the form of cessation, that is the direct perception of the limit of reality.
 
+'Making replete' and so forth: On the basis that the are multipled or repeated practised, the perfections of giving and so forth are themselves qualities (*guṇa*).
+After one completes (*saṃ-√pūr*) these [perfections], i.e. after one makes them replete (*paripūrṇa*), and after one also does all (*sakala*) those tasks (*kṛtya*) of a perfect buddha, i.e. his every (*kṛtsnya*) necessary action (*avaśyakartavya*), there is also the goal that is the direct experience of the limit of reality (*bhūtakoṭi*)—emptiness (*śūnyatālakṣaṇa*) whose nature is the cessation of all mind (*citta*) and mental events (*caitta*).
+In this way a fourth goal is spoken of by those abiding on the Way of Perfections.
+
+# 6. The seven kinds of goals in the Way of Mantra
+## 6.1 The first kind of goal in the Way of Mantra
+> They declare that the goal is the body adorned with the eighty minor marks that, while embracing the consort woman and acting for the sake of people, is by nature free of pleasure and pain and devoid of conceptualisation.
+
+That [goal / body] whose nature is a disposition (*śīla*) to embrace the consort woman (*svābhāṅanā*) is said to be 'embracing the consort woman' (*svābhāṅganāśleṣin*). 
+It is devoid of conceptualisation (*apetakalpa* = *vyapagatakalpa*), which is to say it is conceptualisation free (*kalpanārahita*).
+The remainder is easily understood. 
+This is the meaning: the first goal [taught by the followers of the Way of Mantra] is a body that embraces his tightly-held (*samāliṅgita*) consort woman, which achieves the aims of beings, which is adorned by the thirty-two major marks, and which has a nature of equanimity.
+
+## 6.2. The second kind of goal in the Way of Mantra
+> A certain [authority] says that [the goal is] bliss devoid of the qualifier of the form of a personal deity. It is meditated on from the very beginning, and when it becomes vivid, it is called Great Bliss, which accomplishes the aims of beings like a wish-fulfilling jewel.
+
+'... personal deity' and so forth: [This goal / bliss] is devoid (*śūnya*) of the forms (*ākāra*) of a personal deity (*sveṣṭadevatā*), which is as much as to say that it is formless (*nirākara*).
+One meditates (*saṃ-√bhū*) on bliss that is independent of deity forms (*devatākāranirapekṣa*) right from the beginning (*prāg eva*), immediately after [receiving] instructions (*upadeśānantara*).
+Then, after one directly experiences [that bliss] by means of cultivation, it becomes called Great Bliss when it is vivid (*sphuṭa*)—i.e., when it is made to be vivid (*sphuṭīkṛta*).
+And that [Great Bliss] 'accomplishes the aims of beings' in a form similar to a wish fulfilling jewel (*cintāmaṇisamānarūpa*).
+This amounts to saying the following: the second goal is [the bliss that is meditated on] immediately after [receiving] instructions and is devoid of the forms of mantras, mudrās, and deities; which, having been made vivid through meditation, is called Great Bliss, serving the aims of beings like a wish-fulfilling jewel and remaining in the manner of an illusion (*māyopama*) for as long as there is *saṃsāra*.
+
+## 6.3. The third kind of goal in the Way of Mantra
+> After directly perceiving one's lord with the nature of bliss, one then abandons it for a fruit that is mere bliss. The pure cannot be directly perceived; therefore, the form of one's lord is to be meditated on.
+
+
+
+# 7. Mistaken views regarding the fourth initiation 
+## 7.1. The first mistaken view 
 > Some say that the fourth initiation is the tasting of bodhicitta subsequent to the teaching of the wisdom-knowledge [initiation]. This is inferior. Why? Because all effort in visualisations would be futile, because their result is obtained [at that time].
 
 'Wisdom-knowledge' etc. Some say that after the teaching of the wisdom-knowledge (prajñājñāna) initiation, the taking (grahaṇa) of bodhicitta in the form of nectar with one's tongue (rasanā) constitutes the fourth (turya = caturtha) initiation. And that is 'inferior' (avara) or deficient, which is to say vile (hīna). Why is it inferior? Because all effort (prayāsa), i.e. that practices taught by the tathāgatas, carried out in the meditations on mantras, mudrās, and the forms of deities, etc., becomes futile. Why? Because the result - the fruit to be accomplished through visualization - is already established/attained at the time of tasting bodhicitta, meaning there is no other superior result to be achieved."
