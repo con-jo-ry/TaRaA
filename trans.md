@@ -132,16 +132,60 @@ Of 'eradication' (*uccheda*), i.e. cessation (*nirodha*), it is empty (*śūnya*
 This amounts to saying the following:
 Insofar as its nature is insight that is supremely subtle (*parasūkṣma*) and extremely profound (*atigambhīra*), it has the nature of the Dharmakāya: it is like space (*gagana*), an illusion (*māyā*), a mirage (*marīc*), a city of *gandharva*s (*gandharvanagara*), a moon in water (*udakacandra*), a reflection (*pratibimba*), and a dream (*svapnopamam*); it is devoid of a nature that is one or many, existence or non-existence, perceiver or perceived; it is without beginning or end (*anādyantam*); it has the nature of the entirety (*saṃdoha*) of all entities (*aśeṣavastu*); it is appearanceless (*nirābhāsa*), unstained (*nirañjana*), and surpasses all points of comparison (*sarvopamātikrānta*).
 Insofar as its nature is vast (*udāra*) in its being infused (*saṃvalita*) with compassion, it has the nature of the Sambhogakāya: it has bodies (śarīra) adorned (*vibhūṣita*) by the thirty-two marks; it has forms (*gātra*) beautified (*virājita*) by the eighty signs; it is endowed with supreme eroticism (*śṛṅgāra*), youth (*yavana*), and so forth; its bodies (*aṅga*) are embraced (*āliṅgita*) by personal consort women (*svābhāṅganā*); and it is enjoyed (*sambhujyamāna*) like an reflection (*pratibimbavat*) by the group (*gaṇa*) of goddesses beginning with Rūpavajra and ending with Tārā through the enjoyment (*upabhoga*) of supreme bliss (*paramānanda*), the nature of which is signless (*animitta*) pleasure (*rati*) with countless variations (*anantaprabheda*).
-Insofar as it causes the emission (*spharaṇa*) and withdrawal (*saṃharaṇa*) of buddhas and bodhisattvas belonging to countless emanated families <mark>{**what does nirmita qualify**}</mark>, it has the nature of the Nirmāṇakāya in order to ripen (*paripācana*) beings to be tamed (*vineyajana*) of various preferences (*nānādhimukti*) through various types of miraculous displays (*pratihārya*).
-It is filled with (*pūrṇa*) the true bliss (*satsukha*) arisen from (*sambhūta*) concentration on stainless insight and means, whose nature is *bodhicitta* that is inseparable from emptiness and compassion. <mark>again, bodhicittasvabhāva qualifies what?</mark>
+Insofar as it causes the emission (*spharaṇa*) and withdrawal (*saṃharaṇa*) of buddhas and bodhisattvas belonging to countless emanated families `\[**what does nirmita qualify**]`, it has the nature of the Nirmāṇakāya in order to ripen (*paripācana*) beings to be tamed (*vineyajana*) of various preferences (*nānādhimukti*) through various types of miraculous displays (*pratihārya*).
+It is filled with (*pūrṇa*) the true bliss (*satsukha*) arisen from (*sambhūta*) concentration on stainless insight and means, whose nature is *bodhicitta* that is inseparable from emptiness and compassion. `\[**again, bodhicittasvabhāva qualifies what?**]`
 It has the nature of non-abiding *nirvāṇa*.
 [And] insofar as has a permanent continuity like the flame of a lamp (*pradīpaśikhā*) that is without blemish (*nirmala*), undisturbed (*nivāta*), and unmoving (*niścala*), it is devoid of cessation (*nirodhaśūnya*). 
 This is the fourth goal.
 
+## 6.5 The fifth kind of goal in the Way of Mantra
+> After one directly perceives and then relinquishes one's lord with his blissful nature, there comes as fruit mere equanimous awareness. It remains as long as there is saṃsāra and accomplishes the aims of beings. Known as a wish-fulfilling jewel, it is entirely at peace. (12)
 
+'After one [directly] perceives' etc.: After one directly perceives one's lord and later abandons him, there is as the goal awareness that is merely of a nature that is equanimity.
+The rest is easily understood.
+This amounts to saying the following: The fifth goal is, after one directly experiences the nature of the *maṇḍala* circle and later makes it cease, mere equanimous awareness.
+
+## 6.6 The sixth kind of goal in the Way of Mantra 
+> After one directly perceives the \emph{maṇḍala} whose nature is pleasure, later according to one's wish there is its coming to rest. Neither is there here an absence of [accomplishing] the aims of beings, since from cessation there is manifestation.
+
+"After one directly perceives" and so forth: 
+After one directly perceives the maṇḍala which is infused with pleasure (*sātasaṃvalita*), there is its coming to rest (*nirvṛti*), i.e. its stoppage (*nirodha*), according to one's wish (*svecchā*).
+
+[Objection:] 'But if even after experiencing it one should later cause it to stop according to one's wish, then there would be an absence of compassion (*karuṇā*), which had been repeated cultivated (*abhyasta*) over a long time (*anekakāla*).
+And because that is absent, there would be a lack of [accomplishing] the aims of beings.'
+In view of this doubt, he says 'neither is there here an absence of [accomplishing] the aims of beings' and so forth.
+[Here], according to this position ('*asmin pakṣe*'), there is not absence of [accomplishing] the aims of beings.
+For, from the compassion-infused (*karauṇāsaṃvalita*) [maṇḍala]circle that had come to rest [the accomplishment of] the aims of beings [again] manifests (*prādurbhāva*).
+
+By this he says exactly following: Having directly realized the circle that is completely full of bliss (*sātasaṃpūrṇacakra*), and having established it for as long a time as desired, afterwards one should remain (*sthātavya*) having caused [the circle] to completely cease like [putting out] a lamp. Then again, when there is the desire to benefit beings (*sattvārthābhilāṣa*), having produced another circle from the very [wheel] that was ceased (*niruddha*), one should perform the benefit of beings. Even in the production of another wheel, it is precisely freom the wheel that was stopped long ago that, in accordance with the suitability (*bhavyatā*) of beings to be trained (*vineya*), they attain what is desired (*abhilaṣitaprāpti*). 
+
+## 6.7 The seventh kind of goal in the Way of Mantra
+> Some say the fruit is cesation, [to be realised] later, after one makes clear a form that is desired among those [other positions]. And because cessation is not different in nature, even though there are different position, [cessation itself] has no distinction.
+
+'... after one makes' and so forth:
+Because any of the fruits from the six [previous] positions is a goal, one directly experiences precisely whichever one desires.
+Later, one should directly experience cessation (*nirodha*) in every way that, like [the cessation] of a lamp (*pradīpavat*), is at a later time empty of [accomplishing] the aims of beings.
+
+[Objection]: 'But owing to differentiation of six positions, there would be none other than six cessations.
+How then is there only one *nirvāṇa*?'
+Anticipating this doubt, he says '... not different' and so forth.
+[Cessation] is called one whose nature is undevided (*abhinna*).
+For, even if there is differentiation based on the characteristics of the six positions, there is no difference in cessation, because insofar as its only nature is absence, [all] cessation is the same.
+The meaning is as follows: after directly experience any of the positions, later there is cessation in the form of the cutting of (*uccheda*) of its continunity (*santāna*).
 
 # 7. Mistaken views regarding the fourth initiation 
-## 7.1. The first mistaken view 
-> Some say that the fourth initiation is the tasting of bodhicitta subsequent to the teaching of the wisdom-knowledge [initiation]. This is inferior. Why? Because all effort in visualisations would be futile, because their result is obtained [at that time].
+## 7.1. The first mistaken view
+> Some say that the fourth initiation is the tasting of bodhicitta subsequent to the teaching of the wisdom-knowledge [initiation]. This is inferior. Why? Because all effort in visualisations would be futile, because their result is obtained [at that time]. (15)
 
 'Wisdom-knowledge' etc. Some say that after the teaching of the wisdom-knowledge (prajñājñāna) initiation, the taking (grahaṇa) of bodhicitta in the form of nectar with one's tongue (rasanā) constitutes the fourth (turya = caturtha) initiation. And that is 'inferior' (avara) or deficient, which is to say vile (hīna). Why is it inferior? Because all effort (prayāsa), i.e. that practices taught by the tathāgatas, carried out in the meditations on mantras, mudrās, and the forms of deities, etc., becomes futile. Why? Because the result - the fruit to be accomplished through visualization - is already established/attained at the time of tasting bodhicitta, meaning there is no other superior result to be achieved."
+
+## 7.2. The second mistaken view
+> [Some] say that the fourth initiation is the enjoyment (*āsvāda*) of women (*rāmā*) who are met with after the wisdow-knowledge [initiation]. This is reprehensible (*adhama*). For, all of the efforts in meditation and the like taught by the Buddha would end up being useless. (16)
+
+'Wisdom' and so forth.
+The fourth (*turya*) initiation (*seka*) is the enjoyment (*āsvāda*) through union (*samāpatti*) of women (*rāmā* = *strī*) met with, i.e. as encounted, at a time after the wisdown-knowledge [initiation].
+This too is reprehensible.
+The rest has already been understood.
+
+## 7.3. Explanation of the scripture
+

@@ -1,0 +1,40 @@
+\selectlanguage *[script=latin]{sanskrit}
+\contentsline {subsection}{\numberline {1}maṅgalācaraṇam}{5}{subsection.0.0.1}%
+\contentsline {subsection}{\numberline {2}prayojanādi}{9}{subsection.0.0.2}%
+\contentsline {subsection}{\numberline {3}tīrthikānāṃ tattvaṃ sādhyaṃ ca}{10}{subsection.0.0.3}%
+\contentsline {subsection}{\numberline {4}vedāntavādināṃ śrāvakapratyekabuddhānāṃ ca sādhyāni}{10}{subsection.0.0.4}%
+\contentsline {subsection}{\numberline {5}pāramitānayavādināṃ caturvidhaṃ sādhyam}{11}{subsection.0.0.5}%
+\contentsline {subsubsection}{\numberline {5.1}pāramitānaye prathaṃ sādhyam}{12}{subsubsection.0.0.5.1}%
+\contentsline {subsubsection}{\numberline {5.2}pāramitānaye dvitīyaṃ sādhyam}{13}{subsubsection.0.0.5.2}%
+\contentsline {subsubsection}{\numberline {5.3}pāramitānaye tṛtīyaṃ sādhyam}{14}{subsubsection.0.0.5.3}%
+\contentsline {subsubsection}{\numberline {5.4}pāramitānaye caturthaṃ sādhyam}{14}{subsubsection.0.0.5.4}%
+\contentsline {subsection}{\numberline {6}mantranaye saptavidhaṃ sādhyam}{15}{subsection.0.0.6}%
+\contentsline {subsubsection}{\numberline {6.1}mantranaye prathamaṃ sādhyam}{15}{subsubsection.0.0.6.1}%
+\contentsline {subsubsection}{\numberline {6.2}mantranaye dvitīyaṃ sādhyam}{16}{subsubsection.0.0.6.2}%
+\contentsline {subsubsection}{\numberline {6.3}mantranaye tṛtīyaṃ sādhyam}{17}{subsubsection.0.0.6.3}%
+\contentsline {subsubsection}{\numberline {6.4}mantranaye caturthaṃ sādhyam}{18}{subsubsection.0.0.6.4}%
+\contentsline {subsubsection}{\numberline {6.5}mantranaye pañcamaṃ sādhyam}{21}{subsubsection.0.0.6.5}%
+\contentsline {subsubsection}{\numberline {6.6}mantranaye ṣaṣṭhaṃ sādhyam}{21}{subsubsection.0.0.6.6}%
+\contentsline {subsubsection}{\numberline {6.7}mantranaye saptamaṃ sādhyam}{23}{subsubsection.0.0.6.7}%
+\contentsline {subsection}{\numberline {7}caturthaseke vipratipattayaḥ}{24}{subsection.0.0.7}%
+\contentsline {subsubsection}{\numberline {7.1}caturthaseke vipratipattiḥ prathamā}{24}{subsubsection.0.0.7.1}%
+\contentsline {subsubsection}{\numberline {7.2}caturthaseke vipratipattir dvitīyā}{25}{subsubsection.0.0.7.2}%
+\contentsline {subsubsection}{\numberline {7.3}āgamasya vyākhyānam}{26}{subsubsection.0.0.7.3}%
+\contentsline {subsubsection}{\numberline {7.4}caruthaseke vipratipattis tṛtīyā}{26}{subsubsection.0.0.7.4}%
+\contentsline {subsubsection}{\numberline {7.5}lakṣyasya vicāraṇam}{27}{subsubsection.0.0.7.5}%
+\contentsline {subsubsubsection}{\numberline {7.5.1}sākārasya vijñānasya nirākaraṇam}{27}{subsubsubsection.0.0.7.5.1}%
+\contentsline {subsubsubsection}{\numberline {7.5.2}nirākārasya vijñānasya samarthanam}{28}{subsubsubsection.0.0.7.5.2}%
+\contentsline {subsubsubsection}{\numberline {7.5.3}madhyamakamatasya samarthanam}{29}{subsubsubsection.0.0.7.5.3}%
+\contentsline {subsection}{\numberline {8}saptavidheṣu sādhyeṣu sārāsāravicāraṇam}{31}{subsection.0.0.8}%
+\contentsline {subsubsection}{\numberline {8.1}prathamasyāsāratvam}{31}{subsubsection.0.0.8.1}%
+\contentsline {subsubsection}{\numberline {8.2}dvitīyasyāsāratvam}{32}{subsubsection.0.0.8.2}%
+\contentsline {subsubsection}{\numberline {8.3}tṛtīyasyāsāratvam}{32}{subsubsection.0.0.8.3}%
+\contentsline {subsubsection}{\numberline {8.4}caturthasya sārāsāratvavicāraṇam}{33}{subsubsection.0.0.8.4}%
+\contentsline {subsubsection}{\numberline {8.5}pañcamasyāsāratvam}{34}{subsubsection.0.0.8.5}%
+\contentsline {subsubsection}{\numberline {8.6}ṣaṣṭhamasyāsāratvam}{34}{subsubsection.0.0.8.6}%
+\contentsline {subsubsection}{\numberline {8.7}saptamasyāsāratvam}{37}{subsubsection.0.0.8.7}%
+\contentsline {subsection}{\numberline {9}caturthasya sekasya svarūpam}{38}{subsection.0.0.9}%
+\contentsline {subsection}{\numberline {10}aparāṇi mithyāsādhyāni mithyātattvāni ca}{38}{subsection.0.0.10}%
+\contentsline {subsection}{\numberline {11}upasaṃhāraḥ}{40}{subsection.0.0.11}%
+\contentsline {subsection}{\numberline {12}pariṇāmanā}{40}{subsection.0.0.12}%
+\contentsline {section}{\numberline {}References}{41}{section.0.1}%
