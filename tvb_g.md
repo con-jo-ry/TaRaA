@@ -10,7 +10,7 @@ bcom ldan 'das gsung gi dbang phyug la phyag 'tshal lo ||
 dpe med bde ba'i ngo bo dpal gyi gnas gyur gnas 'dren pa ||  
 dpe med lha mo bcu yi ngo bo rig dang rig par bcas ||  
 srid pa gsum phan bde ba thob mdzad 'gyur min 'gyur ba med ||  
-ji srid re ba snang bar phyag na padma rgyal gyur cig | (TaRaĀ 2)  
+ji srid re ba snang bar phyag na padma rgyal gyur cig | (TaRaA 2)  
 
 
 dpe med ces bya ba la sogs pa la | gang gis phyag na pad ma bsnams pa de ni | phyag na pad ma ste bcom ldan 'das spyan ras gzigs dbang phyug ste | de rgyal gyur cig ces bya bar sbyar ro || khyad par ci lta bu zhig dang ldan pa ce na | dpe med ces bya ba la sogs pa smos te | dpe med pa dang shin tu 
@@ -40,7 +40,7 @@ de la dpe med bde ba'i ngo bo zhes bya ba 'dis ni rang gi don phun sum tshogs pa
 sngags kyi gzhung lugs mdzes pa'i dbang bzhi'i ngo bo dag |  
 rab tu gsal ba'i sgras stong gyur pas gang gis mi shes shing ||  
 du ma'i man ngag bdun gyi dbye ba'i tshogs kyis yongs 'khrugs pa ||  
-de dag rnams kyi gsal bar rtogs par bya phyir 'bad pas bya || (TaRaĀ 2)  
+de dag rnams kyi gsal bar rtogs par bya phyir 'bad pas bya || (TaRaA 2)  
 
 
 dpal ldan sngags kyi gzhung lugs zhes bya ba'i sgras | rnal 'byor rgyud spyir brjod par byed pa yin du zin kyang | shugs kyis dpal gsang ba 'dus pa yongs su gzung bar bya ste | gzhan dag la don bzhi pa mi srid pa'i phyir ro || lhag ma ni go sla'o || slob dpon du ma'i man ngag gis yongs su dkrugs pa'i rnam par 'khrugs pa rnam par bkab pa ste | bdun gyi dbye bas zhes bya ba ni 'das pa dang | ma 'ongs pa dang | da ltar gyi slob dpon du gtogs pa'i man ngag gi tshogs yang dag par bsdus pas so || gsal bar rtogs par bya ba'i phyir | zhes bya ba ni bde bar gsal bar khong du chud par bya'o || zhes bya ba'i tha tshig go ||
@@ -50,7 +50,7 @@ dpal ldan sngags kyi gzhung lugs zhes bya ba'i sgras | rnal 'byor rgyud spyir br
 dpal ldan de nyid bsgrub bya'i ngo bor rig pa la ||  
 mu stegs ma lus blo rnams rnam par 'khrul ||  
 de las rig byed mthar ni smra ba yi ||  
-skye bo rnams ni de nyid mchog ces smra || (TaRaĀ 3)  
+skye bo rnams ni de nyid mchog ces smra || (TaRaA 3)  
 
 
 de nyid zhes bya ba la sogs pa la | mu stegs can gang la kun nas 'khrul pa ste | rnam par 'khrul pa'i blo shes rab kyi bye brag yod pa de la de skad ces bya'o || mu stegs can de dag thams cad bdag dang bdag gir 'dzin pa'i ling tog gis blo yi dmigs khebs par gyur pas | de kho na nyid ni 'di'am | bsgrub par bya ba ni 'di'o zhes de kho na nyid dang bsgrub par bya ba de'i rang gi ngo bo gang yin pa rig cing khong du chud pa la de dag 'khrul pa'o || lhag ma ni go sla'o ||
@@ -64,7 +64,7 @@ de la rig byed kyi mthar smra ba'i mngon par 'dod pa'i sgrub par bya ba ni | dga
 dga' ba'i ngo bo rang rig mi g-yo zhing |  
 bsgrub byar 'dod pa rig byed mtha' can pa'o ||  
 nyan thos rang rgyal bcas pa gzugs la sogs ||  
-phung po dag dang bral ba bsgrub byar 'dod || (TaRaĀ 4)  
+phung po dag dang bral ba bsgrub byar 'dod || (TaRaA 4)  
 
 
 dga' ba'i ngo bo nyid ni rtag tu bde ba'i rang bzhin nyid yin pa'i phyir ro || rang rig pa ni gsal ba'i ngo bo nyid kyis bdag nyid rab tu snang ba nyid kyi phyir ro || mi g.yo ba zhes bya ba ni | mi rtag pa nyid kyis bskyod par mi nus pa'i phyir ro || zhi ba ni nyon mongs pa dang nye ba'i nyon mongs pas stong pa nyid du yongs su brtags pa'i phyir ro || rnam pa de lta bu bsgrub par bya ba la 'dun pa ni 'dod pa'o ||
@@ -78,13 +78,13 @@ da ni pha rol tu phyin pa'i tshul du smra ba dag mngon par 'dod pa'i bsgrub par 
 rnam pas stong pa nam mkha' zla ba'i ngo bo nyid ||  
 so sor rang rig snying rje'i rang bzhin ca ||  
 mdzes pa'i mtshan rnams kyis brgyan don mdzad pa ||  
-sbyin la sogs pa'i rgyu mthun bde bral ba || (TaRaĀ 5)  
+sbyin la sogs pa'i rgyu mthun bde bral ba || (TaRaA 5)  
 
 
 sbyin sogs pha rol phyin drug tshul gnas pa ||  
 dka' bcas sku ni mdzes pa'i mtshan gyis brgyan ||  
 sa bcur bzhugs pas yang dag longs spyod pa ||  
-'gro don mdzad pa bsgrub byar rab tu smra || (TaRaĀ 6)  
+'gro don mdzad pa bsgrub byar rab tu smra || (TaRaA 6)  
 
 
 ### 5.1 The first kind of goal in the Way of the Perfections
@@ -114,7 +114,7 @@ dga' bcas
 sbyin sogs yon tan ma lus yongs rdzogs pa ||  
 rdzogs sangs mdzad pa ma lus mdzad nas ni ||  
 gang zhig yang dag mtha' ni mngon mdzad pa ||  
-'gog pa'i ngo bo bsgrub bya yang dag yod || (TaRaĀ 7)  
+'gog pa'i ngo bo bsgrub bya yang dag yod || (TaRaA 7)  
 
 
 
@@ -132,7 +132,7 @@ da ni sngags kyi tshul du bshad pa'i bsgrub par bya ba rnam pa bdun bstan par by
 nyid mtshungs lha mos 'khyud cing 'gro ba yi ||  
 don mdzad bde sdug nyid bral ngo bo nyid ||  
 sku ni dpe byang bzang po brgyad cus brgyan ||  
-rtog pa dang bral bsgrub byar rab tu 'chad || (TaRaĀ 8)  
+rtog pa dang bral bsgrub byar rab tu 'chad || (TaRaA 8)  
 
 
 nyid dang mtshungs pa'i lha mos 'khyud pa'i ngang tshul can gyi rang bzhin gang la mnga' ba de ni nyid mtshungs lha mos 'khyud pa can no || rtog pa dang bral ba ni rnam par rtog pa med cing rnam par rtog pa spangs pa zhes bya ba'i bar du'o || gzhan ni go sla'o || don ni 'di yin te | yang dag par 'khyud pa ste | nyid dang mtshungs pa'i lha 
@@ -150,7 +150,7 @@ nyid dang mtshungs pa'i lha mos 'khyud pa'i ngang tshul can gyi rang bzhin gang 
 dang po nyid nas lha yi rnam pa dag |  
 khyad par gyis stong bde ba yang dag bsgom ||  
 gsal 'gyur bde chen 'gro ba'i don mdzad pa ||  
-yid bzhin nor bur grags pa kha cig smra || (TaRaĀ 9)  
+yid bzhin nor bur grags pa kha cig smra || (TaRaA 9)  
 
 
 dang po nyid nas zhes 
@@ -170,7 +170,7 @@ dang po nyid nas zhes
 rang bdag bde ba'i ngo bo mngon byas nas ||  
 phyes btang bde btsam zhig 'bras 'gyur ba'o ||  
 dag pa mngon sum byed par nus med nas ||  
-de phyir bdag po'i rnam pa bsgom pa yin || (TaRaĀ 10)  
+de phyir bdag po'i rnam pa bsgom pa yin || (TaRaA 10)  
 
 
 rang bdag 
@@ -190,7 +190,7 @@ mngon sum du byas nas kyang lha'i rnam pa ngo bo nyid btang bar bya ba yin pa de
 sku ni nam mkha' dang mtshungs yan lag mtshan gyis brgyan ||  
 dpe med bde bas gang ba nyid dang mtshungs par 'dus pa dang |  
 thub pa'i dbang po 'phro bas bsams can rnams kyi don mdzad pa ||  
-chad pas stong pa bsgrub bya nyid du gzhan dag rab tu smra || (TaRaĀ 11)  
+chad pas stong pa bsgrub bya nyid du gzhan dag rab tu smra || (TaRaA 11)  
 
 
 sku ni zhes bya ba la sogs pa la | 
@@ -218,7 +218,7 @@ sku ni zhes bya ba la sogs pa la |
 rang bdag bde ba'i ngo bo mngon byas nas ||  
 btang snyoms ngo bo ye shes tsam 'bras bu ||  
 'khor ba srid zhugs sems can don mdzad pa ||  
-yid bzhin nor grags gcig tu zhi gyur pa'o || (TaRaĀ 12)  
+yid bzhin nor grags gcig tu zhi gyur pa'o || (TaRaA 12)  
 
 
 rang bdag ces bya ba la 
@@ -230,7 +230,7 @@ rang bdag ces bya ba la
 dkyil 'khor bde gang mngon sum byas nas ni ||  
 phyis ni de rang 'dod pas nges ldog pa ||  
 sems can don yang yod de 'dir med min ||  
-gang phyir nges par ldog pas rab tu byung || (TaRaĀ 13)  
+gang phyir nges par ldog pas rab tu byung || (TaRaA 13)  
 
 
 dkyil 'khor zhes bya ba la sogs pa la | dkyil 'khor bde ba'i rang bzhin can mngon sum du byas nas | de rang gi 'dod pa las nges par ldog pa ni 'gog pa'o || 
@@ -244,7 +244,7 @@ de ni 'di skad du bstan te | bde bas yang dag par gang ba'i 'khor lo mngon sum d
 de rnams las 'dod ngo bo gsal byas la ||  
 phyir ni 'gog pas 'bras bu kha cig smra ||  
 gang phyir 'gog pa'i ngo bo tha dad min ||  
-de phyir tha dad phyogs kyi'am tha dad med || (TaRaĀ 14)  
+de phyir tha dad phyogs kyi'am tha dad med || (TaRaA 14)  
 
 
 de rnams las zhes bya ba la sogs pa smos pa la | phyogs drug po rnams kyi nang nas 'bras bu bsgrub bya gang kho na mngon par 'dod pa de kho na nyid mngon sum du byas shing | de'i 'og tu rnam pa thams cad du mar me bzhin du 'gog pa dus gzhan na sems can gyi don la sogs pas stong pa mngon sum du bya ba yin no ||
@@ -258,7 +258,7 @@ phyogs drug gi dbye bas 'gog pa yang drug kho nar 'gyur ba ma yin nam | 'gog pa 
 shes rab ye shes phyis ni byang chub sems ||  
 ro myang dbang bzhir 'chad pa de mchog min ||  
 gang phyir bsgom sogs kun stsol don med pa ||  
-thob 'gyur de 'bras rab tu mi rung phyir || (TaRaĀ 15)  
+thob 'gyur de 'bras rab tu mi rung phyir || (TaRaA 15)  
 
 
 shes rab ye shes zhes bya ba la sogs pa la | shes rab dang ye shes te | dbang bskur ba'i bye brag go || phyis te rdzogs pa'i dus kyi byang chub gang zhe na | sems te bdud rtsi'i ngo bo lces kun nas blang ba gang yin pa de ni bzhi pa ste | dbang bskur ba bzhi par 'ga' zhig smra ba de ni mchog ma yin pa dang | dman pa dang shin tu smad pa zhes bya ba'i bar du'o || ci'i phyir mchog min zhe na | gang phyir sngags dang phyag rgya dang lha nyid la sogs pa'i rnam pa bsgom pa la 'bad pa dang | gzhan yang de bzhin gshegs pas gsungs pa'i bsgrub pa'i mtshan nyid don med pa thob par 'gyur ro || gang las zhe na | de 'bras bu ste | bsgom pas bsgrub par bya ba'i 'bras bu 
@@ -270,7 +270,7 @@ shes rab ye shes zhes bya ba la sogs pa la | shes rab dang ye shes te | dbang bs
 shes rab ye shes phyir ni dga' ba'i ro ||  
 myong rnyed dbang bskur bzhir smra de dman te ||  
 gang phyir bsgom sogs kun la rab tu stsol ||  
-sangs rgyas kyis gsungs 'bras med rab thal 'gyur || (TaRaĀ 16)  
+sangs rgyas kyis gsungs 'bras med rab thal 'gyur || (TaRaA 16)  
 
 
 shes rab ces bya ba la sogs pa la | shes rab ye shes las dus phyis 
@@ -545,7 +545,7 @@ drug pa'i phyogs la bshad pa'i skyon gyi tshogs bdun pa la yang yod pas | btags 
 rdo rje'i sa bon dri med dga' 'bab pa ||  
 dag pa'i chu skyes yang dag myu gu 'byung rgyas shing ||  
 bzhi pa'i 'bru ni yongs gsal smin 'gyur ba'i ||  
-bzhi pa dag ni mkhas pa rnams la sbas || (TaRaĀ 17)  
+bzhi pa dag ni mkhas pa rnams la sbas || (TaRaA 17)  
 
 
 rdo rje'i sa bon zhes bya ba la sogs pa la de dag ni bla ma'i man ngag las shes par bya'o ||
@@ -555,7 +555,7 @@ rdo rje'i sa bon zhes bya ba la sogs pa la de dag ni bla ma'i man ngag las shes 
 gsal byed bdud rtsi lnga dang thig le zla ba dang |  
 smin dbus thig le las byung dkyil 'khor dang ||  
 rlung gi rang bzhin lce'u chung sogs de nyid ||  
-ngo bo min pa bdag nyid kyis rtag tu || (TaRaĀ 18)  
+ngo bo min pa bdag nyid kyis rtag tu || (TaRaA 18)  
 
 
 gsal byed lnga zhes bya ba la sogs pa la smos pa la | gsal byed lnga'i sgra ni | ba glang dang | khyi dang | glang po dang | rta dang | mi'i mtshan nyid do || bdud rtsi lnga'i sgra ni | be 
@@ -601,7 +601,7 @@ zhes de lta bu mu stegs la sogs pa de kho na nyid du mngon par 'dod pa de dag th
 rmi lam mig 'phrul gzugs brnyan sgyu ma dang ||  
 smig rgyu dri za'i grong khyer chu zla dang ||  
 gzhan gyi sgra yis mngon par brjod pa yis ||  
-'dir bshad bsgrub bya gzhan la yod ma yin || (TaRaĀ 19)  
+'dir bshad bsgrub bya gzhan la yod ma yin || (TaRaA 19)  
 
 
 rmi lam mig 'phrul zhes bya ba la sogs pa la | rmi lam dang | mig 'phrul lta bu dang | gzugs brnyan dang | sgyu ma dang | smig rgyu dang | dri za'i grong khyer dang | chu zla lta bu'o || gzhan gyi sgras ni nam mkha' dang | brag cha dang | dbu ba lta bu'o zhes bya ba la sogs pa'i sgras so || de lta bur mngon par brjod pa ni smra ba pos de lta bus bstan pa'i bsgrub bya las gzhan med pa nyid de | gzhan du yang 'dir bshad pa kho na bsgrub bya yin no zhes sgra de las rab tu 'jug par rang nyid kyis shes par bya'o ||
@@ -609,7 +609,7 @@ rmi lam mig 'phrul zhes bya ba la sogs pa la | rmi lam dang | mig 'phrul lta bu 
 zab mo stong nyid so sor snang ba tsam ||  
 zhi ba shin tu phra ba sgras brjod min ||  
 gos med dngos bral dri med la sogs dang ||  
-gzhan sgrub yod pa 'khrul par mi bya'o || (TaRaĀ 20)  
+gzhan sgrub yod pa 'khrul par mi bya'o || (TaRaA 20)  
 
 
 zab mo stong nyid so so snang ba tsam || zhi ba shin tu sgras brjod min || ma gos dngos bral dri med la sogs dang || zhes bya ba la sogs pa'i sgra yis | zhi ba dang rnam pa med pa dang | spros pa med pa dang | thog ma med pa dang | 'gag pa med pa zhes bya ba la sogs sgra yis kyang 'khrul par mi bya zhing | gzhan bsgrub tu yod pa ni | gzhan gyi bsgrub par bya ba yod pa ste | 'dir yod pa'i sgras des bshad pa'i sgrub par bya ba las mchog 'ga' shig yod do zhes 'khrul par mi bya ste | bshad pa bsgrub bya kho na de dag thams cad kyis brjod par bya ba yin zhes nges par bya'o ||
@@ -619,7 +619,7 @@ zab mo stong nyid so so snang ba tsam || zhi ba shin tu sgras brjod min || ma go
 rnam pa bdun po bkod pa'i ngo bo dag las nam mkha' ma lus pa'i ||  
 slob dbyings khyab par byed pa'i bsod nams gang zhig bdag gis thob gyur pa ||  
 des ni 'jig rten 'di dag dpe med pa yi rig mas 'khyud par 'gyur ba yi ||  
-mdzes pa'i sku las rgyal ba'i sprul pa dag gis 'gro ba'i don byed shog | (TaRaĀ 21)  
+mdzes pa'i sku las rgyal ba'i sprul pa dag gis 'gro ba'i don byed shog | (TaRaA 21)  
 
 
 dpal ldan gsang ba 'dus pa las ||  

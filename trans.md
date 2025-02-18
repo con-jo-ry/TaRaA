@@ -11,12 +11,12 @@ For how long? Addressing this, he says 'so long as there are occurrences of spac
 Here, by saying that he is one 'whose nature is incomparable bliss', the perfection of [Avalokiteśvara's] personal aims (*svārthasaṃpatti*) is expressed. By saying that he is 'an abode of riches', the means to that [perfection is expressed], because the word 'riches' (*śrī*) refers to the requisites of merit and wisdom (*puṇyajñānasambhāra*). By saying that he is one 'who brings about the attainment welfare and happiness for the three worlds', the perfection of the aims of others (*parārthasaṃpatti*) is taught. By saying that he is one 'whose consorts are the incomparable ten goddesses' and 'who is with his consort', the means to that [perfection is taught], because one is unable to bring about the perfection of the aims of others in every way (*sarvākāraparārthasaṃpatti*) without the forms (*ākāra*) of those kind of goddesses (*tathābhūtadevī*) and a body endowed with the thirty-two major signs and eighty minor marks.
 
 # 2. The purpose of the treatise, etc.
-> Employing seven divisions thronging with the teachings of various [teachers], I undertake the present effort to bring about clear understanding for those who indeed do not know the nature, devoid of [expression through] clear words, of the glorious Way of Mantra's beautiful fourth initiation.
+> Employing seven divisions thronging with the teachings of various [teachers], I undertake the present effort to bring about clear understanding for those who indeed do not know the nature, devoid of [expression through] clear words, of the glorious Way of Mantra's beautiful fourth initiation. (2)
 
 The words 'glorious Way of Mantra' (*śrīmantranīti*), although they can express the *yogatantra*s in general, [here] refer to the glorious *[Guhya]samāja*, since the meaning/content (*artha*) of the fourth [initiation] does not appear elsewhere. The rest [of the first half of the verse] one can easily understand. \[I undertake the present effort] by employing seven divisions (*bheda* = *prakāra*) thronging with (muddled with?) (*saṃkula* = *vyākula*) many (*gaṇa*) teachings (*upadeśa*) of various teachers (*nānācārya*)—i.e., they compile (*saṃgrāhaka*) a number of teachings (*upadeśarāśi*) known/belonging (*gata*) to teachers of the past, present, and future. \[I do so] 'to bring about clear understanding', i.e. for the sake of easily (*sukhena*) comprehending clearly (*sphuṭapratīti*).
 
 # The reality and goal according to non-Buddhists
-> All (*nikhila*) non-Buddhist philosophers (*tīrthya*) indeed (*hi*) have completely mistaken (*sambhrānta*) ideas (*bodha*) regarding the realisation of the nature (*rūpavitti*) of reality and the goal. People say that that the best among them are the Vedāntins, supposedly (*kila*) knowers of reality (*tattvavetṝ*).
+> All (*nikhila*) non-Buddhist philosophers (*tīrthya*) indeed (*hi*) have completely mistaken (*sambhrānta*) ideas (*bodha*) regarding the realisation of the nature (*rūpavitti*) of reality and the goal. People say that that the best among them are the Vedāntins, supposedly (*kila*) knowers of reality (*tattvavetṝ*). (3)
 
 'Completely mistaken' and so forth: Non-Buddhist philosophers (*tīrthika*) are [here] called those whose 'ideas' (*bodha*), i.e. particular forms of insight (*prajñā*), are 'completely mistaken' (*sambhrānta* = *vibhrānta*).
 Absolutely all of the non-Buddhist philosophers (*tīrthya*) have their intellectual eyes (*buddhinayana*) injured (*upahata*) by the eye diesease (*timira*) of grasping to the self (*ātman*) and its supposed belongings (*ātmīya*).
@@ -26,7 +26,7 @@ The remainder is easy to understand.
 \[Objection:] But since reality and the goal are one in nature insofar both to be sought after (*upādeya*), how is it that they are treated differenly [in the verse] when you say 'of reality and the goal'. 
 This is incorrect.
 For, even though reality is to be sought after, it pervades of the entirety (*saṃdoha*) of all appearances (*sakalapratibhāsa*), be they pleasant, painful, neutral, or otherwise.
-On the other hand, the goal is the fruit characterised as one's wish though the exclusion of what is not one's wished for; while it is sought after, it is surely through the exclusion of what is not the goal that all sentient beings regard it as the goal. 
+On the other hand, the goal (*sādhya*)—being fruit (*phala*) characterised as a wish (*icchā*) though the exclusion (*vyāvṛtti*) of what is not wished for—is, although sought after, regarded surely ('*avaśyam eva*') by all sentient beings as what is to be accomplished (*sādhayitavya*) [only] through the exclusion of what is not to be accomplished. 
 Thus there is no fault.
 
 # 4. The goals of Vedāntins, Śrāvakas, and Pratyekabuddhas
@@ -186,4 +186,39 @@ This too is reprehensible.
 The rest has already been understood.
 
 ## 7.3. Explanation of the scripture
+Now 'The fourth is that again in that way' is explained.
+'The fourth' is called the fourth in reference to the prajñājñāna initiation, which is the third.
+'That': With the word 'that', just that *prajñājñāna* [initiation] is referred to having that nature of the [fourth].
+'Again': With the word again, a difference from that [*prajñājñāna* is expressed].
+And here, the difference is characterised by a being in flow that is undefiled (*anāsrava*), unexcelled (*niruttara*), developed to the extreme (*atyantasphīta*), and unbroken in its continuity. 
+'In that way': The words 'in that way' directly express similarity (*tādṛśatva*).
+And similarity is that just as the *prajñājñāna* has arisen with through certain requisites (*sāmagrī*) that include (*yukta*) a *prajñā* and so forth, so too later [the Fourth arises] just that with, with just those sorts of requisites. 
+
+And here one should understand the meaning based on a mark-marked relationship.
+By it something is marked; hence, the *prajñājñāna* is the mark when it is experienced.
+For, given the principle that 'there is no cognition of the qualified (*viśeṣyabuddhi*) without having grasped the qualifier (*agṛhītaviśeṣaṇa*)', it cannot be a mark without being experienced.
+By this [marker] it is marked, known, or made known; hence, fourth, which is about to be directly experienced, is the marked.
+
+## 7.4 The third mistaken view
+Here some say that there is no fourth.
+[And if one says:] 'But there exists a word for the [fourth], namely this: "The fourth [is that again in that way]".
+So how can you say it doesn't exist?'
+True, for the sake of the protection (*saṃrakṣā*) of the pith instructions (*upadeśa*) and in order to bewilder (*vyāmohana*) ordinary beings (*sattva*), the Blessed One used the word 'fourth' to teach none other than the third.
+Otherwise, he would have said 'that again'.
+
+This is completely incoherent.
+The fourth, which is established by reliable knowledge, has been taught and is about to be taught.
+
+## 7.5 Investigation of the target
+Now, the marker, the *prajñājñāna*, is of course known by all.
+On the other hand, there is confusion (*vyāmoha*) about the marked. 
+Therefore, it is analysed [here].
+For, the marked should either have the nature of an external object (*artha*) or that of awareness (*jñāna*).
+In the first case, it does not have the nature of an external object, because external objects themselves do not exist, given that, insofar as they are free of (*viyogin*) [a nature that is] one or many, [external] are refuted by valid knowledge.
+And because in the Way of Mantra, it is only the views of the Vijñānavāda and Madhyamaka that predominate, the marked may [be said to] have nature of awareness.
+And awareness is either with (*sākāra*) or without forms (*nirākāra*).
+And [awareness] with forms is either has a non-dual variegated nature (*citrādvaita*) or a manifold nature (*anekarūpa*).
+These are the options (*vikalpa*).
+
+
 
