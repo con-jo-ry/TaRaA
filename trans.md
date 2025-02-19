@@ -23,32 +23,35 @@ Absolutely all of the non-Buddhist philosophers (*tīrthya*) have their intellec
 Thinking 'This is reality' and 'This is the goal', they are confused (*bhrānta*) regarding the 'realisation' (*vitti* = *pratīti*) of the nature (*svarūpa*) of reality and the goal.
 The remainder is easy to understand.
 
-\[Objection:] But since reality and the goal are one in nature insofar both to be sought after (*upādeya*), how is it that they are treated differenly [in the verse] when you say 'of reality and the goal'. 
+\[Objection:] But since reality and the goal are one in nature insofar both are to be sought after (*upādeya*), how is it that they are treated differently [in the verse] when you say 'of reality and the goal'. 
 This is incorrect.
 For, even though reality is to be sought after, it pervades of the entirety (*saṃdoha*) of all appearances (*sakalapratibhāsa*), be they pleasant, painful, neutral, or otherwise.
-On the other hand, the goal (*sādhya*)—being fruit (*phala*) characterised as a wish (*icchā*) though the exclusion (*vyāvṛtti*) of what is not wished for—is, although sought after, regarded surely ('*avaśyam eva*') by all sentient beings as what is to be accomplished (*sādhayitavya*) [only] through the exclusion of what is not to be accomplished. 
+On the other hand, the goal (*sādhya*)—being fruit (*phala*) characterised as a wish (*icchā*) though the exclusion (*vyāvṛtti*) of what is not wished for—is, although sought after, regarded surely ('*avaśyam eva*') by all sentient beings as what is to be accomplished (*sādhayitavya*) [only] through the exclusion of what is not to be accomplished.
 Thus there is no fault.
 
 # 4. The goals of Vedāntins, Śrāvakas, and Pratyekabuddhas
 Now, first he teaches the goal held by the followers of Vedānta, beginning with '... bliss by nature'.
 
-> The Vedāntins long for (√*vaś*) a goal that is self aware (*svavid*), bliss by nature, unmovable, and at peace. And the rhinoceros-jinas, as well as \emph{śrāvaka}s, desire as a goal the cessation (\emph{virāma}) of the substrates (\emph{upadhi}) of material form (\emph{rūpa}) and so forth. (4)
+> The Vedāntins long for (√*vaś*) a goal that is self aware (*svavid*), bliss by nature, unmovable, and at peace. And the rhinoceros-jinas, as well as \emph{śrāvaka}s, desire as a goal the cessation (*virāma*) of the substrates (*upadhi*) of material form (*rūpa*) and so forth. (4)
 
-\[The Vedāntins long for a goal that is] 'bliss by nature' (*ānandarūpa*), because it is always comprised of/full of bliss (*ānanda*); that is 'self-aware' (*svavid*), because, being in the form of a light (*jyotis*), it is illuminating itself; that is 'unmovable' (*aprakampya), because, in being permanant (*nitya*), it cannot be moved; and that is at peace (*śānta*), because it is conceived of as empty of major and minor mental afflictions.
+\[The Vedāntin's goal is] 'bliss by nature' (*ānandarūpa*) because it is always comprised of/full of bliss (*ānanda*).
+It is 'self-aware' (*svavid*) because, being in the form of a light (*jyotis*), it is illuminating itself.
+It is 'unmovable' (*aprakampya*) because, in being permanent (*nitya*), it cannot be moved.
+It is at peace (*śānta*) because it is conceived of as empty of major and minor mental afflictions.
 [Vedāntins] 'long for' (√vaś), or desire, this kind of goal.
 
-The rhinoceros-jinas (*khaḍgajina*) who are alongside the *śrāvaka*s—namely, the *pratyekabuddha*s who live in isolation (*ekacārin*) or in groups (*vargacārin*) and who [are called *khaḍgajina*s because they] resemble rhinoceroses (*khaḍgaviṣāṇa*)—desire a goal.
+The rhinoceros-Jinas (*khaḍgajina*) who are alongside the *śrāvaka*s—namely, the *pratyekabuddha*s who live in isolation (*ekacārin*) or in groups (*vargacārin*) and who [are called *khaḍgajina*s because they] resemble rhinoceroses (*khaḍgaviṣāṇa*)—desire a goal.
 What kind [of goal]?
 The cessation of substrates—i.e., the cessation (*virāma*) or cutting off (*viccheda*) of the substrates (*upadhi*), i.e. aggregates (*skandha*), of material form, sensation, notion, formations, and consciousness—that is to say, their extinction. 
-This amounts to saying the following: All *śrāvaka*s and *pratyekabuddha*s, even though *nirvāṇa* is divided into the types 'with remainder of substrate' (*sopadhiśeṣa*) and 'without remainder of substrate' (*nirupadhiśeṣa*), have undertaken the goal of the *nirvāṇa* without remainder of substrate as what they should directly experience.
+This amounts to saying the following: Even though *nirvāṇa* is divided into the types of 'with remainder of substrate' (*sopadhiśeṣa*) and 'without remainder of substrate' (*nirupadhiśeṣa*), all *śrāvaka*s and *pratyekabuddha*s have undertaken the goal of the *nirvāṇa* without remainder of substrate as what they should directly experience.
 
 # 5. The four goals found in the Way of the Perfections
 Now, beginning with 'empty of form', [the author] relates the four kinds of goals held by the followers of the Way of the Perfections.
 
-> Followers the Way of the Six Perfections—namely, [the perfections of] giving and so forth—teach that the goal that accomplishes the aims of beings (*sattvārthakārin*) is [either] (1) empty of forms (*ākāraśūnya*), of the nature of the sky and the moon (*gaganendurūpa*), to be realised by oneself (*pratyātmavedya*), having compassion as its essence; (2) the outflow of the giving and so forth that is addorned with the beautiful marks, which accomplishes aims (*arthakārin*) and is without [even] bliss; or (3) a blissful body adorned by the beautiful marks, enjoyed by the those abiding on the tenth stage. (5 and 6)
+> Followers the Way of the Six Perfections—namely, [the perfections of] giving and so forth—teach that the goal is \[either] (1) empty of forms (*ākāraśūnya*), of the nature of the sky and the moon (*gaganendurūpa*), to be realised by oneself (*pratyātmavedya*), having compassion as its essence; (2) the outflow of the giving and so forth that is adorned with the beautiful marks, which accomplishes aims (*arthakārin*) and is without [even] bliss; or (3) a blissful body adorned by the beautiful marks, enjoyed by the those abiding on the tenth stage and accomplishing the aims of beings (*sattvārthakārin*). (5 and 6)
 
 ## 5.1. The first goal taught in the Way of the Perfections
-[This goal] is empty of forms that are variagated in nature, including blue, yellow, pleasure, and pain—i.e., it is formless (*nirākāra*).
+[This goal] is empty of forms that are variegated in nature, including blue, yellow, pleasure, and pain—i.e., it is formless (*nirākāra*).
 For just this reason, it is called one that has a nature (*rūpa* = *svabhāva*) like that of the 'sky' (*gagana*) insofar as it is formless (*nirākara*) and like that of the 'moon' (*indu*) insofar as it shining forth (*prabhāsvara*).
 That it is 'to be known for oneself' (*pratyātmavedya*) means that it is only to be known through reflexive awareness (*svasaṃvedyaikavedya*).
 'Compassion' (*karuṇā*) is the state of having the desire to rescue (*abhyudharaṇa*) all beings (*sakalajagat*) from suffering and the cause of suffering.
@@ -64,6 +67,7 @@ By them [this outflow/goal that they teach] is 'adorned' (*bhūṣita*).
 It 'accomplishes aims' in that it has as its nature a dispotion (*śīla*) to accomplish the aims (*artha*) or purposes (*prayojana*) of beings. 
 It is the 'outflow' (*niṣyanda*) of the ten perfections of giving etc., meaning that it is a fruit (*phala*) resembling [its cause, i.e. those perfection,] (*sadṛśa*) insofar as it arises (*prabhava*) from the [culmination] of excellence (*prakarṣa*) in them.
 Because suffering (*duḥkha*) has previusly already been abandoned (*prahīṇa*), and because even bliss is absent [at that time], [the goal is] without bliss (*apetasaukhya* = *apagatasaukhya*) insofar as it has the nature of equanimity (*upekṣā*). 
+
 This amounts to saying the following: the second goal [taught in the Way of the Perfections] is a body bearing the thirty-two major marks and beautified by the eighty minor marks—it benefits the entire world (*sakalajagadarthakārin*); through one's own power of repeated practice (*abhyāsa*) in the perfections of giving and the rest, it takes the form of a perfect and complete buddha; and insofar as it is free of bliss and suffering, is a nature which is equanimity.
 
 ## 5.3. The third kind of goal in the Way of the Perfections
@@ -72,6 +76,7 @@ It is both blisful and a body (*aṅga*) adorned (*maṇḍita*) with the beauti
 By whom?
 By the lords of the tenth stage, since it is out of the range (*agocara*) of those abiding on the remaining stages (*pariśiṣṭabhūmi*).
 It comes down to saying that [this goal/body] is enjoyed by those who have reached the tenth stage (*daśabhūmiprāpta*), such as Avalokiteśvara and Mañjuśrī.
+
 This amounts to saying the following: 
 This goal is precisely like how, in a buddha realm (*samyaksaṃbuddhabhuvana*) called Ghanavyūha that is above the pure abodes (*śuddhāvāsa*), the Blessed One appears (√*cakās*) as long as *saṃsāra* remains (*āsaṃsāraṃ*) with a blissful form (*ānandarūpa*) and identical with the *sambhogakāya*—he is a fulfiller the aims of all beings by means of his emanations; his body unseen by even the *śrāvaka*s, *pratyekabuddha*s, and lords of the ninth stage, while instead (*param*) he is enjoyed through the hearing of the Dharma by *bodhisattva*s who are lords of the tenth stage.
 
@@ -219,6 +224,39 @@ And because in the Way of Mantra, it is only the views of the Vijñānavāda and
 And awareness is either with (*sākāra*) or without forms (*nirākāra*).
 And [awareness] with forms is either has a non-dual variegated nature (*citrādvaita*) or a manifold nature (*anekarūpa*).
 These are the options (*vikalpa*).
+
+## 7.5.1. Refutation of consciousness with forms
+Of these [options], the of the Nirākāra position say that consciousness (*vijñāna*) with forms (*sākāra*), like flowers in space (*gagaṇakamala*), does not exist in any way (*sarvsthaiva*).
+[Objection:] 'But forms appear having the to perception (*pratyakṣatas*) in the form of blue, yellow, and white etc., and pots, cloths, and carts. And those [forms], owing to the non-existence of external objects (*artha*), must have the nature of none other than consciousness.
+So, how can [consciousness] with forms not exist?'
+True, forms certainly appear, but in a false form.
+Their having a false form is established by their being devoid of [a nature] that is one or many, a fact that is characterised by valid knowledge.
+And this [fact] having the nature of valid knowledge I have taught elsewhere; hence, here it will not be elaborated on.
+And these forms, which like an illusion are established to be false, appear in the form of error (*bhrānti*).
+And when there is cessation (*nivṛtti*) of error, [consciousness that is] entirely formless like a pure crystal remains established (*siddha*) as ultimately existent (*pāramārthika*).
+Therefore, the two options are dispelled that consciousness with forms exists which is either variegated non-dual in nature or manifold in nature.
+
+## 7.5.2. Establishing consciousness that is formless
+[Objection:] 'Consciousness without forms too is not even observed in dreams to meet the conditions for perception (*upalabdhilakṣaṇaprāpta*).
+So how can you say that it exists ultimately?'
+The response is as follows:
+Consciousness with the form of pleasure is indeed experienced being without forms, its nature bursting forth/manifesting (*parisphurat*) internally (*antar*).
+As for the forms of blue and the like, they appears being false.
+Otherwise, were they to be real, absolutely all forms would be real.
+To explain: even, for example, the dichotomy of perceiver and perceived would be real, and, due do that, it would follow that absolutely everybody would have liberation given the real appearances [of all forms].
+For, false appearances that erroneous in nature would not appear to anyone. 
+And it is taught:
+
+> Reality should be seen according to reality. Seers of reality are liberated.
+
+Therefore, even unwillingly, the forms of blue and the like should be accepted to be false.
+[Consciousness] with pleasure and the like, which is [in fact] formless, is perceived to be real.
+So how is it not perceived [at all]?
+
+[Objection:] 'But a consciousness that has the forms of pleasure and so forth is observed to be none other than [a consciousness] with forms, becuase pleasure and the like are forms in nature. And it is not the case that a cognition empty of the forms of pleasure and the like is perceived, even in a dream. And even in saying, "On the eighth stage [formless cognition] meets the conditions for perception because from it all error has passed away", there is no reliable knowledge that establishes the existence [of such a cognition], apart from you drinking the pledge water.'
+This is wrong, because you have not understood the intention, since we assert that consciousness that only has forms of pleasure and so forth and that is devoid of the forms of blue and so forth is formless.
+And all sentient beings have that right here and now, established by the valid knowledge of self awareness (*svasaṃvedana*).
+So how is it now perceived?
 
 
 
