@@ -258,5 +258,55 @@ This is wrong, because you have not understood the intention, since we assert th
 And all sentient beings have that right here and now, established by the valid knowledge of self awareness (*svasaṃvedana*).
 So how is it now perceived?
 
+### 7.5.3. Establishing the Madhyamaka position
+[New position:] 'But that [formless cognition] too, because it lacks a nature that is either unitary or manifold, is entirely false (*alika*), mere error (*brāntimātra*).
+For, being without a nature that is unitary or manifold is a pervading property (*vyāpin*) of consciousness [both] with and without forms.
+
+[Objection:] 'By this principle, because the falseness of all consciousness, whether with or without forms, is established, ultimately there exists no object-reality whatsoever.
+So how can the nature of the marked be characterised (*upalakṣayitavya*) through valid means of knowledge?'
+This is not a fault, for in the Madhyamaka view, even though its falseness is established by a valid means of knowledge, mere illusion-like appearance, devoid of a nature that is unitary or manifold, is not refuted as a property possessor.
+And in that very false mere appearance, the individual establishment is unimpeded for the marked and marker, *saṃsāra* and *nirvāṇa*, meditations on the maṇḍala circle etc., and the accomplishment of the aims of all beings.
+And as it is taught:
+
+> One accomplishes the state of a buddha, that of Vajrasattva just conventionally.
+
+[Objection:] But all types of things are, insofar as they are false, pointless (*niḥsāra*). In that case,why make the effort of meditating on the *maṇḍala* circle and so forth? That is incorrect, for it is said:
+
+> Even though there is no person who is liberated (moktṛ), there is effort to remove false superimposition.
+
+Even though there is no ultimate (*pāramārthika*) nature of entities (*vasturūpa*) when analysed (*vicāryamāṇa*), all sentient beings (*sakalaprāṇabhṛt*) still have the longings of 'May I be happy' and 'May I not suffer'.
+For example: even though good (*śubha*) and bad dreams (*aśubha*) are equally (*tulya*) false (*mithyā*), one is pleased (*saumanasya*) after one sees a good dream, and one is upset (*daurmanasya*) after one sees a bad dream and engages (*pravṛtti*) in [activities] such as reciting the scriptures (*saddharmapāṭha*) and repeating mantras (*mantrajāpa*).
+Similarly, even though there is no difference (*aviśeṣa*) [in anything] in its being false (*mithyātva*), in order to eliminate ordinary conceptual thought (*prākṛtavikalpa*) of suffering and so forth, and in order to attain the characteristics of perfect awakening, reflective people (*prekṣāvat*) who desire a goal become active.
+
+# 8 Evaluating the seven types of goals
+[Objection:] But the purpose for which this discussion was begun has been lost.
+To explain: the consideration of the marked and marker was introduced here, and that has been forgotten—it's not known where it has gone.
+
+Didn't I finish that already with the seven divisions?
+
+True, but there's the *guḍa* and *gorasa* principle.
+To explain: we do not know which is the best and which is not. 
+
+I will address this:
+
+## 8.1. The problem of with the first
+Because it lacks the sequence established in the Way of Mantra, because meditation on union (*samāpatti*) would be in vain, and because it lacks reasoning (*yukti*) (?), the first [*sādhya*] is worthless.
+To explain: that which has complete causal requisites will definitely happen.
+Otherwise, [if it does not happen], it is not indeed complete in its causal requisites. 
+In the state of direct experience [of the fourth/the goal], That [i.e., bliss] is replete with its causal requisites.
+So, That must necessarily be there.
+Being there, the first [goal] is refuted.
+
+## 8.2. The problem of with the second
+Because it is not perceived (*anupalabdhi*) to have the nature of isolated bliss (*kevalasāta*), empty of the forms of bodies and so forth, the second [goal] is without merit (*sāratā*).
+To explain: A reflective people (*prekṣavat*) will meditate on what is confirmed (*niścita*) by valid means of knowledge and not just anything whatsoever (*yathākiñcit*).
+And at all times, it is only [a goal] whose nature is embraced by a valid means of knowledge that is perceived.
+Just that appears to sentient beings as desirable (*kamanīya*).
+Therefore, because there is no desire (*ruci*) for the isolated (*kevala*), because it is not perceived to be embraced by the forms of the [*maṇḍala*] circle,and because it cannot be directly experienced, the second [goal] is just an imaginary idea.
+
+
+## 8.2. The problem of with the third
+Because one cannot abandon that which has become a part of it as some that by nature is an irrefutable real thing, and because that whose nature is intermixed (*saṃvalita*) lacks division, and because there is no purpose [for abandoning part of it], the third position is not good.
+To explain: when [two things] are established to be identical because they are [always] perceived together (*sahopalabha*), if one is cast aside, the other one too will certainly be cast aside—otherwise, neither is.
 
 
