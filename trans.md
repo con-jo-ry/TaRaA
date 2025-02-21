@@ -81,7 +81,7 @@ This amounts to saying the following:
 This goal is precisely like how, in a buddha realm (*samyaksaṃbuddhabhuvana*) called Ghanavyūha that is above the pure abodes (*śuddhāvāsa*), the Blessed One appears (√*cakās*) as long as *saṃsāra* remains (*āsaṃsāraṃ*) with a blissful form (*ānandarūpa*) and identical with the *sambhogakāya*—he is a fulfiller the aims of all beings by means of his emanations; his body unseen by even the *śrāvaka*s, *pratyekabuddha*s, and lords of the ninth stage, while instead (*param*) he is enjoyed through the hearing of the Dharma by *bodhisattva*s who are lords of the tenth stage.
 
 ## 5.4. The fourth kind of goals in the Way of the Perfections
-> After completing all the qualities of giving and so forth, and after does all the tasks of a perfect buddha, there is also a goal, taking the form of cessation, that is the direct perception of the limit of reality.
+> After completing all the qualities of giving and so forth, and after does all the tasks of a perfect buddha, there is also a goal, taking the form of cessation, that is the direct perception of the limit of reality. (7)
 
 'Making replete' and so forth: On the basis that the are multipled or repeated practised, the perfections of giving and so forth are themselves qualities (*guṇa*).
 After one completes (*saṃ-√pūr*) these [perfections], i.e. after one makes them replete (*paripūrṇa*), and after one also does all (*sakala*) those tasks (*kṛtya*) of a perfect buddha, i.e. his every (*kṛtsnya*) necessary action (*avaśyakartavya*), there is also the goal that is the direct experience of the limit of reality (*bhūtakoṭi*)—emptiness (*śūnyatālakṣaṇa*) whose nature is the cessation of all mind (*citta*) and mental events (*caitta*).
@@ -89,7 +89,7 @@ In this way a fourth goal is spoken of by those abiding on the Way of Perfection
 
 # 6. The seven kinds of goals in the Way of Mantra
 ## 6.1 The first kind of goal in the Way of Mantra
-> They declare that the goal is the body adorned with the eighty minor marks that, while embracing the consort woman and acting for the sake of people, is by nature free of pleasure and pain and devoid of conceptualisation.
+> They declare that the goal is the body adorned with the eighty minor marks that, while embracing the consort woman and acting for the sake of people, is by nature free of pleasure and pain and devoid of conceptualisation. (8)
 
 That [goal / body] whose nature is a disposition (*śīla*) to embrace the consort woman (*svābhāṅanā*) is said to be 'embracing the consort woman' (*svābhāṅganāśleṣin*). 
 It is devoid of conceptualisation (*apetakalpa* = *vyapagatakalpa*), which is to say it is conceptualisation free (*kalpanārahita*).
@@ -97,7 +97,7 @@ The remainder is easily understood.
 This is the meaning: the first goal [taught by the followers of the Way of Mantra] is a body that embraces his tightly-held (*samāliṅgita*) consort woman, which achieves the aims of beings, which is adorned by the thirty-two major marks, and which has a nature of equanimity.
 
 ## 6.2. The second kind of goal in the Way of Mantra
-> A certain [authority] says that [the goal is] bliss devoid of the qualifier of the form of a personal deity. It is meditated on from the very beginning, and when it becomes vivid, it is called Great Bliss, which accomplishes the aims of beings like a wish-fulfilling jewel.
+> A certain [authority] says that [the goal is] bliss devoid of the qualifier of the form of a personal deity. It is meditated on from the very beginning, and when it becomes vivid, it is called Great Bliss, which accomplishes the aims of beings like a wish-fulfilling jewel. (9)
 
 '... personal deity' and so forth: [This goal / bliss] is devoid (*śūnya*) of the forms (*ākāra*) of a personal deity (*sveṣṭadevatā*), which is as much as to say that it is formless (*nirākara*).
 One meditates (*saṃ-√bhū*) on bliss that is independent of deity forms (*devatākāranirapekṣa*) right from the beginning (*prāg eva*), immediately after [receiving] instructions (*upadeśānantara*).
