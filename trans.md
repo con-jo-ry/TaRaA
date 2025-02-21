@@ -304,9 +304,9 @@ And at all times, it is only [a goal] whose nature is embraced by a valid means 
 Just that appears to sentient beings as desirable (*kamanīya*).
 Therefore, because there is no desire (*ruci*) for the isolated (*kevala*), because it is not perceived to be embraced by the forms of the [*maṇḍala*] circle,and because it cannot be directly experienced, the second [goal] is just an imaginary idea.
 
-
 ## 8.2. The problem of with the third
 Because one cannot abandon that which has become a part of it as some that by nature is an irrefutable real thing, and because that whose nature is intermixed (*saṃvalita*) lacks division, and because there is no purpose [for abandoning part of it], the third position is not good.
 To explain: when [two things] are established to be identical because they are [always] perceived together (*sahopalabha*), if one is cast aside, the other one too will certainly be cast aside—otherwise, neither is.
 
+## 8.2. Evaluating the fourth
 
