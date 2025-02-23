@@ -83,7 +83,7 @@ This goal is precisely like how, in a buddha realm (*samyaksaṃbuddhabhuvana*) 
 ## 5.4. The fourth kind of goals in the Way of the Perfections
 > After completing all the qualities of giving and so forth, and after does all the tasks of a perfect buddha, there is also a goal, taking the form of cessation, that is the direct perception of the limit of reality. (7)
 
-'Making replete' and so forth: On the basis that the are multipled or repeated practised, the perfections of giving and so forth are themselves qualities (*guṇa*).
+'Making replete' and so forth: On the basis that the are multipled or repeatedly practised, the perfections of giving and so forth are themselves qualities (*guṇa*).
 After one completes (*saṃ-√pūr*) these [perfections], i.e. after one makes them replete (*paripūrṇa*), and after one also does all (*sakala*) those tasks (*kṛtya*) of a perfect buddha, i.e. his every (*kṛtsnya*) necessary action (*avaśyakartavya*), there is also the goal that is the direct experience of the limit of reality (*bhūtakoṭi*)—emptiness (*śūnyatālakṣaṇa*) whose nature is the cessation of all mind (*citta*) and mental events (*caitta*).
 In this way a fourth goal is spoken of by those abiding on the Way of Perfections.
 
@@ -309,4 +309,65 @@ Because one cannot abandon that which has become a part of it as some that by na
 To explain: when [two things] are established to be identical because they are [always] perceived together (*sahopalabha*), if one is cast aside, the other one too will certainly be cast aside—otherwise, neither is.
 
 ## 8.2. Evaluating the fourth
+Because, owing to its manifoldness (*prapañca*), it involves a lot of effort (*bahuprayāsa*); and because, owing to its inability to withstand analysis (*vicārāsaha*), it is has the nature of error (*bhrāntirūpa*) and not that of ultimate reality (*paramārtha*), the position following the third (*tṛtīyāntapakṣa*) is not good (*kalyāṇa*).
+About this some people (*kecit*) describe (√*varṇ*) [the aforementioned] reasoning (*yukti*) [as follows]:
+Even in the absence of manifoldness, until through repeated meditation on the subtle (*sūkṣma*) (namely, the drop(s) and so forth) there is direct experience (*sākṣātkaraṇa*) [of the goal], effort applied to the objects of meditation is everywhere (*sarvatraiva*) present (*sam-√bhū*).
+If one is afraid of effort in this case, then nothing whatsoever should be meditated upon.
 
+[Objection:] `[The fourth goal is invalid] because it involves manifoldness (*prapañcarūpa*).'
+[Response:] During the meditation state (*bhāvanāvasthā*), what is the difference between the manifold (*prapañca*) and the non-manifold (*aprapañca*)?
+[Objection:] `The difference is that the non-manifold (*aprapañca*) more quickly becomes stable (*sthira*).'
+Once the mind will become stable with respect precisely whichever object (*ālambana*) it is continuously (*nirantara*) and for a long time (*dīrghakāla*) directed on (*pra-√īr*). 
+About this there is reasoning and scriptural citations.
+As it is taught:
+
+> Precisely whatever is meditated on, whether real or not, will have as its result a clear, non-conceptual cognition when meditation becomes powerful. 
+
+Also:
+
+> Oh the laziness! Oh the foolishness! Oh these people's distortion of true meaning! For, that Buddhahood, which is tied to their own mere minds, is not served/pursued (na sevyate), though it resides so near.
+
+Therefore, this is not the difference.
+
+Also, the ultimate unreality due to [everything] having an erroneous nature exists in all objects of meditation and in [all] objects, and so [if you criticize the goal on this ground], there would be nothing at all to meditate on.
+And therefore, meditation in the path to liberation would be in every case useless.
+If you say that 'What is being meditated upon from the non-manifest, although erroneous in nature, becomes flawless through engaging in meditation in accordance with forms being illusion-like,' [we respond that] this engagement with illusory forms is the same for the manifest world as well; so in that case too, where is the opportunity for fault?
+Therefore, whether manifest or non-manifest, whatever appeals to you—whether it is consistent with valid means of knowledge or not—that alone should be meditated upon by those who seek the great human purpose, abandoning laziness.
+Enough digression!
+
+But regarding [this position], discerning whether it is valuable or not is to be known only by those who worship a guru.
+
+## 8.5. The problem of with the fifth
+Because it has the faults stated for the third position, because, insofar as it is insipid (*nīrasa*), it lacks purpose (*prayojana*), and because it lack the stages of the Way of Mantra, the fifth [position] is not without faults.
+
+[Objection:] 'But there is the application of the Way of Mantra prior to directly experiencing [the goal].'
+[Response:] True, what is to be accomplished is the state of the direct result (*sākṣātphala*), and in that [state], these stages [of the Way of Mantra] are[, according to you,] not directly present.
+And if [these stages] are abandoned (*parityāga*), we do perceive any purpose (*prayojana*) [in this goal].
+
+## 8.6. The problem of with the sixth 
+Because it cannot be caused to cease by one's own desire (*svecchā*); because there is no purpose [to stopping it], and because it would lack [the accomplishment of] the aims of beings, the postulation (*kalpanā*) of the division (*prabheda*) following the fifth [division] is not devoid of defects (*kalaṅkā*). 
+To explain: the cessation (*nivṛtti*) of something occurs either through the cessation of its cause (*kāraṇa*) or the cessation of a pervading factor (*vyāpaka*).
+And in this case (*atra*), no terminating cause or pervading factor of the directly experienced *maṇḍala* circle is observed (*√dṛś*) at the time of the desire (*icchā*).
+
+[Objection:] 'But there is none other than emptiness which terminates.
+Just as fire that is ablaze in a mass of firewood reduces all of its fuel to dust and later ceases of its own accord, so the fire of emptiness ablaze in the *maṇḍala* circle, after making it visible, causes the *maṇḍala* circle to cease.'
+[Response:] That is incorrect because the example (*dṛṣṭānta*) does not incongruous (*viṣama*).
+To explain: in [the example], fuel is the cause for fire.
+When the cause—namely, fuel—ceases, the cessation of the effect (*kārya*)—namely, fire—is only fitting (*yukta*).
+Here, however, emptiness is not cause of the *maṇḍala* circle.
+So how can there be cessation [of the *maṇḍala* circle] upon the cessation of that [emptiness]?
+Nor is there cessation for emptiness.
+
+[Objection:] 'But it is not a cause; rather, emptiness is a pervading factor.
+When the pervading factor—namely, the tree—ceases, the pervaded—namely, the *śiṃśapā* tree—ceases.
+Like that there is cessation.'
+That too is without merit (*asāra*).
+To explain: emptiness is forever a pervading factor of the *maṇḍala* of all knowable objects as their reality.
+But it is not the case that there is ever its cessation.
+If there were, then there could be cessation before or immediately after the direct experience of true and perfect awakening.
+And that is not the case, because you yourself accept that after becoming a complete and perfect buddha one remains for a certain amount of time.
+
+'But emptiness too has the nature of awareness, as does the circle.'
+If there is cessation of the awareness of the circle by the arising of awareness of emptiness, then by what is awareness of emptiness to be arrested?
+And cessation by that [awareness of emptiness]—because there is nothing opposing opposing, and because there is no cause of pervasive factor [governing it]—does not exist.
+Therefore, there is no cessation of awareness of emptiness, nor is there cessation of the *maṇḍala* circle by emptiness; hence, emptiness is not that which terminates.
