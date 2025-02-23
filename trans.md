@@ -371,3 +371,71 @@ And that is not the case, because you yourself accept that after becoming a comp
 If there is cessation of the awareness of the circle by the arising of awareness of emptiness, then by what is awareness of emptiness to be arrested?
 And cessation by that [awareness of emptiness]—because there is nothing opposing opposing, and because there is no cause of pervasive factor [governing it]—does not exist.
 Therefore, there is no cessation of awareness of emptiness, nor is there cessation of the *maṇḍala* circle by emptiness; hence, emptiness is not that which terminates.
+
+> Inexpressible oceans of happiness [arise for \emph{bodhisattva}s] when sentient beings are liberated. One may ask if those [oceans of happiness] alone are enough, but what would is the use of [any further] liberation that is without [such] relish?
+
+[Accomplishing] the aims of beings is also absent in cessation.
+For there can be no purposeful activity / function (*arthakriyā*) to the sky (*gagana*) or sky lotuses (*gaganakamala*).
+It is also meaningless to say [the accomplishment of] the aims of beings comes from the circle, even though it ceased a long time ago, it belongs to the past (*atīta*), and it is a non-entity (*avasturūpa*).
+For it would absurdly there would be crows (*kaṇṭhadvani*) from a rooster (*kukkuṭa*) that has long been mute (*ciranīruta*).
+
+[Objection:] 'But there can be purposeful activity from the sky based on a yogins empowerment.'
+That is not possible, because [the purposeful activity] is from the yogin empowerment alone, which has the nature of mind; it is not from the sky, because that is formeless (*nīrūpa*).
+
+[Objection:] 'After causing the *maṇḍala* circle to cease, one produces it again at the time of [needing to accomplish] the aims of beings.
+Therefore, there is purposeful action.
+After that it once again is made to cease, and one again produced.'
+This is not correct:
+Just as the action for the purpose of sentient beings does not manifest from reality [on its own], so the [*maṇḍala*]-circle [too does not manifest from reality on its own].
+Therefore, there is no possibility of purposeful action, nor is there any purpose in causing [the *maṇḍala* circle] to cease and then producing it again.
+That is enough for this detailed discussion.
+
+## 8.7. The problem of with the seventh
+Owing to the mass (*sandoha*) of faults (*doṣa*) mentioned regarding the sixth position also applying to the seventh, I will not beat a dead horse (*piṣṭapeṣaṇa*).
+[Objection:] 'But if the seventh is equal to the sixth [in terms of its faults], [then] how is the seventh different from it?'
+There is a difference: in the state of the former, there are the forms of a certain fixed circle; later, there is its extinction based on one's will and production based on one's will. 
+In the seventh [position], however, that does not exist.
+therefore, they are not the same, and [the seventh position] is taught as something different (*bhinna*).
+
+# 9. The nature of the fourth initiation
+> [Agricultural metaphor:] The crop (*sasya*) that is the fourth (*turīya*) reaches fruition (*paripāka*), its flourishing (*puṣṭi*) arising (*bhūta*) from a sprout that, like (*bhūta*) a pure lotus, washed (*dhauta*) by a stream (*sruti*) from a thunderbolt's seed (i.e., a cloud).
+
+> [Tantric meaning:] The crop (*sasya*) that is the fourth (*turīya*) reaches fruition (*paripāka*), its flourishing (*puṣṭi*) arising (*bhūta*) from a sprout (*aṅgkura*) arising in (*bhūta*) the pure (*śuddha*) lotus (*pāthoja*) [of the consort] that is washed (*dhauta*) by the stream (*sruti*) of the seed (*bīja*) of the vajra.
+
+> [Tantric meaning:] The crop (*sasya*) that is the fourth (*turīya*) reaches fruition (*paripāka*), purified by washing with a stream of the vajra's seed, its development (*puṣṭi*) born (*bhūta*) from a sprout (*aṅgkura*) arising (*bhūta*) in the lotus (*pāthoja*), 
+
+
+> The vivid fourth is hiden to even the learned.
+
+'... the vajra' and so forth.
+This is to be known from the instructions of a genuine teacher.
+
+# 10. Other false goals and realities
+> One should deduce on one's own that the following do not have the nature of reality: the five 'lamps', the five nectars, the drop, and the moon; the *maṇḍala*s arising from a drop between the eyebrows;
+
+
+'The five "lamps" and so forth:
+Some hold the goal to be none other than the constance performance [of partaking in of substances] marked by [the letters] *gokudahana*, as indicated by the word 'the five lamps', and marked by [the letters] *vimumāraśu*, as indicated by the word 'nectars'.
+'The drop' indicates that some meditate the drop situated on the moon in the heart that shines brightly (*dedīpyamāna*) on the basis that it is both reality and the goal.
+'The moon' indicates that some meditate on a form of a portion of the moon or a half moon in the heart situated on a lotus.
+
+'The *maṇḍala*s arising from a drop between the eyebrows' are the *maṇḍala*s—namely, wind, water, earth, and fire—which arise from a drop that one has meditated on 'between the eyebrows', i.e., at the glabella (*ūrṇā*).
+This amounts to saying the following: after the mouth, ears, eyes, nose, and tongue with ones fingers, one should visualise a drop between the eyebrows.
+When that reaches a vivid state, the *maṇḍala*s of the earth and so forth will arise as indicators (*saṃsūcaka*) of good or bad signs (*nimitta*).
+And they regard this drop as reality.
+
+'The nature of wind' indicates the nature that is filling, holding, releasing, and resting, as well as inhalation and exhalation.
+This amounts to saying the following: after coming to know the nature of wind (*vāyusvarūpa*) as taught (*nirdiṣṭa*) by the Śaivas, Sāṃkhyas and so forth, the proponents of wind stabilise that wind through cultivating its arrest (*nirodha*). They they realise travel by flying in the sky and entering other 'cities', all the way up to liberation.
+
+Regarding 'uvula' and so forth:
+In the region of the throat, above the base of the tongue, there is the uvula, also called the secondary tongue (*upajihvā*), in the shape of an elephant's trunk (*hastiśuṇḍika*) and hanging upside down (*adhaḥpralambamāna*).
+And that has the nature of Śakti, with the reality below it having the nature of Śiva.
+And when it is touched by the tongue, it drip continuous nectar.
+And with this shower of gurgling nectar one should focus on the self being complete satiated.
+This is the reality of the uvula.
+The word 'and so on' refers to, for example, the Śiva-nature that is the reality to be meditated on in the form of awareness that resides in the middle of a cakra with sixteen spokes / channels in the centre of the heart.
+
+All of this, regarded by the non-Buddhist philosophers as having the nature of reality, is non-reality—this one oneself should deduce, which comes down to saying one should carefully conclude.
+
+# 11. Conclusion
+
