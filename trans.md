@@ -438,4 +438,20 @@ The word 'and so on' refers to, for example, the Śiva-nature that is the realit
 All of this, regarded by the non-Buddhist philosophers as having the nature of reality, is non-reality—this one oneself should deduce, which comes down to saying one should carefully conclude.
 
 # 11. Conclusion
+> [Indicated] by the words expressing similies—dream, magical illusion, reflection; mirage, gandharva city, water-moon; and others—no [separate] goal exist at all other than what has here been taught. (19)
 
+Regarding 'Dream' and so forth:
+With the words 'like a dream, magical illusion, and reflection' and 'like a mirage, gandharva city, and water-moon'; also by other words, such as 'like the sky, like an echo, and like a bubble'—[indicated] by these direct expressions of similies (*upamābhidheya* = *upamavācaka*), no goal (*sādhya*) at all exists apart from the goals that have been taught [here].
+Rather, it is to precisely the goals taught here that these words apply—this one should understand on one's own.
+
+# 12. Dedication
+> With the merit (*puṇya*) I acquired, pervading (*vyāpin*) the essence of all of space (*akhilagaganagarbha*), from the form of these words arranged according to seven types [of goals], may the common people (*loka*) being about benefit for the world (*janitajinārtha*) [like -- or in accord with?] the Buddha (*jina*) who emenates (*nirmit* ?) a beautiful body that embraces his consort of incomparable bliss / is attached to knowledge of incomparable bliss (*anupamasukhavidyāsaktasaddeha*).
+
+> Beholding the Jewel of Reality is complete. This composition is by the scholar Vāgīśvarakīrti.
+
+This composition by Vāgīśvara—[Vāgīśvara] who has supreme faith (*bhakti*) and stainless devlotion (niṣṭhā) for the glorious Guhyasamāja—brings to destruction mistaken views. 
+
+And also (*api ca*) by this merit that I have accumulated (*paricita*) from this composition (*grathita*), [merit] which resembles (*anukārin*) white water lilies (*kumuda*) in bloom (*vicaka*), stars (*tārā*), milk (*kṣīra*), and jasmine (*kunda*), may the entire world (*nikhilaloka*) becomes ones whose splendour is mastery over speech (*vāgīśvaraśrī*), filled with incomparable bliss, embraced by personal consorts.
+
+The commentary on 'Beholding the Jewel of Reality' is complete.
+This is a composition by the scholar and master Vāgīśvarakīrtipāda.
