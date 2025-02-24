@@ -142,7 +142,7 @@ It has the nature of non-abiding *nirvāṇa*.
 This is the fourth goal.
 
 ## 6.5 The fifth kind of goal in the Way of Mantra
-> After one directly perceives and then relinquishes one's lord with his blissful nature, there comes as fruit mere equanimous awareness. It remains as long as there is saṃsāra and accomplishes the aims of beings. Known as a wish-fulfilling jewel, it is entirely at peace. (12)
+> After one directly perceives one's lord with his blissful nature and then relinquishes him, there comes as fruit mere equanimous awareness. It remains as long as there is *saṃsāra* and accomplishes the aims of beings. Known as a wish-fulfilling jewel, it is entirely at peace. (12)
 
 'After one [directly] perceives' etc.: After one directly perceives one's lord and later abandons him, there is as the goal awareness that is merely of a nature that is equanimity.
 The rest is easily understood.
