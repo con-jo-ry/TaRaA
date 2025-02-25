@@ -149,7 +149,7 @@ The rest is easily understood.
 This amounts to saying the following: The fifth goal is, after one directly experiences the nature of the *maṇḍala* circle and later makes it cease, mere equanimous awareness.
 
 ## 6.6 The sixth kind of goal in the Way of Mantra 
-> After one directly perceives the \emph{maṇḍala} whose nature is pleasure, later according to one's wish there is its coming to rest. Neither is there here an absence of [accomplishing] the aims of beings, since from cessation there is manifestation.
+> After one directly perceives the \emph{maṇḍala} whose nature is pleasure, later according to one's wish there is its coming to rest. Neither is there here an absence of [accomplishing] the aims of beings, since from cessation there is manifestation. (13)
 
 "After one directly perceives" and so forth: 
 After one directly perceives the maṇḍala which is infused with pleasure (*sātasaṃvalita*), there is its coming to rest (*nirvṛti*), i.e. its stoppage (*nirodha*), according to one's wish (*svecchā*).
@@ -163,7 +163,7 @@ For, from the compassion-infused (*karauṇāsaṃvalita*) [maṇḍala]circle t
 By this he says exactly following: Having directly realized the circle that is completely full of bliss (*sātasaṃpūrṇacakra*), and having established it for as long a time as desired, afterwards one should remain (*sthātavya*) having caused [the circle] to completely cease like [putting out] a lamp. Then again, when there is the desire to benefit beings (*sattvārthābhilāṣa*), having produced another circle from the very [wheel] that was ceased (*niruddha*), one should perform the benefit of beings. Even in the production of another wheel, it is precisely freom the wheel that was stopped long ago that, in accordance with the suitability (*bhavyatā*) of beings to be trained (*vineya*), they attain what is desired (*abhilaṣitaprāpti*). 
 
 ## 6.7 The seventh kind of goal in the Way of Mantra
-> Some say the fruit is cesation, [to be realised] later, after one makes clear a form that is desired among those [other positions]. And because cessation is not different in nature, even though there are different position, [cessation itself] has no distinction.
+> Some say the fruit is cesation, [to be realised] later, after one makes clear a form that is desired among those [other positions]. And because cessation is not different in nature, even though there are different position, [cessation itself] has no distinction. (14)
 
 '... after one makes' and so forth:
 Because any of the fruits from the six [previous] positions is a goal, one directly experiences precisely whichever one desires.
@@ -180,7 +180,7 @@ The meaning is as follows: after directly experience any of the positions, later
 ## 7.1. The first mistaken view
 > Some say that the fourth initiation is the tasting of bodhicitta subsequent to the teaching of the wisdom-knowledge [initiation]. This is inferior. Why? Because all effort in visualisations would be futile, because their result is obtained [at that time]. (15)
 
-'Wisdom-knowledge' etc. Some say that after the teaching of the wisdom-knowledge (prajñājñāna) initiation, the taking (grahaṇa) of bodhicitta in the form of nectar with one's tongue (rasanā) constitutes the fourth (turya = caturtha) initiation. And that is 'inferior' (avara) or deficient, which is to say vile (hīna). Why is it inferior? Because all effort (prayāsa), i.e. that practices taught by the tathāgatas, carried out in the meditations on mantras, mudrās, and the forms of deities, etc., becomes futile. Why? Because the result - the fruit to be accomplished through visualization - is already established/attained at the time of tasting bodhicitta, meaning there is no other superior result to be achieved."
+'Wisdom-knowledge' etc. Some say that after the teaching of the wisdom-knowledge (prajñājñāna) initiation, the taking (grahaṇa) of bodhicitta in the form of nectar with one's tongue (rasanā) constitutes the fourth (turya = caturtha) initiation. And that is 'inferior' (avara) or deficient, which is to say vile (hīna). Why is it inferior? Because all effort (prayāsa), i.e. that repeated practices taught by the tathāgatas, carried out in the meditations on mantras, mudrās, and the forms of deities, etc., becomes futile. Why? Because the result - the fruit to be accomplished through visualization - is already established/attained at the time of tasting bodhicitta, meaning there is no other superior result to be achieved."
 
 ## 7.2. The second mistaken view
 > [Some] say that the fourth initiation is the enjoyment (*āsvāda*) of women (*rāmā*) who are met with after the wisdow-knowledge [initiation]. This is reprehensible (*adhama*). For, all of the efforts in meditation and the like taught by the Buddha would end up being useless. (16)
@@ -192,100 +192,104 @@ The rest has already been understood.
 
 ## 7.3. Explanation of the scripture
 Now 'The fourth is that again in that way' is explained.
-'The fourth' is called the fourth in reference to the prajñājñāna initiation, which is the third.
+'The fourth' is called the fourth in reference to the *prajñājñāna* initiation, which is the third.
 'That': With the word 'that', just that *prajñājñāna* [initiation] is referred to having that nature of the [fourth].
 'Again': With the word again, a difference from that [*prajñājñāna* is expressed].
 And here, the difference is characterised by a being in flow that is undefiled (*anāsrava*), unexcelled (*niruttara*), developed to the extreme (*atyantasphīta*), and unbroken in its continuity. 
 'In that way': The words 'in that way' directly express similarity (*tādṛśatva*).
-And similarity is that just as the *prajñājñāna* has arisen with through certain requisites (*sāmagrī*) that include (*yukta*) a *prajñā* and so forth, so too later [the Fourth arises] just that with, with just those sorts of requisites. 
+And similarity is that just as (*yathā*) the *prajñājñāna* has arisen by certain requisites (*sāmagrī*) that include (*yukta*) a *prajñā* and so forth, so too later [the Fourth arises] just like that (*tathā* + *eva*) by just those sorts of requisites. 
 
-And here one should understand the meaning based on a mark-marked relationship.
-By it something is marked; hence, the *prajñājñāna* is the mark when it is experienced.
-For, given the principle that 'there is no cognition of the qualified (*viśeṣyabuddhi*) without having grasped the qualifier (*agṛhītaviśeṣaṇa*)', it cannot be a mark without being experienced.
-By this [marker] it is marked, known, or made known; hence, fourth, which is about to be directly experienced, is the marked.
+And here one should understand (*boddhavya*) the meaning based on a marker-marked relationship (*lakṣyalakṣaṇabhāva*).
+By it something is marked; hence, the *prajñājñāna* is the marker when it is experienced.
+For, given the principle that 'there is no cognition of the qualified (*viśeṣyabuddhi*) without having grasped the qualifier (*agṛhītaviśeṣaṇa*)', [something/it] cannot be a marker without being experienced.
+By this [marker] it is marked (√*lakṣ*), known (√*jñā*), or made known (*prati*-√*pad*); hence, fourth, which is about to be directly experienced [soon after the third (?)], is the marked (*lakṣya*).
 
 ## 7.4 The third mistaken view
 Here some say that there is no fourth.
-[And if one says:] 'But there exists a word for the [fourth], namely this: "The fourth [is that again in that way]".
-So how can you say it doesn't exist?'
-True, for the sake of the protection (*saṃrakṣā*) of the pith instructions (*upadeśa*) and in order to bewilder (*vyāmohana*) ordinary beings (*sattva*), the Blessed One used the word 'fourth' to teach none other than the third.
-Otherwise, he would have said 'that again'.
+[Some may object:] 'But there exists a word for the [fourth] (*tatpada*), namely this: "The fourth [is that again in that way]".
+So, how can you say it doesn't exist?'
+True, for the sake of the protection (*saṃrakṣā*) of the pith instructions (*upadeśa*) and in order to bewilder (*vyāmohana*) ordinary beings (*sattva*), the Blessed One used the word 'fourth' (*caturthaśabde*) to teach none other than the third (*tṛtīya*).
+Otherwise (*anyathā*), he wouldn't have said 'that again' (*tat punar*).
 
-This is completely incoherent.
-The fourth, which is established by reliable knowledge, has been taught and is about to be taught.
+This is completely incoherent (*atyantāsaṃgata*).
+The fourth, which is established by reliable means of knowledge (*pramāṇasiddha*), has been taught and is about to be taught.
 
 ## 7.5 Investigation of the target
-Now, the marker, the *prajñājñāna*, is of course known by all.
-On the other hand, there is confusion (*vyāmoha*) about the marked. 
-Therefore, it is analysed [here].
+Regarding this, the marker, the *prajñājñāna*, is of course known (*pratīta*) by all.
+On the other hand (*para*), there is confusion (*vyāmoha*) about the marked. 
+Therefore, it is analysed (√*vi-car*) [here].
 For, the marked should either have the nature of an external object (*artha*) or that of awareness (*jñāna*).
-In the first case, it does not have the nature of an external object, because external objects themselves do not exist, given that, insofar as they are free of (*viyogin*) [a nature that is] one or many, [external] are refuted by valid knowledge.
-And because in the Way of Mantra, it is only the views of the Vijñānavāda and Madhyamaka that predominate, the marked may [be said to] have nature of awareness.
+First of these (*tāvat*), it does not have the nature of an external object, because external objects themselves do not exist, given that, insofar as they are free of (*viyogin*) [a nature that is] unitary or manifold (*ekānekaviyogin*), [external objects] are refuted (*nirākṛta*) by reliable means of knowledge.
+And because in the Way of Mantra, it is only the views of Vijñānavāda and Madhyamaka that predominate, the marked may be said to have nature of awareness (*jñānarūpa*).
 And awareness is either with (*sākāra*) or without forms (*nirākāra*).
 And [awareness] with forms is either has a non-dual variegated nature (*citrādvaita*) or a manifold nature (*anekarūpa*).
 These are the options (*vikalpa*).
 
 ## 7.5.1. Refutation of consciousness with forms
-Of these [options], the of the Nirākāra position say that consciousness (*vijñāna*) with forms (*sākāra*), like flowers in space (*gagaṇakamala*), does not exist in any way (*sarvsthaiva*).
-[Objection:] 'But forms appear having the to perception (*pratyakṣatas*) in the form of blue, yellow, and white etc., and pots, cloths, and carts. And those [forms], owing to the non-existence of external objects (*artha*), must have the nature of none other than consciousness.
+Of these [options], those of the formless position say that consciousness (*vijñāna*) with forms (*sākāra*), like flowers in space (*gagaṇakamala*), does not exist in any way (*sarvsthaiva*).
+[Objection:] 'But forms appear (*prati-√bhās*) as direct perception (*pratyakṣatas*) in the form of blue, yellow, and white etc.; and of pots, cloths, and carts.
+And those [forms], owing to the non-existence (*abhāva*) of external objects (*artha*), must have the nature of none other than cognition (*jñāna*).
 So, how can [consciousness] with forms not exist?'
-True, forms certainly appear, but in a false form.
-Their having a false form is established by their being devoid of [a nature] that is one or many, a fact that is characterised by valid knowledge.
-And this [fact] having the nature of valid knowledge I have taught elsewhere; hence, here it will not be elaborated on.
-And these forms, which like an illusion are established to be false, appear in the form of error (*bhrānti*).
-And when there is cessation (*nivṛtti*) of error, [consciousness that is] entirely formless like a pure crystal remains established (*siddha*) as ultimately existent (*pāramārthika*).
-Therefore, the two options are dispelled that consciousness with forms exists which is either variegated non-dual in nature or manifold in nature.
+True, forms certainly appear, but in a false nature (*alīkarūpa*).
+Their having a false nature is established by their being devoid of [a nature] that is unitary or manifold, a fact that is a valid means of knowledge (*pramāṇalakṣaṇa*).
+And this [fact] being in nature a valid means of knowledge (*pramāṇasvarūpa*) I have taught elsewhere; [hence,] here it will not be elaborated on (*pra-√tan*).
+And mental forms (*ākāra*), which like an illusion are established to be false, appear in having the nature of error (*bhrāntirūpa*).
+And when there is the cessation (*nivṛtti*) of error, [consciousness that] like a pure crystal is entirely formless [remains] established (*siddha*) as ultimately existent (*pāramārthika*).
+Therefore, the pair of options (*vikalpadvaya*) are dispelled (*nirasta*) that consciousness with forms exists which is either (a) variegated non-dual in nature or (b) manifold in nature.
 
 ## 7.5.2. Establishing consciousness that is formless
-[Objection:] 'Consciousness without forms too is not even observed in dreams to meet the conditions for perception (*upalabdhilakṣaṇaprāpta*).
+[Objection:] 'Consciousness (*vijñāna*) without forms (*nirākara*) too is not even observed in dreams (*svapna*) to meet the conditions for perception (*upalabdhilakṣaṇaprāpta*).
 So how can you say that it exists ultimately?'
 The response is as follows:
-Consciousness with the form of pleasure is indeed experienced being without forms, its nature bursting forth/manifesting (*parisphurat*) internally (*antar*).
-As for the forms of blue and the like, they appears being false.
-Otherwise, were they to be real, absolutely all forms would be real.
-To explain: even, for example, the dichotomy of perceiver and perceived would be real, and, due do that, it would follow that absolutely everybody would have liberation given the real appearances [of all forms].
-For, false appearances that erroneous in nature would not appear to anyone. 
+Consciousness with the form of pleasure (*sukhākāra*) is indeed experienced being without forms, its nature bursting forth/manifesting (*parisphurat*) internally (*antar*).
+As for (*punar*) the forms of blue and the like, they appear being false.
+Otherwise (*anyathā*), were they to be real (*satya*), absolutely all forms would be real.
+To explain: even (*api*), for example (*ādi*), the dichotomy of perceiver and perceived (*grāhyagrāhakabhāva*) would be real, and, due to that, it would follow that absolutely everybody would have liberation (*mukti*) given the real appearances (*satyapratibhāsa*) [of all forms].
+For, false appearances that are erroneous (*bhrāntirūpa*) would not appear to anyone. 
 And it is taught:
 
-> Reality should be seen according to reality. Seers of reality are liberated.
+> Reality should be seen according to reality. The seer of reality is liberated.
 
-Therefore, even unwillingly, the forms of blue and the like should be accepted to be false.
+Therefore, even if you are unwilling (*akāmaka*), you must accept (*iṣṭavya*) the forms of blue and the like (*nīlādyākāra*) to be nothing but false (*alīka*).
 [Consciousness] with pleasure and the like, which is [in fact] formless, is perceived to be real.
 So how is it not perceived [at all]?
 
-[Objection:] 'But a consciousness that has the forms of pleasure and so forth is observed to be none other than [a consciousness] with forms, becuase pleasure and the like are forms in nature. And it is not the case that a cognition empty of the forms of pleasure and the like is perceived, even in a dream. And even in saying, "On the eighth stage [formless cognition] meets the conditions for perception because from it all error has passed away", there is no reliable knowledge that establishes the existence [of such a cognition], apart from you drinking the pledge water.'
-This is wrong, because you have not understood the intention, since we assert that consciousness that only has forms of pleasure and so forth and that is devoid of the forms of blue and so forth is formless.
-And all sentient beings have that right here and now, established by the valid knowledge of self awareness (*svasaṃvedana*).
-So how is it now perceived?
+[Objection:] 'But a consciousness with the mental forms of pleasure and so forth is seen to be none other than [a consciousness] with forms, because pleasure and the like (*sukhādi*) are forms in nature (*ākārasvabhāva*).
+And it is not the case that a cognition empty of the mental forms such as pleasure is experienced, even in a dream.
+And even in saying, "On the eighth stage [formless cognition] meets the conditions for perception from the passing away of all error (*sakalabhrāntivigama*)", there is no means of knowledge that establishes the existence [of such a cognition], apart from drinking the pledge water.'
+This is wrong, because you have not understood the intention (*abhiprāyāparijñāna*), since we assert that consciousness that has only mental forms of pleasure and so forth and that is devoid of the forms of blue and so forth is, [in fact], formless.
+And all sentient beings (*sakalaprāṇabhṛt*) have that [kind of cognition] right here and now, established by the valid means of knowledge that is self awareness (*svasaṃvedanapramāṇa*).
+So how is [such a cognition] not perceived?
 
 ### 7.5.3. Establishing the Madhyamaka position
-[New position:] 'But that [formless cognition] too, because it lacks a nature that is either unitary or manifold, is entirely false (*alika*), mere error (*brāntimātra*).
-For, being without a nature that is unitary or manifold is a pervading property (*vyāpin*) of consciousness [both] with and without forms.
+[New position:] 'But that [formless cognition] too, because it lacks a nature that is either unitary or manifold (*ekānekasvabhāvaviyoga*), is entirely false (*alīka*) and mere error (*bhrāntimātra*).
+For, being without a nature that is unitary or manifold (*ekānekasvabhāvarahitatva*) is a pervading property (*vyāpin*) of consciousness [both] with and without forms.
 
-[Objection:] 'By this principle, because the falseness of all consciousness, whether with or without forms, is established, ultimately there exists no object-reality whatsoever.
-So how can the nature of the marked be characterised (*upalakṣayitavya*) through valid means of knowledge?'
-This is not a fault, for in the Madhyamaka view, even though its falseness is established by a valid means of knowledge, mere illusion-like appearance, devoid of a nature that is unitary or manifold, is not refuted as a property possessor.
-And in that very false mere appearance, the individual establishment is unimpeded for the marked and marker, *saṃsāra* and *nirvāṇa*, meditations on the maṇḍala circle etc., and the accomplishment of the aims of all beings.
+[Objection:] 'Because of establishing (*prasādhana*) by this principle (*nyāya*) the falseness (*alīkatva*) of all consciousness, whether with or without forms, ultimately there exists no object-reality (*vastutattva*) whatsoever.
+So how can the nature (*svarūpa*) of the marked (*lakṣya*) be characterised (*upalakṣayitavya*) through a valid means of knowledge (*pramāṇa*)?'
+[Response:] This is not a fault, for in the Madhyamaka view, even though its falseness is established by a valid means of knowledge, mere illusion-like appearance (*māyopamapratibhāsamātra*), devoid of a nature that is unitary or manifold, is not refuted (*apratiṣedha*) as a property possessor (*dharmin*).
+And in that very false mere appearance, the individual establishment (*vyavasthā*) is unimpeded (*avyāhata*) of the marked and marker (*lakṣyalakṣaṇa*), *saṃsāra* and *nirvāṇa*, meditations on the *maṇḍala* circle etc., and the accomplishment of the aims of all beings (*sakalajagadarthakriyā*).
 And as it is taught:
 
-> One accomplishes the state of a buddha, that of Vajrasattva just conventionally.
+> One accomplishes the state of a buddha (*buddhatva*), that of Vajrasattva, just conventionally (*saṃvṛti*).
 
-[Objection:] But all types of things are, insofar as they are false, pointless (*niḥsāra*). In that case,why make the effort of meditating on the *maṇḍala* circle and so forth? That is incorrect, for it is said:
+[Objection:] But all types of things, insofar as they are false, are essenceless (*niḥsāra*).
+In that case (*tadā*), why put effort into meditating on the *maṇḍala* circle and so forth?'
+[Response:] That is incorrect, for it is said:
 
-> Even though there is no person who is liberated (moktṛ), there is effort to remove false superimposition.
+> Even though there is no person who is liberated (*moktṛ*), there is effort to remove false superimposition.
 
-Even though there is no ultimate (*pāramārthika*) nature of entities (*vasturūpa*) when analysed (*vicāryamāṇa*), all sentient beings (*sakalaprāṇabhṛt*) still have the longings of 'May I be happy' and 'May I not suffer'.
-For example: even though good (*śubha*) and bad dreams (*aśubha*) are equally (*tulya*) false (*mithyā*), one is pleased (*saumanasya*) after one sees a good dream, and one is upset (*daurmanasya*) after one sees a bad dream and engages (*pravṛtti*) in [activities] such as reciting the scriptures (*saddharmapāṭha*) and repeating mantras (*mantrajāpa*).
-Similarly, even though there is no difference (*aviśeṣa*) [in anything] in its being false (*mithyātva*), in order to eliminate ordinary conceptual thought (*prākṛtavikalpa*) of suffering and so forth, and in order to attain the characteristics of perfect awakening, reflective people (*prekṣāvat*) who desire a goal become active.
+Even though when analysed (*vicāryamāṇa*) there is no ultimate (*pāramārthika*) nature of entities (*vasturūpa*), all sentient beings (*sakalaprāṇabhṛt*) still have the longings (*tṛṣṇā*) of 'May I be happy' and 'May I not suffer'.
+For example (*yathā*), even though good (*śubha*) and bad dreams (*aśubha*) are equally (*tulya*) false (*mithyā*), one is pleased (*saumanasya*) after one sees a good dream, and one is upset (*daurmanasya*) after one sees a bad dream and engages (*pravṛtti*) in [activities] such as reciting the scriptures (*saddharmapāṭha*) and repeating mantras (*mantrajāpa*).
+Similarly (*tathā*), even though there is no difference (*aviśeṣa*) [in anything] in its being false (*mithyātva*), in order to eliminate ordinary conceptual thought (*prākṛtavikalpa*) of suffering and so forth, and in order to attain the characteristics (*lakṣaṇa*) of perfect awakening (*samyaksaṃbodhi*), reflective people (*prekṣāvat*) who desire a goal (*arthin*) become active (*pravṛtti*).
 
-# 8 Evaluating the seven types of goals
-[Objection:] But the purpose for which this discussion was begun has been lost.
-To explain: the consideration of the marked and marker was introduced here, and that has been forgotten—it's not known where it has gone.
+# 8. Evaluating the seven types of goals
+[Objection:] 'But the purpose (*artha*) that was the purpose for this composition (*ārambha*) has been lost (*pralaya*).
+To explain: the consideration (*cintā*) of the marker and marked was introduced as the topic (*prastūta*) here, and that has been forgotten—it's not known where it has gone.'
 
 Didn't I finish that already with the seven divisions?
 
-True, but there's the *guḍa* and *gorasa* principle.
-To explain: we do not know which is the best and which is not. 
+True, but [you did so] with the *guḍa* and *gorasa* principle. To explain: we do not know which is the best and which is not. 
 
 I will address this:
 
