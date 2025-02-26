@@ -202,38 +202,39 @@ And similarity is that just as (*yathā*) the *prajñājñāna* has arisen by ce
 And here one should understand (*boddhavya*) the meaning based on a marker-marked relationship (*lakṣyalakṣaṇabhāva*).
 By it something is marked; hence, the *prajñājñāna* is the marker when it is experienced.
 For, given the principle that 'there is no cognition of the qualified (*viśeṣyabuddhi*) without having grasped the qualifier (*agṛhītaviśeṣaṇa*)', [something/it] cannot be a marker without being experienced.
-By this [marker] it is marked (√*lakṣ*), known (√*jñā*), or made known (*prati*-√*pad*); hence, fourth, which is about to be directly experienced [soon after the third (?)], is the marked (*lakṣya*).
+By this [marker] it is marked (√*lakṣ*), known (√*jñā*), or made known (*prati*-√*pad*); hence, the fourth, which is about to be directly experienced [soon after the third (?)], is the marked (*lakṣya*).
+% vyājo padeśo √lakṣ
 
 ## 7.4 The third mistaken view
 Here some say that there is no fourth.
-[Some may object:] 'But there exists a word for the [fourth] (*tatpada*), namely this: "The fourth [is that again in that way]".
+[Some may object:] 'But there exists a word for the \[fourth] (*tatpada*), namely this: "The fourth [is that again in that way]".
 So, how can you say it doesn't exist?'
 True, for the sake of the protection (*saṃrakṣā*) of the pith instructions (*upadeśa*) and in order to bewilder (*vyāmohana*) ordinary beings (*sattva*), the Blessed One used the word 'fourth' (*caturthaśabde*) to teach none other than the third (*tṛtīya*).
 Otherwise (*anyathā*), he wouldn't have said 'that again' (*tat punar*).
 
 This is completely incoherent (*atyantāsaṃgata*).
-The fourth, which is established by reliable means of knowledge (*pramāṇasiddha*), has been taught and is about to be taught.
+For, the fourth, which is established by reliable means of knowledge (*pramāṇasiddha*), has been taught and is about to be taught.
 
 ## 7.5 Investigation of the target
 Regarding this, the marker, the *prajñājñāna*, is of course known (*pratīta*) by all.
 On the other hand (*para*), there is confusion (*vyāmoha*) about the marked. 
-Therefore, it is analysed (√*vi-car*) [here].
+[Therefore,] it is analysed (√*vi-car*) [here].
 For, the marked should either have the nature of an external object (*artha*) or that of awareness (*jñāna*).
 First of these (*tāvat*), it does not have the nature of an external object, because external objects themselves do not exist, given that, insofar as they are free of (*viyogin*) [a nature that is] unitary or manifold (*ekānekaviyogin*), [external objects] are refuted (*nirākṛta*) by reliable means of knowledge.
 And because in the Way of Mantra, it is only the views of Vijñānavāda and Madhyamaka that predominate, the marked may be said to have nature of awareness (*jñānarūpa*).
 And awareness is either with (*sākāra*) or without forms (*nirākāra*).
-And [awareness] with forms is either has a non-dual variegated nature (*citrādvaita*) or a manifold nature (*anekarūpa*).
+And [awareness] with forms for its part is either a non-dual variegated nature (*citrādvaita*) or a manifold nature (*anekarūpa*).
 These are the options (*vikalpa*).
 
 ## 7.5.1. Refutation of consciousness with forms
-Of these [options], those of the formless position say that consciousness (*vijñāna*) with forms (*sākāra*), like flowers in space (*gagaṇakamala*), does not exist in any way (*sarvsthaiva*).
-[Objection:] 'But forms appear (*prati-√bhās*) as direct perception (*pratyakṣatas*) in the form of blue, yellow, and white etc.; and of pots, cloths, and carts.
+Of these [options], those of the formless position say that consciousness (*vijñāna*) with forms (*sākāra*), like lotus in the sky (*gaganakamala*), does not exist in any way (*sarvathaiva*).
+[Objection:] 'But forms appear (*prati-√bhās*) directly to perception (*pratyakṣatas*) in the shape of blue, yellow, and white etc.; and of pots, cloths, and carts etc..
 And those [forms], owing to the non-existence (*abhāva*) of external objects (*artha*), must have the nature of none other than cognition (*jñāna*).
 So, how can [consciousness] with forms not exist?'
 True, forms certainly appear, but in a false nature (*alīkarūpa*).
-Their having a false nature is established by their being devoid of [a nature] that is unitary or manifold, a fact that is a valid means of knowledge (*pramāṇalakṣaṇa*).
+And their having a false nature is well established by their being devoid of [a nature] that is unitary or manifold, a fact that is a valid means of knowledge (*pramāṇalakṣaṇa*).
 And this [fact] being in nature a valid means of knowledge (*pramāṇasvarūpa*) I have taught elsewhere; [hence,] here it will not be elaborated on (*pra-√tan*).
-And mental forms (*ākāra*), which like an illusion are established to be false, appear in having the nature of error (*bhrāntirūpa*).
+And mental forms (*ākāra*), which like an illusion are established to be false, appear having the nature of error (*bhrāntirūpa*).
 And when there is the cessation (*nivṛtti*) of error, [consciousness that] like a pure crystal is entirely formless [remains] established (*siddha*) as ultimately existent (*pāramārthika*).
 Therefore, the pair of options (*vikalpadvaya*) are dispelled (*nirasta*) that consciousness with forms exists which is either (a) variegated non-dual in nature or (b) manifold in nature.
 
@@ -257,7 +258,7 @@ So how is it not perceived [at all]?
 [Objection:] 'But a consciousness with the mental forms of pleasure and so forth is seen to be none other than [a consciousness] with forms, because pleasure and the like (*sukhādi*) are forms in nature (*ākārasvabhāva*).
 And it is not the case that a cognition empty of the mental forms such as pleasure is experienced, even in a dream.
 And even in saying, "On the eighth stage [formless cognition] meets the conditions for perception from the passing away of all error (*sakalabhrāntivigama*)", there is no means of knowledge that establishes the existence [of such a cognition], apart from drinking the pledge water.'
-This is wrong, because you have not understood the intention (*abhiprāyāparijñāna*), since we assert that consciousness that has only mental forms of pleasure and so forth and that is devoid of the forms of blue and so forth is, [in fact], formless.
+This is wrong, because you have not understood the intention (*abhiprāyāparijñāna*), since we accept that consciousness that has only mental forms of pleasure and so forth and that is devoid of the forms of blue and so forth is, [in fact], formless.
 And all sentient beings (*sakalaprāṇabhṛt*) have that [kind of cognition] right here and now, established by the valid means of knowledge that is self awareness (*svasaṃvedanapramāṇa*).
 So how is [such a cognition] not perceived?
 
