@@ -197,11 +197,11 @@ Now 'The fourth is that again in that way' is explained.
 'Again': With the word again, a difference from that [*prajñājñāna* is expressed].
 And here, the difference is characterised by a being in flow that is undefiled (*anāsrava*), unexcelled (*niruttara*), developed to the extreme (*atyantasphīta*), and unbroken in its continuity. 
 'In that way': The words 'in that way' directly express similarity (*tādṛśatva*).
-And similarity is that just as (*yathā*) the *prajñājñāna* has arisen by certain requisites (*sāmagrī*) that include (*yukta*) a *prajñā* and so forth, so too later [the Fourth arises] just like that (*tathā* + *eva*) by just those sorts of requisites. 
+And the similarity is that just as (*yathā*) the *prajñājñāna* has arisen by certain requisites (*sāmagrī*) that include (*yukta*) a *prajñā* and so forth, so too later [the Fourth arises] just like that (*tathā* + *eva*) by just those sorts of requisites. 
 
 And here one should understand (*boddhavya*) the meaning based on a marker-marked relationship (*lakṣyalakṣaṇabhāva*).
-By it something is marked; hence, the *prajñājñāna* is the marker when it is experienced.
-For, given the principle that 'there is no cognition of the qualified (*viśeṣyabuddhi*) without having grasped the qualifier (*agṛhītaviśeṣaṇa*)', [something/it] cannot be a marker without being experienced.
+By it something is marked; hence, the marker is the *prajñājñāna* when it is being experienced.
+For, given the principle that 'there is no cognition of the qualified (*viśeṣyabuddhi*) without its having grasped the qualifier (*agṛhītaviśeṣaṇa*)', [something/it] cannot be a marker without being experienced.
 By this [marker] it is marked (√*lakṣ*), known (√*jñā*), or made known (*prati*-√*pad*); hence, the fourth, which is about to be directly experienced [soon after the third (?)], is the marked (*lakṣya*).
 % vyājo padeśo √lakṣ
 
@@ -263,25 +263,25 @@ And all sentient beings (*sakalaprāṇabhṛt*) have that [kind of cognition] r
 So how is [such a cognition] not perceived?
 
 ### 7.5.3. Establishing the Madhyamaka position
-[New position:] 'But that [formless cognition] too, because it lacks a nature that is either unitary or manifold (*ekānekasvabhāvaviyoga*), is entirely false (*alīka*) and mere error (*bhrāntimātra*).
+[New position:] 'But that [formless cognition] too, by lacking a nature that is either unitary or manifold (*ekānekasvabhāvaviyoga*), is entirely false (*alīka*) and mere error (*bhrāntimātra*).
 For, being without a nature that is unitary or manifold (*ekānekasvabhāvarahitatva*) is a pervading property (*vyāpin*) of consciousness [both] with and without forms.
 
-[Objection:] 'Because of establishing (*prasādhana*) by this principle (*nyāya*) the falseness (*alīkatva*) of all consciousness, whether with or without forms, ultimately there exists no object-reality (*vastutattva*) whatsoever.
-So how can the nature (*svarūpa*) of the marked (*lakṣya*) be characterised (*upalakṣayitavya*) through a valid means of knowledge (*pramāṇa*)?'
-[Response:] This is not a fault, for in the Madhyamaka view, even though its falseness is established by a valid means of knowledge, mere illusion-like appearance (*māyopamapratibhāsamātra*), devoid of a nature that is unitary or manifold, is not refuted (*apratiṣedha*) as a property possessor (*dharmin*).
+[Objection:] 'Because of by this principle (*nyāya*) establishing (*prasādhana*) the falseness (*alīkatva*) of all consciousness, whether with or without forms, there [then] exists no ultimate (*pāramārthika*) object-reality (*vastutattva*) whatsoever.
+So how can the nature (*svarūpa*) of the marked (*lakṣya*) be identified (*upalakṣayitavya*) through a valid means of knowledge (*pramāṇa*)?'
+[Response:] This is not a fault, for in the Madhyamaka view, mere illusion-like appearance (*māyopamapratibhāsamātra*) that devoid of a nature that is unitary or manifold, even though its falseness is established by a valid means of knowledge, is not refuted (*apratiṣedha*) as a property possessor (*dharmin*).
 And in that very false mere appearance, the individual establishment (*vyavasthā*) is unimpeded (*avyāhata*) of the marked and marker (*lakṣyalakṣaṇa*), *saṃsāra* and *nirvāṇa*, meditations on the *maṇḍala* circle etc., and the accomplishment of the aims of all beings (*sakalajagadarthakriyā*).
 And as it is taught:
 
-> One accomplishes the state of a buddha (*buddhatva*), that of Vajrasattva, just conventionally (*saṃvṛti*).
+> Only conventionally (*saṃvṛti*) does one accomplish the state of a buddha (*buddhatva*), that of Vajrasattva.
 
-[Objection:] But all types of things, insofar as they are false, are essenceless (*niḥsāra*).
+[Objection:] 'But all types of things (*vastujāta*), insofar as they are false in nature (*alīkarūpa*), are essenceless (*niḥsāra*).
 In that case (*tadā*), why put effort into meditating on the *maṇḍala* circle and so forth?'
-[Response:] That is incorrect, for it is said:
+[Response:] This is incorrect, for it is said:
 
-> Even though there is no person who is liberated (*moktṛ*), there is effort to remove false superimposition.
+> Even though there is no person who is liberated (*moktṛ*), there is effort to remove (*hāna*) false superimposition (*mithyādhyāropa*).
 
-Even though when analysed (*vicāryamāṇa*) there is no ultimate (*pāramārthika*) nature of entities (*vasturūpa*), all sentient beings (*sakalaprāṇabhṛt*) still have the longings (*tṛṣṇā*) of 'May I be happy' and 'May I not suffer'.
-For example (*yathā*), even though good (*śubha*) and bad dreams (*aśubha*) are equally (*tulya*) false (*mithyā*), one is pleased (*saumanasya*) after one sees a good dream, and one is upset (*daurmanasya*) after one sees a bad dream and engages (*pravṛtti*) in [activities] such as reciting the scriptures (*saddharmapāṭha*) and repeating mantras (*mantrajāpa*).
+Even though under analysis (*vicāryamāṇa*) there is no ultimate (*pāramārthika*) nature of entities (*vasturūpa*), all sentient beings (*sakalaprāṇabhṛt*) still have the longings (*tṛṣṇā*) [such as] 'May I be happy' and 'May I not suffer'.
+For example (*yathā*), even though good (*śubha*) and bad dreams (*aśubha*) are equally (*tulya*) false (*mithyā*), one is pleased (*saumanasya*) after one sees a good dream, and one is upset (*daurmanasya*) after one sees a bad dream and [so one] engages (*pravṛtti*) in [activities] such as reciting the scriptures (*saddharmapāṭha*) and repeating mantras (*mantrajāpa*).
 Similarly (*tathā*), even though there is no difference (*aviśeṣa*) [in anything] in its being false (*mithyātva*), in order to eliminate ordinary conceptual thought (*prākṛtavikalpa*) of suffering and so forth, and in order to attain the characteristics (*lakṣaṇa*) of perfect awakening (*samyaksaṃbodhi*), reflective people (*prekṣāvat*) who desire a goal (*arthin*) become active (*pravṛtti*).
 
 # 8. Evaluating the seven types of goals
@@ -294,7 +294,7 @@ True, but [you did so] with the *guḍa* and *gorasa* principle. To explain: we 
 
 I will address this:
 
-## 8.1. The problem with the first
+## 8.1. The problem with the first position
 Because it lacks the sequence established in the Way of Mantra (*mantranayavihitakrama*), because meditation on union (*samāpatti*) would be in vain, and because it lacks reasoning (*yukti*) (?), the first [*sādhya*] misses the point (*niḥsāra*).
 To explain: that which has complete causal requisites (*samagrasāmagrīka*) will definitely happen (*√bhū*).
 Otherwise, [if it does not happen], it is indeed not complete in its causal requisites. 
@@ -302,82 +302,86 @@ In the state of direct experience [of the fourth/the goal], That [i.e., Great Bl
 So, That must necessarily be there.
 Being there, the first [goal] is refuted.
 
-## 8.2. The problem with the second
+## 8.2. The problem with the second position
 Because the nature of isolated bliss (*kevalasāta*), empty of the forms of bodies and so forth, is not perceived [i.e., does not exist], the second [goal] is without merit (*sāratā*).
-To explain: Reflective people (*prekṣāvat*) will meditate on what is confirmed (*niścita*) by valid means of knowledge and not just anything whatsoever (*yathākiñcit*).
+To explain: Reflective people (*prekṣāvat*) will meditate on what is confirmed (*niścita*) by valid means of knowledge and not just in any way whatsoever (*yathākiñcit*).
 And at all times (*sarvadā*), it is only [a goal] whose nature is connected (*saṃvalita*) to a valid means of knowledge that is perceived.
 Just that appears (*prati-√bhās*) to sentient beings as desirable (*kamanīya*).
-Therefore, because there is no desire (*ruci*) for the isolated (*kevala*), because it is not perceived to be connected to the forms of the [*maṇḍala*] circle, and because it cannot be directly experienced, the second [goal] is just an imaginary idea.
+Therefore, because there is no desire (*ruci*) for the isolated (*kevala*), because it is not perceived to be connected to the forms of the [*maṇḍala*] circle, and because it cannot be directly experienced, the second [goal] is just an imaginary idea (*kalpanāmātra*).
 
-## 8.3. The problem with the third
-Because one cannot abandon (*tyaj*) [one thing] that has become a part of something given that it has the nature of an irrefutable (*nirupadrava*) real thing (*bhūtārtha*), and because that whose nature is intermixed (*saṃvalita*) lacks division, and because there is no purpose [for abandoning part of it], the third position is not good.
+## 8.3. The problem with the third position
+Because it is impossible to abandon (√*tyaj*) something that has become integrated into [another thing's] essence (*sātmībhūta*), given that it possesses the nature of an irrefutable reality (*nirupadravabhūtārtha*); and because that whose nature is intermixed (*saṃvalita*) lacks division; and because there is no purpose [for abandoning part of such a thing], the third position is not good.
 To explain: when [two things] are established to be identical (*tādātmyasiddhi*) because they are [always] perceived together (*sahopalabdha*), if one is cast aside (*parityāga*), the other one too will certainly (*avaśya*) be cast aside—otherwise, neither is.
 
-## 8.2. Evaluating the fourth
-Because, owing to its manifoldness (*prapañca*), it involves a lot of effort (*bahuprayāsa*); and because, owing to its inability to withstand analysis (*vicārāsaha*), it is has the nature of error (*bhrāntirūpa*) and not that of ultimate reality (*paramārtha*), the position following the third (*tṛtīyāntapakṣa*) is not good (*kalyāṇa*).
+## 8.2. Evaluating the fourth position
+Because, owing to its manifoldness (*prapañca*), it involves a lot of effort (*bahuprayāsa*); and because, owing to its inability to withstand analysis (*vicārāsaha*), it has the nature of error (*bhrāntirūpa*) and not that of ultimate reality (*paramārtha*), the position following the third (*tṛtīyāntapakṣa*) is not good (*kalyāṇa*).
 About this some people (*kecit*) describe (√*varṇ*) [the aforementioned] reasoning (*yukti*) [as follows]:
-Even in the absence of that which involves the manifold (*prapañcarūpa*), until through repeated meditation on the subtle (*sūkṣma*)—namely, the drop(s) and so forth—there is direct experience (*sākṣātkaraṇa*) [of the goal], effort applied (*prayāsa*) to the objects of meditation (*bhāvyavastu*) is everywhere (*sarvatraiva*) present (*sam-√bhū*).
-If here one is afraid of effort (*prayāsabhaya*), then nothing whatsoever should be meditated upon (*bhāvanīya*).
+Even in the absence of being manifold in nature (*prapañcarūpa*), until through repeated meditation on the subtle (*sūkṣma*) (namely, the drops and so forth) there is direct experience (*sākṣātkaraṇa*) [of the goal], effort applied (*prayāsa*) to the objects of meditation (*bhāvyavastu*) is everywhere (*sarvatraiva*) present (*sam-√bhū*).
+So, if here one is afraid of effort (*prayāsabhaya*), then nothing whatsoever should be meditated upon (*bhāvanīya*).
 
-[Objection:] `[The fourth goal is invalid] because it involves manifoldness (*prapañcarūpa*).'
+[Objection:] '[The fourth goal is invalid] because it involves manifoldness (*prapañcarūpa*).'
 [Response:] During the meditative state (*bhāvanāvasthā*), what is the difference between the manifold (*prapañca*) and the non-manifold (*aprapañca*)?
-[Objection:] `The difference is that the non-manifold (*aprapañca*) more quickly (*śīghra*) becomes stable (*sthira*).'
-The mind (*citta*) becomes stable (*sthira*) with respect to precisely whichever object (*ālambana*) it is continuously (*nirantara*) and for a long time (*dīrghakāla*) repeatedly directed on (*pra-√īr*). 
-About this there are reasoning and scriptural citations.
+[Objection:] 'The difference is that the non-manifold (*aprapañca*) more quickly (*śīghra*) becomes stable (*sthira*).'
+The mind (*citta*) becomes stable (*sthira*) with respect to precisely whichever object (*ālambana*) it is continuously (*nirantara*) and for a long time (*dīrghakāla*) repeatedly (*punar punaḥ*) directed on (*pra-√īr*). 
+About this there is reasoning (*yukti*) and scriptural (*āgama*).
 As it is taught:
 
 > Precisely whatever is meditated on (*abhi-√bhū*), whether real or not, will have as its result a clear (*sphuṭa*), non-conceptual (*akalpa*) cognition (*dhī*) when meditation becomes powerful (*bhāvanābalaniṣpatti*). 
 
 Also:
 
-> Oh the laziness! Oh the foolishness! Oh these people's distortion of true meaning! For, that Buddhahood, which is tied to their own mere minds, is not served/pursued (na sevyate), though it resides so near.
+> Oh the laziness (*kusīdatva*)! Oh the foolishness (*vimūḍhatā*)! Oh these people's distortion (*vakratā*) of true meaning (*sadartha*)! For (*yat*), that Buddhahood, which is tied (*pratibaddha*) to their own mere minds (*svacittamātra*), is not served/pursued (*√sev*), though it resides so near (*adūravartin*).
 
 Therefore, this is not the difference.
+\[And the criticism that the goal is invalid because it is manifold is not supported].
 
-Also, the ultimate unreality due to [everything] having an erroneous nature exists in all objects of meditation and in [all] objects, and so [if you criticize the goal on this ground], there would be nothing at all to meditate on.
-And therefore, meditation in the path to liberation would be in every case useless.
-If you say that 'What is being meditated upon from the non-manifest, although erroneous in nature, becomes flawless through engaging in meditation in accordance with forms being illusion-like,' [we respond that] this engagement with illusory forms is the same for the manifest world as well; so in that case too, where is the opportunity for fault?
-Therefore, whether manifest or non-manifest, whatever appeals to you—whether it is consistent with valid means of knowledge or not—that alone should be meditated upon by those who seek the great human purpose, abandoning laziness.
+Also, ultimate unreality (*aparamārthatva*) by virtue of having an erroneous nature (*bhrāntirūpa*) [is a property that] exists in absolutely all (*sarvatraiva*) objects that comprise the scope of meditation (*bhāvanāviṣaya*), and so [if you criticize the goal on this ground], there would be nothing at all to meditate on (*bhāvanīya*).
+And therefore, meditation (*bhāvanā*) on the path to liberation (*mokṣamārga*) would be useless in every case.
+You may say: 'By engaging [in meditation] in accordance with forms being illusory, [whatever is] meditated on (*bhāvyamāna*), being [thus] non-manifold (*aprapañca*), is without fault (*aduṣṭa*), even though it erroneous (*bhrāntirūpa*).
+But this engaging [in meditation] in accordance with forms being illusions is the same (*samāna*) for the manifold (*prapañca*).
+Therefore, whether manifold or non-manifold, whatever appeals (*√ruc*) to one—whether it is consistent (*saṃgata*) with valid means of knowledge or not—that alone should be meditated upon by those who seek Mahāmudrā by abandoning all idleness (*alasya*).
 Enough digression!
 
-But regarding [this position], discerning whether it is valuable or not is to be known only by those who worship a guru.
+But regarding [this position], discerning whether it is valuable or not is to be known only by those who worship a guru (*paryupāsitaguru*).
 
-## 8.5. The problem with the fifth
-Because it has the faults stated for the third position, because, insofar as it is insipid (*nīrasa*), it lacks purpose (*prayojana*), and because it lack the stages of the Way of Mantra, the fifth [position] is not without faults.
+## 8.5. The problem with the fifth position
+Because it has the faults (*doṣa*) stated for the third position; because, insofar as it is insipid (*nīrasa*), it lacks purpose (*prayojana*); and because it lacks the stages (*krama*) of the Way of Mantra, the fifth [position] is not without faults (*parikṣīṇadoṣa*).
 
-[Objection:] 'But there is the application of the Way of Mantra prior to directly experiencing [the goal].'
-[Response:] True, what is to be accomplished is the state of the direct result (*sākṣātphala*), and in that [state], these stages [of the Way of Mantra] are[, according to you,] not directly present.
-And if [these stages] are abandoned (*parityāga*), we do perceive any purpose (*prayojana*) [in this goal].
+[Objection:] 'But there is the application (*prayoga*) of the Way of Mantra prior to directly experiencing [the goal].' [i.e., so its not lacking]
+[Response:] True. The direct result (*sākṣātphala*) [of that application] is to be accomplished (*sādhya*), and in that [state], these stages [of the Way of Mantra] are[, according to you,] not directly (*sākṣāt*) present (*√as*).
+And if [these stages] are abandoned (*parityāga*), we do perceive any purpose (*prayojana*) [in this goal and the means to it].
 
-## 8.6. The problem with the sixth 
-Because it cannot be caused to cease by one's own desire (*svecchā*); because there is no purpose [to stopping it], and because it would lack [the accomplishment of] the aims of beings, the postulation (*kalpanā*) of the division (*prabheda*) following the fifth [division] is not devoid of defects (*kalaṅkā*). 
-To explain: the cessation (*nivṛtti*) of something occurs either through the cessation of its cause (*kāraṇa*) or the cessation of a pervading factor (*vyāpaka*).
-And in this case (*atra*), no terminating cause or pervading factor of the directly experienced *maṇḍala* circle is observed (*√dṛś*) at the time of the desire (*icchā*).
+## 8.6. The problem with the sixth position
+Because it cannot be caused to cease by one's own desire (*svecchā*); because there is no purpose [in stopping it], and because it would lack [the accomplishment of] the aims of beings, the postulation (*kalpanā*) of the type (*prabheda*) [of position] that follows the fifth [position] is not devoid of defects (*kalaṅkā*).
+To explain: the cessation (*nivṛtti*) of something occurs either through the cessation (*nivṛtti*) of its cause (*kāraṇa*) or the cessation of a pervading factor (*vyāpaka*).
+And in this case (*atra*), no terminating (*nivartaka*) cause or pervading factor of the directly experienced *maṇḍala* circle is observed (*√dṛś*) at the time of the desire (*icchā*).
 
-[Objection:] 'But there is none other than emptiness which terminates.
-Just as fire that is ablaze in a mass of firewood reduces all of its fuel to dust and later ceases of its own accord, so the fire of emptiness ablaze in the *maṇḍala* circle, after making it visible, causes the *maṇḍala* circle to cease.'
-[Response:] That is incorrect because the example (*dṛṣṭānta*) does not incongruous (*viṣama*).
-To explain: in [the example], fuel is the cause for fire.
+[Objection:] 'But there is of course (*eva*) emptiness, which terminates (*nivartika*).
+Just as fire (*vahni*) ablaze (*prajvalita*) in a mass of firewood (*dārusaṅghāta*) reduces all of its fuel to ashes and later ceases (*ni-√vṛt*) of its own accord (*svarasatas*), so the fire of the emptiness knowledge ablaze in the *maṇḍala* circle, after making it visible, causes the *maṇḍala* circle to cease.'
+[Response:] That is incorrect because the example (*dṛṣṭānta*) is incongruous (*viṣama*).
+To explain: in (*tatra*) [the example], fuel (*indhana*) is the cause for fire.
 When the cause—namely, fuel—ceases, the cessation of the effect (*kārya*)—namely, fire—is only fitting (*yukta*).
 Here, however, emptiness is not cause of the *maṇḍala* circle.
 So how can there be cessation [of the *maṇḍala* circle] upon the cessation of that [emptiness]?
 Nor is there cessation for emptiness.
 
-[Objection:] 'But it is not a cause; rather, emptiness is a pervading factor.
-When the pervading factor—namely, the tree—ceases, the pervaded—namely, the *śiṃśapā* tree—ceases.
-Like that there is cessation.'
+[Objection:] 'It's true that [emptiness] is not a cause; but emptiness is a pervading factor (*vyāpaka*).
+When the pervading factor (*vyāpaka*)—namely, the tree—ceases, the pervaded (*vyāpya*)—namely, its being a *śiṃśapā* tree—ceases.
+Like that there is cessation [in this case too].'
 That too is without merit (*asāra*).
-To explain: emptiness is forever a pervading factor of the *maṇḍala* of all knowable objects as their reality.
-But it is not the case that there is ever its cessation.
+To explain: emptiness is forever (*sarvadā*) a pervading factor of the *maṇḍala* of all knowable objects (*sarvajñeyamaṇḍala*) as their true reality (*tattva*).
+But it's not the case that there is ever its cessation.
 If there were, then there could be cessation before or immediately after the direct experience of true and perfect awakening.
-And that is not the case, because you yourself accept that after becoming a complete and perfect buddha one remains for a certain amount of time.
+And that is not the case, because you yourself accept (*svī-√kṛ*) that after becoming a complete and perfect buddha one remains for a certain amount of time (*katipayakālāvasthāna*).
+
+% resume
 
 'But emptiness too has the nature of awareness, as does the circle.'
 If there is cessation of the awareness of the circle by the arising of awareness of emptiness, then by what is awareness of emptiness to be arrested?
 And cessation by that [awareness of emptiness]—because there is nothing opposing opposing, and because there is no cause of pervasive factor [governing it]—does not exist.
 Therefore, there is no cessation of awareness of emptiness, nor is there cessation of the *maṇḍala* circle by emptiness; hence, emptiness is not that which terminates.
 
-> Inexpressible oceans of happiness [arise for \emph{bodhisattva}s] when sentient beings are liberated. One may ask if those [oceans of happiness] alone are enough, but what would is the use of [any further] liberation that is without [such] relish?
+> Inexpressible oceans of happiness [arise for *bodhisattva*s] when sentient beings are liberated. One may ask if those [oceans of happiness] alone are enough, but what would is the use of [any further] liberation that is without [such] relish?
 
 [Accomplishing] the aims of beings is also absent in cessation.
 For there can be no purposeful activity / function (*arthakriyā*) to the sky (*gagana*) or sky lotuses (*gaganakamala*).
@@ -395,7 +399,7 @@ Just as the action for the purpose of sentient beings does not manifest from rea
 Therefore, there is no possibility of purposeful action, nor is there any purpose in causing [the *maṇḍala* circle] to cease and then producing it again.
 That is enough for this detailed discussion.
 
-## 8.7. The problem with the seventh
+## 8.7. The problem with the seventh position
 Owing to the mass (*sandoha*) of faults (*doṣa*) mentioned regarding the sixth position also applying to the seventh, I will not beat a dead horse (*piṣṭapeṣaṇa*).
 [Objection:] 'But if the seventh is equal to the sixth [in terms of its faults], [then] how is the seventh different from it?'
 There is a difference: in the state of the former, there are the forms of a certain fixed circle; later, there is its extinction based on one's will and production based on one's will. 
