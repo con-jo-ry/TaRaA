@@ -349,7 +349,7 @@ Because it has the faults (*doṣa*) stated for the third position; because, ins
 
 [Objection:] 'But there is the application (*prayoga*) of the Way of Mantra prior to directly experiencing [the goal].' [i.e., so its not lacking]
 [Response:] True. The direct result (*sākṣātphala*) [of that application] is to be accomplished (*sādhya*), and in that [state], these stages [of the Way of Mantra] are[, according to you,] not directly (*sākṣāt*) present (*√as*).
-And if [these stages] are abandoned (*parityāga*), we do perceive any purpose (*prayojana*) [in this goal and the means to it].
+And if [these stages] are abandoned (*parityāga*), we do not perceive any purpose (*prayojana*) [in this goal and the means to it].
 
 ## 8.6. The problem with the sixth position
 Because it cannot be caused to cease by one's own desire (*svecchā*); because there is no purpose [in stopping it], and because it would lack [the accomplishment of] the aims of beings, the postulation (*kalpanā*) of the type (*prabheda*) [of position] that follows the fifth [position] is not devoid of defects (*kalaṅkā*).
@@ -374,30 +374,36 @@ But it's not the case that there is ever its cessation.
 If there were, then there could be cessation before or immediately after the direct experience of true and perfect awakening.
 And that is not the case, because you yourself accept (*svī-√kṛ*) that after becoming a complete and perfect buddha one remains for a certain amount of time (*katipayakālāvasthāna*).
 
-% resume
-
-'But emptiness too has the nature of awareness, as does the circle.'
-If there is cessation of the awareness of the circle by the arising of awareness of emptiness, then by what is awareness of emptiness to be arrested?
-And cessation by that [awareness of emptiness]—because there is nothing opposing opposing, and because there is no cause of pervasive factor [governing it]—does not exist.
+'But both emptiness and the [*maṇḍala*] circle have the nature of awareness (*jñānarūpa*).'
+If there is cessation of awareness of the circle in virtue of the arising of awareness of emptiness, then by what is awareness of emptiness to be made to cease?
+And cessation by that [awareness of emptiness]—because there is nothing opposing opposing, and because there is no cause or pervasive factor [governing it]—does not exist.
 Therefore, there is no cessation of awareness of emptiness, nor is there cessation of the *maṇḍala* circle by emptiness; hence, emptiness is not that which terminates.
 
-> Inexpressible oceans of happiness [arise for *bodhisattva*s] when sentient beings are liberated. One may ask if those [oceans of happiness] alone are enough, but what would is the use of [any further] liberation that is without [such] relish?
+[Objection:] 'Who says emptiness terminates?
+Rather, the terminating factor (*nivartaka*) is to be known (*jñeya*) from the guru instructions (*gurūpadeśa*).'
+This too is off the mark (*asāra*).
+The idea that from a guru's instruction there is a terminating factor apart from (*vyatirikta*) emptiness is nonsense.
+And cessation every moment (*pratikṣaṇanivṛtti*) in the form of destruction every moment (*kṣaṇabhaṅga*) pervades all entities, and this does not terminate continua (*santāna*).
+Therefore, there is no cessation by one's desire (*svecchā*), nor is a purpose achieved (*prayojana*) by an insipid (*nīsāra*) cessation.
+And as taught:
 
-[Accomplishing] the aims of beings is also absent in cessation.
+> Inexpressible (*ye te*) oceans of happiness (*prāmodyasāgara*) [arise for *bodhisattva*s] when sentient beings are liberated. One may ask if those [oceans of happiness] alone are enough, but what would be the use of [any further] liberation (*mokṣa*) that is without [such] relish (*arasika*)?
+
+There is also no [accomplishment of] the aims of beings in cessation (*nivṛtti*).
 For there can be no purposeful activity / function (*arthakriyā*) to the sky (*gagana*) or sky lotuses (*gaganakamala*).
-It is also meaningless to say [the accomplishment of] the aims of beings comes from the circle, even though it ceased a long time ago, it belongs to the past (*atīta*), and it is a non-entity (*avasturūpa*).
-For it would absurdly there would be crows (*kaṇṭhadvani*) from a rooster (*kukkuṭa*) that has long been mute (*ciranīruta*).
+It is also meaningless to say [that the accomplishment of] the aims of beings comes from the circle, even though it ceased a long time ago (*ciraniruddha*), it belongs to the past (*atīta*), and it is a non-entity (*avasturūpa*).
+For it would absurdly follow (*prasaṅga*) that there would be crowing (*kaṇṭhadvani*) from a rooster (*kukkuṭa*) that has long been mute (*ciranīruta*).
 
-[Objection:] 'But there can be purposeful activity from the sky based on a yogins empowerment.'
-That is not possible, because [the purposeful activity] is from the yogin empowerment alone, which has the nature of mind; it is not from the sky, because that is formeless (*nīrūpa*).
+[Objection:] 'But there can be purposeful activities (*arthakriyā*) from the sky due to a *yogin*'s empowerment (*yogyadhiṣṭhāna*).'
+Those are not possible (*sam-√bhū*) [in that way], because [the purposeful activities] is from the *yogin*'s empowerment alone, which has the nature of mind; it is not from the sky, because that is formless (*nīrūpa*).
 
 [Objection:] 'After causing the *maṇḍala* circle to cease, one produces it again at the time of [needing to accomplish] the aims of beings.
 Therefore, there is purposeful action.
-After that it once again is made to cease, and one again produced.'
+After that, it is once again made to cease, and one again produced.'
 This is not correct:
-Just as the action for the purpose of sentient beings does not manifest from reality [on its own], so the [*maṇḍala*]-circle [too does not manifest from reality on its own].
-Therefore, there is no possibility of purposeful action, nor is there any purpose in causing [the *maṇḍala* circle] to cease and then producing it again.
-That is enough for this detailed discussion.
+Just as the action for the purpose of sentient beings does not manifest (*prādur-√bhū*) from reality (*tattvatas*) [on its own], so the [*maṇḍala*]-circle [too does not manifest from reality on its own].
+Therefore, there is no possibility (*sambhava*) of purposeful action, nor is there any purpose in causing [the *maṇḍala* circle] to cease and then producing it again.
+That is enough for this detailed discussion (*atiprapañca*).
 
 ## 8.7. The problem with the seventh position
 Owing to the mass (*sandoha*) of faults (*doṣa*) mentioned regarding the sixth position also applying to the seventh, I will not beat a dead horse (*piṣṭapeṣaṇa*).
