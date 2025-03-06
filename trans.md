@@ -313,7 +313,7 @@ Therefore, because there is no desire (*ruci*) for the isolated (*kevala*), beca
 Because it is impossible to abandon (√*tyaj*) something that has become integrated into [another thing's] essence (*sātmībhūta*), given that it possesses the nature of an irrefutable reality (*nirupadravabhūtārtha*); and because that whose nature is intermixed (*saṃvalita*) lacks division; and because there is no purpose [for abandoning part of such a thing], the third position is not good.
 To explain: when [two things] are established to be identical (*tādātmyasiddhi*) because they are [always] perceived together (*sahopalabha*), if one is cast aside (*parityāga*), the other one too will certainly (*avaśya*) be cast aside—otherwise, neither is.
 
-## 8.2. Evaluating the fourth position
+## 8.4. Evaluating the fourth position
 Because, owing to its manifoldness (*prapañca*), it involves a lot of effort (*bahuprayāsa*); and because, owing to its inability to withstand analysis (*vicārāsaha*), it has the nature of error (*bhrāntirūpa*) and not that of ultimate reality (*paramārtha*), the position following the third (*tṛtīyāntapakṣa*) is not good (*kalyāṇa*).
 About this some people (*kecit*) describe (√*varṇ*) [the aforementioned] reasoning (*yukti*) [as follows]:
 Even in the absence of being manifold in nature (*prapañcarūpa*), until through repeated meditation on the subtle (*sūkṣma*) (namely, the drops and so forth) there is direct experience (*sākṣātkaraṇa*) [of the goal], effort applied (*prayāsa*) to the objects of meditation (*bhāvyavastu*) is everywhere (*sarvatraiva*) present (*sam-√bhū*).
@@ -321,16 +321,16 @@ So, if here one is afraid of effort (*prayāsabhaya*), then nothing whatsoever s
 
 [Objection:] '[The fourth goal is invalid] because it involves manifoldness (*prapañcarūpa*).'
 [Response:] During the meditative state (*bhāvanāvasthā*), what is the difference between the manifold (*prapañca*) and the non-manifold (*aprapañca*)?
-[Objection:] 'The difference is that the non-manifold (*aprapañca*) more quickly (*śīghra*) becomes stable (*sthira*).'
+[Objection:] 'The difference is that the non-manifold (*aprapañca*) very quickly (*śīghra*) becomes stable (*sthira*).'
 The mind (*citta*) becomes stable (*sthira*) with respect to precisely whichever object (*ālambana*) it is continuously (*nirantara*) and for a long time (*dīrghakāla*) repeatedly (*punar punaḥ*) directed on (*pra-√īr*). 
-About this there is reasoning (*yukti*) and scriptural (*āgama*).
+About this there is scripture (*āgama*) and reasoning (*yukti*).
 As it is taught:
 
 > Precisely whatever is meditated on (*abhi-√bhū*), whether real or not, will have as its result a clear (*sphuṭa*), non-conceptual (*akalpa*) cognition (*dhī*) when meditation becomes powerful (*bhāvanābalaniṣpatti*). 
 
 Also:
 
-> Oh the laziness (*kusīdatva*)! Oh the foolishness (*vimūḍhatā*)! Oh these people's distortion (*vakratā*) of true meaning (*sadartha*)! For (*yat*), that Buddhahood, which is tied (*pratibaddha*) to their own mere minds (*svacittamātra*), is not served/pursued (*√sev*), though it resides so near (*adūravartin*).
+> Oh the laziness (*kusīdatva*)! Oh the foolishness (*vimūḍhatā*)! Oh these people's distortion (*vakratā*) of true meaning (*sadartha*)! For (*yat*), that Buddhahood, which is tied (*pratibaddha*) to their own mere minds (*svacittamātra*), is not pursued/resorted to (*√sev*), though it resides so near (*adūravartin*).
 
 Therefore, this is not the difference.
 \[And the criticism that the goal is invalid because it is manifold is not supported].
@@ -339,10 +339,11 @@ Also, ultimate unreality (*aparamārthatva*) by virtue of having an erroneous na
 And therefore, meditation (*bhāvanā*) on the path to liberation (*mokṣamārga*) would be useless in every case.
 You may say: 'By engaging [in meditation] in accordance with forms being illusory, [whatever is] meditated on (*bhāvyamāna*), being [thus] non-manifold (*aprapañca*), is without fault (*aduṣṭa*), even though it erroneous (*bhrāntirūpa*).
 But this engaging [in meditation] in accordance with forms being illusions is the same (*samāna*) for the manifold (*prapañca*).
+So what chance (*avakāśa*) is there for a problem.
 Therefore, whether manifold or non-manifold, whatever appeals (*√ruc*) to one—whether it is consistent (*saṃgata*) with valid means of knowledge or not—that alone should be meditated upon by those who seek Mahāmudrā by abandoning all idleness (*alasya*).
 Enough digression!
 
-But regarding [this position], discerning whether it is valuable or not is to be known only by those who worship a guru (*paryupāsitaguru*).
+But regarding [this position], discerning whether it is valuable or not is to be known only by those who have served guru (*paryupāsitaguru*).
 
 ## 8.5. The problem with the fifth position
 Because it has the faults (*doṣa*) stated for the third position; because, insofar as it is insipid (*nīrasa*), it lacks purpose (*prayojana*); and because it lacks the stages (*krama*) of the Way of Mantra, the fifth [position] is not without faults (*parikṣīṇadoṣa*).
@@ -352,7 +353,7 @@ Because it has the faults (*doṣa*) stated for the third position; because, ins
 And if [these stages] are abandoned (*parityāga*), we do not perceive any purpose (*prayojana*) [in this goal and the means to it].
 
 ## 8.6. The problem with the sixth position
-Because it cannot be caused to cease by one's own desire (*svecchā*); because there is no purpose [in stopping it], and because it would lack [the accomplishment of] the aims of beings, the postulation (*kalpanā*) of the type (*prabheda*) [of position] that follows the fifth [position] is not devoid of defects (*kalaṅkā*).
+Because it cannot be caused to cease by one's own desire (*svecchā*); because there is no purpose [in stopping it], and because it would lack [the accomplishment of] the aims of beings, the postulation (*kalpanā*) of the type (*prabheda*) [of position] that follows the fifth [position] is not devoid of defects (*kalaṅka*).
 To explain: the cessation (*nivṛtti*) of something occurs either through the cessation (*nivṛtti*) of its cause (*kāraṇa*) or the cessation of a pervading factor (*vyāpaka*).
 And in this case (*atra*), no terminating (*nivartaka*) cause or pervading factor of the directly experienced *maṇḍala* circle is observed (*√dṛś*) at the time of the desire (*icchā*).
 
