@@ -215,7 +215,7 @@ Otherwise (*anyathā*), he wouldn't have said 'that again' (*tat punar*).
 This is completely incoherent (*atyantāsaṃgata*).
 For, the fourth, which is established by reliable means of knowledge (*pramāṇasiddha*), has been taught and is about to be taught.
 
-## 7.5 Investigation of the target
+## 7.5 Investigation of the marker
 Regarding this, the marker, the *prajñājñāna*, is of course known (*pratīta*) by all.
 On the other hand (*para*), there is confusion (*vyāmoha*) about the marked. 
 [Therefore,] it is analysed (√*vi-car*) [here].
@@ -239,7 +239,7 @@ And when there is the cessation (*nivṛtti*) of error, [consciousness that] lik
 Therefore, the pair of options (*vikalpadvaya*) are dispelled (*nirasta*) that consciousness with forms exists which is either (a) variegated non-dual in nature or (b) manifold in nature.
 
 ## 7.5.2. Establishing consciousness that is formless
-[Objection:] 'Consciousness (*vijñāna*) without forms (*nirākara*) too is not even observed in dreams (*svapna*) to meet the conditions for perception (*upalabdhilakṣaṇaprāpta*).
+[Objection:] 'Consciousness (*vijñāna*) without forms (*nirākara*) too, which should meet the conditions for perception (*upalabdhilakṣaṇaprāpta*), is not even observed in dreams (*svapna*).
 So how can you say that it exists ultimately?'
 The response is as follows:
 Consciousness with the form of pleasure (*sukhākāra*) is indeed experienced being without forms, its nature bursting forth/manifesting (*parisphurat*) internally (*antar*).
@@ -358,7 +358,7 @@ To explain: the cessation (*nivṛtti*) of something occurs either through the c
 And in this case (*atra*), no terminating (*nivartaka*) cause or pervading factor of the directly experienced *maṇḍala* circle is observed (*√dṛś*) at the time of the desire (*icchā*).
 
 [Objection:] 'But there is of course (*eva*) emptiness, which terminates (*nivartika*).
-Just as fire (*vahni*) ablaze (*prajvalita*) in a mass of firewood (*dārusaṅghāta*) reduces all of its fuel to ashes and later ceases (*ni-√vṛt*) of its own accord (*svarasatas*), so the fire of the emptiness knowledge ablaze in the *maṇḍala* circle, after making it visible, causes the *maṇḍala* circle to cease.'
+Just as fire (*vahni*) ablaze (*prajvalita*) in a mass of firewood (*dārusaṅghāta*) reduces all of its fuel to ashes and later ceases (*ni-√vṛt*) of its own accord (*svarasatas*), so the fire of emptiness knowledge ablaze in the *maṇḍala* circle, after making it visible, causes the *maṇḍala* circle to cease.'
 [Response:] That is incorrect because the example (*dṛṣṭānta*) is incongruous (*viṣama*).
 To explain: in (*tatra*) [the example], fuel (*indhana*) is the cause for fire.
 When the cause—namely, fuel—ceases, the cessation of the effect (*kārya*)—namely, fire—is only fitting (*yukta*).
@@ -377,7 +377,7 @@ And that is not the case, because you yourself accept (*svī-√kṛ*) that afte
 
 'But both emptiness and the [*maṇḍala*] circle have the nature of awareness (*jñānarūpa*).'
 If there is cessation of awareness of the circle in virtue of the arising of awareness of emptiness, then by what is awareness of emptiness to be made to cease?
-And cessation by that [awareness of emptiness]—because there is nothing opposing opposing, and because there is no cause or pervasive factor [governing it]—does not exist.
+And cessation by that [awareness of emptiness]—because there is nothing opposing it, and because there is no cause or pervasive factor [governing it]—does not exist.
 Therefore, there is no cessation of awareness of emptiness, nor is there cessation of the *maṇḍala* circle by emptiness; hence, emptiness is not that which terminates.
 
 [Objection:] 'Who says emptiness terminates?
@@ -395,7 +395,7 @@ For there can be no purposeful activity / function (*arthakriyā*) to the sky (*
 It is also meaningless to say [that the accomplishment of] the aims of beings comes from the circle, even though it ceased a long time ago (*ciraniruddha*), it belongs to the past (*atīta*), and it is a non-entity (*avasturūpa*).
 For it would absurdly follow (*prasaṅga*) that there would be crowing (*kaṇṭhadvani*) from a rooster (*kukkuṭa*) that has long been mute (*ciranīruta*).
 
-[Objection:] 'But there can be purposeful activities (*arthakriyā*) from the sky due to a *yogin*'s empowerment (*yogyadhiṣṭhāna*).'
+[Objection:] 'But there can be purposeful activities (*arthakriyā*) even from the sky due to a *yogin*'s empowerment (*yogyadhiṣṭhāna*).'
 Those are not possible (*sam-√bhū*) [in that way], because [the purposeful activities] is from the *yogin*'s empowerment alone, which has the nature of mind; it is not from the sky, because that is formless (*nīrūpa*).
 
 [Objection:] 'After causing the *maṇḍala* circle to cease, one produces it again at the time of [needing to accomplish] the aims of beings.
@@ -418,25 +418,25 @@ Therefore, [the positions] are not the same, and [the seventh] is taught as some
 
 > [Tantric meaning version 1:] The crop (*sasya*) that is the fourth (*turīya*) reaches fruition (*paripāka*), its flourishing (*puṣṭi*) arising (*bhūta*) from a sprout (*aṅgkura*) arising in (*bhūta*) the pure (*śuddha*) lotus (*pāthoja*) [of the consort] that is washed (*dhauta*) by the stream (*sruti*) of the seed (*bīja*) of the vajra ...
 
-> [Tantric meaning version 2:] The crop (*sasya*) that is the fourth (*turīya*) reaches fruition (*paripāka*), purified (*śuddha*) by washing (*dhauta*) with a stream (*sruti*) of the vajra's seed, its development (*puṣṭi*) born (*bhūta*) from a sprout (*aṅgkura*) arising (*bhūta*) in the lotus (*pāthoja*) ...
+> [Tantric meaning version 2:] The crop (*sasya*) that is the fourth (*turīya*) reaches fruition (*paripāka*), purified (*śuddha*) by washing (*dhauta*) with a stream (*sruti*) of the vajra's seed and its development (*puṣṭi*) born (*bhūta*) from a sprout (*aṅgkura*) arising (*bhūta*) in the lotus (*pāthoja*) ...
 
 > The vivid (*sphuṭa*) fourth is hidden (*gūḍha*) to even the learned (*viduṣ*).
 
 '... the vajra' and so forth:
-This is to be known (*jñeya*) from the instructions (*upadeśa*) of a genuine teacher (*sadguru*).
+This is to be known (*jñeya*) from the instructions (*upadeśa*) of a authentic teacher (*sadguru*).
 
 # 10. Other false goals and realities
 > One should deduce (*√ūh*) by oneself that these are not of the nature of reality: the five 'lamps' (*pañcapradīpa*), [the five] nectars (*amṛta*), the drop (*bindu*), and the moon (*candra*); the *maṇḍala*s arising from a drop between the eyebrows (*bhrū*);
 
 'The five "lamps" and so forth':
-Some hold (*√man*) the goal (*sādhya*) to be none other than the constant performance (*satatānuṣṭhāna*) [of partaking in of substances] marked by (*lakṣaṇa*) [the letters] *go ku da ha na*, as indicated by the word 'the five lamps', and marked by (*lakṣaṇa*) [the letters] *vi mu mā ra śu*, as indicated by the word 'nectars'.
-'The drop' (*bindu*) indicates that some meditate (*bhū*) on the drop situated on the moon in the heart (*hṛccandrastha*) that shines brightly (*dedīpyamāna*) on the basis of its being (*'iti kṛtvā'*) both reality and the goal.
+Some hold (*√man*) the goal (*sādhya*) to be none other than the constant performance (*satatānuṣṭhāna*) [of partaking in substances] marked by (*lakṣaṇa*) [the letters] *go ku da ha na*, as indicated by the word 'the five lamps', and marked by (*lakṣaṇa*) [the letters] *vi mu mā ra śu*, as indicated by the word 'nectars'.
+'The drop' (*bindu*) indicates that some meditate (*bhū*), assuming it to be the goal and reality, on a drop situated on a moon in the heart (*hṛccandrastha*) that shines brightly (*dedīpyamāna*).
 'The moon' (*candra*) indicates that some meditate on (*bhū*) a form of a portion of the moon (*kalārūpa*) or a half moon (*ardhacandra*) in the heart (*hṛdistha*) situated on the heart's lotus (*hṛtkamalastha*).
 
 'The *maṇḍala*s arising from a drop between the eyebrows' are the *maṇḍala*s—namely, wind, water, earth, and fire—which arise from a drop that one has meditated on 'between the eyebrows', i.e. at the glabella (*ūrṇā*).
 It amounts to saying the following: after closing (*pi-√dhā*) the mouth, ears, eyes, nose, and tongue with one's fingers (*aṅgulī*), one should visualise a drop between the eyebrows.
 When that [drop] reaches a vivid state (*sphuṭāvasthā*), the *maṇḍala*s of the earth and so forth will arise as indicators (*saṃsūcaka*) of good or bad signs (*nimitta*).
-And [some] hold this drop to be reality.
+And [some] believe that this drop is reality.
 
 'The nature (*svarūpa*) of wind (*vāyu*)' indicates the nature [of wind] characterised by filling (*pūraka*), holding (*kumbhaka*), releasing (*recaka*), and resting (*praśāntaka*), as well as inhalation and exhalation (*ānāpāna*).
 This amounts to saying the following: after coming to know the nature of wind (*vāyusvarūpa*) as taught (*nirdiṣṭa*) by the Śaivas, Sāṃkhyas and so forth, the proponents of wind (*vāyuvādin*) stabilise (*sthirī-√kṛ*) that wind through cultivating (*bhāvanā*) its arrest (*nirodha*).
@@ -444,7 +444,7 @@ They then realise (*sākṣāt* + *√kṛ*) travel (*gamana*) by flying in the 
 
 Regarding 'uvula (*galaśuṇḍikā*)' and so forth:
 In the region of the throat (*galapradeśa*), above the base of the tongue (*jihvāmūla*), there is the uvula (*galaśuṇḍikā*), also called the secondary tongue (*upajihvā*), in the shape of an elephant's trunk (*hastiśuṇḍika*) and hanging upside down (*adhaḥpralambamāna*).
-And that has the nature of Śakti, with there being below it the reality that has the nature of Śiva.
+And that has the nature of Śakti, below it there being the reality that has the nature of Śiva.
 And when it is touched (*spṛśyamāna*) by the tip of tongue (*jihvāgra*), it drips (*sru*) continuous nectar (*nirantarāmṛta*).
 And with this shower (*varṣaṇa*) of gurgling nectar (*ghargharāmṛta*) one should focus on (*√dhyai*) the self (*ātman*) being satiated (*santarpyamāna*).
 This is the reality of the uvula (*galaśuṇḍikātattva*).
@@ -453,20 +453,27 @@ The word 'and so on' (*ādiśabda*) refers to, for example, the Śiva-nature (*�
 All of this, regarded (*abhimata*) by the non-Buddhist philosophers (*tīrthika*) as having the nature of reality, is not reality (*atattva*)—this one should deduce (*ūhanīya*) on one's own, which comes down to saying that one should carefully come to this conclusion (*vicāraṇīya*).
 
 # 11. Conclusion
-> [Indicated] by the words expressing similes—dream, magical illusion, reflection; mirage, *gandharva* city, water-moon; and others—no [separate] goal exist at all other than what has here been taught. (19)
+> [Indicated] by the words expressing similes—dream, magical illusion, reflection; mirage, *gandharva* city, water-moon; and others—no [separate] goal exists at all other than what has here been taught. (19)
 
-Regarding 'Dream' and so forth:
-With the words 'like a dream, magical illusion, and reflection' and 'like a mirage, gandharva city, and water-moon'; also by other words, such as 'like the sky, like an echo, and like a bubble'—[indicated] by these direct expressions of similies (*upamābhidheya* = *upamavācaka*), no goal (*sādhya*) at all exists apart from the goals that have been taught [here].
+Regarding '... dream' and so forth:
+With the words 'like a dream, magical illusion, reflection' and 'like a mirage, *gandharva* city, and water-moon'; also by other words, such as 'like the sky, like an echo, and like a bubble'—[indicated] by these direct expressions of similes (*upamābhidheya* = *upamavācaka*), no goal (*sādhya*) at all exists apart from the goals that have been taught [here].
 Rather, it is to precisely the goals taught here that these words apply—this one should understand on one's own.
 
-# 12. Dedication
-> With the merit (*puṇya*) I acquired, pervading (*vyāpin*) the essence of all of space (*akhilagaganagarbha*), from the form of these words arranged according to seven types [of goals], may the common people (*loka*) being about benefit for the world (*janitajinārtha*) [like -- or in accord with?] the Buddha (*jina*) who emenates (*nirmit* ?) a beautiful body that embraces his consort of incomparable bliss / is attached to knowledge of incomparable bliss (*anupamasukhavidyāsaktasaddeha*).
+> No error should be made about the existence of of another goal with the words 'profoundly empty' (*gambhīraśūnya*), 'mere appearance', 'tranquil', 'subtle', and 'expressible'; or 'unsmeared', 'formless', 'unstained', and so on.
 
-> Beholding the Jewel of Reality is complete. This composition is by the scholar Vāgīśvarakīrti.
+With the words such as 'profoundly empty' (*gambhīraśūnya*), 'mere appearance' (*pratibhāsamātra*), 'tranquil' (*śānta*), 'extremely subtle' (*atisūkṣma*), and 'inexpressible' (*anabhilāpya*), 'unsmeared' (*nirlepa*), 'formless' (*nīrūpa*), 'unstained' (*nirañjana*) and so on—'and so on' includes 'auspicious' (*śiva*), 'without mental forms' (*nirākāra*), 'without proliferation' (*niṣprapañca*), 'without beginning and end' (anādyanidhanaṃ*)—one should not be confused about the existence (*sattva* = *sattā*) of another goal.
+Because of precisely these words one should not make the error that some other goal also exists apart from that has been taught.
+Rather (*athavā*), [one should be] certain that all of these [words] do not express a goal that is more than what was taught (*atikathita*).
+
+
+# 12. Dedication
+> With the merit (*puṇya*) I acquired, pervading (*vyāpin*) the essence of all of space (*akhilagaganagarbha*), from the form of these words arranged according to seven types [of goals], may the common people (*loka*) being about benefit for the world (*janitajinārtha*) [like -- or in accord with?] the Buddha (*jina*) who emanates (*nirmit* ?) a beautiful body that embraces his consort of incomparable bliss / is attached to knowledge of incomparable bliss (*anupamasukhavidyāsaktasaddeha*).
+
+> \emph{Beholding the Jewel of Reality} is complete. This composition is by the scholar Vāgīśvarakīrti.
 
 This composition by Vāgīśvara—[Vāgīśvara] who has supreme faith (*bhakti*) and stainless devotion (niṣṭhā) for the glorious Guhyasamāja—brings to destruction mistaken views. 
 
-And also (*api ca*) by this merit that I have accumulated (*paricita*) from this composition (*grathita*), [merit] which resembles (*anukārin*) white water lilies (*kumuda*) in bloom (*vicaka*), stars (*tārā*), milk (*kṣīra*), and jasmine (*kunda*), may the entire world (*nikhilaloka*) becomes ones whose splendour is mastery over speech (*vāgīśvaraśrī*), filled with incomparable bliss, embraced by personal consorts.
+And also (*api ca*) by this merit that I have accumulated (*paricita*) from this composition (*granthita*)—[merit] which resembles (*anukārin*) white water lilies (*kumuda*) in bloom (*vicaka*), stars (*tārā*), milk (*kṣīra*), and jasmine (*kunda*)—may the entire sentient world (*nikhilaloka*) becomes one whose splendour is mastery over speech (*vāgīśvaraśrī*), filled with incomparable bliss, embraced by personal consorts.
 
-The commentary on 'Beholding the Jewel of Reality' is complete.
+The commentary on \emph{Beholding the Jewel of Reality} is complete.
 This is a composition by the scholar and master Vāgīśvarakīrtipāda.
